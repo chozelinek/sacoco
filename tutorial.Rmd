@@ -8,6 +8,7 @@ output:
     highlight: kate
     keep_md: yes
     number_sections: yes
+    self_contained: no
     theme: cerulean
     toc: yes
 ---
