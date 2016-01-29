@@ -9,7 +9,11 @@ This tutorial will show you step-by-step how to use the CLARIN-D infrastructure 
 In order to reproduce succesfully this showcase, you will need to satisfy the following requirements:
 
 - a UNIX OS
-- Python 3
+- Python 3, and some packages (`pip3 install requirements.txt`)
+    - lxml
+    - pandas
+    - regex
+    - requests
 - R
 - internet connection
 
@@ -143,10 +147,10 @@ To run the script you need to run the following commands from the terminal:
 
 ```bash
 # run the script
-python wikiextractor.py -i data/source/wiki-rezeptewikiorg/rezeptewikiorg-20140325-history.xml -x data/contemporary/tei - data/metadata
+python3 wikiextractor.py -i data/source/wiki-rezeptewikiorg/rezeptewikiorg-20140325-history.xml -x data/contemporary/tei - data/metadata
 ```
 
-> TIP: for development/testing purposes, if you just run `python wikiextractor.py`, it will work on the testing dataset stored in the `test` folder.
+> TIP: for development/testing purposes, if you just run `python3 wikiextractor.py`, it will work on the testing dataset stored in the `test` folder.
 
 This is one of the TEI files `wiki_188908.xml`:
 
@@ -321,17 +325,17 @@ The script does the following:
 To run the script you need to invoke the following commands from the terminal
 
 ```bash
-python weblichtwrapper.py -i data/contemporary/tei -c utils/chain_contemporary.xml -o data/contemporary/vrt
+python3 weblichtwrapper.py -i data/contemporary/tei -c utils/chain_contemporary.xml -o data/contemporary/vrt
 ```
 
 Then, you will be prompted to provide your API key.
 
-> TIP: for development/testing purposes, if you just run `python weblichtwrapper.py -c chain_contemporary`, it will work on the testing dataset stored in the `test` folder.
+> TIP: for development/testing purposes, if you just run `python3 weblichtwrapper.py -c chain_contemporary`, it will work on the testing dataset stored in the `test` folder.
 
 You can get more information on the parameters this script takes by running:
 
 ```bash
-python weblichtwrapper.py -h
+python3 weblichtwrapper.py -h
 ```
 
 The output is a VRT file (one token per line and positional attributes separated by a tabulation).
@@ -389,7 +393,7 @@ servieren	VVINF	servieren
 The procedure is exactly the same, the only differences are: the location of the input files, and the chain to be used.
 
 ```bash
-python weblichtwrapper.py -i ../data/source/xml/ -c chain_historical_deu.xml
+python3 weblichtwrapper.py -i ../data/source/xml/ -c chain_historical_deu.xml
 ```
 
 ## Corpus encoding for CQPweb
@@ -414,7 +418,7 @@ To add the metadata as structural attributes we need:
 We use `addmetadata.py` Python script by running the following command:
 
 ```bash
-python addmetadata.py -i data/contemporary/vrt -m data/metadata/sacoco-metadata.csv -o data/contemporary/meta
+python3 addmetadata.py -i data/contemporary/vrt -m data/metadata/sacoco-metadata.csv -o data/contemporary/meta
 ```
 
 The script does the following:
