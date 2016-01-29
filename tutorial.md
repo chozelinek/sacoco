@@ -9,7 +9,7 @@ This tutorial will show you step-by-step how to use the CLARIN-D infrastructure 
 In order to reproduce succesfully this showcase, you will need to satisfy the following requirements:
 
 - a UNIX OS
-- Python 3, and some packages (`pip3 install requirements.txt`)
+- Python 3, and some packages (`pip3 install -r requirements.txt`)
     - lxml
     - pandas
     - regex
@@ -189,7 +189,6 @@ This is one of the TEI files `wiki_188908.xml`:
           <head>Räucherfischmousse</head>
           <p>Das Saiblingsfilet entgräten und in grobe Stücke schneiden. Den Fischfond in einem Topf aufkochen. Die Speisestärke in wenig Wasser glatt rühren, den Fond damit abbinden und auskühlen lassen. Dann die Flüssigkeit mit den Räucherfischstücken in den Mixaufsatz der Küchenmaschine füllen und pürieren "(Falls kein Mixaufsatz oder Küchenmaschine vorhanden einen Zauberstab verwenden)". Die Gelatine in kaltem Wasser einweichen. Einen Topf mit zwei EL Wasser erwärmen und die gut ausgedrückte Gelatine darin auflösen. Während dessen die Schlagsahne halb fest aufschlagen. Die Fischmasse in eine Schüssel füllen und mit der Gelatine sowie etwa der Hälfte des Schlagobers gut vermengen. Dann die restliche Schlagsahne locker unterheben. Das Räucherfischmousse mit Salz sowie Pfeffer abschmecken. Die fertige Fischfüllung mit Klarsichtfolie abdecken und für mindestens 1/2 Stunde im Kühlschrank kalt stellen.</p>
         </div>
-        ...
       </div>
     </body>
   </text>
@@ -370,7 +369,6 @@ fein	ADJD	fein
 reiben	VVINF	reiben
 .	$.	.
 </s>
-...
 <s>
 Mit	APPR	mit
 Sonnenblumenkernen	NN	Sonnenblumenkern
@@ -442,7 +440,6 @@ fein	ADJD	fein
 hacken	VVINF	hacken
 .	$.	.
 </s>
-...
 </p>
 </text>
 ```
