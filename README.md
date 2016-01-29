@@ -3,7 +3,7 @@
 
 ![sacoco logo](img/sacoco-logo.png "Saarbrücken Cookbook Corpus' logo")
 
-This is the repository for the tutorial [Saarbrücken Cookbook Corpus: a recipe for a diachronic study *à la CLARIN-D*](tutorial.Rmd).
+This is the repository for the tutorial [Saarbrücken Cookbook Corpus: a recipe for a diachronic study *à la CLARIN-D*](tutorial.md).
 
 This **tutorial** will show you step-by-step how to use the **CLARIN-D infrastructure** to **compile** a diachronic corpus of German cooking recipes (the [**Sa**arbrücken **Co**okbook **Co**rpus](http://hdl.handle.net/11858/00-246C-0000-001F-7C43-1)). Afterwards, you will learn how to **exploit** this resource to discover how the conative function has evolved in this register during the last centuries.
 
