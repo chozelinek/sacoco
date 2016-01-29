@@ -1,8 +1,7 @@
 ---
-title: "Saarbrücken Cookbook Corpus: a recipe for a diachronic study *à la CLARIN-D*"
+title: 'Saarbrücken Cookbook Corpus: a recipe for a diachronic study *à la CLARIN-D*'
 author: "Universität des Saarlandes"
-date: '29 January 2016'
-bibliography: /Users/jmmmac/Dropbox/BIBLIOGRAPHY/BibTeX/SaCoCo.bib
+date: "29 January 2016"
 output:
   html_document:
     highlight: kate
@@ -11,9 +10,10 @@ output:
     self_contained: no
     theme: cerulean
     toc: yes
+bibliography: tutorial_files/SaCoCo.bib
 ---
 
-[![sacoco logo](img/sacoco-logo.png "Saarbrücken Cookbook Corpus' logo")](http://hdl.handle.net/11858/00-246C-0000-001F-7C43-1)
+[![sacoco logo](tutorial_files/img/sacoco-logo.png "Saarbrücken Cookbook Corpus' logo")](http://hdl.handle.net/11858/00-246C-0000-001F-7C43-1)
 
 This tutorial will show you step-by-step how to use the CLARIN-D infrastructure to compile a diachronic corpus of German cooking recipes. Afterwards, you will learn how to exploit this resource to discover how the conative function has evolved in this genre during the last centuries.
 
