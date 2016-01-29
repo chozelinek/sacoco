@@ -1,6 +1,6 @@
 # Saarbrücken Cookbook Corpus: a recipe for a diachronic study *à la CLARIN-D*
-José Manuel Martínez Martínez  
-`r format(Sys.Date(), "%d %B %Y")`  
+Universität des Saarlandes  
+29 January 2016  
 
 [![sacoco logo](img/sacoco-logo.png "Saarbrücken Cookbook Corpus' logo")](http://hdl.handle.net/11858/00-246C-0000-001F-7C43-1)
 
@@ -30,7 +30,7 @@ We have two different sources of data:
 - contemporary
 - historical
 
-**Historical** recipes were transcribed and digitised manually by Andrea Wurm. <!-- instert here a picture. --> Moreover, we completed this dataset with some transcriptions done by Glonning et al. <!-- check the licenses --> In parallel, we obtained a set of **contemporary** recipes from a wiki site devoted to cooking recipes --`rezeptewiki.org`, today [kochwiki.org](http://www.kochwiki.org/wiki/Hauptseite). Luckily, a XML dump of this site is available at the [Internet Archive](https://archive.org/download/wiki-rezeptewikiorg).
+**Historical** recipes were transcribed and digitised manually by Andrea Wurm. Moreover, we completed this dataset with some transcriptions done by Glonning et al. In parallel, we obtained a set of **contemporary** recipes from a wiki site devoted to cooking recipes --`rezeptewiki.org`, today [kochwiki.org](http://www.kochwiki.org/wiki/Hauptseite). Luckily, a XML dump of this site is available at the [Internet Archive](https://archive.org/download/wiki-rezeptewikiorg).
 
 Due to the different nature of our historical and contemporary datasets. The corpus compilation methodology althoug following a similar outline is slightly different.
 
