@@ -393,7 +393,7 @@ servieren	VVINF	servieren
 The procedure is exactly the same, the only differences are: the location of the input files, and the chain to be used.
 
 ```bash
-python3 weblichtwrapper.py -i ../data/source/xml/ -c chain_historical_deu.xml
+python weblichtwrapper.py -i ../data/source/xml/ -c chain_historical_deu.xml
 ```
 
 ## Corpus encoding for CQPweb
