@@ -9,6 +9,7 @@ import fnmatch
 from lxml import etree, objectify
 import datetime
 import pandas as pd
+import sys
 #===============================================================================
 # Function to time functions
 #===============================================================================
@@ -120,7 +121,16 @@ class WikiExtractor(object):
         self.main() # function running in the background
         
     def __str__(self):
-        message = ["Guten Appetit!"]
+        if self.success > 0:
+            message = [
+                       "{} recipes out of {} processed!".format(str(self.success),str(self.total)),
+                       "Guten Appetit!"
+                       ]
+        else:
+            message = [
+                       "{} recipes out of {} processed!".format(str(self.success),str(self.total)),
+                       "Ups! Maybe something went wrong!"
+                       ]
         return " ".join(message)
     
     # Function to get all files in a directory
@@ -330,7 +340,7 @@ class WikiExtractor(object):
     
     def add_text_id(self,tei,revision_id):
         """Add the id attribute to the text element of a TDABf."""
-        text_id = '_'.join(['wiki',revision_id])
+        text_id = 'wiki'+revision_id
         text = tei.xpath('//x:text', namespaces = {'x':self.tei})[0]
         text.set('{}id'.format('{'+self.xml+'}'),text_id)
         pass
@@ -406,7 +416,7 @@ class WikiExtractor(object):
         teiasstring = re.sub(r'><',r'>\n<',teiasstring)
         parser = etree.XMLParser(remove_blank_text=True)
         otei = etree.ElementTree(etree.XML(teiasstring,parser))
-        obasename = '_'.join(['wiki',revision_id])
+        obasename = 'wiki'+revision_id
         otei.write(os.path.join(self.xmldir,obasename+'.xml'),encoding='utf-8',pretty_print=True,xml_declaration=True)
         return(otei)
         pass
@@ -421,20 +431,27 @@ class WikiExtractor(object):
         objectify.deannotate(tei, cleanup_namespaces=True)
         etree.strip_attributes(tei, '{}id'.format('{'+self.xml+'}'))
         content = tei.xpath('./text/body/div')[0]
-        text = etree.Element('text', id = 'wiki_'+revision_id)
+        text = etree.Element('text', id = 'wiki'+revision_id)
         text.append(content)
-        outpath = os.path.join(self.xmldir,'wiki_'+revision_id+'.xml')
+        outpath = os.path.join(self.xmldir,'wiki'+revision_id+'.xml')
         tree = etree.ElementTree(text)
         tree.write(outpath, encoding = 'utf-8', pretty_print=True, xml_declaration=True)
         pass
     
     def add_metadata(self,revision_id,title,authors,ingredients,tools,methods,year,categories):
         """Add metadata instances to a data structure."""
-        authors = '|'.join(authors)
-        ingredients = '|'.join(ingredients)
-        tools = '|'.join(tools)
-        methods = '|'.join(methods)
-        categories = '|'.join(categories)
+        def formatasfeature(values):
+            if len(values) == 0:
+                output = "|"
+            else:
+                output = "|{}|".format('|'.join(values))
+            return output
+         
+        authors = formatasfeature(authors)
+        ingredients = formatasfeature(ingredients)
+        tools = formatasfeature(tools)
+        methods = formatasfeature(methods)
+        categories = formatasfeature(categories)
         source = 'wiki'
         collection = 'contemporary'
         decade = str((int(year)//10)*10)
@@ -447,7 +464,7 @@ class WikiExtractor(object):
                 p2 = '50'
             return p1+p2
         period = get_period(year)
-        self.metadata['wiki_'+revision_id] = {
+        self.metadata['wiki'+revision_id] = {
                                               'title':title,
                                               'year':year,
                                               'decade':decade,
@@ -474,7 +491,7 @@ class WikiExtractor(object):
         return(page_id,revision_id,title,authors,ingredients,tools,methods,preparation)
     
     def create_metadata(self):
-        outpath = os.path.join(self.metadir,'wiki-metadata-textid.csv')
+        outpath = os.path.join(self.metadir,'contemporary-metadata.csv')
         df = pd.DataFrame(self.metadata).transpose()
         df.to_csv(outpath, sep = '\t')
         pass
@@ -483,6 +500,8 @@ class WikiExtractor(object):
         # open wikidump file
         inxml = self.read_xml(self.infile)
         all_pages = [x.getparent() for x in inxml.xpath('//x:ns[text()="0"]', namespaces = {'x':self.ns})]
+        self.total = len(all_pages)
+        self.success = 0
         for page in all_pages:
             if self.isgermancuisine.search(etree.tostring(page, encoding='utf-8').decode()):
                 categories = set(self.isgermancuisine.findall(etree.tostring(page, encoding='utf-8').decode()))
@@ -495,6 +514,7 @@ class WikiExtractor(object):
                     tei = self.create_tei(title,revision_id,authors,preparation)
 #                     xml = self.create_xml(tei,revision_id)
                     self.add_metadata(revision_id,title,authors,ingredients,tools,methods,year,categories)
+                    self.success += 1 
         # save metadata
         self.create_metadata()
         pass
@@ -502,13 +522,28 @@ class WikiExtractor(object):
     def cli(self):
         """CLI parses command-line arguments"""
         parser = argparse.ArgumentParser()
-        parser.add_argument("-i","--input", default='test/contemporary/source/rezeptewikiorg-20140325-history.xml', help="path to the input file.")
-        parser.add_argument("-x","--xml", default='test/contemporary/tei', help="output directory for TEI/XML files.")
-        parser.add_argument("-m","--meta", default='test/metadata', help="output directory for the metadata file.")
+        parser.add_argument("-i","--input", help="path to the input file.")
+        parser.add_argument("-x","--xml", help="output directory for TEI/XML files.")
+        parser.add_argument("-m","--meta", help="output directory for the metadata file.")
         args = parser.parse_args()
-        self.infile = args.input
-        self.xmldir = args.xml
-        self.metadir = args.meta
+        noneargs = [x for x in args.__dict__.values()].count(None)
+        if noneargs == 3:
+            print("Running in test mode!")
+            self.infile ='test/contemporary/source/rezeptewikiorg-20140325-history.xml'
+            self.xmldir ='test/contemporary/tei'
+            self.metadir ='test/metadata'
+        elif noneargs < 3 and noneargs > 0:
+            options = ["'-"+k[0]+"'" for k,v in args.__dict__.items() if v == None]
+            options = ', '.join(options)
+            exit_message = '\n'.join(["You forgot option(s): {}".format(options),
+                                     "Provide no option to run in test mode: 'python3 {}'".format(os.path.basename(__file__)),
+                                     "Get help with option '-h': 'python3 {} -h'".format(os.path.basename(__file__))]
+                                     )
+            sys.exit(exit_message)
+        else:
+            self.infile = args.input
+            self.xmldir = args.xml
+            self.metadir = args.meta
         pass
              
 print(WikiExtractor())

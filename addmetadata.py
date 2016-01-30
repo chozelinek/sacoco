@@ -46,21 +46,47 @@ class AddMetadata(object):
         self.add_metadata()
         
     def __str__(self):
-        message = ["Guten Appetit!"]
-        return ", ".join(message)
+        if self.success > 0:
+            message = [
+                       "{} recipes out of {} processed!".format(str(self.success),str(self.total)),
+                       "Guten Appetit!"
+                       ]
+        else:
+            message = [
+                       "{} recipes out of {} processed!".format(str(self.success),str(self.total)),
+                       "Ups! Maybe something went wrong!"
+                       ]
+        return " ".join(message)
+    
+    
     
     def cli(self):
         """CLI parses command-line arguments"""
         parser = argparse.ArgumentParser()
-        parser.add_argument("-i", "--input", default='test/contemporary/vrt', help="input directory where to find the input.")
-        parser.add_argument("-m", "--metadata", default='test/metadata/wiki-metadata-textid.csv', help="metadata file.")
-        parser.add_argument("-o","--output", default='test/contemporary/meta', help="target directory where to save the output.")
+        parser.add_argument("-i","--input", help="input directory.")
+        parser.add_argument("-m","--metadata", help = "metadata file.")
+        parser.add_argument("-o","--output", help="output directory.")
+        parser.add_argument("-t","--test", choices = ['contemporary','historical'], help = "run in test mode.")
         args = parser.parse_args()
-        self.indir = args.input
-        self.outdir = args.output
-        self.metadata = args.metadata
+        noneargs = [x for x in args.__dict__.values()].count(None)
+        if noneargs == 3 and args.test != None:
+            print("Running in test mode!")
+            self.indir = 'test/{}/vrt'.format(args.test)
+            self.outdir = 'test/{}/meta'.format(args.test)
+            self.metadata = 'test/metadata/{}-metadata.csv'.format(args.test)
+        elif noneargs > 1 and args.test == None:
+            options = ["'-"+k[0]+"'" for k,v in args.__dict__.items() if v == None]
+            options = ', '.join(options)
+            exit_message = '\n'.join(["You forgot option(s): {}".format(options),
+                                     "Provide option '-t [contemporary|historical]' to run in test mode: 'python3 {} -t contemporary'".format(os.path.basename(__file__)),
+                                     "Get help with option '-h': 'python3 {} -h'".format(os.path.basename(__file__))]
+                                     )
+            sys.exit(exit_message)
+        else:
+            self.indir = args.input
+            self.outdir = args.output
+            self.metadata = args.metadata
         pass
-    
     
     def get_files(self, directory, fileclue):
         matches = []
@@ -77,6 +103,8 @@ class AddMetadata(object):
     
     def add_metadata(self):
         input_files = self.get_files(self.indir, '*.vrt')
+        self.total = len(input_files)
+        self.success = 0
         df = pd.read_csv(self.metadata, sep = '\t')
         metadata = df.set_index('Unnamed: 0').T.to_dict('dict')
         for file in input_files:
@@ -93,6 +121,7 @@ class AddMetadata(object):
                 vrt = re.sub(r"([^\n])<", r"\1\n<", vrt)
                 vrt = etree.ElementTree(etree.fromstring(vrt)) # parse the string as an element and convert the element in a tree
                 vrt.write(output_file, encoding="utf8", xml_declaration=True, method="xml")
+                self.success += 1
             else:
                 print('Text ID "{}" is unknown!'.format(text_id))
             

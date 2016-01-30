@@ -113,8 +113,9 @@ img {
 <li><a href="#corpus-encoding-for-cqpweb"><span class="toc-section-number">1.3</span> Corpus encoding for CQPweb</a><ul>
 <li><a href="#add-the-metadata-to-the-vrt-files"><span class="toc-section-number">1.3.1</span> Add the metadata to the VRT files</a></li>
 <li><a href="#concatenate-all-texts-in-a-single-corpus-vrt-file"><span class="toc-section-number">1.3.2</span> Concatenate all texts in a single corpus VRT file</a></li>
-<li><a href="#encode-the-data-for-cwb"><span class="toc-section-number">1.3.3</span> Encode the data for CWB</a></li>
+<li><a href="#generate-the-metadata-file-for-cqpweb"><span class="toc-section-number">1.3.3</span> Generate the metadata file for CQPweb</a></li>
 <li><a href="#set-up-a-corpus-in-cqpweb"><span class="toc-section-number">1.3.4</span> Set up a corpus in CQPweb</a></li>
+<li><a href="#encode-the-data-for-cwb"><span class="toc-section-number">1.3.5</span> Encode the data for CWB</a></li>
 </ul></li>
 <li><a href="#integration-of-the-resource-in-the-clarin-d-infrastructure"><span class="toc-section-number">1.4</span> Integration of the resource in the CLARIN-D infrastructure</a></li>
 </ul></li>
@@ -137,7 +138,7 @@ img {
 </ul>
 </div>
 
-<p><a href="http://hdl.handle.net/11858/00-246C-0000-001F-7C43-1"><img src="http://chozelinek.github.io/sacoco/tutorial_files/img/sacoco-logo.png" title="Saarbrücken Cookbook Corpus&#39; logo" alt="sacoco logo" /></a></p>
+<p><a href="http://hdl.handle.net/11858/00-246C-0000-001F-7C43-1"><img src="tutorial_files/img/sacoco-logo.png" title="Saarbrücken Cookbook Corpus&#39; logo" alt="sacoco logo" /></a></p>
 <p>This tutorial will show you step-by-step how to use the CLARIN-D infrastructure to compile a diachronic corpus of German cooking recipes. Afterwards, you will learn how to exploit this resource to discover how the conative function has evolved in this genre during the last centuries.</p>
 <p>In order to reproduce succesfully this showcase, you will need to satisfy the following requirements:</p>
 <ul>
@@ -179,6 +180,9 @@ img {
 <span class="kw">wget</span> -P data/contemporary/source https://archive.org/download/wiki-rezeptewikiorg/rezeptewikiorg-20140325-history.xml.7z
 <span class="co"># unzip the file</span>
 <span class="kw">7z</span> x -odata/contemporary/source data/contemporary/source/rezeptewikiorg-20140325-history.xml.7z rezeptewikiorg-20140325-history.xml</code></pre></div>
+<blockquote>
+<p>TIP: if you are just testing, you can skip this step. You can find an excerpt of this file in the <code>test/conteporary/source/</code> folder.</p>
+</blockquote>
 <p>The relatively small 19.8M file becomes a monster of 1.21G. This figure can give you an slight idea of the daunting task of extracting manually information from this file. We use a python script instead (<code>wikiextractor.py</code>) to automatically extract and structure the following information:</p>
 <ul>
 <li>a minimal <strong>TEI/XML</strong> file for each page containing:
@@ -273,11 +277,11 @@ img {
 </ol>
 <p>To run the script you need to run the following commands from the terminal:</p>
 <div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="co"># run the script</span>
-<span class="kw">python3</span> wikiextractor.py -i data/source/wiki-rezeptewikiorg/rezeptewikiorg-20140325-history.xml -x data/contemporary/tei - data/metadata</code></pre></div>
+<span class="kw">python3</span> wikiextractor.py -i data/contemporary/source/rezeptewikiorg-20140325-history.xml -x data/contemporary/tei -m data/metadata</code></pre></div>
 <blockquote>
 <p>TIP: for development/testing purposes, if you just run <code>python3 wikiextractor.py</code>, it will work on the testing dataset stored in the <code>test</code> folder.</p>
 </blockquote>
-<p>This is one of the TEI files <code>wiki_188908.xml</code>:</p>
+<p>This is one of the TEI files <code>wiki-188908.xml</code>:</p>
 <div class="sourceCode"><pre class="sourceCode xml"><code class="sourceCode xml"><span class="kw">&lt;?xml</span> version=&#39;1.0&#39; encoding=&#39;UTF-8&#39;<span class="kw">?&gt;</span>
 <span class="kw">&lt;?xml-model</span> href=&quot;http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng&quot; type=&quot;application/xml&quot; schematypens=&quot;http://relaxng.org/ns/structure/1.0&quot;<span class="kw">?&gt;</span>
 <span class="kw">&lt;TEI</span><span class="ot"> xmlns=</span><span class="st">&quot;http://www.tei-c.org/ns/1.0&quot;</span><span class="ot"> xml:lang=</span><span class="st">&quot;de&quot;</span><span class="kw">&gt;</span>
@@ -304,7 +308,7 @@ img {
       <span class="kw">&lt;/sourceDesc&gt;</span>
     <span class="kw">&lt;/fileDesc&gt;</span>
   <span class="kw">&lt;/teiHeader&gt;</span>
-  <span class="kw">&lt;text</span><span class="ot"> xml:id=</span><span class="st">&quot;wiki_188908&quot;</span><span class="kw">&gt;</span>
+  <span class="kw">&lt;text</span><span class="ot"> xml:id=</span><span class="st">&quot;wiki-188908&quot;</span><span class="kw">&gt;</span>
     <span class="kw">&lt;body&gt;</span>
       <span class="kw">&lt;div</span><span class="ot"> n=</span><span class="st">&quot;1&quot;</span><span class="ot"> type=</span><span class="st">&quot;recipe&quot;</span><span class="kw">&gt;</span>
         <span class="kw">&lt;head&gt;</span>Räucherfischmousse im Knusperröllchen auf Gurken-Rahmsalat<span class="kw">&lt;/head&gt;</span>
@@ -344,7 +348,7 @@ img {
 </thead>
 <tbody>
 <tr class="odd">
-<td align="left">wiki_142256</td>
+<td align="left">wiki-142256</td>
 <td align="left">wiki</td>
 <td align="left">2010</td>
 <td align="left">Salziger Wähenteig mit saurer Sahne</td>
@@ -355,7 +359,7 @@ img {
 <td align="left">Schüssel, Küchenwaage, Frischhaltefolie</td>
 </tr>
 <tr class="even">
-<td align="left">wiki_150044</td>
+<td align="left">wiki-150044</td>
 <td align="left">wiki</td>
 <td align="left">2010</td>
 <td align="left">Punschglasur</td>
@@ -366,7 +370,7 @@ img {
 <td align="left">Schüssel, Schneebesen</td>
 </tr>
 <tr class="odd">
-<td align="left">wiki_158731</td>
+<td align="left">wiki-158731</td>
 <td align="left">wiki</td>
 <td align="left">2010</td>
 <td align="left">Riebelesuppe</td>
@@ -502,16 +506,16 @@ img {
 <li>saves the VRT files in the target directorys</li>
 </ol>
 <p>To run the script you need to invoke the following commands from the terminal</p>
-<div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">python3</span> weblichtwrapper.py -i data/contemporary/tei -c utils/chain_contemporary.xml -o data/contemporary/vrt</code></pre></div>
+<div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">python3</span> waaswrapper.py -i data/contemporary/tei -c utils/chain_contemporary.xml -o data/contemporary/vrt</code></pre></div>
 <p>Then, you will be prompted to provide your API key.</p>
 <blockquote>
-<p>TIP: for development/testing purposes, if you just run <code>python3 weblichtwrapper.py -c chain_contemporary</code>, it will work on the testing dataset stored in the <code>test</code> folder.</p>
+<p>TIP: for development/testing purposes, if you just run <code>python3 waaswrapper.py -c utils/chain_contemporary.xml</code>, it will work on the testing dataset stored in the <code>test</code> folder.</p>
 </blockquote>
 <p>You can get more information on the parameters this script takes by running:</p>
-<div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">python3</span> weblichtwrapper.py -h</code></pre></div>
+<div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">python3</span> waaswrapper.py -h</code></pre></div>
 <p>The output is a VRT file (one token per line and positional attributes separated by a tabulation).</p>
 <div class="sourceCode"><pre class="sourceCode xml"><code class="sourceCode xml"><span class="kw">&lt;?xml</span> version=&#39;1.0&#39; encoding=&#39;UTF-8&#39;<span class="kw">?&gt;</span>
-<span class="kw">&lt;text</span><span class="ot"> id=</span><span class="st">&quot;wiki_244969&quot;</span><span class="kw">&gt;</span>
+<span class="kw">&lt;text</span><span class="ot"> id=</span><span class="st">&quot;wiki-244969&quot;</span><span class="kw">&gt;</span>
 <span class="kw">&lt;p&gt;</span>
 <span class="kw">&lt;s&gt;</span>
 Das ART d
@@ -558,7 +562,10 @@ servieren   VVINF   servieren
 <div id="processing-the-historical-recipes" class="section level3">
 <h3><span class="header-section-number">1.2.6</span> Processing the historical recipes</h3>
 <p>The procedure is exactly the same, the only differences are: the location of the input files, and the chain to be used.</p>
-<div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">python</span> weblichtwrapper.py -i ../data/source/xml/ -c chain_historical_deu.xml</code></pre></div>
+<div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">python3</span> waaswrapper.py -i data/historical/tei -c utils/chain_historical.xml -o data/historical/vrt</code></pre></div>
+<blockquote>
+<p>TIP: for development/testing purposes, if you just run <code>python3 waaswrapper.py -c utils/chain_historical.xml</code>, it will work on the testing dataset stored in the <code>test</code> folder.</p>
+</blockquote>
 </div>
 </div>
 <div id="corpus-encoding-for-cqpweb" class="section level2">
@@ -570,27 +577,31 @@ servieren   VVINF   servieren
 <li>positional, to add multiple layers of information at token level</li>
 </ul>
 <p>In the previous section we created the VRT files with the required positional information. Now, we will complete the annotation by adding structural attributes to the text element from the metadata we stored in a CSV file.</p>
+<p>We will have to prepare our data for the CQPweb through a series of very simple steps:</p>
+<ol style="list-style-type: decimal">
+<li>adding the metadata to the VRT files</li>
+<li>concatenating all texts in a single corpus file</li>
+<li>generate a metadata file for the CQPweb</li>
+</ol>
 <div id="add-the-metadata-to-the-vrt-files" class="section level3">
 <h3><span class="header-section-number">1.3.1</span> Add the metadata to the VRT files</h3>
 <p>To add the metadata as structural attributes we need:</p>
 <ul>
 <li>VRT files</li>
 <li>metadata as CSV</li>
-<li>a script</li>
+<li>a script (<code>addmetadata.py</code>)</li>
 </ul>
-<p>We use <code>addmetadata.py</code> Python script by running the following command:</p>
-<div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">python3</span> addmetadata.py -i data/contemporary/vrt -m data/metadata/sacoco-metadata.csv -o data/contemporary/meta</code></pre></div>
-<p>The script does the following:</p>
+<p><code>addmetadata.py</code>:</p>
 <ol style="list-style-type: decimal">
-<li>obtention of a list of all files to be transformed</li>
-<li>parsing of the metadata</li>
-<li>finding all nodes where the metadata fields will be added as attributes</li>
-<li>adding to each node its corresponding metadata using the <code>text id</code> as key</li>
-<li>saving the VRT files in the target directory</li>
+<li>obtains of a list of all files to be transformed</li>
+<li>parses of the metadata</li>
+<li>finds all nodes where the metadata fields will be added as attributes</li>
+<li>adds to each node its corresponding metadata using the <code>text id</code> as key</li>
+<li>saves the VRT files in the target directory</li>
 </ol>
-<p>We should see something like this:</p>
+<p>The output should look like this:</p>
 <div class="sourceCode"><pre class="sourceCode xml"><code class="sourceCode xml"><span class="kw">&lt;?xml</span> version=&#39;1.0&#39; encoding=&#39;UTF8&#39;<span class="kw">?&gt;</span>
-<span class="kw">&lt;text</span><span class="ot"> id=</span><span class="st">&quot;wiki_200141&quot;</span><span class="ot"> year=</span><span class="st">&quot;2011&quot;</span><span class="ot"> period=</span><span class="st">&quot;2000&quot;</span><span class="ot"> authors=</span><span class="st">&quot;NikiWiki|Hombre|Jozeil&quot;</span><span class="ot"> decade=</span><span class="st">&quot;2010&quot;</span><span class="ot"> title=</span><span class="st">&quot;Bärlauchnockerl&quot;</span><span class="ot"> methods=</span><span class="st">&quot;hacken|Abschmecken|anrichten&quot;</span><span class="ot"> ingredients=</span><span class="st">&quot;Muskatnuss|Pfeffer|Sauerrahm|Salz|Schmand|Bärlauch|Gelatine&quot;</span><span class="ot"> collection=</span><span class="st">&quot;contemporary&quot;</span><span class="ot"> cuisines=</span><span class="st">&quot;Oberösterreichische Küche&quot;</span><span class="ot"> source=</span><span class="st">&quot;wiki&quot;</span><span class="ot"> tools=</span><span class="st">&quot;Küchenreibe|Schlagkessel|Schüssel|Frischhaltefolie|Schneidebrett|Löffel|Messer|Zauberstab|Küchenmaschine&quot;</span><span class="kw">&gt;</span>
+<span class="kw">&lt;text</span><span class="ot"> id=</span><span class="st">&quot;wiki-200141&quot;</span><span class="ot"> year=</span><span class="st">&quot;2011&quot;</span><span class="ot"> period=</span><span class="st">&quot;2000&quot;</span><span class="ot"> authors=</span><span class="st">&quot;NikiWiki|Hombre|Jozeil&quot;</span><span class="ot"> decade=</span><span class="st">&quot;2010&quot;</span><span class="ot"> title=</span><span class="st">&quot;Bärlauchnockerl&quot;</span><span class="ot"> methods=</span><span class="st">&quot;hacken|Abschmecken|anrichten&quot;</span><span class="ot"> ingredients=</span><span class="st">&quot;Muskatnuss|Pfeffer|Sauerrahm|Salz|Schmand|Bärlauch|Gelatine&quot;</span><span class="ot"> collection=</span><span class="st">&quot;contemporary&quot;</span><span class="ot"> cuisines=</span><span class="st">&quot;Oberösterreichische Küche&quot;</span><span class="ot"> source=</span><span class="st">&quot;wiki&quot;</span><span class="ot"> tools=</span><span class="st">&quot;Küchenreibe|Schlagkessel|Schüssel|Frischhaltefolie|Schneidebrett|Löffel|Messer|Zauberstab|Küchenmaschine&quot;</span><span class="kw">&gt;</span>
 <span class="kw">&lt;p&gt;</span>
 <span class="kw">&lt;s&gt;</span>
 Den ART d
@@ -601,22 +612,222 @@ hacken  VVINF   hacken
 <span class="kw">&lt;/s&gt;</span>
 <span class="kw">&lt;/p&gt;</span>
 <span class="kw">&lt;/text&gt;</span></code></pre></div>
+<div id="add-metadata-to-the-contemporary-recipes" class="section level4">
+<h4><span class="header-section-number">1.3.1.1</span> Add metadata to the contemporary recipes</h4>
+<p>We use <code>addmetadata.py</code> Python script by running the following command:</p>
+<div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">python3</span> addmetadata.py -i data/contemporary/vrt -m data/metadata/contemporary-metadata.csv -o data/contemporary/meta</code></pre></div>
+<blockquote>
+<p>TIP: for development/testing purposes, if you just run <code>python3 addmetadata.py -t contemporary</code>, it will work on the testing dataset stored in the test folder.</p>
+</blockquote>
+</div>
+<div id="add-metadata-to-the-historical-recipes" class="section level4">
+<h4><span class="header-section-number">1.3.1.2</span> Add metadata to the historical recipes</h4>
+<p>We need to run the command also on the historical recipes indicating the corresponding metadata file, the location of the input files, and the path for the output.</p>
+<div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">python3</span> addmetadata.py -i data/historical/vrt -m data/metadata/sacoco-metadata.csv -o data/historical/meta</code></pre></div>
+<blockquote>
+<p>TIP: for development/testing purposes, if you just run <code>python3 addmetadata.py -t historical</code>, it will work on the testing dataset stored in the test folder. ```</p>
+</blockquote>
+</div>
 </div>
 <div id="concatenate-all-texts-in-a-single-corpus-vrt-file" class="section level3">
 <h3><span class="header-section-number">1.3.2</span> Concatenate all texts in a single corpus VRT file</h3>
-<div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">texts2corpus.py</span> -i data/contemporary/meta -o data/sacoco.vrt</code></pre></div>
+<p>We need a single XML file containing all texts. <code>texts2corpus.py</code> helps us to ease the task.</p>
+<p><code>texts2corpus.py</code>:</p>
+<ul>
+<li>finds all <code>.vrt</code> files contained in the input folders</li>
+<li>gets the <code>&lt;text&gt;</code> nodes</li>
+<li>appends the <code>&lt;text&gt;</code> nodes to a parent element called <code>&lt;corpus&gt;</code></li>
+<li>saves <code>&lt;corpus&gt;</code> as a single XML file</li>
+</ul>
+<p>Its usage is pretty simple, just provide the path to the folders containing the <code>.vrt</code> files with metadata, and the path to the output folder:</p>
+<div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">python3</span> texts2corpus.py -i data/contemporary/meta data/historical/meta -o data/sacoco.vrt</code></pre></div>
+<blockquote>
+<p>TIP: for development/testing purposes, if you just run <code>python3 texts2corpus.py</code>, it will work on the testing dataset stored in the test folder. ```</p>
+</blockquote>
+</div>
+<div id="generate-the-metadata-file-for-cqpweb" class="section level3">
+<h3><span class="header-section-number">1.3.3</span> Generate the metadata file for CQPweb</h3>
+<p>CQPweb helps us to calculate distributions across different subcorpora. Typically, this subcorpora are the result of splitting our corpus according to some variable contained in the metadata. To achieve this we only need to pass once a metadata file containing for each text the value of the fields we are interested in.</p>
+<p>We have already generated two metadata tables:</p>
+<ul>
+<li>contemporary</li>
+<li>historical</li>
+</ul>
+<p>We will merge them and will extract only those fields whose distributions shall be displayed in CQPweb, namely:</p>
+<ul>
+<li>year</li>
+<li>decade</li>
+<li>period</li>
+<li>collection</li>
+<li>source</li>
+</ul>
+<p>To get this file we use the command <code>meta2cqpweb.py</code>.</p>
+<p><code>meta2cqpweb.py</code>:</p>
+<ul>
+<li>gets all input files</li>
+<li>for each file:
+<ul>
+<li>extracts relevant columns</li>
+</ul></li>
+<li>concatenate info from all files</li>
+<li>saves the output as tab-separated plain text file</li>
+</ul>
+<p>We use the following command:</p>
+<div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">python3</span> metadata4cqpweb.py -i data/metadata/contemporary-metadata.csv data/metadata/historical-metadata.csv -o data/metadata/sacoco.meta</code></pre></div>
+<blockquote>
+<p>TIP: for development/testing purposes, if you just run <code>python3 metadata4cqpweb.py</code>, it will work on the testing dataset stored in the test folder.</p>
+</blockquote>
+</div>
+<div id="set-up-a-corpus-in-cqpweb" class="section level3">
+<h3><span class="header-section-number">1.3.4</span> Set up a corpus in CQPweb</h3>
+<p>We have all materials needed to set up a corpus in CQPweb:</p>
+<ul>
+<li>a single XML file for the whole corpus</li>
+<li>a metadata file</li>
+</ul>
+<p>You need now to have access to a CQPweb installation as administrator. There are different options to get CQPweb running listed in decreasing order of difficulty:</p>
+<ul>
+<li><a href="http://cwb.sourceforge.net/cqpweb.php#cqpweb">install your own CQPweb</a>:
+<ul>
+<li>in your computer, only you have access to the corpus</li>
+<li>in a server, you can share it with other people</li>
+<li>PROS:
+<ul>
+<li>you have maximum control</li>
+<li>you can share with other people if it is installed in a server</li>
+</ul></li>
+<li>CONS:
+<ul>
+<li>difficult to install, you need expert knowledge to admin a LAMP stack (Apache, MySQL, PhP), check the <a href="http://cwb.sourceforge.net/files/CQPwebAdminManual.pdf">administrator’s manual</a></li>
+</ul></li>
+</ul></li>
+<li>use <a href="http://cwb.sourceforge.net/cqpweb.php#inabox">CQPwebInABox</a>:
+<ul>
+<li>PROS:
+<ul>
+<li>no installation required, just run a Virtual Machine</li>
+<li>its usage is well documented</li>
+</ul></li>
+<li>CONS:
+<ul>
+<li>you cannot share your corpus with others</li>
+<li>resource intensive, you will be running a Virtual Machine</li>
+<li>you will have to get familiar with <em>Lubuntu</em></li>
+</ul></li>
+</ul></li>
+<li>use <a href="https://fedora.clarin-d.uni-saarland.de/cqpweb">our CQPweb installation</a>:
+<ul>
+<li>PROS:
+<ul>
+<li>you don’t have to cope with this section</li>
+<li>you can share your corpus with others</li>
+</ul></li>
+<li>CONS:
+<ul>
+<li>you have to give us the corpus and the metadata in the right format (but… wait! You have just learnt how to do it!)</li>
+<li>we work together to <em>clarinify</em> the resource (not too bad either, see the section on <a href="#integration-of-the-resource-in-the-clarin-d-infrastructure"><em>clarinifying</em></a> a corpus).</li>
+</ul></li>
+</ul></li>
+</ul>
+<p>Let’s assume that you have administrator access to a CQPweb installation. We will guide you in the following lines through the process of setting up the corpus.</p>
+<div id="log-in-as-admin" class="section level4">
+<h4><span class="header-section-number">1.3.4.1</span> Log in as admin</h4>
+<ol style="list-style-type: decimal">
+<li>Type the URL to your CQPweb installation (e.g. <a href="https://fedora.clarin-d.uni-saarland.de/cqpweb/" class="uri">https://fedora.clarin-d.uni-saarland.de/cqpweb/</a>)</li>
+<li>log in with an administrator account, you are redirected to your user account</li>
+<li>click on <code>Go to admin control panel</code> in the lefthand menu <strong>Account actions</strong>.</li>
+</ol>
+</div>
+<div id="upload-files" class="section level4">
+<h4><span class="header-section-number">1.3.4.2</span> Upload files</h4>
+<p>We need to upload the corpus file (<code>sacoco.vrt</code>) and the metadata file (<code>sacoco.meta</code>).</p>
+<p>For each file:</p>
+<ol style="list-style-type: decimal">
+<li>click on <code>Upload a file</code> in the left menu <strong>Uploads</strong>.</li>
+<li>click on <code>Choose File</code>, a dialogue window will open, pick the file you want to upload.</li>
+<li>click on <code>Upload File</code>.</li>
+</ol>
+</div>
+<div id="installing-the-corpus" class="section level4">
+<h4><span class="header-section-number">1.3.4.3</span> Installing the corpus</h4>
+<p>We can now start installing the corpus:</p>
+<ol style="list-style-type: decimal">
+<li>click on Install a new corpus in the left menu <strong>Corpora</strong></li>
+<li>in install new corpus section
+<ol style="list-style-type: decimal">
+<li>provide a MySQL name for the corpus: <code>sacoco</code></li>
+<li>provide a name for the corpus: <code>sacoco</code></li>
+<li>provide the full name of the corpus: <code>Saarbrücken Cookbook Corpus</code></li>
+</ol></li>
+<li>in <code>Select files</code> section
+<ol style="list-style-type: decimal">
+<li>select <code>sacoco.vrt</code></li>
+</ol></li>
+<li>in <code>S-attributes</code> section
+<ol style="list-style-type: decimal">
+<li>check the option on the left <code>Use custom setup</code></li>
+<li>and then add in the boxes on the right:
+<ol style="list-style-type: decimal">
+<li><code>text:0+id+collection+source+url+year+decade+period+title+authors/+cuisine/+ingredients/+methods/+tools/</code></li>
+<li><code>p:0</code></li>
+<li><code>s:0</code></li>
+</ol></li>
+</ol></li>
+<li>in <code>P-attributes</code> section
+<ol style="list-style-type: decimal">
+<li>check the option on the left <code>Use custom setup</code></li>
+<li>set the first row as <code>Primary</code></li>
+<li>add the following three positional attributes, each value is a field:
+<ol style="list-style-type: decimal">
+<li><em>Handle:</em> pos; <em>Description:</em> Part-Of-Speech; <em>Tagset:</em> STTS; <em>External URL:</em> <a href="http://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/TagSets/stts-table.html" class="uri">http://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/TagSets/stts-table.html</a></li>
+<li><em>Handle:</em> lemma; <em>Description:</em> lemma; <em>Tagset:</em> leave it empty; <em>External URL:</em> leave it empty.</li>
+<li><em>Handle:</em> norm; <em>Description:</em> orthographic correction by CAB, <em>Tagset:</em> leave it empty; <em>External URL:</em> <a href="http://www.deutschestextarchiv.de/doku/software#cab" class="uri">http://www.deutschestextarchiv.de/doku/software#cab</a></li>
+</ol></li>
+</ol></li>
+<li>click on <code>Install corpus with settings above</code> at the bottom of the page.</li>
+</ol>
+<p>A new page will load:</p>
+<ol style="list-style-type: decimal">
+<li>click on <code>Design and insert a text-metadata table for the corpus</code></li>
+</ol>
+<p>A new page will load:</p>
+<ol style="list-style-type: decimal">
+<li>Choose <code>sacoco.meta</code> in section <code>Choose the file containing the metadata</code></li>
+<li>Fill in the field rows in <code>Describe the contents of the file you have selected</code>, providing for <em>Handle</em> and <em>Description</em>:
+<ol style="list-style-type: decimal">
+<li>year</li>
+<li>decade</li>
+<li>period</li>
+<li>collection</li>
+<li>source</li>
+</ol></li>
+<li>Select <code>Yes please</code> in section <code>Do you want to automatically run frequency-list setup?</code></li>
+<li>Finally, click on the button <code>install metadata table using the settings above</code></li>
+</ol>
+</div>
+<div id="admin-tools" class="section level4">
+<h4><span class="header-section-number">1.3.4.4</span> Admin tools</h4>
+<ul>
+<li>Corpus settings: probably nothing to do here; has been set during the installation process</li>
+<li>Manage access: to add user groups for your corpus (otherwise only the superuser can access the corpus!)</li>
+<li>Manage metadata: probably nothing to do here; has been set during the installation process</li>
+<li>Manage text categories: here you can add more “speaking” descriptions for your text categories</li>
+<li>Manage annotation: add descriptions / URLs of documentations for your positional attributes; specify primary/secondary/… annotations for the CQP Simple Query language; specifying annotations here makes them available for restrictions throughout CQPweb (e.g. for the collocation function)</li>
+<li>Manage priviliges: Scroll to end of page and generate default privileges for the corpus; select than “Manage group grants”, scroll to end of page and select a group and grant it privileges of that particular corpus (normally normal privileges are choosen)</li>
+</ul>
+</div>
 </div>
 <div id="encode-the-data-for-cwb" class="section level3">
-<h3><span class="header-section-number">1.3.3</span> Encode the data for CWB</h3>
+<h3><span class="header-section-number">1.3.5</span> Encode the data for CWB</h3>
 <p>Once we have the texts in VRT format, encoding the corpus for the CWB is relatively easy.</p>
 <p>Check that you have the corpus work bench installed in the computer, if not, download it and follow these <a href="http://cwb.sourceforge.net/download.php">instructions</a>. We compiled from source version 3.4.8.</p>
 <p>Now, run the following command:</p>
 <div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="co"># create the target folder for encoded data</span>
-<span class="kw">mkdir</span> -p ../data/encoded/sacoco/data
+<span class="kw">mkdir</span> -p test/cqp/data
 <span class="co"># run the command</span>
-<span class="kw">cwb-encode</span> -c utf8 -d ../data/encoded/sacoco/data -F ../data/source/vrt/ -R ../data/encoded/sacoco/sacoco -xsB -S text:0+id+collection+source+url+year+decade+period+title+authors/+cuisine/+ingredients/+methods/+tools/ -S p:0 -S s:0 -P pos -P lemma -P norm
+<span class="kw">cwb-encode</span> -c utf8 -d test/cqp/sacoco -F test/contemporary/meta/ -F test/historical/meta -R test/cqp -xsB -S text:0+id+collection+source+url+year+decade+period+title+authors/+cuisines/+ingredients/+methods/+tools/ -S p:0 -S s:0 -P pos -P lemma <span class="co"># -P norm</span>
 <span class="co"># generate the registry file</span>
-<span class="kw">cwb-make</span> -r ../data/encoded/sacoco -V SACOCO</code></pre></div>
+<span class="kw">cwb-make</span> -r test/cqp -V SACOCO</code></pre></div>
 <p>The <code>cwb-encode</code>’s parameters explained:</p>
 <ul>
 <li><code>-c</code> to the declare the character encoding</li>
@@ -640,104 +851,6 @@ hacken  VVINF   hacken
 <li><code>-P</code> to declare positional attributes</li>
 </ul>
 <p>Get extensive information on how to encode corpora for the CWB in the <a href="http://cwb.sourceforge.net/files/CWB_Encoding_Tutorial.pdf">encoding tutorial</a>.</p>
-</div>
-<div id="set-up-a-corpus-in-cqpweb" class="section level3">
-<h3><span class="header-section-number">1.3.4</span> Set up a corpus in CQPweb</h3>
-<p>Setting up the corpus for the CQPweb is probably the most involved step described in this tutorial. It is difficult to provide a step-by-step guide, because many things will depend on the server configuration where your CQPweb installation is living. Nevertheless, we provide our procedure below.</p>
-<p>There are basically two ways to install a corpus in CQPweb</p>
-<ul>
-<li>by encoding the corpus directly in CQPweb</li>
-<li>by uploading an already encoded corpus and its registry file</li>
-</ul>
-<p>You need:</p>
-<ul>
-<li>a corpus encoded for CQP + registry file</li>
-<li>a metadata file (optional, but very useful!)</li>
-</ul>
-<div id="the-meta-data-file" class="section level4">
-<h4><span class="header-section-number">1.3.4.1</span> The meta-data file</h4>
-<p>The meta-data file is a tab-deliminated file listing categories for each text included in the corpus. These categories can later be used in CQPweb for frequency distribution, etc. It can easily be generated using cqp (see below). An example meta-data file for {{:resources:tools-howtos:dass.txt|DaSciTex-Small}}.</p>
-<ul>
-<li>the first column is reserved for the text_id</li>
-<li>the only category that must have a correspondence in the encoded corpus</li>
-<li>values are //handles// and may only include the following characters:</li>
-<li>besides, there is no limit to type and number of categories</li>
-<li>they do not need a corresponding structure annotated in the corpus!</li>
-<li>values do not have to follow the standards for //handles//, but only those that do can be used in the distribution function!</li>
-<li>metadata encoded as feature sets cannot be described as “Classification” but as “Free text” because the “|” is not a valid character.</li>
-</ul>
-<p>You can generate a meta-data file from a CQP corpus using the cqp command-line tool:</p>
-<div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">&lt;text&gt;</span>[]<span class="kw">;</span>
-<span class="kw">tabulate</span> Last match text_id, match text_..., ... <span class="kw">&gt;</span><span class="st">&quot;corpus.meta&quot;</span><span class="kw">;</span></code></pre></div>
-</div>
-<div id="upload-files" class="section level4">
-<h4><span class="header-section-number">1.3.4.2</span> Upload files</h4>
-<p>There are basically two possibilities:</p>
-<ul>
-<li>via CQPweb Interface -&gt; needs superuser rights on CQPweb;
-<ul>
-<li>recommended if you have only a few files to upload</li>
-<li>you can only upload one file at a time -&gt; this makes it rather undesirable to upload an encoded corpus including a whole bunch of files . Zip or tar files (of whole directories) can be uploaded but not decompressed.</li>
-</ul></li>
-<li>via ssh -&gt; needs root rights on the underlying server;
-<ul>
-<li>recommended if you have a whole set of files to upload</li>
-</ul></li>
-</ul>
-<div id="upload-via-cqpweb" class="section level5">
-<h5><span class="header-section-number">1.3.4.2.1</span> Upload via CQPweb</h5>
-<ul>
-<li>concatenate all XML texts using the cat command</li>
-</ul>
-<div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">cat</span> *.vrt <span class="kw">&gt;</span> ../</code></pre></div>
-<ul>
-<li>CQPweb Sysadmin Control Panel -&gt; Uploads -&gt; Upload a file</li>
-<li>follow the instructions</li>
-</ul>
-</div>
-<div id="upload-via-ssh" class="section level5">
-<h5><span class="header-section-number">1.3.4.2.2</span> Upload via ssh</h5>
-<ul>
-<li>needs root permission on the server</li>
-<li>directory for encoded corpora: /data2/cqpweb/indexed</li>
-<li>registry directory: /data2/cqpweb/registry</li>
-<li>once you uploaded all necessary file make sure that the permissions are as follows:
-<ul>
-<li>owner: wwwrun</li>
-<li>group: www</li>
-</ul></li>
-<li>make sure that the registry-file has the correct path!!</li>
-</ul>
-</div>
-</div>
-<div id="installing-the-corpus" class="section level4">
-<h4><span class="header-section-number">1.3.4.3</span> Installing the corpus</h4>
-<ul>
-<li>CQPweb Sysadmin Control Panel -&gt; Corpora -&gt; Install a new corpus</li>
-<li>follow the instructions</li>
-<li>The syntax for s-attributes is the same as on the command line: e.g. struc:0+feat1+feat2 (ignore the error message!!!)</li>
-<li>certain attributes are annotated automatically and do not have to be specified (see instructions in the form)</li>
-</ul>
-<div id="installing-an-already-encoded-corpus" class="section level5">
-<h5><span class="header-section-number">1.3.4.3.1</span> Installing an already encoded corpus</h5>
-<ul>
-<li>now you are ready to install the corpus via CQPweb</li>
-<li>Click on the link for corpora already indexed in CWB and follow the instructions</li>
-<li>after successfully installing the corpus, you may want to use some of the Admin tools to adjust a few settings for the corpus</li>
-</ul>
-</div>
-</div>
-<div id="admin-tools" class="section level4">
-<h4><span class="header-section-number">1.3.4.4</span> Admin tools</h4>
-<ul>
-<li>Corpus settings: probably nothing to do here; has been set during the installation process</li>
-<li>Manage access: to add user groups for your corpus (otherwise only the superuser can access the corpus!)</li>
-<li>Manage metadata: probably nothing to do here; has been set during the installation process</li>
-<li>Manage text categories: here you can add more “speaking” descriptions for your text categories</li>
-<li>Manage annotation: add descriptions / URLs of documentations for your positional attributes; specify primary/secondary/… annotations for the CQP Simple Query language; specifying annotations here makes them available for restrictions throughout CQPweb (e.g. for the collocation function)</li>
-<li>Manage priviliges: Scroll to end of page and generate default privileges for the corpus; select than “Manage group grants”, scroll to end of page and select a group and grant it privileges of that particular corpus (normally normal privileges are choosen)</li>
-</ul>
-</div>
 </div>
 </div>
 <div id="integration-of-the-resource-in-the-clarin-d-infrastructure" class="section level2">

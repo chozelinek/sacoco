@@ -14,6 +14,7 @@ import getpass
 import requests
 import io
 import subprocess
+import sys
 
 #===============================================================================
 # Function to time functions
@@ -48,7 +49,7 @@ class WebLichtWrapper(object):
         self.tcf = 'http://www.dspin.de/data/textcorpus'
         self.url = 'https://weblicht.sfs.uni-tuebingen.de/WaaS/api/1.0/chain/process'
         self.xml = 'http://www.w3.org/XML/1998/namespace'
-        self.log = []
+        self.log = {}
         self.cli()
         self.apikey = getpass.getpass('Enter your API key:')
 #         self.xmldir = os.path.join(self.outdir,'source','xml')
@@ -58,7 +59,18 @@ class WebLichtWrapper(object):
         self.main() # function running in the background
         
     def __str__(self):
-        message = ["Guten Appetit!"]
+        if self.success > 0:
+            message = [
+                       "{} recipes processed!".format(str(self.success)),
+                       "Guten Appetit!"
+                       ]
+        else:
+            message = [
+                       "{} recipes processed!".format(str(self.success)),
+                       "Ups! Maybe something went wrong!"
+                       ]
+        if len(self.log) > 0:
+            print('Error log:',self.log)
         return " ".join(message)
     
     # Function to get all files in a directory
@@ -162,6 +174,7 @@ class WebLichtWrapper(object):
     def main(self):
         # get all input files
         infiles = self.get_files(self.indir, '*.xml')
+        self.success = 0
         for infile in infiles:
             # parse file
             text_id = os.path.splitext(os.path.basename(infile))[0]
@@ -179,33 +192,105 @@ class WebLichtWrapper(object):
                     tries -= 1
                 if tcf == False:
                     print('Chunk {} in {} could not be processed!'.format(i, text_id))
-                    self.log.append((text_id,i))
+                    self.log[text_id] = i
                 else:
                     vrt = self.tcf2vrt(tcf)
                     outxml.append(vrt)
             outxml = self.deprettyfy(outxml)
             self.serialize(outxml, self.outdir, text_id)
-            nerrors = self.log.count(text_id)
+            nerrors = list(self.log.keys()).count(text_id)
             if nerrors > 0:
                 print(text_id,nerrors)
             else:
                 print(text_id)
+            self.success += 1
 #             os.remove(infile)
-        print('Error log:',sorted(set(self.log)))
         pass
+    
+#     def cli(self):
+#         """CLI parses command-line arguments"""
+#         parser = argparse.ArgumentParser()
+#         parser.add_argument("-i","--input", help="input directory.")
+#         parser.add_argument("-m","--metadata", help = "metadata file.")
+#         parser.add_argument("-o","--output", help="output directory.")
+#         parser.add_argument("-t","--test", choices = ['contemporary','historical'], help = "run in test mode.")
+#         args = parser.parse_args()
+#         noneargs = [x for x in args.__dict__.values()].count(None)
+#         if noneargs == 3 and args.test != None:
+#             print("Running in test mode!")
+#             self.indir = 'test/{}/vrt'.format(args.test)
+#             self.outdir = 'test/{}/meta'.format(args.test)
+#             self.metadata = 'test/metadata/{}-metadata.csv'.format(args.test)
+#         elif noneargs > 1 and args.test == None:
+#             options = ["'-"+k[0]+"'" for k,v in args.__dict__.items() if v == None]
+#             options = ', '.join(options)
+#             exit_message = '\n'.join(["You forgot option(s): {}".format(options),
+#                                      "Provide option '-t [contemporary|historical]' to run in test mode: 'python3 {} -t contemporary'".format(os.path.basename(__file__)),
+#                                      "Get help with option '-h': 'python3 {} -h'".format(os.path.basename(__file__))]
+#                                      )
+#             sys.exit(exit_message)
+#         else:
+#             self.indir = args.input
+#             self.outdir = args.output
+#             self.metadata = args.metadata
+#         pass
+    
         
     def cli(self):
         """CLI parses command-line arguments"""
         parser = argparse.ArgumentParser()
-        parser.add_argument("-i","--input", default='test/contemporary/tei', help="input directory.")
-        parser.add_argument("-o","--output", default='test/contemporary/vrt', help="output directory.")
-        parser.add_argument("-c","--chain", required = True, help = "chain file.")
+        parser.add_argument("-i","--input", help="input directory.")
+        parser.add_argument("-o","--output", help="output directory.")
+        parser.add_argument("-c","--chain", help = "chain file.")
         parser.add_argument("-e","--element", default='p', help = "tag of the element to be processed by WebLicht.")
+        parser.add_argument("-t","--test", choices = ['contemporary','historical'], help = "run in test mode.")
         args = parser.parse_args()
-        self.indir = args.input
-        self.outdir = args.output
-        self.chain = args.chain
+        noneargs = [x for x in args.__dict__.values()].count(None)
+        if noneargs == 3 and args.test != None:
+            print("Running in test mode!")
+            self.indir = 'test/{}/tei'.format(args.test)
+            self.outdir = 'test/{}/vrt'.format(args.test)
+            self.chain = 'utils/chain_{}.xml'.format(args.test)
+        elif noneargs > 0 and args.test == None:
+            options = ["'-"+k[0]+"'" for k,v in args.__dict__.items() if v == None]
+            options = ', '.join(options)
+            exit_message = '\n'.join(["You forgot option(s): {}".format(options),
+                                     "Provide option '-t [contemporary|historical]' to run in test mode: 'python3 {} -t contemporary'".format(os.path.basename(__file__)),
+                                     "Get help with option '-h': 'python3 {} -h'".format(os.path.basename(__file__))]
+                                     )
+            sys.exit(exit_message)
+        else:
+            self.indir = args.input
+            self.outdir = args.output
+            self.chain = args.chain
         self.element = args.element
         pass
-             
+            
+#     def cli(self):
+#         """CLI parses command-line arguments"""
+#         parser = argparse.ArgumentParser()
+#         parser.add_argument("-i","--input", help="input directory.")
+#         parser.add_argument("-o","--output", help="output directory.")
+#         parser.add_argument("-c","--chain", required = True, help = "chain file.")
+#         parser.add_argument("-e","--element", default='p', help = "tag of the element to be processed by WebLicht.")
+#         args = parser.parse_args()
+#         noneargs = [x for x in args.__dict__.values()].count(None)
+#         if noneargs == 2:
+#             print("Running in test mode!")
+#             self.indir = 'test/contemporary/tei'
+#             self.outdir = 'test/contemporary/vrt'
+#         elif noneargs < 2 and noneargs > 0:
+#             options = ["'-"+k[0]+"'" for k,v in args.__dict__.items() if v == None]
+#             options = ', '.join(options)
+#             exit_message = '\n'.join(["You forgot option(s): {}".format(options),
+#                                      "Provide no option to run in test mode: 'python3 {}'".format(os.path.basename(__file__)),
+#                                      "Get help with option '-h': 'python3 {} -h'".format(os.path.basename(__file__))]
+#                                      )
+#             sys.exit(exit_message)
+#         else:
+#             self.indir = args.input
+#             self.outdir = args.output
+#         self.chain = args.chain
+#         self.element = args.element
+#         pass 
 print(WebLichtWrapper())
