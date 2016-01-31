@@ -142,8 +142,8 @@ The script does the following:
     1. methods
     1. title
     1. text with the instructions
-1. title and text are saved as a TEI XML file (`data/source/tei`)
-1. metadata are saved in a CSV file (`data/metadata/wiki-metadata-textid.csv`)
+1. title and text are saved as a TEI XML file (`data/contemporary/tei`)
+1. metadata are saved in a CSV file (`data/metadata/contemporary-metadata.csv`)
 
 To run the script you need to run the following commands from the terminal:
 
@@ -219,6 +219,48 @@ for i in test/contemporary/tei/*.xml; do xmllint --noout --relaxng utils/tei_lit
 
 ### Historical component
 
+<!-- Reference to the sources -->
+
+We take as starting point the materials in `data/historical/source`. Our goal is to generate a TEI Lite XML for each recipe, and extract the metadata.
+
+The script `xmlextractor.py` will help us with the task of normalizing our data.
+
+`xmlextractor.py`:
+
+1. gets all XML files in the input folder
+1. for each file
+    1. extracts metadata:
+        1. text ID
+        1. year
+        1. authors
+        1. source
+        1. title
+        1. text with the instructions
+    1. clean the text from previous annotation
+    1. adds source and appropriate license to the text
+    1. title and text are saved as a TEI XML file (`data/historical/tei`)
+    1. metadata are saved in a CSV file (`data/metadata/historical-metadata.csv`)
+
+To run the script you need to run the following commands from the terminal:
+
+```bash
+# run the script
+python3 xmlextractor.py -i data/historical/source -x data/historical/tei -m data/metadata
+```
+
+> TIP: for development/testing purposes, if you just run `python3 xmlextractor.py`, it will work on the testing dataset stored in the `test` folder.
+
+You can check from the commandline if the TEI files are alright:
+
+```bash
+for i in data/historical/tei/*.xml; do xmllint --noout --relaxng utils/tei_lite.rng $i; done
+```
+
+> TIP: for development/testing purposes, just switch the input folder:
+```bash
+for i in test/historical/tei/*.xml; do xmllint --noout --relaxng utils/tei_lite.rng $i; done
+```
+
 
 ## Data processing with WebLicht
 
@@ -252,19 +294,16 @@ If you run into problems, read the [FAQ explaining how to loggin into WebLicht](
 
 1. Click on `New Chain`.
 1. A window will pop-up.
-1. There are 3 input modes: click on the leftmost box where one can read `Enter your text here.` and paste this contemporary recipe excerpt: `Das Mehl in die Schüssel geben (eventuell sieben), in der Mitte eine Mulde eindrücken. Die saure Sahne hinein geben und mit Salz bestreuen.`
-1. Choose the `Document Type`: `Plain Text`.
-1. Choose the `Language`: `German`.
+1. There are 3 input modes: click on the rightmost button `Browse`.
+1. Choose `utils/tcf_example.xml`.
 1. Click on OK.
-1. Now, you have to choose a mode: pick `Advanced Mode`.
 1. Choose the tools:
-    1. Berlin: Plaintext Converter
     1. Berlin: Tokenizer and Sentence
     1. Berlin: Part-of-Speech Tagger
 1. Click on `Run Tools`
 1. Explore the results
 1. Download the chain by clicking on `Download chain`
-1. Save the XML file as `chain_contemporary_deu.xml` in the folder `../scripts` of our repo.
+1. Save the XML file as `chain_contemporary.xml` in the folder `scripts` of our repo.
 
 If the instructions weren't clear enough, watch this video explaining how to design a tool chain.
 
@@ -276,19 +315,16 @@ The process is exactly the same as we used before.
 
 1. Click on `New Chain`.
 1. A window will pop-up.
-1. There are 3 input modes: click on the leftmost box where one can read `Enter your text here.` and paste this contemporary recipe excerpt: `Das Mehl in die Schüssel geben (eventuell sieben), in der Mitte eine Mulde eindrücken. Die saure Sahne hinein geben und mit Salz bestreuen.`
-1. Choose the `Document Type`: `Plain Text`.
-1. Choose the `Language`: `German`.
+1. There are 3 input modes: click on the rightmost button `Browse`.
+1. Choose `utils/tcf_example.xml`.
 1. Click on OK.
-1. Now, you have to choose a mode: pick `Advanced Mode`.
 1. Choose the tools:
-    1. Berlin: Plaintext Converter
     1. Berlin: Tokenizer and Sentence
     1. Berlin: CAB historical text
 1. Click on `Run Tools`
 1. Explore the results
 1. Download the chain by clicking on `Download chain`
-1. Save the XML file as `chain_historical_deu.xml` in the folder `../scripts` of our repo.
+1. Save the XML file as `chain_historical.xml` in the folder `scripts` of our repo.
 
 ### Using WebLicht as a service
 
@@ -331,7 +367,7 @@ python3 waaswrapper.py -i data/contemporary/tei -c utils/chain_contemporary.xml 
 
 Then, you will be prompted to provide your API key.
 
-> TIP: for development/testing purposes, if you just run `python3 waaswrapper.py -c utils/chain_contemporary.xml`, it will work on the testing dataset stored in the `test` folder.
+> TIP: for development/testing purposes, if you just run `python3 waaswrapper.py -t contemporary`, it will work on the testing dataset stored in the `test` folder.
 
 You can get more information on the parameters this script takes by running:
 
@@ -396,7 +432,7 @@ The procedure is exactly the same, the only differences are: the location of the
 python3 waaswrapper.py -i data/historical/tei -c utils/chain_historical.xml -o data/historical/vrt
 ```
 
-> TIP: for development/testing purposes, if you just run `python3 waaswrapper.py -c utils/chain_historical.xml`, it will work on the testing dataset stored in the `test` folder.
+> TIP: for development/testing purposes, if you just run `python3 waaswrapper.py -t historical`, it will work on the testing dataset stored in the `test` folder.
 
 ## Corpus encoding for CQPweb
 
@@ -462,7 +498,7 @@ python3 addmetadata.py -i data/contemporary/vrt -m data/metadata/contemporary-me
 We need to run the command also on the historical recipes indicating the corresponding metadata file, the location of the input files, and the path for the output.
 
 ```bash
-python3 addmetadata.py -i data/historical/vrt -m data/metadata/sacoco-metadata.csv -o data/historical/meta
+python3 addmetadata.py -i data/historical/vrt -m data/metadata/historical-metadata.csv -o data/historical/meta
 ```
 
 > TIP: for development/testing purposes, if you just run `python3 addmetadata.py -t historical`, it will work on the testing dataset stored in the test folder.
@@ -500,7 +536,7 @@ To get this file we use the script `meta2cqpweb.py`.
 We use the following command:
 
 ```bash
-python3 metadata4cqpweb.py -i data/metadata/contemporary-metadata.csv data/metadata/historical-metadata.csv -o data/metadata/sacoco.meta
+python3 metadata4cqpweb.py -i data/metadata/contemporary-metadata.csv data/metadata/historical-metadata.csv -o data/metadata/sacoco.meta -c year decade period collection source title
 ```
 
 > TIP: for development/testing purposes, if you just run `python3 metadata4cqpweb.py`, it will work on the testing dataset stored in the test folder.
@@ -544,7 +580,7 @@ Let's assume that you have:
 - administrator access to a CQPweb installation
 - root access to the server where the CQPweb lives
 
-If you don't fullfil all this requirements and/or you don't have experience enough, do not worry. Just jump to section <!-- -->
+If you don't fullfil all this requirements and/or you don't have experience enough, do not worry. Just jump to the section on [*clarinifying*](#integration-of-the-resource-in-the-clarin-d-infrastructure) and leave the gory details for us.
 
 Nevertheless, we document below all the steps to get SaCoCo encoded and installed in CQPweb.
 
@@ -562,7 +598,7 @@ Now, run the following commands:
 # create the target folder for encoded data
 mkdir -p data/cqp/data
 # run the command
-cwb-encode -c utf8 -d data/cqp/sacoco -F data/contemporary/meta/ -F data/historical/meta -R data/cqp -xsB -S text:0+id+collection+source+url+year+decade+period+title+authors/+cuisines/+ingredients/+methods/+tools/ -S p:0 -S s:0 -P pos -P lemma -P norm
+cwb-encode -c utf8 -d data/cqp/data -F data/contemporary/meta/ -F data/historical/meta -R data/cqp/sacoco -xsB -S text:0+id+collection+source+year+decade+period+title -S p:0 -S s:0 -P pos -P lemma -P norm
 # generate the registry file
 cwb-make -r data/cqp -V SACOCO
 ```
@@ -583,7 +619,6 @@ skips comments as well as an XML declaration)
     - `text`, structural attribute to be declared
     - `0` embedding levels
     - `id` will be an attribute of `text` containing some value
-    - `authors/` is also an attribute of `text` but the slash tells `cqp` to treate it as a feature set.
 - `-P` to declare positional attributes
 
 Get extensive information on how to encode corpora for the CWB in the [encoding tutorial](http://cwb.sourceforge.net/files/CWB_Encoding_Tutorial.pdf).
@@ -594,7 +629,7 @@ Get extensive information on how to encode corpora for the CWB in the [encoding 
 # create the target folder for encoded data
 mkdir -p test/cqp/data
 # run the command
-cwb-encode -c utf8 -d test/cqp/sacoco -F test/contemporary/meta/ -F test/historical/meta -R test/cqp -xsB -S text:0+id+collection+source+url+year+decade+period+title+authors/+cuisines/+ingredients/+methods/+tools/ -S p:0 -S s:0 -P pos -P lemma -P norm
+cwb-encode -c utf8 -d test/cqp/data -F test/contemporary/meta/ -F test/historical/meta -R test/cqp/sacoco -xsB -S text:0+id+collection+source+year+decade+period+title -S p:0 -S s:0 -P pos -P lemma -P norm
 # generate the registry file
 cwb-make -r test/cqp -V SACOCO
 ```
@@ -729,9 +764,9 @@ Our diachronic corpus of cooking recipes in German is now ready to be used. We w
 1. We will visualize and analyse the data with CQPweb/R.
 1. We will describe very briefly our corpus with CQPweb/R.
 
-If you want to follow along, you will need to get a user for our [CQPweb installation](https://fedora.clarin-d.uni-saarland.de/cqpweb).
+If you want to reproduce every step that we will show you below, you will need to get a user for our [CQPweb installation](https://fedora.clarin-d.uni-saarland.de/cqpweb).
 
-Go to this [URL](https://fedora.clarin-d.uni-saarland.de/cqpweb/usr/?thisQ=create&uT=y) to create a new account. Follow the instructions and in a few minutes you will have access to SaCoCo.
+Go to this [URL](https://fedora.clarin-d.uni-saarland.de/cqpweb/usr/?thisQ=create&uT=y) to create a new account. Follow the instructions, and you will have access to SaCoCo in a few minutes.
 
 ## Research question
 

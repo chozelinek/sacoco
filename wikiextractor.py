@@ -340,7 +340,7 @@ class WikiExtractor(object):
     
     def add_text_id(self,tei,revision_id):
         """Add the id attribute to the text element of a TDABf."""
-        text_id = 'wiki'+revision_id
+        text_id = 'wiki_'+revision_id
         text = tei.xpath('//x:text', namespaces = {'x':self.tei})[0]
         text.set('{}id'.format('{'+self.xml+'}'),text_id)
         pass
@@ -382,6 +382,12 @@ class WikiExtractor(object):
             allelements = outxml.xpath('//div')
             for element in allelements:
                 div1.append(element)
+#         paragraphs = tei.xpath('//x:p',namespaces = {'x':self.tei})
+        paragraphs = tei.xpath('//p')
+        for p in paragraphs:
+            if p.text == None:
+                pparent = p.getparent()
+                pparent.remove(p)
         pass
     
     def generate_text(self,tei,title,revision_id,preparation):
@@ -416,10 +422,9 @@ class WikiExtractor(object):
         teiasstring = re.sub(r'><',r'>\n<',teiasstring)
         parser = etree.XMLParser(remove_blank_text=True)
         otei = etree.ElementTree(etree.XML(teiasstring,parser))
-        obasename = 'wiki'+revision_id
+        obasename = 'wiki_'+revision_id
         otei.write(os.path.join(self.xmldir,obasename+'.xml'),encoding='utf-8',pretty_print=True,xml_declaration=True)
         return(otei)
-        pass
     
     def create_xml(self,tei,revision_id):
         """Create a simplified XML file only containing the text to be processed with WebLicht."""
@@ -431,9 +436,9 @@ class WikiExtractor(object):
         objectify.deannotate(tei, cleanup_namespaces=True)
         etree.strip_attributes(tei, '{}id'.format('{'+self.xml+'}'))
         content = tei.xpath('./text/body/div')[0]
-        text = etree.Element('text', id = 'wiki'+revision_id)
+        text = etree.Element('text', id = 'wiki_'+revision_id)
         text.append(content)
-        outpath = os.path.join(self.xmldir,'wiki'+revision_id+'.xml')
+        outpath = os.path.join(self.xmldir,'wiki_'+revision_id+'.xml')
         tree = etree.ElementTree(text)
         tree.write(outpath, encoding = 'utf-8', pretty_print=True, xml_declaration=True)
         pass
@@ -464,7 +469,7 @@ class WikiExtractor(object):
                 p2 = '50'
             return p1+p2
         period = get_period(year)
-        self.metadata['wiki'+revision_id] = {
+        self.metadata['wiki_'+revision_id] = {
                                               'title':title,
                                               'year':year,
                                               'decade':decade,

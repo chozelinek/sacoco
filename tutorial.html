@@ -270,8 +270,8 @@ img {
 <li>title</li>
 <li>text with the instructions</li>
 </ol></li>
-<li>title and text are saved as a TEI XML file (<code>data/source/tei</code>)</li>
-<li>metadata are saved in a CSV file (<code>data/metadata/wiki-metadata-textid.csv</code>)</li>
+<li>title and text are saved as a TEI XML file (<code>data/contemporary/tei</code>)</li>
+<li>metadata are saved in a CSV file (<code>data/metadata/contemporary-metadata.csv</code>)</li>
 </ol>
 <p>To run the script you need to run the following commands from the terminal:</p>
 <div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="co"># run the script</span>
@@ -389,6 +389,41 @@ img {
 </div>
 <div id="historical-component" class="section level3">
 <h3><span class="header-section-number">1.1.2</span> Historical component</h3>
+<!-- Reference to the sources -->
+<p>We take as starting point the materials in <code>data/historical/source</code>. Our goal is to generate a TEI Lite XML for each recipe, and extract the metadata.</p>
+<p>The script <code>xmlextractor.py</code> will help us with the task of normalizing our data.</p>
+<p><code>xmlextractor.py</code>:</p>
+<ol style="list-style-type: decimal">
+<li>gets all XML files in the input folder</li>
+<li>for each file
+<ol style="list-style-type: decimal">
+<li>extracts metadata:
+<ol style="list-style-type: decimal">
+<li>text ID</li>
+<li>year</li>
+<li>authors</li>
+<li>source</li>
+<li>title</li>
+<li>text with the instructions</li>
+</ol></li>
+<li>clean the text from previous annotation</li>
+<li>adds source and appropriate license to the text</li>
+<li>title and text are saved as a TEI XML file (<code>data/historical/tei</code>)</li>
+<li>metadata are saved in a CSV file (<code>data/metadata/historical-metadata.csv</code>)</li>
+</ol></li>
+</ol>
+<p>To run the script you need to run the following commands from the terminal:</p>
+<div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="co"># run the script</span>
+<span class="kw">python3</span> xmlextractor.py -i data/historical/source -x data/historical/tei -m data/metadata</code></pre></div>
+<blockquote>
+<p>TIP: for development/testing purposes, if you just run <code>python3 xmlextractor.py</code>, it will work on the testing dataset stored in the <code>test</code> folder.</p>
+</blockquote>
+<p>You can check from the commandline if the TEI files are alright:</p>
+<div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">for</span> <span class="kw">i</span> in data/historical/tei/*.xml<span class="kw">;</span> <span class="kw">do</span> <span class="kw">xmllint</span> --noout --relaxng utils/tei_lite.rng <span class="ot">$i</span><span class="kw">;</span> <span class="kw">done</span></code></pre></div>
+<blockquote>
+<p>TIP: for development/testing purposes, just switch the input folder:</p>
+</blockquote>
+<div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">for</span> <span class="kw">i</span> in test/historical/tei/*.xml<span class="kw">;</span> <span class="kw">do</span> <span class="kw">xmllint</span> --noout --relaxng utils/tei_lite.rng <span class="ot">$i</span><span class="kw">;</span> <span class="kw">done</span></code></pre></div>
 </div>
 </div>
 <div id="data-processing-with-weblicht" class="section level2">
@@ -429,21 +464,18 @@ img {
 <ol style="list-style-type: decimal">
 <li>Click on <code>New Chain</code>.</li>
 <li>A window will pop-up.</li>
-<li>There are 3 input modes: click on the leftmost box where one can read <code>Enter your text here.</code> and paste this contemporary recipe excerpt: <code>Das Mehl in die Schüssel geben (eventuell sieben), in der Mitte eine Mulde eindrücken. Die saure Sahne hinein geben und mit Salz bestreuen.</code></li>
-<li>Choose the <code>Document Type</code>: <code>Plain Text</code>.</li>
-<li>Choose the <code>Language</code>: <code>German</code>.</li>
+<li>There are 3 input modes: click on the rightmost button <code>Browse</code>.</li>
+<li>Choose <code>utils/tcf_example.xml</code>.</li>
 <li>Click on OK.</li>
-<li>Now, you have to choose a mode: pick <code>Advanced Mode</code>.</li>
 <li>Choose the tools:
 <ol style="list-style-type: decimal">
-<li>Berlin: Plaintext Converter</li>
 <li>Berlin: Tokenizer and Sentence</li>
 <li>Berlin: Part-of-Speech Tagger</li>
 </ol></li>
 <li>Click on <code>Run Tools</code></li>
 <li>Explore the results</li>
 <li>Download the chain by clicking on <code>Download chain</code></li>
-<li>Save the XML file as <code>chain_contemporary_deu.xml</code> in the folder <code>../scripts</code> of our repo.</li>
+<li>Save the XML file as <code>chain_contemporary.xml</code> in the folder <code>scripts</code> of our repo.</li>
 </ol>
 <p>If the instructions weren’t clear enough, watch this video explaining how to design a tool chain.</p>
 <video width="640" height="360" autobuffer controls preload="auto">
@@ -458,21 +490,18 @@ img {
 <ol style="list-style-type: decimal">
 <li>Click on <code>New Chain</code>.</li>
 <li>A window will pop-up.</li>
-<li>There are 3 input modes: click on the leftmost box where one can read <code>Enter your text here.</code> and paste this contemporary recipe excerpt: <code>Das Mehl in die Schüssel geben (eventuell sieben), in der Mitte eine Mulde eindrücken. Die saure Sahne hinein geben und mit Salz bestreuen.</code></li>
-<li>Choose the <code>Document Type</code>: <code>Plain Text</code>.</li>
-<li>Choose the <code>Language</code>: <code>German</code>.</li>
+<li>There are 3 input modes: click on the rightmost button <code>Browse</code>.</li>
+<li>Choose <code>utils/tcf_example.xml</code>.</li>
 <li>Click on OK.</li>
-<li>Now, you have to choose a mode: pick <code>Advanced Mode</code>.</li>
 <li>Choose the tools:
 <ol style="list-style-type: decimal">
-<li>Berlin: Plaintext Converter</li>
 <li>Berlin: Tokenizer and Sentence</li>
 <li>Berlin: CAB historical text</li>
 </ol></li>
 <li>Click on <code>Run Tools</code></li>
 <li>Explore the results</li>
 <li>Download the chain by clicking on <code>Download chain</code></li>
-<li>Save the XML file as <code>chain_historical_deu.xml</code> in the folder <code>../scripts</code> of our repo.</li>
+<li>Save the XML file as <code>chain_historical.xml</code> in the folder <code>scripts</code> of our repo.</li>
 </ol>
 </div>
 <div id="using-weblicht-as-a-service" class="section level3">
@@ -507,7 +536,7 @@ img {
 <div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">python3</span> waaswrapper.py -i data/contemporary/tei -c utils/chain_contemporary.xml -o data/contemporary/vrt</code></pre></div>
 <p>Then, you will be prompted to provide your API key.</p>
 <blockquote>
-<p>TIP: for development/testing purposes, if you just run <code>python3 waaswrapper.py -c utils/chain_contemporary.xml</code>, it will work on the testing dataset stored in the <code>test</code> folder.</p>
+<p>TIP: for development/testing purposes, if you just run <code>python3 waaswrapper.py -t contemporary</code>, it will work on the testing dataset stored in the <code>test</code> folder.</p>
 </blockquote>
 <p>You can get more information on the parameters this script takes by running:</p>
 <div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">python3</span> waaswrapper.py -h</code></pre></div>
@@ -562,7 +591,7 @@ servieren   VVINF   servieren
 <p>The procedure is exactly the same, the only differences are: the location of the input files, and the chain to be used.</p>
 <div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">python3</span> waaswrapper.py -i data/historical/tei -c utils/chain_historical.xml -o data/historical/vrt</code></pre></div>
 <blockquote>
-<p>TIP: for development/testing purposes, if you just run <code>python3 waaswrapper.py -c utils/chain_historical.xml</code>, it will work on the testing dataset stored in the <code>test</code> folder.</p>
+<p>TIP: for development/testing purposes, if you just run <code>python3 waaswrapper.py -t historical</code>, it will work on the testing dataset stored in the <code>test</code> folder.</p>
 </blockquote>
 </div>
 </div>
@@ -620,7 +649,7 @@ hacken  VVINF   hacken
 <div id="add-metadata-to-the-historical-recipes" class="section level4">
 <h4><span class="header-section-number">1.3.1.2</span> Add metadata to the historical recipes</h4>
 <p>We need to run the command also on the historical recipes indicating the corresponding metadata file, the location of the input files, and the path for the output.</p>
-<div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">python3</span> addmetadata.py -i data/historical/vrt -m data/metadata/sacoco-metadata.csv -o data/historical/meta</code></pre></div>
+<div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">python3</span> addmetadata.py -i data/historical/vrt -m data/metadata/historical-metadata.csv -o data/historical/meta</code></pre></div>
 <blockquote>
 <p>TIP: for development/testing purposes, if you just run <code>python3 addmetadata.py -t historical</code>, it will work on the testing dataset stored in the test folder. ```</p>
 </blockquote>
@@ -655,7 +684,7 @@ hacken  VVINF   hacken
 <li>saves the output as tab-separated plain text file</li>
 </ul>
 <p>We use the following command:</p>
-<div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">python3</span> metadata4cqpweb.py -i data/metadata/contemporary-metadata.csv data/metadata/historical-metadata.csv -o data/metadata/sacoco.meta</code></pre></div>
+<div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">python3</span> metadata4cqpweb.py -i data/metadata/contemporary-metadata.csv data/metadata/historical-metadata.csv -o data/metadata/sacoco.meta -c year decade period collection source title</code></pre></div>
 <blockquote>
 <p>TIP: for development/testing purposes, if you just run <code>python3 metadata4cqpweb.py</code>, it will work on the testing dataset stored in the test folder.</p>
 </blockquote>
@@ -717,7 +746,7 @@ hacken  VVINF   hacken
 <li>administrator access to a CQPweb installation</li>
 <li>root access to the server where the CQPweb lives</li>
 </ul>
-<p>If you don’t fullfil all this requirements and/or you don’t have experience enough, do not worry. Just jump to section <!-- --></p>
+<p>If you don’t fullfil all this requirements and/or you don’t have experience enough, do not worry. Just jump to the section on <a href="#integration-of-the-resource-in-the-clarin-d-infrastructure"><em>clarinifying</em></a> and leave the gory details for us.</p>
 <p>Nevertheless, we document below all the steps to get SaCoCo encoded and installed in CQPweb.</p>
 <div id="encode-the-corpus-for-the-cwb" class="section level4">
 <h4><span class="header-section-number">1.3.3.1</span> Encode the corpus for the CWB</h4>
@@ -728,7 +757,7 @@ hacken  VVINF   hacken
 <div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="co"># create the target folder for encoded data</span>
 <span class="kw">mkdir</span> -p data/cqp/data
 <span class="co"># run the command</span>
-<span class="kw">cwb-encode</span> -c utf8 -d data/cqp/sacoco -F data/contemporary/meta/ -F data/historical/meta -R data/cqp -xsB -S text:0+id+collection+source+url+year+decade+period+title+authors/+cuisines/+ingredients/+methods/+tools/ -S p:0 -S s:0 -P pos -P lemma -P norm
+<span class="kw">cwb-encode</span> -c utf8 -d data/cqp/data -F data/contemporary/meta/ -F data/historical/meta -R data/cqp/sacoco -xsB -S text:0+id+collection+source+year+decade+period+title -S p:0 -S s:0 -P pos -P lemma -P norm
 <span class="co"># generate the registry file</span>
 <span class="kw">cwb-make</span> -r data/cqp -V SACOCO</code></pre></div>
 <p>The <code>cwb-encode</code>’s parameters explained:</p>
@@ -749,7 +778,6 @@ hacken  VVINF   hacken
 <li><code>text</code>, structural attribute to be declared</li>
 <li><code>0</code> embedding levels</li>
 <li><code>id</code> will be an attribute of <code>text</code> containing some value</li>
-<li><code>authors/</code> is also an attribute of <code>text</code> but the slash tells <code>cqp</code> to treate it as a feature set.</li>
 </ul></li>
 <li><code>-P</code> to declare positional attributes</li>
 </ul>
@@ -760,7 +788,7 @@ hacken  VVINF   hacken
 <div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="co"># create the target folder for encoded data</span>
 <span class="kw">mkdir</span> -p test/cqp/data
 <span class="co"># run the command</span>
-<span class="kw">cwb-encode</span> -c utf8 -d test/cqp/sacoco -F test/contemporary/meta/ -F test/historical/meta -R test/cqp -xsB -S text:0+id+collection+source+url+year+decade+period+title+authors/+cuisines/+ingredients/+methods/+tools/ -S p:0 -S s:0 -P pos -P lemma -P norm
+<span class="kw">cwb-encode</span> -c utf8 -d test/cqp/data -F test/contemporary/meta/ -F test/historical/meta -R test/cqp/sacoco -xsB -S text:0+id+collection+source+year+decade+period+title -S p:0 -S s:0 -P pos -P lemma -P norm
 <span class="co"># generate the registry file</span>
 <span class="kw">cwb-make</span> -r test/cqp -V SACOCO</code></pre></div>
 </div>
@@ -903,8 +931,8 @@ hacken  VVINF   hacken
 <li>We will visualize and analyse the data with CQPweb/R.</li>
 <li>We will describe very briefly our corpus with CQPweb/R.</li>
 </ol>
-<p>If you want to follow along, you will need to get a user for our <a href="https://fedora.clarin-d.uni-saarland.de/cqpweb">CQPweb installation</a>.</p>
-<p>Go to this <a href="https://fedora.clarin-d.uni-saarland.de/cqpweb/usr/?thisQ=create&amp;uT=y">URL</a> to create a new account. Follow the instructions and in a few minutes you will have access to SaCoCo.</p>
+<p>If you want to reproduce every step that we will show you below, you will need to get a user for our <a href="https://fedora.clarin-d.uni-saarland.de/cqpweb">CQPweb installation</a>.</p>
+<p>Go to this <a href="https://fedora.clarin-d.uni-saarland.de/cqpweb/usr/?thisQ=create&amp;uT=y">URL</a> to create a new account. Follow the instructions, and you will have access to SaCoCo in a few minutes.</p>
 <div id="research-question" class="section level2">
 <h2><span class="header-section-number">2.1</span> Research question</h2>
 <blockquote>

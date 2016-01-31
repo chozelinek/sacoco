@@ -21,7 +21,7 @@
                             <cmd:PID>http://hdl.handle.net/11858/00-203C-0000-0024-758A-8</cmd:PID>
                         </cmd:ToolInChain>
                         <cmd:ToolInChain>
-                            <cmd:PID>http://hdl.handle.net/11858/00-203C-0000-0024-7588-C</cmd:PID>
+                            <cmd:PID>http://hdl.handle.net/11858/00-203C-0000-0023-21BC-1</cmd:PID>
                         </cmd:ToolInChain>
                     </cmd:Toolchain>
                 </cmd:WebServiceToolChain>

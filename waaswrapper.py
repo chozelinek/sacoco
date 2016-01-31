@@ -104,8 +104,13 @@ class WebLichtWrapper(object):
         pass
     
     def weblichtfy(self,element):
+        input = element.text.encode('utf-8')
+        intcf = self.read_xml('utils/tcf_template.xml')
+        text = intcf.xpath('//x:text',namespaces = {'x':self.tcf})[0]
+        text.text = element.text
         multiple_files = {'chains': open(self.chain, 'rb'),
-                          'content': element.text,
+                          'content': ('input.xml', etree.tostring(intcf)),
+#                           'content': input,
                           'apikey': self.apikey}
         with requests.Session() as s:
             s.mount(self.url,requests.adapters.HTTPAdapter(max_retries=5))
@@ -132,7 +137,15 @@ class WebLichtWrapper(object):
         return pos
     
     def get_norm(self,tcf,token_id):
-        pass
+        norm = tcf.xpath('//x:correction[@tokenIDs="{}"]'.format(token_id),namespaces = {'x':self.tcf})
+        if len(norm) == 0:
+            output = self.get_word(tcf,token_id)
+        else:
+            output = norm[0].text
+        return output
+    
+    
+#     <orthography><correction operation="replace" tokenIDs="w1">Willst_du</correction>
     
     def transform(self,tcf,p):
         sentences = tcf.xpath('//x:sentence', namespaces = {'x':self.tcf})
@@ -144,12 +157,12 @@ class WebLichtWrapper(object):
                 word = self.get_word(tcf,token_id)
                 pos = self.get_pos(tcf, token_id)
                 lemma = self.get_lemma(tcf, token_id) 
-#                 norm = self.get_norm(tcf, token_id)
+                norm = self.get_norm(tcf, token_id)
                 tokens.append([
                                word,
                                pos,
                                lemma,
-#                                norm
+                                norm
                                ])
             tokens = '\n'.join(['\t'.join(x) for x in tokens])
             new_sentence.text = '\n'+tokens+'\n'
@@ -251,7 +264,7 @@ class WebLichtWrapper(object):
             self.indir = 'test/{}/tei'.format(args.test)
             self.outdir = 'test/{}/vrt'.format(args.test)
             self.chain = 'utils/chain_{}.xml'.format(args.test)
-        elif noneargs > 0 and args.test == None:
+        elif noneargs > 1 and args.test == None:
             options = ["'-"+k[0]+"'" for k,v in args.__dict__.items() if v == None]
             options = ', '.join(options)
             exit_message = '\n'.join(["You forgot option(s): {}".format(options),

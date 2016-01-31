@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://de.clarin.eu/images/weblicht-tutorials/resources/tcf-04/schemas/latest/d-spin_0_4.rnc" 
+            type="application/relax-ng-compact-syntax"?>
+<D-Spin
+    xmlns="http://www.dspin.de/data" version="0.4">
+    <MetaData
+        xmlns="http://www.dspin.de/data/metadata">
+    </MetaData>
+    <TextCorpus
+        xmlns="http://www.dspin.de/data/textcorpus" lang="de">
+        <text>Wiltu machen eine schwebende Gallart  die da sol vber die Schüssel schweben  so las dir machen in die Schüssel eine Eyserne rhör  die da gestalt ist  wie die  da man pfleget ein gros Liecht einzustecken  vnd las dir machen ein gitter von drate  so breit als die Schüssel  vnd das fein rund ist  mache mitten durch das gegitter ein holtz  vnd las dir machen ein gerecht schefflein  daß das gegitter kan darein gelegt werden  vnd seud Fisch oder Fleisch abe  vnd mache das soht wol mit Hausenblasen  würtze es abe mit allerley Würtze  vnd lege das auff dieses Fleisch oder Fische  vnd geus darauff dieses soht  vnd setze sie das sie gerinnet  wenn sie gerunnen ist  so schlag die Reiffen von dem Fäßlein  vnd nim die Gallart fein heraus  stecke sie auff die röhre in die Schüssel  vnd las sie hübsch vergülden  bestecke sie mit Mandelkernen  bestrewe sie mit Rosincken  ziere sie wol  geus rein wasser vnden in die Schüssel  vnd setze darein lebendige Gründel oder Kressen  vnd andere lebendige Fische  vnd gib sie hin  so wirstu haben ein schön Essen .</text>
+    </TextCorpus>
+</D-Spin>

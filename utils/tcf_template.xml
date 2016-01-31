@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://de.clarin.eu/images/weblicht-tutorials/resources/tcf-04/schemas/latest/d-spin_0_4.rnc" 
+            type="application/relax-ng-compact-syntax"?>
+<D-Spin
+    xmlns="http://www.dspin.de/data" version="0.4">
+    <MetaData
+        xmlns="http://www.dspin.de/data/metadata">
+    </MetaData>
+    <TextCorpus
+        xmlns="http://www.dspin.de/data/textcorpus" lang="de">
+        <text></text>
+    </TextCorpus>
+</D-Spin>

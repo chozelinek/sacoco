@@ -11,6 +11,7 @@ import fnmatch
 import math
 import pandas as pd
 
+
 #===============================================================================
 # Import XML module
 #===============================================================================
@@ -66,15 +67,15 @@ class MetadataForCqpWeb(object):
         parser = argparse.ArgumentParser()
         parser.add_argument("-i","--input", nargs='+', help="input files.")
         parser.add_argument("-o","--output", help="output file.")
-        parser.add_argument("-c","--columns", help="columns to be extracted.")
+        parser.add_argument("-c","--columns", nargs='+', help="columns to be extracted.")
         args = parser.parse_args()
         noneargs = [x for x in args.__dict__.values()].count(None)
         if noneargs == 3:
             print("Running in test mode!")
-            self.infiles = ['test/metadata/contemporary-metadata.csv']
-#             self.infiles = ['test/metadata/contemporary-metadata.csv','test/metadata/historical-metadata.csv']
-            self.outfile = 'test/sacoco.meta'
-            self.columns = ['year','decade','period','collection','source', 'title', 'ingredients']
+#             self.infiles = ['test/metadata/contemporary-metadata.csv']
+            self.infiles = ['test/metadata/contemporary-metadata.csv','test/metadata/historical-metadata.csv']
+            self.outfile = 'test/metadata/sacoco.meta'
+            self.columns = ['year','decade','period','collection','source', 'title']
         elif noneargs > 0 and noneargs < 3:
             options = ["'-"+k[0]+"'" for k,v in args.__dict__.items() if v == None]
             options = ', '.join(options)
