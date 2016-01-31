@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>9. Mett=Würste oder Brat=Würste auf Niedersächsische Art.</title>
+        <author/>
+        <respStmt>
+          <resp/>
+          <name>Andrea Wurm</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Universität des Saarlandes</publisher>
+        <pubPlace>Saarbrücken</pubPlace>
+        <availability status="free">
+          <p>Recipe transcribed by <ref target="mailto:a.wurm@mx.uni-saarland.de">Andrea Wurm</ref> is licensed under a <ref target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</ref>.</p>
+        </availability>
+        <date>2016</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="danckwerth_22">
+    <body>
+      <div n="1" type="recipe">
+        <head>9. Mett=Würste oder Brat=Würste auf Niedersächsische Art.</head>
+        <p>Man hacket das Fleisch aufs allerkleineste  in hacken aber saltzet man es  und thut dazu Kümmel  gantzen Pfeffer  und wenn man will  auch Nägelcken  dieses macht man so fest auch in Rinder=Darmen  im machen sticht man sie mit einer kleinen Gabel  daß der Wind heraus gehet  und lässet sie eine Nacht in der Stuben . Den andern Tag trucket man sie fest  bindet sie zu  und hanget sie in dem Rauche . Man kan dieses gehackte auch in Blasen machen  selbe muß man aber etliche Tage in der warmen Stube hängen lassen  und sie alle Tage nachdrücken  und wenn sie 3. oder 4. Tage im Rauche gehangen  muß man sie 2. Tage pressen  sonst verderben sie gerne  hernach kan man sie vollends räuchern .</p>
+      </div>
+    </body>
+  </text>
+</TEI>

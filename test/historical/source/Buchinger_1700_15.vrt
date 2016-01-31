@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Buchinger_1700_15" collection="historical" source="Buchinger" url="none" year="1700" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:1f.]">
+<title>
+<seg type="newline">
+507.	ADJA	 @ord@	507.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Man	PIS	 man	Man
+mag	VMFIN	 mögen	mag
+auch	ADV	 auch	auch
+wol	PWAV	 wo	wo
+über	APPR	 über	über
+die	ART	 d	die
+einige	PIAT	 einige	einige
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+hübsch	ADJD	 hübsch	hübsch
+groß	ADJD	 groß	groß
+sind	VAFIN	 sein	sind
+</seg>
+<seg type="newline">
+jungen	ADJA	 jung	jungen
+Spinat	NN	 Spinat	Spinat
+oder	KON	 oder	oder
+jungen	ADJA	 jung	jungen
+Mangold	NN	 Mangold	Mangold
+</seg>
+<seg type="newline">
+ohngehackt	VVFIN	 UNKNOWN	ohngehackt
+</seg>
+<seg type="newline">
+zuvor	PTKVZ	 zuvor	zuvor
+wol	PWAV	 wo	wo
+gesotten	VVPP	 sieden	gesotten
+</seg>
+<seg type="newline">
+under	ADJA	 UNKNOWN	under
+Plattislin	NN	 UNKNOWN	Plattislin
+thun	NE	 UNKNOWN	thue
+</seg>
+<seg type="newline">
+alsdann	NE	 UNKNOWN	Alsdann
+gesaltzen	ADJD	 UNKNOWN	gesaltzen
+</seg>
+<seg type="newline">
+gewürtzen	VVPP	 würzen	gewürzt
+und	KON	 und	und
+schmaltzen	VVFIN	 UNKNOWN	schmaltzen
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+beym	ADJA	 UNKNOWN	beym
+Stockfisch	NN	 Stockfisch	Stockfisch
+gemeldet	VVPP	 melden	gemeldet
+.	$.	.	$.	 .	|	.
+Oder	KON	 oder	Oder
+man	PIS	 man	man
+gießt	VVFIN	 gießen	gießt
+ein	ART	 ein	ein
+Brühlin	NN	 UNKNOWN	Brühlin
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+Num	NN	 UNKNOWN	Num
+.	$.	.	$.	 .	|	.
+500	CARD	 500	500
+501.	ADJA	 @ord@	501.
+</seg>
+</body>
+</text>

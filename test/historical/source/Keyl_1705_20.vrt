@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Keyl_1705_20" collection="historical" source="Keyl" url="none" year="1705" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1705:132]">
+<title>
+<seg type="newline">
+Schaafskeule	NN	 UNKNOWN	Schaafskeule
+zu	PTKZU	 zu	zu
+kochen	VVINF	 kochen	kochen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Das	ART	 d	Das
+Fleisch	NN	 Fleisch	Fleisch
+in	APPR	 in	in
+kalt	ADJD	 kalt	kalt
+Wasser	NN	 Wasser	Wasser
+gar	ADV	 gar	gar
+gekochet	ADJD	 UNKNOWN	gekochet
+</seg>
+<seg type="newline">
+eine	ART	 ein	eine
+Hand	NN	 Hand	Hand
+voll	ADJD	 voll	voll
+Habergrütz	NN	 UNKNOWN	Habergrütz
+dabey	PAV	 dabei	dabei
+gethan	NN	 UNKNOWN	gethan
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+wird	VAFIN	 werden	wird
+es	PPER	 es	es
+weiß	ADJD	 weiß	weiß
+</seg>
+<seg type="newline">
+denn	KON	 denn	denn
+so	ADV	 so	so
+nimmt	VVFIN	 nehmen	nimmt
+man	PIS	 man	man
+viele	PIAT	 viel	viele
+Capers	NN	 Kaper|Kapern	Kapern
+</seg>
+<seg type="newline">
+Corinthen	NN	 Korinthe	Korinthen
+</seg>
+<seg type="newline">
+Muscatenblum	NN	 UNKNOWN	Muscatenblumen
+</seg>
+<seg type="newline">
+gehacket	VVFIN	 UNKNOWN	gehacket
+Petrosilien	NN	 UNKNOWN	Petrosilien
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+gerieben	VVPP	 reiben	gerieben
+Semmel	NN	 Semmel	Semmel
+</seg>
+<seg type="newline">
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+das	ART	 d	das
+zusammen	ADV	 zusammen	zusammen
+auffgekochet	ADJA	 UNKNOWN	auffgekochet
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+eine	ART	 ein	eine
+Schüssel	NN	 Schüssel	Schüssel
+gethan	NE	 UNKNOWN	gethan
+</seg>
+<seg type="newline">
+und	KON	 und	und
+alsdenn	NE	 UNKNOWN	Alsdann
+die	ART	 d	die
+Keule	NN	 Keule	Keule
+darauff	PAV	 drauf	drauf
+geleget	VVPP	 UNKNOWN	geleget
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

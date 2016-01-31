@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Überbackener Kohlrabi mit Blattspinatfüllung</title>
+        <author>Jozeil, Hombre, CTHOE, NikiWiki</author>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Universität des Saarlandes</publisher>
+        <pubPlace>Saarbrücken</pubPlace>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution ShareAlike 3.0 License</ref>.</p>
+        </availability>
+        <date>2016</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>http://www.kochwiki.org/w/index.php?oldid=250121</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="wiki_250121">
+    <body>
+      <div n="1" type="recipe">
+        <head>Überbackener Kohlrabi mit Blattspinatfüllung</head>
+        <div n="2" type="contents">
+          <head>Vorbereitung Kohlrabi</head>
+          <p>Die Kohlrabi schälen und mit dem Kugelausstecher so aushöhlen, dass rundum ein Rand von etwa 1 cm bestehen bleibt. In einem Topf reichlich Salzwasser zum Kochen bringen. Die ausgehöhlten Kohlrabi einlegen und al dente kochen. In der Zwischenzeit eine Schüssel mit Eiswasser füllen. Den Parmesan fein reiben und beiseite stellen. Ist der Kohlrabi gar aus dem Wasser heben und sofort in Eiswasser abschrecken.</p>
+        </div>
+        <div n="2" type="contents">
+          <head>Vorbereitung Blattspinatfüllung</head>
+          <p>Das ausgehöhlte Fruchtfleisch vom Kohlrabi fein hacken. Die Zwiebel Pellen und feine Würfel schneiden. Den Knoblauch pellen und fein hacken. Den Blattspinat waschen, gut trocken tupfen und grob hacken.</p>
+        </div>
+        <div n="2" type="contents">
+          <head>Blattspinatfüllung</head>
+          <p>In der Pfanne die Butter erhitzen und den gehackten Kohlrabi sowie die Zwiebelwürfel glasig anrösten. Dann mit Salz sowie Pfeffer würzen und weich dünsten. Jetzt den Blattspinat sowie den Knoblauch zugeben und noch kurz schmoren lassen, bis der Spinat zusammen gefallen ist. Den Blattspinat dann mit dem Mehl stauben und mit der Milch unter Pfannenrühren aufgießen. Die Flüssigkeit aufkochen lassen und dann für etwa 1 Minute leicht köcheln lassen, bis das Mehl die Flüssigkeit gebunden hat. Zum Schluss die Füllung mit Salz, Pfeffer sowie Muskat abschmecken.</p>
+        </div>
+        <div n="2" type="contents">
+          <head>Überbackener Kohlrabi mit Blattspinatfüllung</head>
+          <p>Das Backrohr bei Ober-/Unterhitze auf 180 °C vorheizen. Eine Auflaufform mit etwas Butter ausfetten. Die Kohlrabi mit der Blattspinatfüllung füllen und mit dem Parmesan bestreuen. Dann in die Auflaufform setzen, je eine Butterflocke darauf geben und im heißen Backrohr auf der zweiten Schiene von unten für etwa 15 bis 20 Minuten goldgelb gratinieren. Aus dem Backrohr nehmen, leicht überkühlen lassen und auf vorgewärmten Tellern anrichten. Das Gericht sofort noch heiß mit Beilage nach Wahl servieren.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

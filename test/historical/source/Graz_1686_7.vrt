@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Graz_1686_7" collection="historical" source="Graz" url="http://www.uni-giessen.de/gloning/tx/graz2.htm" language="deu" year="1686" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" ingredient="|Huhn|" method="|Pastete|" ref="[]">
+<title>
+<seg type="newline">
+Fleisch-Pastetel	NN	 UNKNOWN	Fleisch-Pastetel
+zu	PTKZU	 zu	zu
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+MAn	PIS	 man	MAn
+soll	VMFIN	 sollen	soll
+ein	ART	 ein	ein
+marbes	PAV	 dabei	dabei
+Kälbernes	NN	 UNKNOWN	Kälbernes
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Hennen-Brät	NN	 UNKNOWN	Hennen-Brät
+nemmen	VVINF	 nehmen	nehmen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+zimblich	ADJD	 UNKNOWN	zimblich
+</seg>
+<seg type="newline">
+aber	KON	 aber	aber
+nit	ADJD	 UNKNOWN	nimb
+zu	APPR	 zu	zu
+vil	PIAT	 viel	viel
+</seg>
+<seg type="newline">
+Kälberne	NN	 UNKNOWN	Kälbernes
+oder	KON	 oder	oder
+Rinderne	ADJA	 silbern	silberne
+Feisten	VVINF	 rösten	rösten
+</seg>
+<seg type="newline">
+und	KON	 und	und
+solches	PIAT	 solch	solches
+alles	PIS	 alle	alles
+auff	APPR	 auf	auf
+das	ART	 d	das
+kleinest	ADJA	 klein	kleine
+so	ADV	 so	so
+müglich	ADJD	 möglich	möglich
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+durch	APPR	 durch	durch
+einander	PRF	 einander	einander
+hacken	VVINF	 hacken	hacken
+</seg>
+<seg type="newline">
+und	KON	 und	und
+saltzen	ADJA	 kalt	kalten
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+ein	ART	 ein	ein
+Semmel	NN	 Semmel	Semmel
+in	APPR	 in	in
+ein	ART	 ein	ein
+obere	ADJA	 ober	obere
+Milch	NN	 Milch	Milch
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Fleischsuppen	NN	 UNKNOWN	Fleischsuppen
+geweicht	ADJA	 gereicht	gereichten
+</seg>
+<seg type="newline">
+wider	VVIMP	 widern	wider
+wol	PWAV	 wo	wo
+außdrucken	ADJA	 UNKNOWN	außdrucken
+</seg>
+<seg type="newline">
+und	KON	 und	und
+zwey	CARD	 zwei	zwei
+Ayrdotter	NN	 UNKNOWN	Ayrdotter
+darzu	PAV	 dazu	dazu
+thun	NE	 UNKNOWN	thue
+</seg>
+<seg type="newline">
+und	KON	 und	und
+alles	PIS	 alle	alles
+wol	PWAV	 wo	wo
+in	APPR	 in	in
+einem	ART	 ein	einem
+Mörser	NN	 Mörser	Mörser
+zerstossen	VVFIN	 zerstoßen	zerstossen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+wirds	VAFIN	 werden	wird
+ein	ART	 ein	ein
+Taig	NN	 Teig	Teig
+</seg>
+<seg type="newline">
+darvon	PAV	 darin	darin
+kan	ADV	 nun	Nun
+man	PIS	 man	man
+mehr	ADV	 mehr	mehr
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+nur	ADV	 nur	nur
+ein	ART	 ein	ein
+Pastetel	NN	 Pastete	Pasteten
+auffsetzen	VVINF	 aufsetzen	aufsetzen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+am	APPRART	 am	am
+Boden	NN	 Boden	Boden
+da	ADV	 da	da
+mans	VMFIN	 mögen	mag
+darauff	PAV	 drauf	drauf
+setzt	VVFIN	 setzen	setzt
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+kälbernes	NN	 UNKNOWN	Kälbernes
+Netz	NE	 Netz	Netz
+legen	VVINF	 legen	legen
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+ein	ART	 ein	ein
+Taigblätl	NE	 UNKNOWN	Taigblätl
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+solle	VMFIN	 sollen	solle
+man	PIS	 man	man
+Kopaun-	TRUNC	 UNKNOWN	Kopaun-
+oder	KON	 oder	oder
+Hüner-Leber	NN	 Hühnerleber	Hühnerleber
+die	ART	 d	die
+in	APPR	 in	in
+vil	PIAT	 viel	viel
+Wässern	NN	 Wässern	Wässern
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+sie	PPER	 sie	sie
+schön	ADJD	 schön	schön
+weiß	ADJD	 weiß	weiß
+werden	VAINF	 werden	werden
+</seg>
+<seg type="newline">
+außgewässert	VVFIN	 UNKNOWN	außgewässert
+seyn	NE	 UNKNOWN	seyn
+</seg>
+<seg type="newline">
+solche	PIS	 solch	solche
+in	APPR	 in	in
+ein	ART	 ein	ein
+gar	ADV	 gar	gar
+heisses	ADJA	 heiß	heisses
+Schmaltz	NN	 Schmalz	Schmalz
+werffen	NN	 Herz	Herzen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+stracks	ADV	 stracks	stracks
+wider	APPR	 wider	wider
+heraus	ADV	 heraus	heraus
+thun	ADJD	 UNKNOWN	thue
+</seg>
+<seg type="newline">
+und	KON	 und	und
+gar	ADV	 gar	gar
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+saltzen	ADJA	 kalt	kalten
+</seg>
+<seg type="newline">
+und	KON	 und	und
+pfeffern	VVFIN	 pfeffern	pfeffern
+</seg>
+<seg type="newline">
+und	KON	 und	und
+grünes	ADJA	 grün	grünes
+Kräutel	NN	 Kraut	Kräuter
+daran	PAV	 daran	daran
+schneiden	VVINF	 schneiden	schneiden
+</seg>
+<seg type="newline">
+und	KON	 und	und
+ein	ART	 ein	ein
+gesäuerten	ADJA	 gesäuert	gesäuerten
+Lemoni	NN	 UNKNOWN	Lemoni
+hacken	VVFIN	 hacken	hacken
+</seg>
+<seg type="newline">
+vil	PIAT	 viel	viel
+Butter	NN	 Butter	Butter
+am	APPRART	 am	am
+Boden	NN	 Boden	Boden
+legen	VVFIN	 legen	legen
+</seg>
+<seg type="newline">
+den	ART	 d	den
+gehackten	ADJA	 gehackt	gehackten
+Lemoni	NN	 UNKNOWN	Lemoni
+darauff	PAV	 drauf	drauf
+</seg>
+<seg type="newline">
+und	KON	 und	und
+die	ART	 d	die
+Leberl	NN	 Leber	Leber
+darein	ADV	 darein	darein
+füllen	VVFIN	 füllen	füllen
+</seg>
+<seg type="newline">
+oben	ADV	 oben	oben
+darauff	PAV	 drauf	drauf
+wider	APPR	 wider	wider
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+und	KON	 und	und
+breit	ADJD	 breit	breit
+geschnittene	ADJA	 geschnitten	geschnittene
+Lemoni-Schnitzel	NN	 UNKNOWN	Lemoni-Schnitzel
+legen	VVINF	 legen	legen
+</seg>
+<seg type="newline">
+zumachen	VVINF	 zumachen	zumachen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+bachen	NN	 Kochen	Kochen
+;	$.	;	$.	 ;	|	;
+die	PDS	 d	die
+dörffen	VMFIN	 dürfen	dürfen
+länger	ADJD	 lang	länger
+bachen	NN	 Kochen	Kochen
+als	KOKOM	 als	als
+die	ART	 d	die
+Krebs-Pastätel	NN	 UNKNOWN	Krebs-Pastätel
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+sie	PPER	 sie	sie
+seynd	VAFIN	 sein	sind
+roch	VVFIN	 riechen	roch
+;	$.	;	$.	 ;	|	;
+wann	PWAV	 wann	wann
+mans	VMFIN	 mögen	mag
+geben	VVINF	 geben	geben
+will	VMFIN	 wollen	will
+</seg>
+<seg type="newline">
+muß	VMFIN	 müssen	muß
+man	PIS	 man	man
+ein	ART	 ein	ein
+wenig	ADV	 wenig	wenig
+</seg>
+<seg type="newline">
+aber	ADV	 aber	aber
+nicht	PTKNEG	 nicht	nicht
+vil	PIAT	 viel	viel
+</seg>
+<seg type="newline">
+Fleischsuppen	NN	 UNKNOWN	Fleischsuppen
+daran	PAV	 daran	daran
+giessen	VVINF	 gießen	giessen
+.	$.	.	$.	 .	|	.
+Von	APPR	 von	Von
+Fischen	NN	 Fisch|Fischen	Fischen
+kan	ADV	 nun	Nun
+mans	VMFIN	 mögen	mag
+gleich	ADJD	 gleich	gleich
+also	ADV	 also	also
+machen	VVFIN	 machen	machen
+</seg>
+<seg type="newline">
+man	PIS	 man	man
+muß	VMFIN	 müssen	muß
+aber	ADV	 aber	aber
+das	ART	 d	das
+Brät	NN	 UNKNOWN	Brät
+von	APPR	 von	von
+einem	ART	 ein	einem
+grossen	ADJA	 groß	grossen
+Hechten	NN	 Hecht	Hechten
+oder	KON	 oder	oder
+Huchen	NN	 Huchen	Huchen
+nemmen	VVFIN	 nehmen	nehmen
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+man	PIS	 man	man
+die	ART	 d	die
+Gräten	NN	 Gräte	Gräten
+leicht	ADJD	 leicht	leicht
+herauß	NN	 UNKNOWN	herauß
+schneiden	VVINF	 schneiden	schneiden
+kann	VMFIN	 können	kann
+</seg>
+<seg type="newline">
+und	KON	 und	und
+Hechten-Leber	NN	 UNKNOWN	Hechten-Leber
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Karpffen-Zungen	NN	 UNKNOWN	Karpffen-Zungen
+darein	ADV	 darein	darein
+füllen	VVINF	 füllen	füllen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+an	APPR	 an	an
+statt	APPR	 statt	statt
+der	ART	 d	der
+Fleischsuppen	NN	 UNKNOWN	Fleischsuppen
+</seg>
+<seg type="newline">
+Arbessuppen	NN	 UNKNOWN	Arbessuppen
+nemmen	VVINF	 nehmen	nehmen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>[ Ein gut essen von öpffeln ] Ein anders .</title>
+        <author/>
+        <respStmt>
+          <resp/>
+          <name>Andrea Wurm</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Universität des Saarlandes</publisher>
+        <pubPlace>Saarbrücken</pubPlace>
+        <availability status="free">
+          <p>Recipe transcribed by <ref target="mailto:a.wurm@mx.uni-saarland.de">Andrea Wurm</ref> is licensed under a <ref target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</ref>.</p>
+        </availability>
+        <date>2016</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="kochvndkellermeisterey_10">
+    <body>
+      <div n="1" type="recipe">
+        <head>[ Ein gut essen von öpffeln ] Ein anders .</head>
+        <p>Schneid saur öpffel rund inn zwey theyl  füll beyde theyl mit gebraten öpffeln oder Quitten  oder Byrn  reib weißbrot mit zucker darunder  magst sie würtzen  oder nicht  füll die öpffel beyd theyl damit  on Eyer . Mach auch ein Teyg von Honig vnnd Wein  gegilbt  zeuch die öpffel dadurch  verzweck sie  vnnd bachs in butter  zeuch den zweck oder faden ab  streuw Honig oder Zucker darauff .</p>
+      </div>
+    </body>
+  </text>
+</TEI>

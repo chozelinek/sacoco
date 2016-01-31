@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+</title>
+        <author/>
+        <respStmt>
+          <resp/>
+          <name>Andrea Wurm</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Universität des Saarlandes</publisher>
+        <pubPlace>Saarbrücken</pubPlace>
+        <availability status="free">
+          <p>Recipe transcribed by <ref target="mailto:a.wurm@mx.uni-saarland.de">Andrea Wurm</ref> is licensed under a <ref target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</ref>.</p>
+        </availability>
+        <date>2016</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="stockholm_8">
+    <body>
+      <div n="1" type="recipe">
+        <head>
+</head>
+        <p>Apfelmus bereitet wie zu den Torten oder Kräppen  Denn bestrichen  Ein Deckel von Ablat teig darauff geleget  mache ein dünnes Teiglein mit Wein  vnd fein Weitzen Meel  Schneide die gefüllete Ablaten striemen weise  zu 3. oder 4. Lengden durch  ziehet die Ecken durch den dünnen Teig  backet es in heisse Butter geschwinde weg  Giebs warm auffn Tisch  bestrewe es mit Zucker .</p>
+      </div>
+    </body>
+  </text>
+</TEI>

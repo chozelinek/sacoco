@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Schuppe_1698_8" collection="historical" source="Schuppe" url="none" year="1698" decade="1690-1700" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1698:36]">
+<title>
+<seg type="newline">
+LVII	NE	 UNKNOWN	LVII
+.	$.	.	$.	 .	|	.
+Fricando	NE	 UNKNOWN	Fricando
+von	APPR	 von	von
+Kalb=Fleisch	NN	 UNKNOWN	Kalb=Fleisch
+</seg>
+<seg type="newline">
+und	KON	 und	und
+gespickt	VVPP	 spicken	gespickt
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimschier	ADJA	 UNKNOWN	Nimschier
+Kalb=Fleisch	NN	 UNKNOWN	Kalb=Fleisch
+aus	APPR	 aus	aus
+der	ART	 d	der
+Keule	NN	 Keule	Keule
+</seg>
+<seg type="newline">
+schneide	VVFIN	 schneiden	schneide
+es	PPER	 es	es
+in	APPR	 in	in
+dinne	NN	 UNKNOWN	dinne
+Stücklein	NN	 Stücklein	Stücklein
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+ein	ART	 ein	ein
+Messerrücken	NN	 UNKNOWN	Messerrücken
+dick	ADJD	 dick	dick
+</seg>
+<seg type="newline">
+und	KON	 und	und
+drey	CARD	 drei	drei
+Finger	NN	 Finger	Finger
+breit	ADJD	 breit	breit
+</seg>
+<seg type="newline">
+klopff	VVFIN	 UNKNOWN	klopff
+es	PPER	 es	es
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+mit	APPR	 mit	mit
+dem	ART	 d	dem
+Messer	NN	 Messer	Messer
+</seg>
+<seg type="newline">
+nimkleinen	ADJA	 UNKNOWN	nimkleinen
+Speck	NN	 Speck	Speck
+</seg>
+<seg type="newline">
+und	KON	 und	und
+spick	VVFIN	 UNKNOWN	spick
+es	PPER	 es	es
+wie	KOKOM	 wie	wie
+ein	ART	 ein	ein
+Rephun	NN	 UNKNOWN	Rephun
+</seg>
+<seg type="newline">
+leg	VVIMP	 legen	leg
+es	PPER	 es	es
+in	APPR	 in	in
+eine	ART	 ein	eine
+Pfanne	NN	 Pfanne	Pfanne
+oder	KON	 oder	oder
+Schmor=Topff	NN	 UNKNOWN	Schmor=Topff
+</seg>
+<seg type="newline">
+und	KON	 und	und
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+braun	ADJD	 braun	braun
+braten	VVFIN	 braten	braten
+</seg>
+<seg type="newline">
+gieß	VVIMP	 gießen	gieß
+dann	ADV	 dann	dann
+Fleisch=Brühe	NN	 Fleischbrühe	Fleischbrühe
+darauff	PAV	 drauf	drauf
+</seg>
+<seg type="newline">
+nimm	VVIMP	 nehmen	nimm
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Muscaten=Blumen	NN	 UNKNOWN	Muscaten=Blumen
+und	KON	 und	und
+gantze	ADV	 ganz	ganz
+Zwiebeln	NN	 Zwiebel|Zwiebeln	Zwiebeln
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+was	PIS	 was	was
+sonst	ADV	 sonst	sonst
+einer	PIS	 ein	einer
+vor	APPR	 vor	vor
+Gewürtze	NN	 UNKNOWN	Gewürtze
+gerne	ADV	 gerne	gerne
+isset	VVFIN	 UNKNOWN	isset
+;	$.	;	$.	 ;	|	;
+wenn	KOUS	 wenn	wenn
+es	PPER	 es	es
+denn	ADV	 denn	denn
+kurtz	NE	 UNKNOWN	kurtz
+eingekocht	VVPP	 einkochen	eingekocht
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nimm	VVIMP	 nehmen	nimm
+Knoblauch	NN	 Knoblauch	Knoblauch
+</seg>
+<seg type="newline">
+und	KON	 und	und
+mach	VVIMP	 machen	mach
+ihn	PPER	 er	ihn
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+thue	NN	 UNKNOWN	thue
+den	ART	 d	den
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+und	KON	 und	und
+passire	VVFIN	 UNKNOWN	passire
+es	PPER	 es	es
+durcheinander	ADV	 durcheinander	durcheinander
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+ists	ADJD	 UNKNOWN	ists
+fertig	PTKVZ	 fertig	fertig
+.	$.	.	$.	 .	|	.
+NB	NE	 NB	NB
+.	$.	.	$.	 .	|	.
+Auff	NN	 UNKNOWN	Auff
+diese	PDAT	 dies	diese
+Manier	NN	 Manier	Manier
+kan	ADV	 nun	Nun
+man	PIS	 man	man
+die	ART	 d	die
+Fricando	NE	 UNKNOWN	Fricando
+von	APPR	 von	von
+Kalb=Fleisch	NN	 UNKNOWN	Kalb=Fleisch
+auch	ADV	 auch	auch
+machen	VVFIN	 machen	machen
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+es	PPER	 es	es
+nicht	PTKNEG	 nicht	nicht
+gespickt	VVPP	 spicken	gespickt
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+sondern	KON	 sondern	sondern
+in	APPR	 in	in
+Mehl	NN	 Mehl	Mehl
+umbgekehrt	VVFIN	 UNKNOWN	umbgekehrt
+</seg>
+<seg type="newline">
+und	KON	 und	und
+nur	ADV	 nur	nur
+in	APPR	 in	in
+brauner	ADJA	 braun	brauner
+Butter	NN	 Butter	Butter
+gebacken	VVPP	 backen	gebacken
+mit	APPR	 mit	mit
+Zwiebeln	NN	 Zwiebel|Zwiebeln	Zwiebeln
+</seg>
+<seg type="newline">
+welche	PWAT	 welch	welche
+müssen	VMFIN	 müssen	müssen
+klein	ADJD	 klein	klein
+geschnitten	VVPP	 schneiden	geschnitten
+seyn	NE	 UNKNOWN	seyn
+</seg>
+<seg type="newline">
+und	KON	 und	und
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+wol	PWAV	 wo	wo
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Pfeffer	NN	 Pfeffer	Pfeffer
+darüber	PAV	 darüber	darüber
+gestreuet	VVPP	 UNKNOWN	gestreuet
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

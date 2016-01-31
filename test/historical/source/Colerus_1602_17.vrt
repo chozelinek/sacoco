@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Colerus_1602_17" collection="historical" source="Colerus" url="none" year="1602" decade="1600-1610" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1602:152]">
+<title>
+<seg type="newline">
+Kapphanen	NN	 UNKNOWN	Kapphanen
+in	APPR	 in	in
+einem	ART	 ein	einem
+Rosenwasser	NN	 Rosenwasser	Rosenwasser
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wiltu	NE	 UNKNOWN	Wiltu
+machen	VVFIN	 machen	machen
+gute	ADJA	 gut	gute
+Kapphünner	NN	 UNKNOWN	Kapphünner
+</seg>
+<seg type="newline">
+die	ART	 d	die
+da	ADV	 da	da
+fett	ADJD	 fett	fett
+sein	VAINF	 sein	sein
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+einem	ART	 ein	einem
+Rosenwasser	NN	 Rosenwasser	Rosenwasser
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nim	VVFIN	 UNKNOWN	nimb
+die	ART	 d	die
+Kabhünner	NN	 UNKNOWN	Kabhünner
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+stecke	VVFIN	 stecken	stecke
+sie	PPER	 sie	sie
+an	APPR	 an	an
+einen	ART	 ein	einen
+Spis	NN	 UNKNOWN	Spis
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+brate	VVFIN	 braten	brate
+sie	PPER	 sie	sie
+abe	PAV	 dabei	dabei
+</seg>
+<seg type="newline">
+also	ADV	 also	also
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+sie	PPER	 sie	sie
+nicht	PTKNEG	 nicht	nicht
+zu	PTKA	 zu	zu
+sehr	ADV	 sehr	sehr
+gebraten	VVPP	 braten	gebraten
+sein	VAINF	 sein	sein
+.	$.	.	$.	 .	|	.
+Nim	ADJD	 UNKNOWN	nimb
+geschelte	ADJD	 gescheit	gescheit
+Zwippeln	NN	 Zwiebel	Zwiebel
+</seg>
+<seg type="newline">
+schneide	VVFIN	 schneiden	schneide
+sie	PPER	 sie	sie
+hübsch	ADJD	 hübsch	hübsch
+scheibelicht	VVFIN	 UNKNOWN	scheibelicht
+in	APPR	 in	in
+eine	ART	 ein	eine
+Zinnerne	NN	 UNKNOWN	Zinnerne
+schüssel	NN	 Schüssel	schüssel
+geus	VVPP	 UNKNOWN	geuß
+darauff	PAV	 drauf	drauf
+eine	ART	 ein	eine
+gute	ADJA	 gut	gute
+magere	ADJA	 mager	magere
+Rinderne	ADJA	 silbern	silberne
+suppe	NN	 Suppe	suppe
+</seg>
+<seg type="newline">
+setze	VVFIN	 setzen	setze
+die	ART	 d	die
+Zwippeln	NN	 Zwiebel	Zwiebel
+mit	APPR	 mit	mit
+der	ART	 d	der
+Schüssel	NN	 Schüssel	Schüssel
+auff	APPR	 auf	auf
+einen	ART	 ein	einen
+Rhost	NN	 UNKNOWN	Rhost
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+darunter	PAV	 darunter	darunter
+ein	ART	 ein	ein
+klein	ADJD	 klein	klein
+Kohlfewer	NN	 UNKNOWN	Kohlfewer
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+die	ART	 d	die
+Zwippeln	NN	 Zwiebel	Zwiebel
+warm	ADJD	 warm	warm
+sieden	VVFIN	 sieden	sieden
+in	APPR	 in	in
+der	ART	 d	der
+Schüssel	NN	 Schüssel	Schüssel
+</seg>
+<seg type="newline">
+Nim	VVFIN	 UNKNOWN	nimb
+denn	KON	 denn	denn
+die	ART	 d	die
+gebratene	ADJA	 gebraten	gebratene
+Kappaunen	NN	 UNKNOWN	Kappaunen
+oder	KON	 oder	oder
+Kapphanen	NN	 UNKNOWN	Kapphanen
+</seg>
+<seg type="newline">
+zugliede	VVFIN	 UNKNOWN	zugliede
+sie	PPER	 sie	sie
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+las	VVFIN	 lesen	las
+die	ART	 d	die
+Glieder	NN	 Glied	Glieder
+an	APPR	 an	an
+einander	PRF	 einander	einander
+bleiben	VVFIN	 bleiben	bleiben
+hangen	ADV	 lange	lange
+</seg>
+<seg type="newline">
+kerbe	VVFIN	 UNKNOWN	kerbe
+sie	PPER	 sie	sie
+hübsch	ADJD	 hübsch	hübsch
+auff	APPR	 auf	auf
+den	ART	 d	den
+Brüsten	NN	 Brust|Brüsten	Brüsten
+nach	APPR	 nach	nach
+der	ART	 d	der
+lenge	NN	 UNKNOWN	lenge
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+lege	VVFIN	 legen	lege
+sie	PPER	 sie	sie
+in	APPR	 in	in
+die	ART	 d	die
+Schüssel	NN	 Schüssel	Schüssel
+zu	APPR	 zu	zu
+den	ART	 d	den
+Zwippeln	NN	 Zwiebel	Zwiebel
+</seg>
+<seg type="newline">
+würtze	VVFIN	 würzen	würzt
+sie	PPER	 sie	sie
+ab	PTKVZ	 ab	ab
+mit	APPR	 mit	mit
+Ingber	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Muscatenblumen	NN	 UNKNOWN	Muscatenblumen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+Cinamey	ADJA	 UNKNOWN	Cinamey
+</seg>
+<seg type="newline">
+geus	NN	 UNKNOWN	geuß
+ein	ART	 ein	ein
+halb	ADJD	 halb	halb
+quart	ADJA	 UNKNOWN	quart
+Rosenwasser	NN	 Rosenwasser	Rosenwasser
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+decke	VVFIN	 decken	decke
+ein	ART	 ein	ein
+andere	ADJA	 ander	andere
+Schüssel	NN	 Schüssel	Schüssel
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+thue	NN	 UNKNOWN	thue
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+ein	ART	 ein	ein
+besser	ADJD	 gut	besser
+Fewer	NN	 Feuer	Feuer
+darunter	PAV	 darunter	darunter
+</seg>
+<seg type="newline">
+das	ART	 d	das
+sichs	NN	 UNKNOWN	sichs
+wol	PWAV	 wo	wo
+durcheinander	ADV	 durcheinander	durcheinander
+zeucht	VVFIN	 UNKNOWN	zeucht
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+nicht	PTKNEG	 nicht	nicht
+allzu	PTKA	 allzu	allzu
+viel	ADV	 viel	viel
+soht	ADJD	 UNKNOWN	soht
+bleibet	VVFIN	 bleiben	bleibet
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+gibs	NN	 UNKNOWN	gilbs
+denn	ADV	 denn	denn
+</seg>
+<seg type="newline">
+wenn	KOUS	 wenn	wenn
+dirs	NN	 UNKNOWN	dirs
+gefelt	ADJD	 UNKNOWN	gefelt
+</seg>
+<seg type="newline">
+hin	PTKVZ	 hin	hin
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

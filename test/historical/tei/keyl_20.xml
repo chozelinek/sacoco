@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Schaafskeule zu kochen .</title>
+        <author/>
+        <respStmt>
+          <resp/>
+          <name>Andrea Wurm</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Universität des Saarlandes</publisher>
+        <pubPlace>Saarbrücken</pubPlace>
+        <availability status="free">
+          <p>Recipe transcribed by <ref target="mailto:a.wurm@mx.uni-saarland.de">Andrea Wurm</ref> is licensed under a <ref target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</ref>.</p>
+        </availability>
+        <date>2016</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="keyl_20">
+    <body>
+      <div n="1" type="recipe">
+        <head>Schaafskeule zu kochen .</head>
+        <p>Das Fleisch in kalt Wasser gar gekochet  eine Hand voll Habergrütz dabey gethan  so wird es weiß  denn so nimmt man viele Capers  Corinthen  Muscatenblum  gehacket Petrosilien  Zucker  gerieben Semmel  Butter  Wein  das zusammen auffgekochet  in eine Schüssel gethan  und alsdenn die Keule darauff geleget .</p>
+      </div>
+    </body>
+  </text>
+</TEI>

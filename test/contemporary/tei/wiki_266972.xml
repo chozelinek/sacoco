@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Überbackenes Zwiebelschnitzel</title>
+        <author>Jozeil, Woltera, Vran01, CTHOE, Hombre, NikiWiki</author>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Universität des Saarlandes</publisher>
+        <pubPlace>Saarbrücken</pubPlace>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution ShareAlike 3.0 License</ref>.</p>
+        </availability>
+        <date>2016</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>http://www.kochwiki.org/w/index.php?oldid=266972</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="wiki_266972">
+    <body>
+      <div n="1" type="recipe">
+        <head>Überbackenes Zwiebelschnitzel</head>
+        <p>Das Backrohr bei Ober-/Unterhitze auf 200 °C vorheizen. Falls man ein leichteres Portionieren ermöglichen will, sollte man zunächst die Schnitzel in kleine Stücke schneiden (ich bevorzuge Stücke von 5–10 cm Länge). Die kleinen Stücke leicht salzen und pfeffern und bereits in die Auflaufform legen. Dann die Zwiebeln in Streifen schneiden und über den Schnitzeln in der Auflaufform verteilen. Milch und Sahne in einem Gefäß vermischen und das Gemüsebrühenpulver dazugeben und verrühren. Diese Flüssigkeit einmal kurz abschmecken (ggf. noch Gemüsebrühe oder Milch hinzufügen), damit nicht die große Überraschung beim fertigen Gericht kommt – dann kann man nämlich nur noch schwer retten. Das Milch-Sahne-Gemisch schließlich über die Schnitzel gießen und darauf achten, dass alles (auch die Zwiebeln) bedeckt ist. Nur so bleiben die Schnitzel schön saftig und die Zwiebeln verbrennen nicht. Schließlich die Form auf der zweiten Schiene von unten 20 Minuten in den Ofen geben. Nach dieser Zeit die Auflaufform herausnehmen, den Käse gleichmäßig darüber verteilen und nochmal 10 Minuten in den Ofen. Die Schnitzel sind fertig, wenn der Käse leicht braun ist.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

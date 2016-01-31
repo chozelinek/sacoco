@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Koch_vnd_Kellermeisterey_1574_10" collection="historical" source="Koch_vnd_Kellermeisterey" url="none" year="1574" decade="1570-1580" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1574:42rf.]">
+<title>
+<seg type="newline">
+[	$(	[	$(	 [	|	[
+Ein	VVIMP	 einen	Ein
+gut	ADJD	 gut	gut
+essen	VVFIN	 essen	essen
+von	APPR	 von	von
+öpffeln	NN	 UNKNOWN	öpffeln
+]	$(	]	$(	 ]	|	]
+Ein	VVIMP	 einen	Ein
+anders	ADV	 anders	anders
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Schneid	NN	 Schneid	Schneid
+saur	ADJA	 UNKNOWN	saur
+öpffel	NN	 UNKNOWN	öpffel
+rund	ADV	 rund	rund
+inn	ADJD	 UNKNOWN	inn
+zwey	CARD	 zwei	zwei
+theyl	ADJA	 UNKNOWN	theyl
+</seg>
+<seg type="newline">
+füll	VVIMP	 füllen	füll
+beyde	PIAT	 jed	jedes
+theyl	ADJD	 UNKNOWN	theyl
+mit	PTKVZ	 mit	mit
+gebraten	VVPP	 braten	gebraten
+öpffeln	NN	 UNKNOWN	öpffeln
+oder	KON	 oder	oder
+Quitten	NN	 Quitte	Quitten
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Byrn	NN	 UNKNOWN	Byrn
+</seg>
+<seg type="newline">
+reib	VVFIN	 UNKNOWN	reib
+weißbrot	ADJD	 UNKNOWN	weißbrot
+mit	PTKVZ	 mit	mit
+zucker	VVIMP	 zuckern	zucker
+darunder	VVINF	 UNKNOWN	darunder
+</seg>
+<seg type="newline">
+magst	VMFIN	 mögen	magst
+sie	PPER	 sie	sie
+würtzen	ADJD	 UNKNOWN	würtzen
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+nicht	PTKNEG	 nicht	nicht
+</seg>
+<seg type="newline">
+füll	VVIMP	 füllen	füll
+die	ART	 d	die
+öpffel	NN	 UNKNOWN	öpffel
+beyd	NE	 UNKNOWN	beyd
+theyl	ADJD	 UNKNOWN	theyl
+damit	PAV	 damit	damit
+</seg>
+<seg type="newline">
+on	VVFIN	 UNKNOWN	on
+Eyer	NE	 UNKNOWN	Eyer
+.	$.	.	$.	 .	|	.
+Mach	VVIMP	 machen	Mach
+auch	ADV	 auch	auch
+ein	ART	 ein	ein
+Teyg	NE	 UNKNOWN	Teyg
+von	APPR	 von	von
+Honig	NN	 Honig	Honig
+vnnd	KON	 und	und
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+gegilbt	VVPP	 UNKNOWN	gegilbt
+</seg>
+<seg type="newline">
+zeuch	NN	 UNKNOWN	zeuch
+die	ART	 d	die
+öpffel	NN	 UNKNOWN	öpffel
+dadurch	PAV	 dadurch	dadurch
+</seg>
+<seg type="newline">
+verzweck	VVFIN	 UNKNOWN	verzweck
+sie	PPER	 sie	sie
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+bachs	NE	 Bach	bachs
+in	APPR	 in	in
+butter	VVIMP	 buttern	butter
+</seg>
+<seg type="newline">
+zeuch	NN	 UNKNOWN	zeuch
+den	ART	 d	den
+zweck	NN	 Zweck	zweck
+oder	KON	 oder	oder
+faden	ADJA	 fade	faden
+ab	APPR	 ab	ab
+</seg>
+<seg type="newline">
+streuw	ADJA	 UNKNOWN	streuw
+Honig	NN	 Honig	Honig
+oder	KON	 oder	oder
+Zucker	NN	 Zucker	Zucker
+darauff	PTKVZ	 drauf	drauf
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

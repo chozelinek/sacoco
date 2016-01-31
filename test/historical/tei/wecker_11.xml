@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Halbfisch oder Plateischen in einer Erbs= oder grünen Schottenbrüh .</title>
+        <author/>
+        <respStmt>
+          <resp/>
+          <name>Andrea Wurm</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Universität des Saarlandes</publisher>
+        <pubPlace>Saarbrücken</pubPlace>
+        <availability status="free">
+          <p>Recipe transcribed by <ref target="mailto:a.wurm@mx.uni-saarland.de">Andrea Wurm</ref> is licensed under a <ref target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</ref>.</p>
+        </availability>
+        <date>2016</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="wecker_11">
+    <body>
+      <div n="1" type="recipe">
+        <head>Halbfisch oder Plateischen in einer Erbs= oder grünen Schottenbrüh .</head>
+        <p>Wasche die Halbfisch mit einem Härin oder anderm Thuch wol rein  seude sie dann ein wenig im Wasser  nicht zu lang  thue das Wasser davon  zeuch jhnen die Haut ab  oder laß sie also  sind sie groß  so schneide Stück darauß  lege sie dann in eine Pfann oder Tigel  thue ein gut Stück Butter daran  vnd laß sie über eine Glut preglen  indessen mache die Erbsbrüh  vnd koche die Erbsen  biß sie sich reiben lassen  so treibe sie mit der Suppen durch ein eng Siblein oder Durchschlag  mache es aber nicht zu dick  vnd geuß es an die Halbfisch  würtze es mit Ingwer vnd Pfeffer  vnd mache es mit Saffran gelbe  wann es nun mit einander auffgesotten hat  so richte es über gebähet Brot oder Semmeln an  vnd brenne einen heissen Butter darüber  so sind sie gut . Kan man aber grüne Schotten haben  so seud die Halbfische  wann sie gewässert sind  in einem Wasser besonders  vnd die außgemachten Schottenerbs auch besonders  dann thue beydes zusamen  lege ein gut Theil Butter daran  laß vollend sieden  vn richt es mit einander an  so ist es recht .</p>
+      </div>
+    </body>
+  </text>
+</TEI>

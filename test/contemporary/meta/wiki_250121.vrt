@@ -1,0 +1,338 @@
+<?xml version='1.0' encoding='UTF8'?>
+<text id="wiki_250121" methods="|Kochen|Gratinieren|servieren|anrichten|Abschrecken|Teller wärmen|schälen|pellen|Aufkochen|Al Dente|schneiden|Aufgießen|hacken|Abschmecken|Köcheln|Rösten|Schmoren|Würzen|Dünsten|Vorheizen|einfetten|Stauben|Pfannenrühren|" tools="|Muskatreibe|Käsereibe|Auflaufform|Pfanne|Sieblöffel|Küchenreibe|Schneidebrett|Messer|Schüssel|Topf|Backgitter|Kugelausstecher|Pfannenwender|Küchenpapier|" collection="contemporary" year="2013" authors="|Jozeil|Hombre|CTHOE|NikiWiki|" period="2000" decade="2010" source="wiki" cuisines="|Oberösterreichische Küche|" ingredients="|Pecorino|Muskat|Salz|Kohlrabi|Butter|Milch|Spinat|Parmesan|Pfeffer|Weizenmehl|Knoblauch|Grana Padano|Zwiebel|" title="Überbackener Kohlrabi mit Blattspinatfüllung">
+<p>
+<s>
+Die	ART	d	Die
+Kohlrabi	NN	Kohlrabi	Kohlrabi
+schälen	VVINF	schälen	schälen
+und	KON	und	und
+mit	APPR	mit	mit
+dem	ART	d	dem
+Kugelausstecher	NN	Kugelausstecher	Kugelausstecher
+so	ADV	so	so
+aushöhlen	VVINF	aushöhlen	aushöhlen
+,	$,	,	,
+dass	KOUS	dass	dass
+rundum	ADV	rundum	rundum
+ein	ART	eine	ein
+Rand	NN	Rand	Rand
+von	APPR	von	von
+etwa	ADV	etwa	etwa
+1	CARD	1	1
+cm	NN	Cm	cm
+bestehen	VVINF	bestehen	bestehen
+bleibt	VVFIN	bleiben	bleibt
+.	$.	.	.
+</s>
+<s>
+In	APPR	in	In
+einem	ART	eine	einem
+Topf	NN	Topf	Topf
+reichlich	PIAT	reichlich	reichlich
+Salzwasser	NN	Salzwasser	Salzwasser
+zum	APPRART	zum	zum
+Kochen	NN	Kochen	Kochen
+bringen	VVINF	bringen	bringen
+.	$.	.	.
+</s>
+<s>
+Die	ART	d	Die
+ausgehöhlten	ADJA	ausgehöhlt	ausgehöhlten
+Kohlrabi	NN	Kohlrabi	Kohlrabi
+einlegen	VVINF	einlegen	einlegen
+und	KON	und	und
+al	FM	al	al
+dente	FM	dente	dente
+kochen	VVINF	kochen	kochen
+.	$.	.	.
+</s>
+<s>
+In	APPR	in	In
+der	ART	d	der
+Zwischenzeit	NN	Zwischenzeit	Zwischenzeit
+eine	ART	eine	eine
+Schüssel	NN	Schüssel	Schüssel
+mit	APPR	mit	mit
+Eiswasser	NN	Eiswasser	Eiswasser
+füllen	VVINF	füllen	füllen
+.	$.	.	.
+</s>
+<s>
+Den	ART	d	Den
+Parmesan	NN	Parmesan	Parmesan
+fein	ADJD	fein	fein
+reiben	VVINF	reiben	reiben
+und	KON	und	und
+beiseite	ADV	beiseite	beiseite
+stellen	VVINF	stellen	stellen
+.	$.	.	.
+</s>
+<s>
+Ist	VAFIN	sein	Ist
+der	ART	d	der
+Kohlrabi	NN	Kohlrabi	Kohlrabi
+gar	ADV	gar	gar
+aus	APPR	aus	aus
+dem	ART	d	dem
+Wasser	NN	Wasser	Wasser
+heben	VVFIN	heben	heben
+und	KON	und	und
+sofort	ADV	sofort	sofort
+in	APPR	in	in
+Eiswasser	NN	Eiswasser	Eiswasser
+abschrecken	VVINF	abschrecken	abschrecken
+.	$.	.	.
+</s>
+</p>
+<p>
+<s>
+Das	ART	d	Das
+ausgehöhlte	ADJA	ausgehöhlt	ausgehöhlte
+Fruchtfleisch	NN	Fruchtfleisch	Fruchtfleisch
+vom	APPRART	vom	vom
+Kohlrabi	NN	Kohlrabi	Kohlrabi
+fein	ADJD	fein	fein
+hacken	VVINF	hacken	hacken
+.	$.	.	.
+</s>
+<s>
+Die	ART	d	Die
+Zwiebel	ADJA	Zwiebel	Zwiebel
+Pellen	NN	Pelle	Pellen
+und	KON	und	und
+feine	ADJA	fein	feine
+Würfel	NN	Würfel	Würfel
+schneiden	VVFIN	schneiden	schneiden
+.	$.	.	.
+</s>
+<s>
+Den	ART	d	Den
+Knoblauch	NN	Knoblauch	Knoblauch
+pellen	VVINF	pellen	pellen
+und	KON	und	und
+fein	ADJD	fein	fein
+hacken	VVINF	hacken	hacken
+.	$.	.	.
+</s>
+<s>
+Den	ART	d	Den
+Blattspinat	NN	Blattspinat	Blattspinat
+waschen	VVINF	waschen	waschen
+,	$,	,	,
+gut	ADJD	gut	gut
+trocken	ADJD	trocken	trocken
+tupfen	VVINF	tupfen	tupfen
+und	KON	und	und
+grob	ADJD	grob	grob
+hacken	VVINF	hacken	hacken
+.	$.	.	.
+</s>
+</p>
+<p>
+<s>
+In	APPR	in	In
+der	ART	d	der
+Pfanne	NN	Pfanne	Pfanne
+die	ART	d	die
+Butter	NN	Butter	Butter
+erhitzen	VVINF	erhitzen	erhitzen
+und	KON	und	und
+den	ART	d	den
+gehackten	ADJA	gehackt	gehackten
+Kohlrabi	NN	Kohlrabi	Kohlrabi
+sowie	KON	sowie	sowie
+die	ART	d	die
+Zwiebelwürfel	NN	Zwiebelwürfel	Zwiebelwürfel
+glasig	ADJD	glasig	glasig
+anrösten	VVINF	anrösten	anrösten
+.	$.	.	.
+</s>
+<s>
+Dann	ADV	dann	Dann
+mit	APPR	mit	mit
+Salz	NN	Salz	Salz
+sowie	KON	sowie	sowie
+Pfeffer	NN	Pfeffer	Pfeffer
+würzen	VVINF	würzen	würzen
+und	KON	und	und
+weich	ADJD	weich	weich
+dünsten	VVINF	dünsten	dünsten
+.	$.	.	.
+</s>
+<s>
+Jetzt	ADV	jetzt	Jetzt
+den	ART	d	den
+Blattspinat	NN	Blattspinat	Blattspinat
+sowie	KON	sowie	sowie
+den	ART	d	den
+Knoblauch	NN	Knoblauch	Knoblauch
+zugeben	VVINF	zugeben	zugeben
+und	KON	und	und
+noch	ADV	noch	noch
+kurz	ADJD	kurz	kurz
+schmoren	VVINF	schmoren	schmoren
+lassen	VVINF	lassen	lassen
+,	$,	,	,
+bis	KOUS	bis	bis
+der	ART	d	der
+Spinat	NN	Spinat	Spinat
+zusammen	ADV	zusammen	zusammen
+gefallen	VVPP	gefallen	gefallen
+ist	VAFIN	sein	ist
+.	$.	.	.
+</s>
+<s>
+Den	ART	d	Den
+Blattspinat	NN	Blattspinat	Blattspinat
+dann	ADV	dann	dann
+mit	APPR	mit	mit
+dem	ART	d	dem
+Mehl	NN	Mehl	Mehl
+stauben	VVINF	stauben	stauben
+und	KON	und	und
+mit	APPR	mit	mit
+der	ART	d	der
+Milch	NN	Milch	Milch
+unter	APPR	unter	unter
+Pfannenrühren	NN	Pfannenrühren	Pfannenrühren
+aufgießen	VVINF	aufgießen	aufgießen
+.	$.	.	.
+</s>
+<s>
+Die	ART	d	Die
+Flüssigkeit	NN	Flüßigkeit	Flüssigkeit
+aufkochen	VVINF	aufkochen	aufkochen
+lassen	VVINF	lassen	lassen
+und	KON	und	und
+dann	ADV	dann	dann
+für	APPR	für	für
+etwa	ADV	etwa	etwa
+1	CARD	1	1
+Minute	NN	Minute	Minute
+leicht	ADJD	leicht	leicht
+köcheln	VVINF	köcheln	köcheln
+lassen	VVINF	lassen	lassen
+,	$,	,	,
+bis	KOUS	bis	bis
+das	ART	d	das
+Mehl	NN	Mehl	Mehl
+die	ART	d	die
+Flüssigkeit	NN	Flüßigkeit	Flüssigkeit
+gebunden	VVPP	binden	gebunden
+hat	VAFIN	haben	hat
+.	$.	.	.
+</s>
+<s>
+Zum	APPRART	zum	Zum
+Schluss	NN	Schluß	Schluss
+die	ART	d	die
+Füllung	NN	Füllung	Füllung
+mit	APPR	mit	mit
+Salz	NN	Salz	Salz
+,	$,	,	,
+Pfeffer	NN	Pfeffer	Pfeffer
+sowie	KON	sowie	sowie
+Muskat	NN	Muskat	Muskat
+abschmecken	VVINF	abschmecken	abschmecken
+.	$.	.	.
+</s>
+</p>
+<p>
+<s>
+Das	ART	d	Das
+Backrohr	NN	Backrohr	Backrohr
+bei	APPR	bei	bei
+Ober-	TRUNC	ober-	Ober-
+/Unterhitze	NN	/unterhitze	/Unterhitze
+auf	APPR	auf	auf
+180	CARD	180	180
+°C	NN	°c	°C
+vorheizen	VVINF	vorheizen	vorheizen
+.	$.	.	.
+</s>
+<s>
+Eine	ART	eine	Eine
+Auflaufform	NN	Auflaufform	Auflaufform
+mit	APPR	mit	mit
+etwas	PIAT	etwas	etwas
+Butter	NN	Butter	Butter
+ausfetten	VVINF	ausfetten	ausfetten
+.	$.	.	.
+</s>
+<s>
+Die	ART	d	Die
+Kohlrabi	NN	Kohlrabi	Kohlrabi
+mit	APPR	mit	mit
+der	ART	d	der
+Blattspinatfüllung	NN	Blattspinatfüllung	Blattspinatfüllung
+füllen	VVINF	füllen	füllen
+und	KON	und	und
+mit	APPR	mit	mit
+dem	ART	d	dem
+Parmesan	NN	Parmesan	Parmesan
+bestreuen	VVINF	bestreuen	bestreuen
+.	$.	.	.
+</s>
+<s>
+Dann	ADV	dann	Dann
+in	APPR	in	in
+die	ART	d	die
+Auflaufform	NN	Auflaufform	Auflaufform
+setzen	VVINF	setzen	setzen
+,	$,	,	,
+je	ADV	je	je
+eine	ART	eine	eine
+Butterflocke	NN	Butterflocke	Butterflocke
+darauf	PAV	darauf	darauf
+geben	VVINF	geben	geben
+und	KON	und	und
+im	APPRART	im	im
+heißen	ADJA	heiß	heißen
+Backrohr	NN	Backrohr	Backrohr
+auf	APPR	auf	auf
+der	ART	d	der
+zweiten	ADJA	zweit	zweiten
+Schiene	NN	Schiene	Schiene
+von	APPR	von	von
+unten	ADV	unten	unten
+für	APPR	für	für
+etwa	ADV	etwa	etwa
+15	CARD	15	15
+bis	APPR	bis	bis
+20	CARD	20	20
+Minuten	NN	Minute	Minuten
+goldgelb	ADJD	goldgelb	goldgelb
+gratinieren	VVINF	gratinieren	gratinieren
+.	$.	.	.
+</s>
+<s>
+Aus	APPR	aus	Aus
+dem	ART	d	dem
+Backrohr	NN	Backrohr	Backrohr
+nehmen	VVINF	nehmen	nehmen
+,	$,	,	,
+leicht	ADJD	leicht	leicht
+überkühlen	VVINF	überkühlen	überkühlen
+lassen	VVINF	lassen	lassen
+und	KON	und	und
+auf	APPR	auf	auf
+vorgewärmten	ADJA	vorgewärmt	vorgewärmten
+Tellern	NN	Teller	Tellern
+anrichten	VVFIN	anrichten	anrichten
+.	$.	.	.
+</s>
+<s>
+Das	ART	d	Das
+Gericht	NN	Gericht	Gericht
+sofort	ADV	sofort	sofort
+noch	ADV	noch	noch
+heiß	ADJD	heiß	heiß
+mit	APPR	mit	mit
+Beilage	NN	Beilage	Beilage
+nach	APPR	nach	nach
+Wahl	NN	Wahl	Wahl
+servieren	VVINF	servieren	servieren
+.	$.	.	.
+</s>
+</p>
+</text>

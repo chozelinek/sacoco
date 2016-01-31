@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Leber= und Mägelein zu kochen .</title>
+        <author/>
+        <respStmt>
+          <resp/>
+          <name>Andrea Wurm</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Universität des Saarlandes</publisher>
+        <pubPlace>Saarbrücken</pubPlace>
+        <availability status="free">
+          <p>Recipe transcribed by <ref target="mailto:a.wurm@mx.uni-saarland.de">Andrea Wurm</ref> is licensed under a <ref target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</ref>.</p>
+        </availability>
+        <date>2016</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="hohberg_20">
+    <body>
+      <div n="1" type="recipe">
+        <head>Leber= und Mägelein zu kochen .</head>
+        <p>Putzet und waschet die Leber und Mägelein sauber  lasset die Mägelein in halb Fleischbrüh und Wasser sieden  und wann sie bald weich  leget die Leberlein darzu  wann sie nun völlig weich  schneidets in etliche Theil  thut in einem stollichten Hafen  nebst Muscatenblüh  Cardamomen und Pfeffer  gehacktem Petersillien=Kraut  etwas Brüh  worinnen sie gesotten  und ziemlich viel Butter  lassets ferner aufkochen  daß die Brüh dicklicht wird ; wanns angericht  streuet ein wenig gehacktes Petersillien=Kraut darauf . Man kan auch eine Capern= oder sonst beliebige Brüh darüber machen ; Oder solche mit Scorzonera  Spargel  Küfferbes  oder sonst anders zu Tisch bringen .</p>
+      </div>
+    </body>
+  </text>
+</TEI>

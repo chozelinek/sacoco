@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<text id="buchinger_15">
+<p>
+<s>
+Man	PIS	man	Man
+mag	VMFIN	mögen	mag
+auch	ADV	auch	auch
+wol	ADV	wohl	wohl
+über	APPR	über	über
+die	ART	d	die
+einige	PIAT	einige	einige
+so	ADV	so	so
+hübsch	ADJD	hübsch	hübsch
+groß	ADJD	groß	groß
+sind	VAFIN	sein	sind
+jungen	ADJA	jung	jungen
+Spinat	NN	Spinat	Spinat
+oder	KON	oder	oder
+jungen	ADJA	jung	jungen
+Mangold	NN	Mangold	Mangold
+ohngehackt	ADJD	ungehackt	ungehackt
+zuvor	ADV	zuvor	zuvor
+wol	ADV	wohl	wohl
+gesotten	VVPP	sieden	gesotten
+under	APPR	unter	unter
+Plattislin	NE	Plattislin	Plattislin
+thun	VVFIN	tun	tun
+alsdann	ADV	alsdann	alsdann
+gesaltzen	VVPP	salzen	gesalzen
+gewürtzen	NN	Gewürz	Gewürzen
+und	KON	und	und
+schmaltzen	VVFIN	schmalzen	schmalzen
+wie	KOKOM	wie	wie
+beym	APPRART	beim	beim
+Stockfisch	NN	Stockfisch	Stockfisch
+gemeldet	VVPP	melden	gemeldet
+.	$.	.	.
+</s>
+<s>
+Oder	KON	oder	Oder
+man	PIS	man	man
+gießt	VVFIN	gießen	gießt
+ein	ART	eine	ein
+Brühlin	NN	Brühelein	Brühlein
+darüber	PAV	darüber	darüber
+wie	KOKOM	wie	wie
+Num	NE	Num	Num
+.	$.	.	.
+500501	CARD	500501	500501
+.	$.	.	.
+</s>
+</p>
+</text>

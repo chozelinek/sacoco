@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>LVII . Fricando von Kalb=Fleisch  und gespickt .</title>
+        <author/>
+        <respStmt>
+          <resp/>
+          <name>Andrea Wurm</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Universität des Saarlandes</publisher>
+        <pubPlace>Saarbrücken</pubPlace>
+        <availability status="free">
+          <p>Recipe transcribed by <ref target="mailto:a.wurm@mx.uni-saarland.de">Andrea Wurm</ref> is licensed under a <ref target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</ref>.</p>
+        </availability>
+        <date>2016</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="schuppe_8">
+    <body>
+      <div n="1" type="recipe">
+        <head>LVII . Fricando von Kalb=Fleisch  und gespickt .</head>
+        <p>Nimschier Kalb=Fleisch aus der Keule  schneide es in dinne Stücklein  wie ein Messerrücken dick  und drey Finger breit  klopff es ein wenig mit dem Messer  nimkleinen Speck  und spick es wie ein Rephun  leg es in eine Pfanne oder Schmor=Topff  und laß es braun braten  gieß dann Fleisch=Brühe darauff  nimm Pfeffer  Muscaten=Blumen und gantze Zwiebeln  oder was sonst einer vor Gewürtze gerne isset ; wenn es denn kurtz eingekocht ist  so nimm Knoblauch  und mach ihn klein  thue den daran  und passire es durcheinander  so ists fertig . NB . Auff diese Manier kan man die Fricando von Kalb=Fleisch auch machen  daß es nicht gespickt wird  sondern in Mehl umbgekehrt  und nur in brauner Butter gebacken mit Zwiebeln  welche müssen klein geschnitten seyn  und Saltz  auch wol ein wenig Pfeffer darüber gestreuet .</p>
+      </div>
+    </body>
+  </text>
+</TEI>

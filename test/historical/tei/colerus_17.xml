@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kapphanen in einem Rosenwasser .</title>
+        <author/>
+        <respStmt>
+          <resp/>
+          <name>Andrea Wurm</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Universität des Saarlandes</publisher>
+        <pubPlace>Saarbrücken</pubPlace>
+        <availability status="free">
+          <p>Recipe transcribed by <ref target="mailto:a.wurm@mx.uni-saarland.de">Andrea Wurm</ref> is licensed under a <ref target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</ref>.</p>
+        </availability>
+        <date>2016</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="colerus_17">
+    <body>
+      <div n="1" type="recipe">
+        <head>Kapphanen in einem Rosenwasser .</head>
+        <p>Wiltu machen gute Kapphünner  die da fett sein  in einem Rosenwasser  so nim die Kabhünner  vnd stecke sie an einen Spis  vnd brate sie abe  also  das sie nicht zu sehr gebraten sein . Nim geschelte Zwippeln  schneide sie hübsch scheibelicht in eine Zinnerne schüssel geus darauff eine gute magere Rinderne suppe  setze die Zwippeln mit der Schüssel auff einen Rhost  thue darunter ein klein Kohlfewer  das die Zwippeln warm sieden in der Schüssel  Nim denn die gebratene Kappaunen oder Kapphanen  zugliede sie  vnd las die Glieder an einander bleiben hangen  kerbe sie hübsch auff den Brüsten nach der lenge  vnd lege sie in die Schüssel zu den Zwippeln  würtze sie ab mit Ingber  Muscatenblumen  vnd Cinamey  geus ein halb quart Rosenwasser darein  vnd decke ein andere Schüssel darüber  thue ein wenig ein besser Fewer darunter  das sichs wol durcheinander zeucht  das nicht allzu viel soht bleibet  vnd gibs denn  wenn dirs gefelt  hin .</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>3. Hühnersuppe mit Reis auf eine andere Art.</title>
+        <author/>
+        <respStmt>
+          <resp/>
+          <name>Katrin Leppert, Kristin Lückel and Thomas Gloning</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Universität des Saarlandes</publisher>
+        <pubPlace>Saarbrücken</pubPlace>
+        <availability status="free">
+          <p>Recipes of Knopf 1800 based on the transcriptions at <ref target="http://www.uni-giessen.de/gloning/tx/1800hakb.htm">http://www.uni-giessen.de/gloning/tx/1800hakb.htm</ref> by Katrin Leppert, Kristin Lückel and Thomas Gloning are licensed under a <ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</ref>.</p>
+        </availability>
+        <date>2016</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>http://www.uni-giessen.de/gloning/tx/1800hakb.htm</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="knopf_4">
+    <body>
+      <div n="1" type="recipe">
+        <head>3. Hühnersuppe mit Reis auf eine andere Art.</head>
+        <p>Ein altes Huhn wird mit Wasser und ein wenig  Salz langsam gar gekocht ; auch etwas  Suppenkräuter und ein wenig Gewürz , wie bei der  vorigen Suppe , daran gethan . Ferner brühet man  1/4 ( lb ) Reis mit kochendem Wasser ab , sezt denselben  mit ein wenig Bouillon , Butter und Salz auf ein  gelindes Feuer , wirft eine Handvoll verlesene  Rosinen dazu , und läßt ihn gar kochen , daß er dicke  wird . Die Suppe richtet man alsdann mit dem  Huhne an , den Reis giebt man aber dabey auf  eine Schüssel .</p>
+      </div>
+    </body>
+  </text>
+</TEI>

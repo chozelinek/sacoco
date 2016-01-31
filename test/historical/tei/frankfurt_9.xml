@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>11 ) Eine braune Suppe zu machen .</title>
+        <author/>
+        <respStmt>
+          <resp/>
+          <name>Andrea Wurm</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Universität des Saarlandes</publisher>
+        <pubPlace>Saarbrücken</pubPlace>
+        <availability status="free">
+          <p>Recipe transcribed by <ref target="mailto:a.wurm@mx.uni-saarland.de">Andrea Wurm</ref> is licensed under a <ref target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</ref>.</p>
+        </availability>
+        <date>2016</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="frankfurt_9">
+    <body>
+      <div n="1" type="recipe">
+        <head>11 ) Eine braune Suppe zu machen .</head>
+        <p>Man nimmt 5 Pfund Rindfleisch von  einem Pasteten_Stück , in dünne Stücke  geschnitten und wohl geklopft , davon  nimmt man ohngefehr ein viertel Pfund  und schabet es mit dem Messer , damit die  Haut und das Geäder wohl herausgehet ,  das geschabte Fleisch wird zurück vor Klösger  gethan , das Geäder und Haut und  das übrige geklopfte Rindfleisch thut man  in warm gemachte gesaltzene oder frische  Butter , eine ganze Zwiebel und ein wenig  gestossene Nägelein , und lässet es langsam  auf dem Feuer ziehen , und so bald es ein  wenig Brühe hat , schüttet man sie in ein  ander Töpfen , thut wieder Wasser oder  Fleischbrühe an das Fleisch , lässet es wieder  ziehen , bis man ohngefehr 1 Maas von  diesen Sachen hat abgezogen , alsdenn  thut man Fleischbrühe an das ausgesogene  Fleisch , nimmt Zellerie , Zwiebel und  allerhand Gewürz , thut es in diese Brühe  durch ein Siebgen , damit das Fleisch heraus  kommt , man kan auch das Gewürz  erst in die Brühe thun ; wann die Suppe  durchgeschlagen , nimm Morgeln , Schambionen ,  koche sie wohl ab und thue sie in  die Suppe , man kan auch Ochsen=Gaumen  und Kalbs=Milchen hinein thun , müssen  aber vorher abgekocht werden , hernach  nimmt man das abgekochte Fleisch zu  denen Klösger , lässet es wohl hacken mit  ohngefehr so viel Nieren=Fett als es Fleisch  ist , man nimmt hernach die Brosamen eines trockenen Milchbrods , 3 bis 4 Eyer  , ein wenig Rahm und ein wenig Gewürz ,  machet dieses wohl untereinander , und  machet Klösger daraus , man kan den halben  Theil davon zu braunen Klösger machen ,  welche man muß in Schmalz=Butter  backen , daß sie schön braun werden , die  Weissen kocht man in der Suppe , im Sommer  aber im Wasser , damit sie nicht roth  werden . Wenn man nun anrichten will ,  röstet man Schnitten von Milchbrod ,  richtet die Suppe darüber an , die braunen  Klösger dörfen nur einen Augenblick in der  Suppen liegen , sonst gehet das Braune  ab . Wenn man nun die Suppe anrichtet ,  so nimmt man den abgezogenen Schü  oder Brüh , welcher warm gehalten werden  muß , thut solche in den Kumpfen bey  die Suppe , so ist sie fertig , kräftig und  gut . Man kann von dieser Portion Fleisch  2 grosse Schüsseln voll Suppen machen , die  Klösger kan man auch von Kalbfleisch  machen , so man es vor gut befindet , auch  kann solche ohne Klösger und denjenigen  Sachen , so in die Brühe kommen ,  gemacht werden .</p>
+      </div>
+    </body>
+  </text>
+</TEI>

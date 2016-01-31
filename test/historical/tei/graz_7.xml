@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Fleisch-Pastetel zu machen .</title>
+        <author/>
+        <respStmt>
+          <resp/>
+          <name>Thomas Gloning</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Universität des Saarlandes</publisher>
+        <pubPlace>Saarbrücken</pubPlace>
+        <availability status="free">
+          <p>Recipes of Grätz 1686 based on the transcriptions at <ref target="http://www.uni-giessen.de/gloning/tx/graz2.htm">http://www.uni-giessen.de/gloning/tx/graz2.htm</ref> by Thomas Gloning are licensed under a <ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</ref>.</p>
+        </availability>
+        <date>2016</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>http://www.uni-giessen.de/gloning/tx/graz2.htm</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="graz_7">
+    <body>
+      <div n="1" type="recipe">
+        <head>Fleisch-Pastetel zu machen .</head>
+        <p>MAn soll ein marbes Kälbernes  oder Hennen-Brät nemmen  und zimblich  aber nit zu vil  Kälberne oder Rinderne Feisten  und solches alles auff das kleinest so müglich ist  durch einander hacken  und saltzen  darnach ein Semmel in ein obere Milch  oder Fleischsuppen geweicht  wider wol außdrucken  und zwey Ayrdotter darzu thun  und alles wol in einem Mörser zerstossen  so wirds ein Taig  darvon kan man mehr  oder nur ein Pastetel auffsetzen  und am Boden da mans darauff setzt  ein kälbernes Netz legen  oder ein Taigblätl  darnach solle man Kopaun- oder Hüner-Leber die in vil Wässern  daß sie schön weiß werden  außgewässert seyn  solche in ein gar heisses Schmaltz werffen  und stracks wider heraus thun  und gar ein wenig saltzen  und pfeffern  und grünes Kräutel daran schneiden  und ein gesäuerten Lemoni hacken  vil Butter am Boden legen  den gehackten Lemoni darauff  und die Leberl darein füllen  oben darauff wider Butter  und breit geschnittene Lemoni-Schnitzel legen  zumachen  und bachen ; die dörffen länger bachen als die Krebs-Pastätel  dann sie seynd roch ; wann mans geben will  muß man ein wenig  aber nicht vil  Fleischsuppen daran giessen . Von Fischen kan mans gleich also machen  man muß aber das Brät von einem grossen Hechten oder Huchen nemmen  daß man die Gräten leicht herauß schneiden kann  und Hechten-Leber  oder Karpffen-Zungen darein füllen  und an statt der Fleischsuppen  Arbessuppen nemmen .</p>
+      </div>
+    </body>
+  </text>
+</TEI>

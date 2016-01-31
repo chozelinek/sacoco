@@ -1,0 +1,402 @@
+<?xml version='1.0' encoding='UTF8'?>
+<text id="wiki_262948" methods="|Abschmecken|Garnieren|Kochen|Gratinieren|Köcheln|Servieren|Salzwasser|Rösten|Stauben|Nappieren|Anrichten|Abschrecken|Teller wärmen|Blanchieren|verquirlen|Würzen|Backrohr vorheizen|" tools="|Muskatreibe|Messbecher|Esslöffel|Käsereibe|Schneebesen|Auflaufform|Sieblöffel|Küchenwaage|Küchenreibe|Schneidebrett|Messer|Schüssel|Topf|Backgitter|Küchenpapier|" collection="contemporary" year="2013" authors="|Mehrhardt|Jozeil|EdBot|Woltera|Vran01|CTHOE|Hilfskoch|Mgeiser|NikiWiki|Hombre|Fledermaus|" period="2000" decade="2010" source="wiki" cuisines="|Deutsche Küche|" ingredients="|Muskat|Paniermehl|Emmentaler|Comté|Butter|Blumenkohl|Semmelbrösel|Greyerzer|Milch|Bergkäse|Pfeffer|Butterschmalz|Weizenmehl|Salz|" title="Überbackener Blumenkohl">
+<p>
+<s>
+Das	ART	d	Das
+Backrohr	NN	Backrohr	Backrohr
+bei	APPR	bei	bei
+Ober-	TRUNC	ober-	Ober-
+/Unterhitze	NN	/unterhitze	/Unterhitze
+auf	APPR	auf	auf
+220	CARD	220	220
+°C	NN	°c	°C
+vorheizen	VVINF	vorheizen	vorheizen
+und	KON	und	und
+ein	ART	eine	ein
+Backgitter	NN	Backgitter	Backgitter
+auf	APPR	auf	auf
+die	ART	d	die
+untere	ADJA	unter	untere
+Einschubleiste	NN	Einschubleiste	Einschubleiste
+einschieben	VVINF	einschieben	einschieben
+.	$.	.	.
+</s>
+<s>
+Den	ART	d	Den
+Emmentaler	NN	Emmentaler	Emmentaler
+fein	ADJD	fein	fein
+reiben	VVINF	reiben	reiben
+.	$.	.	.
+</s>
+</p>
+<p>
+<s>
+Vom	APPRART	vom	Vom
+Blumenkohl	NN	Blumenkohl	Blumenkohl
+den	ART	d	den
+Strunk	NN	Strunk	Strunk
+soweit	ADV	soweit	soweit
+abschneiden	VVINF	abschneiden	abschneiden
+,	$,	,	,
+dass	KOUS	dass	dass
+auch	ADV	auch	auch
+alle	PIAT	alle	alle
+Blätter	NN	Blatt	Blätter
+entfernt	VVPP	entfernen	entfernt
+werden	VAINF	werden	werden
+und	KON	und	und
+am	APPRART	am	am
+verbleibenden	ADJA	verbleibend	verbleibenden
+Strunk	NN	Strunk	Strunk
+ein	ART	eine	ein
+Kreuz	NN	Kreuz	Kreuz
+einschneiden	VVINF	einschneiden	einschneiden
+.	$.	.	.
+</s>
+<s>
+Den	ART	d	Den
+Blumenkohl	NN	Blumenkohl	Blumenkohl
+unter	APPR	unter	unter
+fließendem	ADJA	fließend	fließendem
+,	$,	,	,
+warmen	ADJA	warm	warmen
+Wasser	NN	Wasser	Wasser
+waschen	VVINF	waschen	waschen
+und	KON	und	und
+abtropfen	VVINF	abtropfen	abtropfen
+lassen	VVINF	lassen	lassen
+.	$.	.	.
+</s>
+<s>
+In	APPR	in	In
+einem	ART	eine	einem
+großen	ADJA	groß	großen
+Topf	NN	Topf	Topf
+reichlich	PIAT	reichlich	reichlich
+Salzwasser	NN	Salzwasser	Salzwasser
+zum	APPRART	zum	zum
+Kochen	NN	Kochen	Kochen
+bringen	VVINF	bringen	bringen
+.	$.	.	.
+</s>
+<s>
+Den	ART	d	Den
+Blumenkohl	NN	Blumenkohl	Blumenkohl
+in	APPR	in	in
+das	ART	d	das
+kochende	ADJA	kochend	kochende
+Salzwasser	NN	Salzwasser	Salzwasser
+geben	VVINF	geben	geben
+und	KON	und	und
+für	APPR	für	für
+etwa	ADV	etwa	etwa
+15	CARD	15	15
+Minuten	NN	Minute	Minuten
+blanchieren	VVINF	blanchieren	blanchieren
+.	$.	.	.
+</s>
+<s>
+"(	$(	"(	"(
+Den	ART	d	Den
+Gargrad	NN	Gargrad	Gargrad
+durch	APPR	durch	durch
+Einstechen	NN	Einstechen	Einstechen
+mit	APPR	mit	mit
+einem	ART	eine	einem
+spitzen	ADJA	spitz	spitzen
+lagen	VVFIN	liegen	lagen
+Messer	NN	Messer	Messer
+überprüfen	VVINF	überprüfen	überprüfen
+)	$(	)	)
+"	$(	"	"
+</s>
+<s>
+Während	KOUS	während	Während
+der	ART	d	der
+Blumenkohl	NN	Blumenkohl	Blumenkohl
+blanchiert	VVPP	blanchieren	blanchiert
+wird	VAFIN	werden	wird
+die	ART	d	die
+Mornaysauce	NN	Mornaysauce	Mornaysauce
+zubereitet	VVPP	zubereiten	zubereitet
+.	$.	.	.
+</s>
+</p>
+<p>
+<s>
+Einen	ART	eine	Einen
+Topf	NN	Topf	Topf
+erhitzen	VVINF	erhitzen	erhitzen
+und	KON	und	und
+die	ART	d	die
+Butter	NN	Butter	Butter
+einmal	ADV	einmal	einmal
+aufschäumen	VVINF	aufschäumen	aufschäumen
+lassen	VVINF	lassen	lassen
+.	$.	.	.
+</s>
+<s>
+Mit	APPR	mit	Mit
+dem	ART	d	dem
+Mehl	NN	Mehl	Mehl
+stauben	VVINF	stauben	stauben
+und	KON	und	und
+kurz	ADJD	kurz	kurz
+ohne	APPR	ohne	ohne
+Farbe	NN	Farbe	Farbe
+rösten	VVINF	rösten	rösten
+.	$.	.	.
+</s>
+<s>
+Dann	ADV	dann	Dann
+unter	APPR	unter	unter
+ständigem	ADJA	ständig	ständigem
+Rühren	NN	Rühren	Rühren
+mit	APPR	mit	mit
+einem	ART	eine	einem
+Schneebesen	NN	Schneebesen	Schneebesen
+die	ART	d	die
+Milch	NN	Milch	Milch
+langsam	ADJD	langsam	langsam
+zugießen	VVINF	zugießen	zugießen
+und	KON	und	und
+mit	APPR	mit	mit
+dem	ART	d	dem
+Mehl	NN	Mehl	Mehl
+gut	ADJD	gut	gut
+verquirlen	VVINF	verquirlen	verquirlen
+.	$.	.	.
+</s>
+<s>
+Die	ART	d	Die
+Sauce	NN	Sauce	Sauce
+bei	APPR	bei	bei
+geringer	ADJA	gering	geringer
+Hitze	NN	Hitze	Hitze
+unter	APPR	unter	unter
+ständigem	ADJA	ständig	ständigem
+Rühren	NN	Rühren	Rühren
+mit	APPR	mit	mit
+dem	ART	d	dem
+Schneebesen	NN	Schneebesen	Schneebesen
+leicht	ADJD	leicht	leicht
+Köcheln	NN	Köcheln	Köcheln
+lassen	VVINF	lassen	lassen
+.	$.	.	.
+</s>
+<s>
+Sobald	KOUS	sobald	Sobald
+die	ART	d	die
+Béchamelsauce	NN	Béchamelsauce	Béchamelsauce
+eine	ART	eine	eine
+dickliche	ADJA	dicklich	dickliche
+Konsistenz	NN	Konsistenz	Konsistenz
+aufweist	VVFIN	aufweisen	aufweist
+von	APPR	von	von
+der	ART	d	der
+Herdplatte	NN	Herdplatte	Herdplatte
+ziehen	VVINF	ziehen	ziehen
+und	KON	und	und
+mit	APPR	mit	mit
+Salz	NN	Salz	Salz
+sowie	KON	sowie	sowie
+Pfeffer	NN	Pfeffer	Pfeffer
+würzen	VVINF	würzen	würzen
+.	$.	.	.
+</s>
+<s>
+Während	KOUS	während	Während
+die	ART	d	die
+Béchamelsauce	NN	Béchamelsauce	Béchamelsauce
+leicht	ADJD	leicht	leicht
+köchelt	VVFIN	köcheln	köchelt
+den	ART	d	den
+Emmentaler	NN	Emmentaler	Emmentaler
+fein	ADJD	fein	fein
+reiben	VVINF	reiben	reiben
+.	$.	.	.
+</s>
+<s>
+Den	ART	d	Den
+geriebenen	ADJA	gereiben	geriebenen
+Käse	NN	Käse	Käse
+zufügen	VVINF	zufügen	zufügen
+und	KON	und	und
+gut	ADJD	gut	gut
+unterrühren	VVINF	unterrühren	unterrühren
+.	$.	.	.
+</s>
+<s>
+Die	ART	d	Die
+Mornaysauce	NN	Mornaysauce	Mornaysauce
+mit	APPR	mit	mit
+frisch	ADJD	frisch	frisch
+geriebener	ADJA	gereiben	geriebener
+Muskatnuss	NN	Muskatnuß	Muskatnuss
+,	$,	,	,
+Salz	NN	Salz	Salz
+sowie	KON	sowie	sowie
+Pfeffer	NN	Pfeffer	Pfeffer
+abschmecken	VVINF	abschmecken	abschmecken
+.	$.	.	.
+</s>
+</p>
+<p>
+<s>
+Eine	ART	eine	Eine
+große	ADJA	groß	große
+Schüssel	NN	Schüssel	Schüssel
+mit	APPR	mit	mit
+Eiswasser	NN	Eiswasser	Eiswasser
+füllen	VVINF	füllen	füllen
+,	$,	,	,
+den	ART	d	den
+blanchierten	ADJA	blanchiert	blanchierten
+Blumenkohl	NN	Blumenkohl	Blumenkohl
+aus	APPR	aus	aus
+dem	ART	d	dem
+Salzwasser	NN	Salzwasser	Salzwasser
+heben	VVFIN	heben	heben
+und	KON	und	und
+sofort	ADV	sofort	sofort
+im	APPRART	im	im
+Eiswasser	NN	Eiswasser	Eiswasser
+abschrecken	VVINF	abschrecken	abschrecken
+.	$.	.	.
+</s>
+<s>
+Den	ART	d	Den
+Blumenkohl	NN	Blumenkohl	Blumenkohl
+aus	APPR	aus	aus
+dem	ART	d	dem
+Eiswasser	NN	Eiswasser	Eiswasser
+heben	VVFIN	heben	heben
+,	$,	,	,
+gut	ADJD	gut	gut
+abtropfen	VVINF	abtropfen	abtropfen
+lassen	VVINF	lassen	lassen
+und	KON	und	und
+in	APPR	in	in
+die	ART	d	die
+Auflaufform	NN	Auflaufform	Auflaufform
+geben	VVINF	geben	geben
+.	$.	.	.
+</s>
+<s>
+Das	ART	d	Das
+Kohlgemüse	NN	Kohlgemüse	Kohlgemüse
+mit	APPR	mit	mit
+der	ART	d	der
+noch	ADV	noch	noch
+heißen	ADJA	heiß	heißen
+Sauce	NN	Sauce	Sauce
+nappieren	VVINF	nappieren	nappieren
+.	$.	.	.
+</s>
+<s>
+Dann	ADV	dann	Dann
+mit	APPR	mit	mit
+dem	ART	d	dem
+geriebenen	ADJA	gereiben	geriebenen
+Käse	NN	Käse	Käse
+sowie	KON	sowie	sowie
+den	ART	d	den
+Semmelbröseln	NN	Semmelbrösel	Semmelbröseln
+bestreuen	VVINF	bestreuen	bestreuen
+.	$.	.	.
+</s>
+<s>
+Die	ART	d	Die
+Butter	NN	Butter	Butter
+in	APPR	in	in
+Butterflocken	NN	Butterflocke	Butterflocken
+schaben	VVINF	schaben	schaben
+und	KON	und	und
+den	ART	d	den
+Blumenkohl	NN	Blumenkohl	Blumenkohl
+damit	PAV	damit	damit
+belegen	VVINF	belegen	belegen
+.	$.	.	.
+</s>
+<s>
+Den	ART	d	Den
+Blumenkohl	NN	Blumenkohl	Blumenkohl
+im	APPRART	im	im
+heißen	ADJA	heiß	heißen
+Backrohr	NN	Backrohr	Backrohr
+für	APPR	für	für
+etwa	ADV	etwa	etwa
+zwanzig	CARD	zwanzig	zwanzig
+Minuten	NN	Minute	Minuten
+gratinieren	VVINF	gratinieren	gratinieren
+lassen	VVINF	lassen	lassen
+.	$.	.	.
+</s>
+<s>
+Während	KOUS	während	Während
+der	ART	d	der
+Blumenkohl	NN	Blumenkohl	Blumenkohl
+überbacken	VVPP	überbacken	überbacken
+wird	VAFIN	werden	wird
+,	$,	,	,
+die	ART	d	die
+gewählte	ADJA	gewählt	gewählte
+Beilage	NN	Beilage	Beilage
+wie	KOKOM	wie	wie
+Salzkartoffeln	NN	Salzkartoffel	Salzkartoffeln
+nach	APPR	nach	nach
+Rezept	NN	Rezept	Rezept
+zubereiten	VVINF	zubereiten	zubereiten
+.	$.	.	.
+</s>
+</p>
+<p>
+<s>
+Den	ART	d	Den
+fertig	ADJD	fertig	fertig
+gratinierten	ADJA	gratiniert	gratinierten
+Blumenkohl	NN	Blumenkohl	Blumenkohl
+aus	APPR	aus	aus
+dem	ART	d	dem
+Backrohr	NN	Backrohr	Backrohr
+nehmen	VVINF	nehmen	nehmen
+und	KON	und	und
+in	APPR	in	in
+portionsgerechte	ADJA	portionsgerecht	portionsgerechte
+Röschen	NN	Rösche	Röschen
+teilen	VVINF	teilen	teilen
+.	$.	.	.
+</s>
+<s>
+Dann	ADV	dann	Dann
+auf	APPR	auf	auf
+vorgewärmten	ADJA	vorgewärmt	vorgewärmten
+Tellern	NN	Teller	Tellern
+anrichten	VVFIN	anrichten	anrichten
+.	$.	.	.
+</s>
+<s>
+Die	ART	d	Die
+gekochten	ADJA	gekocht	gekochten
+Salzkartoffeln	NN	Salzkartoffel	Salzkartoffeln
+daneben	PAV	daneben	daneben
+anrichten	VVFIN	anrichten	anrichten
+,	$,	,	,
+den	ART	d	den
+Blumenkohl	NN	Blumenkohl	Blumenkohl
+eventuell	ADJD	eventuell	eventuell
+mit	APPR	mit	mit
+etwas	PIS	etwas	etwas
+frisch	ADJD	frisch	frisch
+geschnittenem	ADJA	geschneiden	geschnittenem
+Schnittlauch	NN	Schnittlauch	Schnittlauch
+garnieren	VVINF	garnieren	garnieren
+und	KON	und	und
+sofort	ADV	sofort	sofort
+noch	ADV	noch	noch
+heiß	ADJD	heiß	heiß
+servieren	VVINF	servieren	servieren
+.	$.	.	.
+</s>
+</p>
+</text>

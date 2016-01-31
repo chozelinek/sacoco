@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Wecker_1679_11" collection="historical" source="Wecker" url="none" year="1679" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:150]">
+<title>
+<seg type="newline">
+Halbfisch	NN	 UNKNOWN	Halbfisch
+oder	KON	 oder	oder
+Plateischen	NN	 UNKNOWN	Plateischen
+in	APPR	 in	in
+einer	ART	 ein	einer
+Erbs=	ADJA	 UNKNOWN	Erbs=
+oder	KON	 oder	oder
+grünen	ADJA	 grün	grünen
+Schottenbrüh	NN	 UNKNOWN	Schottenbrüh
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wasche	VVFIN	 waschen	Wasche
+die	ART	 d	die
+Halbfisch	NN	 UNKNOWN	Halbfisch
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Härin	NN	 UNKNOWN	Härin
+oder	KON	 oder	oder
+anderm	PIS	 andere	anderm
+Thuch	NN	 UNKNOWN	Thuch
+wol	PWAV	 wo	wo
+rein	ADV	 rein	rein
+</seg>
+<seg type="newline">
+seude	VVFIN	 UNKNOWN	seude
+sie	PPER	 sie	sie
+dann	ADV	 dann	dann
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+im	APPRART	 im	im
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+nicht	PTKNEG	 nicht	nicht
+zu	PTKA	 zu	zu
+lang	ADJD	 lang	lang
+</seg>
+<seg type="newline">
+thue	NN	 UNKNOWN	thue
+das	ART	 d	das
+Wasser	NN	 Wasser	Wasser
+davon	PAV	 davon	davon
+</seg>
+<seg type="newline">
+zeuch	NN	 UNKNOWN	zeuch
+jhnen	VVFIN	 UNKNOWN	jhnen
+die	ART	 d	die
+Haut	NN	 Haut	Haut
+ab	PTKVZ	 ab	ab
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+laß	ADJD	 laß	laß
+sie	PPER	 sie	sie
+also	ADV	 also	also
+</seg>
+<seg type="newline">
+sind	VAFIN	 sein	sind
+sie	PPER	 sie	sie
+groß	ADJD	 groß	groß
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+schneide	VVFIN	 schneiden	schneide
+Stück	NN	 Stück	Stück
+darauß	NN	 UNKNOWN	herauß
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+sie	PPER	 sie	sie
+dann	ADV	 dann	dann
+in	APPR	 in	in
+eine	ART	 ein	eine
+Pfann	NN	 UNKNOWN	Pfann
+oder	KON	 oder	oder
+Tigel	NN	 UNKNOWN	Tigel
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+ein	ART	 ein	ein
+gut	ADJD	 gut	gut
+Stück	NN	 Stück	Stück
+Butter	NN	 Butter	Butter
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+laß	ADJD	 laß	laß
+sie	PPER	 sie	sie
+über	APPR	 über	über
+eine	ART	 ein	eine
+Glut	NN	 Glut	Glut
+preglen	VVFIN	 UNKNOWN	preglen
+</seg>
+<seg type="newline">
+indessen	ADV	 indessen	indessen
+mache	VVFIN	 machen	mache
+die	ART	 d	die
+Erbsbrüh	NN	 UNKNOWN	Erbsbrüh
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+koche	VVFIN	 kochen	koche
+die	ART	 d	die
+Erbsen	NN	 Erbse	Erbsen
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+sie	PPER	 sie	sie
+sich	PRF	 er|es|sie	sich
+reiben	VVINF	 reiben	reiben
+lassen	VVFIN	 lassen	lassen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+treibe	VVFIN	 treiben	treibe
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+der	ART	 d	der
+Suppen	NN	 Suppe	Suppen
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+eng	ADJD	 eng	eng
+Siblein	NN	 UNKNOWN	Siblein
+oder	KON	 oder	oder
+Durchschlag	NN	 Durchschlag	Durchschlag
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+es	PPER	 es	es
+aber	ADV	 aber	aber
+nicht	PTKNEG	 nicht	nicht
+zu	PTKA	 zu	zu
+dick	ADJD	 dick	dick
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+geuß	NN	 UNKNOWN	geuß
+es	PPER	 es	es
+an	APPR	 an	an
+die	ART	 d	die
+Halbfisch	NN	 UNKNOWN	Halbfisch
+</seg>
+<seg type="newline">
+würtze	VVFIN	 würzen	würzt
+es	PPER	 es	es
+mit	APPR	 mit	mit
+Ingwer	NN	 Ingwer	Ingwer
+vnd	KON	 und	und
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+mache	VVFIN	 machen	mache
+es	PPER	 es	es
+mit	APPR	 mit	mit
+Saffran	NN	 Safran	Safran
+gelbe	ADJA	 gelb	gelbe
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+es	PPER	 es	es
+nun	ADV	 nun	nun
+mit	APPR	 mit	mit
+einander	PRF	 einander	einander
+auffgesotten	ADJD	 UNKNOWN	auffgesotten
+hat	VAFIN	 haben	hat
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+richte	VVFIN	 richten	richte
+es	PPER	 es	es
+über	APPR	 über	über
+gebähet	NE	 UNKNOWN	gebähet
+Brot	NN	 Brot	Brot
+oder	KON	 oder	oder
+Semmeln	NN	 Semmel	Semmeln
+an	PTKVZ	 an	an
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+brenne	VVFIN	 brennen	brenne
+einen	ART	 ein	einen
+heissen	ADJA	 heiß	heissen
+Butter	NN	 Butter	Butter
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+sind	VAFIN	 sein	sind
+sie	PPER	 sie	sie
+gut	ADJD	 gut	gut
+.	$.	.	$.	 .	|	.
+Kan	VVFIN	 UNKNOWN	Kan
+man	PIS	 man	man
+aber	ADV	 aber	aber
+grüne	ADJA	 grün	grüne
+Schotten	NN	 Schotte|Schotten	Schotten
+haben	VAFIN	 haben	haben
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+seud	NE	 UNKNOWN	seud
+die	ART	 d	die
+Halbfische	NN	 UNKNOWN	Halbfische
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+sie	PPER	 sie	sie
+gewässert	VVPP	 wässern	gewässert
+sind	VAFIN	 sein	sind
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+einem	ART	 ein	einem
+Wasser	NN	 Wasser	Wasser
+besonders	ADV	 besonders	besonders
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+die	ART	 d	die
+außgemachten	ADJA	 UNKNOWN	außgemachten
+Schottenerbs	NN	 UNKNOWN	Schottenerbs
+auch	ADV	 auch	auch
+besonders	ADV	 besonders	besonders
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+thue	NE	 UNKNOWN	thue
+beydes	ADJA	 UNKNOWN	beydes
+zusamen	NN	 UNKNOWN	zusamen
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+ein	ART	 ein	ein
+gut	ADJD	 gut	gut
+Theil	NN	 Teil	Teil
+Butter	NN	 Butter	Butter
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+vollend	ADJD	 UNKNOWN	vollend
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+vn	NE	 UNKNOWN	vn
+richt	VVFIN	 UNKNOWN	richt
+es	PPER	 es	es
+mit	APPR	 mit	mit
+einander	PRF	 einander	einander
+an	APPR	 an	an
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+ist	VAFIN	 sein	ist
+es	PPER	 es	es
+recht	ADJD	 recht	recht
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

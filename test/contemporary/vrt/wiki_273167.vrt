@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<text id="wiki_273167">
+<p>
+<s>
+Den	ART	d	Den
+Käse	NN	Käse	Käse
+reiben	VVINF	reiben	reiben
+.	$.	.	.
+</s>
+<s>
+Die	ART	d	Die
+Gemüsebrühe	NN	Gemüsebrühe	Gemüsebrühe
+in	APPR	in	in
+einem	ART	eine	einem
+Topf	NN	Topf	Topf
+zum	APPRART	zum	zum
+Kochen	NN	Kochen	Kochen
+bringen	VVINF	bringen	bringen
+.	$.	.	.
+</s>
+<s>
+Die	ART	d	Die
+Kohlrabi	NN	Kohlrabi	Kohlrabi
+schälen	VVINF	schälen	schälen
+und	KON	und	und
+in	APPR	in	in
+der	ART	d	der
+Gemüsebrühe	NN	Gemüsebrühe	Gemüsebrühe
+etwa	ADV	etwa	etwa
+20	CARD	20	20
+Minuten	NN	Minute	Minuten
+garen	VVINF	garen	garen
+lassen	VVINF	lassen	lassen
+.	$.	.	.
+</s>
+<s>
+Die	ART	d	Die
+Kohlrabi	NN	Kohlrabi	Kohlrabi
+durch	APPR	durch	durch
+ein	ART	eine	ein
+Sieb	NN	Sieb	Sieb
+in	APPR	in	in
+eine	ART	eine	eine
+Schüssel	NN	Schüssel	Schüssel
+abseihen	VVINF	abseihen	abseihen
+und	KON	und	und
+den	ART	d	den
+Kochsud	NN	Kochsud	Kochsud
+bereitstellen	VVINF	bereitstellen	bereitstellen
+.	$.	.	.
+</s>
+<s>
+Die	ART	d	Die
+Kohlrabi	NN	Kohlrabi	Kohlrabi
+etwas	PIS	etwas	etwas
+auskühlen	VVINF	auskühlen	auskühlen
+lassen	VVINF	lassen	lassen
+.	$.	.	.
+</s>
+<s>
+Die	ART	d	Die
+Deckel	NN	Deckel	Deckel
+der	ART	d	der
+Kohlrabi	NN	Kohlrabi	Kohlrabi
+abschneiden	VVINF	abschneiden	abschneiden
+,	$,	,	,
+alle	PIAT	alle	alle
+vier	CARD	vier	vier
+aushöhlen	VVINF	aushöhlen	aushöhlen
+und	KON	und	und
+ein	ART	eine	ein
+Teil	NN	Teil	Teil
+des	ART	d	des
+Kohlrabifleisches	NN	Kohlrabifleisch	Kohlrabifleisches
+fein	ADJD	fein	fein
+hacken	VVINF	hacken	hacken
+.	$.	.	.
+</s>
+<s>
+Die	ART	d	Die
+Zwiebel	NN	Zwiebel	Zwiebel
+pellen	VVINF	pellen	pellen
+und	KON	und	und
+fein	ADJD	fein	fein
+wiegen	VVFIN	wiegen	wiegen
+.	$.	.	.
+</s>
+<s>
+Den	ART	d	Den
+Bacon	NN	Bacon	Bacon
+in	APPR	in	in
+Streifen	NN	Streifen	Streifen
+schneiden	VVFIN	schneiden	schneiden
+,	$,	,	,
+zusammen	ADV	zusammen	zusammen
+mit	APPR	mit	mit
+der	ART	d	der
+Zwiebel	NN	Zwiebel	Zwiebel
+und	KON	und	und
+Butter	NN	Butter	Butter
+in	APPR	in	in
+einer	ART	eine	einer
+Pfanne	NN	Pfanne	Pfanne
+anschwitzen	VVINF	anschwitzen	anschwitzen
+.	$.	.	.
+</s>
+<s>
+Die	ART	d	Die
+angeschwitzte	ADJA	angeschwitzt	angeschwitzte
+Zwiebel	NN	Zwiebel	Zwiebel
+in	APPR	in	in
+eine	ART	eine	eine
+Schüssel	NN	Schüssel	Schüssel
+geben	VVINF	geben	geben
+,	$,	,	,
+mit	APPR	mit	mit
+dem	ART	d	dem
+Hack	NE	Hack	Hack
+,	$,	,	,
+einem	ART	eine	einem
+Teil	NN	Teil	Teil
+der	ART	d	der
+fein	ADJD	fein	fein
+gewiegten	ADJA	gewiegt	gewiegten
+Kohlrabi	NN	Kohlrabi	Kohlrabi
+gut	ADJD	gut	gut
+verkneten	VVINF	verkneten	verkneten
+und	KON	und	und
+würzen	VVINF	würzen	würzen
+.	$.	.	.
+</s>
+<s>
+Die	ART	d	Die
+Hälfte	NN	Hälfte	Hälfte
+des	ART	d	des
+Käses	NN	Käse	Käses
+zugeben	VVINF	zugeben	zugeben
+und	KON	und	und
+mit	APPR	mit	mit
+dem	ART	d	dem
+Eigelb	NN	Eigelb	Eigelb
+in	APPR	in	in
+die	ART	d	die
+Hackfleischmasse	NN	Hackfleischmasse	Hackfleischmasse
+gut	ADJD	gut	gut
+einarbeiten	VVINF	einarbeiten	einarbeiten
+.	$.	.	.
+</s>
+<s>
+Die	ART	d	Die
+Hackmasse	NN	Hackemasse	Hackmasse
+abschmecken	VVINF	abschmecken	abschmecken
+.	$.	.	.
+</s>
+<s>
+Das	ART	d	Das
+Backrohr	NN	Backrohr	Backrohr
+auf	APPR	auf	auf
+Ober-/	NE	Ober-/	Ober-/
+Unterhitze	NN	Unterhitze	Unterhitze
+200	CARD	200	200
+°C	NN	°c	°C
+vorheizen	VVINF	vorheizen	vorheizen
+.	$.	.	.
+</s>
+<s>
+Die	ART	d	Die
+Kohlrabi	NN	Kohlrabi	Kohlrabi
+füllen	VVINF	füllen	füllen
+,	$,	,	,
+mit	APPR	mit	mit
+dem	ART	d	dem
+restlichen	ADJA	restlich	restlichen
+Käse	NN	Käse	Käse
+bestreuen	VVINF	bestreuen	bestreuen
+und	KON	und	und
+in	APPR	in	in
+die	ART	d	die
+Auflaufform	NN	Auflaufform	Auflaufform
+geben	VVINF	geben	geben
+.	$.	.	.
+</s>
+<s>
+Die	ART	d	Die
+Auflaufform	NN	Auflaufform	Auflaufform
+mit	APPR	mit	mit
+Kochbrühe	NN	Kochbrühe	Kochbrühe
+angießen	VVINF	angießen	angießen
+und	KON	und	und
+etwa	ADV	etwa	etwa
+30	CARD	30	30
+bis	APPR	bis	bis
+40	CARD	40	40
+Minuten	NN	Minute	Minuten
+backen	VVFIN	backen	backen
+lassen	VVINF	lassen	lassen
+.	$.	.	.
+</s>
+<s>
+Die	ART	d	Die
+Sauce	NN	Sauce	Sauce
+abschmecken	VVINF	abschmecken	abschmecken
+.	$.	.	.
+</s>
+<s>
+Die	ART	d	Die
+Sauce	NN	Sauce	Sauce
+mit	APPR	mit	mit
+Mehlbutter	NN	Mehlbutter	Mehlbutter
+abbinden	VVINF	abbinden	abbinden
+.	$.	.	.
+</s>
+</p>
+</text>

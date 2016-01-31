@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Stockholm_1647_8" collection="historical" source="Stockholm" url="none" year="1647" decade="1640-1650" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1647:117]">
+<body>
+<seg type="newline">
+Apfelmus	NN	 Apfelmus	Apfelmus
+bereitet	VVFIN	 bereiten	bereitet
+wie	KOKOM	 wie	wie
+zu	APPR	 zu	zu
+den	ART	 d	den
+Torten	NN	 Torte	Torten
+oder	KON	 oder	oder
+Kräppen	NN	 UNKNOWN	Kräppen
+</seg>
+<seg type="newline">
+Denn	KON	 denn	Denn
+bestrichen	VVFIN	 bestreichen	bestrichen
+</seg>
+<seg type="newline">
+Ein	ART	 eine	Ein
+Deckel	NN	 Deckel	Deckel
+von	APPR	 von	von
+Ablat	NN	 UNKNOWN	Ablat
+teig	ADJD	 UNKNOWN	teig
+darauff	PAV	 drauf	drauf
+geleget	ADJD	 UNKNOWN	geleget
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+ein	ART	 ein	ein
+dünnes	ADJA	 dünn	dünnes
+Teiglein	NN	 UNKNOWN	Teiglein
+mit	APPR	 mit	mit
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+fein	ADJD	 fein	fein
+Weitzen	ADJA	 UNKNOWN	Weitzen
+Meel	NN	 UNKNOWN	Meel
+</seg>
+<seg type="newline">
+Schneide	NN	 Schneid|Schneide	Schneide
+die	ART	 d	die
+gefüllete	ADJA	 UNKNOWN	gefüllete
+Ablaten	NN	 UNKNOWN	Ablaten
+striemen	VVFIN	 UNKNOWN	striemen
+weise	ADJD	 weise	weise
+</seg>
+<seg type="newline">
+zu	PTKZU	 zu	zu
+3.	ADJA	 3.	3.
+oder	KON	 oder	oder
+4.	ADJA	 4.	4.
+Lengden	NN	 UNKNOWN	Lengden
+durch	PTKVZ	 durch	durch
+</seg>
+<seg type="newline">
+ziehet	VVFIN	 zeihen|ziehen	ziehet
+die	ART	 d	die
+Ecken	NN	 Ecke	Ecken
+durch	APPR	 durch	durch
+den	ART	 d	den
+dünnen	ADJA	 dünn	dünnen
+Teig	NN	 Teig	Teig
+</seg>
+<seg type="newline">
+backet	VVFIN	 UNKNOWN	backet
+es	PPER	 es	es
+in	APPR	 in	in
+heisse	ADJA	 heiß	heisse
+Butter	NN	 Butter	Butter
+geschwinde	ADJA	 geschwind	geschwinde
+weg	ADV	 weg	weg
+</seg>
+<seg type="newline">
+Giebs	NN	 UNKNOWN	Giebs
+warm	ADJD	 warm	warm
+auffn	ADJA	 UNKNOWN	auffn
+Tisch	NN	 Tisch	Tisch
+</seg>
+<seg type="newline">
+bestrewe	VVFIN	 bestreuen	bestreuen
+es	PPER	 es	es
+mit	APPR	 mit	mit
+Zucker	NN	 Zucker	Zucker
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

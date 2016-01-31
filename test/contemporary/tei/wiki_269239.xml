@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Aachener Printen</title>
+        <author>NikiWiki, CTHOE, Vran01, Hombre</author>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Universität des Saarlandes</publisher>
+        <pubPlace>Saarbrücken</pubPlace>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution ShareAlike 3.0 License</ref>.</p>
+        </availability>
+        <date>2016</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>http://www.kochwiki.org/w/index.php?oldid=269239</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="wiki_269239">
+    <body>
+      <div n="1" type="recipe">
+        <head>Aachener Printen</head>
+        <div n="2" type="contents">
+          <head>Vorbereitung</head>
+          <p>Den Sirup und das Schweineschmalz in einen Topf geben, erhitzen und so lange verrühren, bis flüssige ist und sich verbunden hat. Die Vanilleschoten längs halbieren und das Vanillemark aus den Schoten herauskratzen Das Orangeat hacken. Das Vanillemark, das Orangeat und die Gewürze hinzugeben und so lange verrühren, bis sich alles möglichst aufgelöst hat. Rosenwasser in eine Schüssel geben und Das Hirschhornsalz darin auflösen. Den Kadiszucker in zum Beispiel in einer Küchenmaschine zerkleiner. Man kann auch einen Gefrierbeutel nehmen, in dem man den Kandiszucker mit einem Nudelholz oder ähnlichem zerkleinert. Mehl in das Sirupwasser sieben. Rosenwasser und Kandiszucker dazugeben und daraus einen Teig kneten. Den Teig abdecken oder in Frischhaltefolie einwickeln und über Nacht an einem kühlen Ort rasten lassen.</p>
+        </div>
+        <div n="2" type="contents">
+          <head>Fertigstellung</head>
+          <p>Am nächsten Tag den Teig noch einmal durchkneten. Eine Arbeitsfläche mit Mehl bestäuben und den Teig darauf etwa 3 mm dick ausrollen. Den Teig in 6 x 3 cm große Rechtecke schneiden. Den Backofen auf 180 °C vorheizen. Die Rechtecke auf ein mit Backpapier ausgelegtes Backblech geben. Die Printen auf mittlerer Schiene knapp 15 Minuten backen. Das Eiweiß in eine Tasse geben und mit einer Gabel aufschlagen. Das Eiweiß mit einem Pinsel auf den Rechtecken verteilen. Hagelzucker auf die Rechtecke geben. Das muss sehr schnell gehen, weil der Zucker sonst nicht auf den Printen kleben bleibt.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

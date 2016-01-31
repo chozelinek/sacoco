@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Von Kälbern vnd Rindern Würst  auch von Lungen vnd Lebern .</title>
+        <author/>
+        <respStmt>
+          <resp/>
+          <name>Andrea Wurm</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Universität des Saarlandes</publisher>
+        <pubPlace>Saarbrücken</pubPlace>
+        <availability status="free">
+          <p>Recipe transcribed by <ref target="mailto:a.wurm@mx.uni-saarland.de">Andrea Wurm</ref> is licensed under a <ref target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</ref>.</p>
+        </availability>
+        <date>2016</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="staindl_15">
+    <body>
+      <div n="1" type="recipe">
+        <head>Von Kälbern vnd Rindern Würst  auch von Lungen vnd Lebern .</head>
+        <p>Nimb ein Leber von eim Rind  auch der Lungen  hack jedes in sonderheit gar klein  hacks dann beyde zusammen  thuos in ein Muolter  saltz  thuo ein pfefferstüpp darein  vnd ein guots gerings faist  das schneyd darein  nit zu klein  es verseüdt sich sonst gar  geüß dann wol ein süssen Milchraum darein  rürs durch einander  Nimb dann die weyten därmvon einem Ochssen  machs darein  nur wol lähr  binds an beyden orten mit einem faden  vnd vberbrenns . Solliche Würst seind fast guot auff kraut oder Rüben  seind fein lind . Auß einer Kälbern lebern magst auch wol würst machen  mit raum oder ohn raum .</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Knopf_1800_4" collection="historical" source="Knopf" url="http://www.uni-giessen.de/gloning/tx/1800hakb.htm" language="deu" year="1800" decade="1800-1810" period="1800-1850" type="|none|" course="|none|" cuisine="|none|" ingredient="|Huhn|" method="|Suppe|" ref="[]">
+<title>
+<seg type="newline">
+3.	ADJA	 3.	3.
+Hühnersuppe	NN	 Hühnersuppe	Hühnersuppe
+mit	APPR	 mit	mit
+Reis	NN	 Reis	Reis
+auf	APPR	 auf	auf
+eine	ART	 ein	eine
+andere	ADJA	 ander	andere
+Art.	NN	 Art.	Art.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Ein	ART	 eine	Ein
+altes	ADJA	 alt	altes
+Huhn	NN	 Huhn	Huhn
+wird	VAFIN	 werden	wird
+mit	APPR	 mit	mit
+Wasser	NN	 Wasser	Wasser
+und	KON	 und	und
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+</seg>
+<seg type="newline">
+Salz	NN	 Salz	Salz
+langsam	ADJD	 langsam	langsam
+gar	ADV	 gar	gar
+gekocht	VVPP	 kochen	gekocht
+;	$.	;	$.	 ;	|	;
+auch	ADV	 auch	auch
+etwas	PIAT	 etwas	etwas
+</seg>
+<seg type="newline">
+Suppenkräuter	NN	 UNKNOWN	Suppenkräuter
+und	KON	 und	und
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Gewürz	NN	 Gewürz	Gewürz
+,	$,	,	$,	 ,	|	,
+wie	KOUS	 wie	wie
+bei	APPR	 bei	bei
+der	ART	 d	der
+</seg>
+<seg type="newline">
+vorigen	ADJA	 vorig	vorigen
+Suppe	NN	 Suppe	Suppe
+,	$,	,	$,	 ,	|	,
+daran	PAV	 daran	daran
+gethan	NE	 UNKNOWN	gethan
+.	$.	.	$.	 .	|	.
+Ferner	ADJD	 fern	Ferner
+brühet	ADJA	 grün	grünen
+man	PIS	 man	man
+</seg>
+<seg type="newline">
+1/4	CARD	 1/4	1/4
+(	$(	(	$(	 (	|	(
+lb	ADJA	 UNKNOWN	lb
+)	$(	)	$(	 )	|	)
+Reis	NN	 Reis	Reis
+mit	APPR	 mit	mit
+kochendem	ADJA	 kochend	kochendem
+Wasser	NN	 Wasser	Wasser
+ab	PTKVZ	 ab	ab
+,	$,	,	$,	 ,	|	,
+sezt	ADV	 jetzt	Jetzt
+denselben	PDS	 derselbe	denselben
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Bouillon	NN	 Bouillon	Bouillon
+,	$,	,	$,	 ,	|	,
+Butter	NN	 Butter	Butter
+und	KON	 und	und
+Salz	NN	 Salz	Salz
+auf	APPR	 auf	auf
+ein	ART	 ein	ein
+</seg>
+<seg type="newline">
+gelindes	ADJA	 gelinde	gelindes
+Feuer	NN	 Feuer	Feuer
+,	$,	,	$,	 ,	|	,
+wirft	VVFIN	 werfen	wirft
+eine	ART	 ein	eine
+Handvoll	NN	 Handvoll	Handvoll
+verlesene	ADJA	 verlesen	verlesene
+</seg>
+<seg type="newline">
+Rosinen	NN	 Rosine	Rosinen
+dazu	PAV	 dazu	dazu
+,	$,	,	$,	 ,	|	,
+und	KON	 und	und
+läßt	VVFIN	 lassen	läßt
+ihn	PPER	 er	ihn
+gar	ADV	 gar	gar
+kochen	VVINF	 kochen	kochen
+,	$,	,	$,	 ,	|	,
+daß	KOUS	 daß	daß
+er	PPER	 er	er
+dicke	ADJA	 dick	dicke
+</seg>
+<seg type="newline">
+wird	VAFIN	 werden	wird
+.	$.	.	$.	 .	|	.
+Die	ART	 d	Die
+Suppe	NN	 Suppe	Suppe
+richtet	VVFIN	 richten	richtet
+man	PIS	 man	man
+alsdann	NN	 UNKNOWN	Alsdann
+mit	APPR	 mit	mit
+dem	ART	 d	dem
+</seg>
+<seg type="newline">
+Huhne	NN	 Huhn	Huhn
+an	PTKVZ	 an	an
+,	$,	,	$,	 ,	|	,
+den	ART	 d	den
+Reis	NN	 Reis	Reis
+giebt	VVFIN	 liegen	liegt
+man	PIS	 man	man
+aber	ADV	 aber	aber
+dabey	PAV	 dabei	dabei
+auf	APPR	 auf	auf
+</seg>
+<seg type="newline">
+eine	ART	 ein	eine
+Schüssel	NN	 Schüssel	Schüssel
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

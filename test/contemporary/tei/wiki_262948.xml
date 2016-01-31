@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Überbackener Blumenkohl</title>
+        <author>Mehrhardt, Jozeil, EdBot, Woltera, Vran01, CTHOE, Hilfskoch, Mgeiser, NikiWiki, Hombre, Fledermaus</author>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Universität des Saarlandes</publisher>
+        <pubPlace>Saarbrücken</pubPlace>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution ShareAlike 3.0 License</ref>.</p>
+        </availability>
+        <date>2016</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>http://www.kochwiki.org/w/index.php?oldid=262948</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="wiki_262948">
+    <body>
+      <div n="1" type="recipe">
+        <head>Überbackener Blumenkohl</head>
+        <div n="2" type="contents">
+          <head>Vorbereitung</head>
+          <p>Das Backrohr bei Ober-/Unterhitze auf 220 °C vorheizen und ein Backgitter auf die untere Einschubleiste einschieben. Den Emmentaler fein reiben.</p>
+        </div>
+        <div n="2" type="contents">
+          <head>Vorbereitung Blumenkohl</head>
+          <p>Vom Blumenkohl den Strunk soweit abschneiden, dass auch alle Blätter entfernt werden und am verbleibenden Strunk ein Kreuz einschneiden. Den Blumenkohl unter fließendem, warmen Wasser waschen und abtropfen lassen. In einem großen Topf reichlich Salzwasser zum Kochen bringen. Den Blumenkohl in das kochende Salzwasser geben und für etwa 15 Minuten blanchieren. "(Den Gargrad durch Einstechen mit einem spitzen lagen Messer überprüfen)" Während der Blumenkohl blanchiert wird die Mornaysauce zubereitet.</p>
+        </div>
+        <div n="2" type="contents">
+          <head>Mornaysauce</head>
+          <p>Einen Topf erhitzen und die Butter einmal aufschäumen lassen. Mit dem Mehl stauben und kurz ohne Farbe rösten. Dann unter ständigem Rühren mit einem Schneebesen die Milch langsam zugießen und mit dem Mehl gut verquirlen. Die Sauce bei geringer Hitze unter ständigem Rühren mit dem Schneebesen leicht Köcheln lassen. Sobald die Béchamelsauce eine dickliche Konsistenz aufweist von der Herdplatte ziehen und mit Salz sowie Pfeffer würzen. Während die Béchamelsauce leicht köchelt den Emmentaler fein reiben. Den geriebenen Käse zufügen und gut unterrühren. Die Mornaysauce mit frisch geriebener Muskatnuss, Salz sowie Pfeffer abschmecken.</p>
+        </div>
+        <div n="2" type="contents">
+          <head>Überbackener Blumenkohl</head>
+          <p>Eine große Schüssel mit Eiswasser füllen, den blanchierten Blumenkohl aus dem Salzwasser heben und sofort im Eiswasser abschrecken. Den Blumenkohl aus dem Eiswasser heben, gut abtropfen lassen und in die Auflaufform geben. Das Kohlgemüse mit der noch heißen Sauce nappieren. Dann mit dem geriebenen Käse sowie den Semmelbröseln bestreuen. Die Butter in Butterflocken schaben und den Blumenkohl damit belegen. Den Blumenkohl im heißen Backrohr für etwa zwanzig Minuten gratinieren lassen. Während der Blumenkohl überbacken wird, die gewählte Beilage wie Salzkartoffeln nach Rezept zubereiten.</p>
+        </div>
+        <div n="2" type="contents">
+          <head>Fertigstellung</head>
+          <p>Den fertig gratinierten Blumenkohl aus dem Backrohr nehmen und in portionsgerechte Röschen teilen. Dann auf vorgewärmten Tellern anrichten. Die gekochten Salzkartoffeln daneben anrichten, den Blumenkohl eventuell mit etwas frisch geschnittenem Schnittlauch garnieren und sofort noch heiß servieren.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

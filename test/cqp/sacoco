@@ -1,0 +1,53 @@
+##
+## registry entry for corpus SACOCO
+##
+
+# long descriptive name for the corpus
+NAME ""
+# corpus ID (must be lowercase in registry!)
+ID   sacoco
+# path to binary data files
+HOME test/cqp/data
+# optional info file (displayed by "info;" command in CQP)
+INFO test/cqp/data/.info
+
+# corpus properties provide additional information about the corpus:
+##:: charset  = "utf8" # character encoding of corpus data
+##:: language = "??"     # insert ISO code for language (de, en, fr, ...)
+
+
+##
+## p-attributes (token annotations)
+##
+
+ATTRIBUTE word
+ATTRIBUTE pos
+ATTRIBUTE lemma
+ATTRIBUTE norm
+
+
+##
+## s-attributes (structural markup)
+##
+
+# <text id=".." collection=".." source=".." year=".." decade=".." period=".." title=".."> ... </text>
+# (no recursive embedding allowed)
+STRUCTURE text
+STRUCTURE text_id              # [annotations]
+STRUCTURE text_collection      # [annotations]
+STRUCTURE text_source          # [annotations]
+STRUCTURE text_year            # [annotations]
+STRUCTURE text_decade          # [annotations]
+STRUCTURE text_period          # [annotations]
+STRUCTURE text_title           # [annotations]
+
+# <p> ... </p>
+# (no recursive embedding allowed)
+STRUCTURE p
+
+# <s> ... </s>
+# (no recursive embedding allowed)
+STRUCTURE s
+
+
+# Yours sincerely, the Encode tool.

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>"Krömpele"-Suppe</title>
+        <author>NikiWiki, CTHOE, Vran01, Hombre</author>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Universität des Saarlandes</publisher>
+        <pubPlace>Saarbrücken</pubPlace>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution ShareAlike 3.0 License</ref>.</p>
+        </availability>
+        <date>2016</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>http://www.kochwiki.org/w/index.php?oldid=269224</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="wiki_269224">
+    <body>
+      <div n="1" type="recipe">
+        <head>"Krömpele"-Suppe</head>
+        <p>Schnittlauch in kleine Röllchen schneiden Gewürze, Mehl und Eier mit etwas Wasser zu einem dickflüssigen Teig verrühren Unter Umständen muss etwas Mehl oder Wasser dazugegeben werden, um die richtige Konsistenz des Teiges zu erreichen Den Teig zu großen "Krömpele" (Krümel) mit den Händen verreiben Etwa 1 l Wasser mit der Brühe aufkochen Hierin die "Krömpele" leicht köchelnd in etwa 15 Minuten garziehen lassen Zwischenzeitlich den Speck fein würfeln und goldbraun ausbraten Speckwürfel in die Suppe schütten, abschmecken und mit reichlich Schnittlauchröllchen garnieren und anrichten</p>
+      </div>
+    </body>
+  </text>
+</TEI>

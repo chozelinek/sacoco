@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Eine Gallarte von Eyern oder gestandene Eyer zumachen .</title>
+        <author/>
+        <respStmt>
+          <resp/>
+          <name>Andrea Wurm</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Universität des Saarlandes</publisher>
+        <pubPlace>Saarbrücken</pubPlace>
+        <availability status="free">
+          <p>Recipe transcribed by <ref target="mailto:a.wurm@mx.uni-saarland.de">Andrea Wurm</ref> is licensed under a <ref target="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</ref>.</p>
+        </availability>
+        <date>2016</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="deckhardt_22">
+    <body>
+      <div n="1" type="recipe">
+        <head>Eine Gallarte von Eyern oder gestandene Eyer zumachen .</head>
+        <p>Nim zehen oder zwölff Eyer  thue das weisse besonders  klopffe es wol vntereinander  vnd menge Zucker drein darnach nim einen dicken Rohm  Setze jhn zum Fewer  vnd wenn es anfehet zu sieden  So schütte die Eyer klar drein  laß ein wenig sieden  hebe es vom Fewer vnd laß vor kühlen . Zuuor aber nim das gelbe  menge auch Zucker darunter  vnd laß eine Milch wol heis werden  schütte die Totter darein  geus balde ein wenig kalt Wasser darzu  So lauffen sie zusammen  schütte es dann in ein Tüchlein binde es zusammen  beschwere es ein wenig damit das Wasser daruon leufft  vnd hertlicht wird  darnach schneide länglichte oder breite stücklein daraus  Richte sie in eine Schüssel an  Wil man so strewe kleine Rosinlein darüber  vnd geus die Eyer klar darauff . Man mag auch wol gefülte Eyer wie zuuor beschrieben  oder nur schlechte abgesottene harte Eyer nehmen  halb von einander schneiden  vnd neben das gelbe von Eyern anrichten . Setze es dann in einen Keller oder kühlen orth  vnd laß gestehen  So wird es recht hübsch vnd gut .</p>
+      </div>
+    </body>
+  </text>
+</TEI>
