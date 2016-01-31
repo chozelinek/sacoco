@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Wecker_1679_3" collection="historical" source="Wecker" url="none" year="1679" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:30f.]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+Gebachens	NN	 UNKNOWN	Gebachens
+von	APPR	 von	von
+dem	ART	 d	dem
+Hirn	NN	 Hirn	Hirn
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+Hirn	NN	 Hirn	Hirn
+von	APPR	 von	von
+einem	ART	 ein	einem
+Rind	NN	 Rind	Rind
+</seg>
+<seg type="newline">
+säubers	NN	 UNKNOWN	säubers
+von	APPR	 von	von
+der	ART	 d	der
+Haut	NN	 Haut	Haut
+</seg>
+<seg type="newline">
+setz	VVIMP	 setzen	setz
+es	PPER	 es	es
+mit	APPR	 mit	mit
+Halb	ADJD	 halb	Halb
+Wein	NN	 Wein	Wein
+vnd	KON	 und	und
+Wasser	NN	 Wasser	Wasser
+zu	APPR	 zu	zu
+</seg>
+<seg type="newline">
+saltz	ADJA	 kalt	kalten
+es	PPER	 es	es
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+ein	PTKVZ	 ein	ein
+Stund	VAFIN	 sein	sind
+zwo	CARD	 zwo	zwo
+oder	KON	 oder	oder
+drey	CARD	 drei	drei
+</seg>
+<seg type="newline">
+als	KON	 als	als
+wolltest	VMFIN	 wollen	wolltest
+du	PPER	 du	du
+es	PPER	 es	es
+in	APPR	 in	in
+einer	ART	 ein	einer
+Brüh	ADJD	 früh	früh
+bereiten	ADJA	 bereit	bereiten
+</seg>
+<seg type="newline">
+wanns	NN	 UNKNOWN	wanns
+gesotten	VVPP	 sieden	gesotten
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nimm	VVIMP	 nehmen	nimm
+darvon	PAV	 darin	darin
+so	ADV	 so	so
+viel	ADV	 viel	viel
+du	PPER	 du	du
+bedarffst	VVFIN	 UNKNOWN	bedarffst
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+brauchst	VVFIN	 brauchen	brauchst
+zu	APPR	 zu	zu
+einem	ART	 ein	einem
+Brot	NN	 Brot	Brot
+grösser	ADJD	 groß	grösser
+nicht	PTKNEG	 nicht	nicht
+dann	ADV	 dann	dann
+ein	ART	 ein	ein
+Ey	NE	 Ey	Ey
+.	$.	.	$.	 .	|	.
+Hacks	NN	 UNKNOWN	Hacks
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+wilt	VMFIN	 wollen	will
+du	PPER	 du	du
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+seud	NE	 UNKNOWN	seud
+Eyer	NE	 UNKNOWN	Eyer
+hart	ADJD	 hart	hart
+</seg>
+<seg type="newline">
+nim	VVFIN	 UNKNOWN	nimb
+das	ART	 d	das
+gelbe	ADJA	 gelb	gelbe
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+Eyer	NE	 UNKNOWN	Eyer
+vnd	KON	 und	und
+Hirn	NN	 Hirn	Hirn
+gleich	ADJD	 gleich	gleich
+</seg>
+<seg type="newline">
+wilt	VMFIN	 wollen	will
+du	PPER	 du	du
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nim	ADJD	 UNKNOWN	nimb
+für	APPR	 für	für
+die	ART	 d	die
+Eyer	NE	 UNKNOWN	Eyer
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Semmel	NN	 Semmel	Semmel
+</seg>
+<seg type="newline">
+wilt	VMFIN	 wollen	will
+du	PPER	 du	du
+auch	ADV	 auch	auch
+das	ART	 d	das
+Hirn	NN	 Hirn	Hirn
+allein	ADV	 allein	allein
+machen	VVFIN	 machen	machen
+mit	APPR	 mit	mit
+andern	ADJA	 ander	andern
+Eyern	NN	 UNKNOWN	Eyern
+</seg>
+<seg type="newline">
+kanst	VVFIN	 UNKNOWN	kanst
+du	PPER	 du	du
+es	PPER	 es	es
+thun	NN	 UNKNOWN	thue
+</seg>
+<seg type="newline">
+würtz	VVFIN	 würzen	würzt
+es	PPER	 es	es
+mit	APPR	 mit	mit
+Saffran	NN	 Safran	Safran
+vn	NE	 UNKNOWN	vn
+süssem	ADJA	 süß	süssem
+Gewürtz	NN	 UNKNOWN	Gewürtz
+</seg>
+<seg type="newline">
+Muscatblust	NN	 UNKNOWN	Muscatblust
+oder	KON	 oder	oder
+Muscatnuß	NN	 UNKNOWN	Muscatnuß
+</seg>
+<seg type="newline">
+vast	ADV	 fast	fast
+wol	PWAV	 wo	wo
+gestossen	VVPP	 stoßen	gestossen
+</seg>
+<seg type="newline">
+wol	PWAV	 wo	wo
+Weinbeer	NN	 Weizenbier	Weizenbier
+</seg>
+<seg type="newline">
+nimm	VVIMP	 nehmen	nimm
+weiß	VVFIN	 wissen	weiß
+Brot	NN	 Brot	Brot
+</seg>
+<seg type="newline">
+groß	ADJD	 groß	groß
+oder	KON	 oder	oder
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+deines	PPOSAT	 dein	deines
+Gefallens	NN	 Gefallen	Gefallens
+</seg>
+<seg type="newline">
+die	ART	 d	die
+Ortbrot	NN	 UNKNOWN	Ortbrot
+sind	VAFIN	 sein	sind
+am	APPRART	 am	am
+besten	ADJA	 gut	besten
+</seg>
+<seg type="newline">
+doch	KON	 doch	doch
+nach	APPR	 nach	nach
+dem	ART	 d	dem
+du	PPER	 du	du
+geschickt	ADJD	 geschickt	geschickt
+bist	VAFIN	 sein	bist
+</seg>
+<seg type="newline">
+schneid	NN	 Schneid	schneid
+ein	ART	 ein	ein
+Schnittlein	NN	 UNKNOWN	Schnittlein
+herab	PTKVZ	 herab	herab
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+bereits	ADV	 bereits	bereits
+</seg>
+<seg type="newline">
+wie	KOUS	 wie	wie
+du	PPER	 du	du
+hievor	VVFIN	 UNKNOWN	hievor
+hast	VAFIN	 haben	hast
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+die	ART	 d	die
+Eyer	NE	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+fülle	VVFIN	 füllen	fülle
+angemachten	ADJA	 UNKNOWN	angemachten
+Zeug	NN	 Zeug	Zeug
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+vn	NE	 UNKNOWN	vn
+bachs	NE	 Bach	bachs
+im	APPRART	 im	im
+Schmaltz	NN	 Schmalz	Schmalz
+schön	ADJD	 schön	schön
+vnd	KON	 und	und
+trocken	ADJD	 trocken	trocken
+</seg>
+<seg type="newline">
+füll	VVIMP	 füllen	füll
+es	PPER	 es	es
+nicht	PTKNEG	 nicht	nicht
+zu	PTKA	 zu	zu
+sehr	ADV	 sehr	sehr
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+offt	ADV	 oft	oft
+gesagt	VVPP	 sagen	gesagt
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+sie	PPER	 sie	sie
+nicht	PTKNEG	 nicht	nicht
+auffspringen	ADJD	 UNKNOWN	auffspringen
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+nicht	PTKNEG	 nicht	nicht
+zu	PTKA	 zu	zu
+lär	ADJD	 UNKNOWN	lär
+</seg>
+<seg type="newline">
+sie	PPER	 sie	sie
+fallen	VVFIN	 fallen	fallen
+sonst	ADV	 sonst	sonst
+zusammen	ADV	 zusammen	zusammen
+</seg>
+<seg type="newline">
+recht	ADJD	 recht	recht
+ist	VAFIN	 sein	ist
+recht	ADJD	 recht	recht
+in	APPR	 in	in
+allen	PIAT	 alle	allen
+Dingen	NN	 Ding	Dingen
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+ein	ART	 ein	ein
+gute	ADJA	 gut	gute
+Brüh	ADJD	 früh	früh
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+deines	PPOSAT	 dein	deines
+Gefallens	NN	 Gefallen	Gefallens
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+du	PPER	 du	du
+wilt	NE	 Wilt	wilt
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+zerschneide	VVFIN	 zerschneiden	zerschneide
+es	PPER	 es	es
+zu	APPR	 zu	zu
+Schnitten	NN	 Schnitt|Schnitte	Schnitten
+</seg>
+<seg type="newline">
+du	PPER	 du	du
+must	VVFIN	 UNKNOWN	must
+ein	ART	 ein	ein
+gut	ADJD	 gut	gut
+Messer	NN	 Messer	Messer
+haben	VAINF	 haben	haben
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+sie	PPER	 sie	sie
+dir	PRF	 du	dir
+nicht	PTKNEG	 nicht	nicht
+zerbrechen	VVINF	 zerbrechen	zerbrechen
+</seg>
+<seg type="newline">
+zeuhe	VVFIN	 UNKNOWN	zeuhe
+es	PPER	 es	es
+durch	APPR	 durch	durch
+geklopffte	ADJA	 UNKNOWN	geklopffte
+Eyer	NE	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+als	KOKOM	 als	als
+woltest	ADJD	 UNKNOWN	woltest
+du	PPER	 du	du
+güldene	ADJA	 UNKNOWN	güldene
+Schnitten	NN	 Schnitt|Schnitte	Schnitten
+bachen	NN	 Kochen	Kochen
+</seg>
+<seg type="newline">
+bache	VVFIN	 UNKNOWN	bache
+es	PPER	 es	es
+vast	ADV	 fast	fast
+schnell	ADJD	 schnell	schnell
+hinweg	ADV	 hinweg	hinweg
+</seg>
+<seg type="newline">
+bestrewe	VVFIN	 bestreuen	bestreuen
+es	PPER	 es	es
+auch	ADV	 auch	auch
+mit	APPR	 mit	mit
+Zucker	NN	 Zucker	Zucker
+vnd	KON	 und	und
+Zimmet	NN	 Zimt	Zimt
+</seg>
+<seg type="newline">
+gibs	NN	 UNKNOWN	gilbs
+warm	ADJD	 warm	warm
+</seg>
+<seg type="newline">
+sie	PPER	 sie	sie
+sind	VAFIN	 sein	sind
+vast	ADV	 fast	fast
+wunderlich	ADJD	 wunderlich	wunderlich
+vnd	KON	 und	und
+gut	ADJD	 gut	gut
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

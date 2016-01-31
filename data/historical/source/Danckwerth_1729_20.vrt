@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Danckwerth_1729_20" collection="historical" source="Danckwerth" url="none" year="1729" decade="1720-1730" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1729:279]">
+<title>
+<seg type="newline">
+4.	ADJA	 4.	4.
+Aepffel	NN	 UNKNOWN	Aepffel
+wohl	ADV	 wohl	wohl
+zu	PTKZU	 zu	zu
+verwahren	VVINF	 verwahren	verwahren
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Man	PIS	 man	Man
+nimt	VVFIN	 UNKNOWN	nimt
+sie	PPER	 sie	sie
+in	APPR	 in	in
+guten	ADJA	 gut	guten
+hellen	ADJA	 hell	hellen
+Wetter	NN	 Wetter	Wetter
+von	APPR	 von	von
+den	ART	 d	den
+Bäumen	NN	 Baum	Bäumen
+</seg>
+<seg type="newline">
+aber	ADV	 aber	aber
+nicht	PTKNEG	 nicht	nicht
+mit	APPR	 mit	mit
+blosser	ADJA	 bloß	blosser
+Hand	NN	 Hand	Hand
+</seg>
+<seg type="newline">
+und	KON	 und	und
+legt	VVFIN	 legen	legt
+sie	PPER	 sie	sie
+Augenblicklich	ADJD	 augenblicklich	Augenblicklich
+in	APPR	 in	in
+Fässer	NN	 Faß	Fässer
+</seg>
+<seg type="newline">
+und	KON	 und	und
+so	ADV	 so	so
+das	ART	 d	das
+Faß	NN	 Faß	Faß
+voll	ADJD	 voll	voll
+</seg>
+<seg type="newline">
+verschlägt	VVFIN	 verschlagen	verschlägt
+es	PPER	 es	es
+man	PIS	 man	man
+gleich	ADJD	 gleich	gleich
+</seg>
+<seg type="newline">
+und	KON	 und	und
+läst	VVFIN	 UNKNOWN	läst
+es	PPER	 es	es
+nur	ADV	 nur	nur
+im	APPRART	 im	im
+Garten	NN	 Garten	Garten
+liegen	VVFIN	 liegen	liegen
+</seg>
+<seg type="newline">
+bis	KON	 bis	bis
+es	PPER	 es	es
+recht	ADJD	 recht	recht
+frieret	VVFIN	 UNKNOWN	frieret
+</seg>
+<seg type="newline">
+denn	KON	 denn	denn
+thut	NE	 UNKNOWN	thue
+man	PIS	 man	man
+sie	PPER	 sie	sie
+an	APPR	 an	an
+einen	ART	 ein	einen
+Ort	NN	 Ort	Ort
+</seg>
+<seg type="newline">
+da	KOUS	 da	da
+sie	PPER	 sie	sie
+vor	APPR	 vor	vor
+den	ART	 d	den
+Frost	NN	 Frost	Frost
+sicher	ADJD	 sicher	sicher
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+dauren	VVFIN	 UNKNOWN	dauren
+sie	PPER	 sie	sie
+den	ART	 d	den
+gantzen	ADJD	 ganz	ganz
+Winter	NN	 Winter	Winter
+.	$.	.	$.	 .	|	.
+Oder	KON	 oder	Oder
+</seg>
+<seg type="newline">
+wenman	NE	 UNKNOWN	wenman
+die	ART	 d	die
+Aepffel	NN	 UNKNOWN	Aepffel
+in	APPR	 in	in
+Gersten	NN	 Gerste	Gersten
+leget	ADJD	 UNKNOWN	leget
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+faulen	VVFIN	 faulen	faulen
+sie	PPER	 sie	sie
+nicht	PTKNEG	 nicht	nicht
+</seg>
+<seg type="newline">
+und	KON	 und	und
+wo	PWAV	 wo	wo
+man	PIS	 man	man
+Aepffel	NN	 UNKNOWN	Aepffel
+</seg>
+<seg type="newline">
+sonderlich	ADJD	 sonderlich	sonderlich
+Borstörffer	NN	 UNKNOWN	Borstörffer
+in	APPR	 in	in
+Hollunder=Blüthe	NE	 UNKNOWN	Hollunder=Blüthe
+einwickelt	VVFIN	 einwickeln	einwickelt
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+damit	PAV	 damit	damit
+bedecket	VVFIN	 UNKNOWN	bedecket
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+bekommen	VVFIN	 bekommen	bekommen
+sie	PPER	 sie	sie
+den	ART	 d	den
+Geruch	NN	 Geruch	Geruch
+und	KON	 und	und
+Schmack	NN	 Schmack	Schmack
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+Muscateller=Wein=Beer	NN	 UNKNOWN	Muscateller=Wein=Beer
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

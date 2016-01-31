@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Buchinger_1700_25" collection="historical" source="Buchinger" url="none" year="1700" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:1f.]">
+<title>
+<seg type="newline">
+167.	ADJA	 @ord@	167.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Oder	KON	 oder	Oder
+man	PIS	 man	man
+gibt	VVFIN	 geben	gibt
+solchen	PIAT	 solch	solchen
+besteckt	VVPP	 bestecken	besteckt
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+gemeldet	VVPP	 melden	gemeldet
+</seg>
+<seg type="newline">
+kalt	ADJD	 kalt	kalt
+</seg>
+<seg type="newline">
+und	KON	 und	und
+kan	ADV	 nun	Nun
+man	PIS	 man	man
+selbigen	ADJA	 UNKNOWN	selbigen
+vielmal	ADJA	 UNKNOWN	vielmal
+aufftragen	NN	 UNKNOWN	aufftragen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Keyl_1705_18" collection="historical" source="Keyl" url="none" year="1705" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1705:127]">
+<title>
+<seg type="newline">
+Kalbfleisch	NN	 Kalbfleisch	Kalbfleisch
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Das	ART	 d	Das
+Fleisch	NN	 Fleisch	Fleisch
+wird	VAFIN	 werden	wird
+gar	ADV	 gar	gar
+gekochet	ADJD	 UNKNOWN	gekochet
+mit	APPR	 mit	mit
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+Muscatenblumen	NN	 UNKNOWN	Muscatenblumen
+und	KON	 und	und
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+hernach	ADV	 hernach	hernach
+wird	VAFIN	 werden	wird
+eine	ART	 ein	eine
+Brühe	NN	 Brühe	Brühe
+gemachet	VVFIN	 UNKNOWN	gemachet
+von	APPR	 von	von
+Wein	NN	 Wein	Wein
+und	KON	 und	und
+gerieben	VVPP	 reiben	gerieben
+Semmel	NN	 Semmel	Semmel
+</seg>
+<seg type="newline">
+die	ART	 d	die
+Semmel	NN	 Semmel	Semmel
+werden	VAFIN	 werden	werden
+erstlich	ADJD	 UNKNOWN	erstlich
+in	APPR	 in	in
+Butter	NN	 Butter	Butter
+braun	ADJD	 braun	braun
+gebraten	VVPP	 braten	gebraten
+</seg>
+<seg type="newline">
+und	KON	 und	und
+in	APPR	 in	in
+Wein	NN	 Wein	Wein
+gethan	NE	 UNKNOWN	gethan
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+Muscatenblumen	NN	 UNKNOWN	Muscatenblumen
+</seg>
+<seg type="newline">
+eine	ART	 ein	eine
+Citron	NN	 UNKNOWN	Citron
+in	APPR	 in	in
+Scheibgen	NN	 UNKNOWN	Scheibgen
+geschnitten	VVPP	 schneiden	geschnitten
+</seg>
+<seg type="newline">
+und	KON	 und	und
+darein	ADV	 darein	darein
+gethan	NE	 UNKNOWN	gethan
+</seg>
+<seg type="newline">
+zwey	CARD	 zwei	zwei
+Löffel	NN	 Löffel	Löffel
+voll	ADJD	 voll	voll
+von	APPR	 von	von
+der	ART	 d	der
+Fleischbrüh	NN	 Fleischbrühe	Fleischbrühe
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+das	PDS	 d	das
+zusammen	ADV	 zusammen	zusammen
+durchkochen	VVINF	 durchkochen	durchkochen
+.	$.	.	$.	 .	|	.
+Das	ART	 d	Das
+Fleisch	NN	 Fleisch	Fleisch
+bey	NE	 Bey	bey
+Zeiten	NN	 Zeit	Zeiten
+heraus	ADV	 heraus	heraus
+genommen	VVPP	 nehmen	genommen
+</seg>
+<seg type="newline">
+damit	PAV	 damit	damit
+es	PPER	 es	es
+fein	ADJD	 fein	fein
+abtrockne	VVFIN	 abtrocknen	abtrockne
+.	$.	.	$.	 .	|	.
+Denn	ADV	 denn	Denn
+richte	VVFIN	 richten	richte
+es	PPER	 es	es
+an	PTKVZ	 an	an
+</seg>
+<seg type="newline">
+und	KON	 und	und
+gib	VVIMP	 geben	gib
+die	PRELS	 d	die
+Brüh	ADJD	 früh	früh
+darüber	PAV	 darüber	darüber
+her	APZR	 her	her
+</seg>
+<seg type="newline">
+letzlich	ADJD	 UNKNOWN	letzlich
+vergiß	VVIMP	 vergessen	vergiß
+des	ART	 d	des
+Zuckers	NN	 Zucker	Zuckers
+u.	KON	 und	u.
+Caneel	NN	 Handel	Handel
+beym	ADJA	 UNKNOWN	beym
+Anrichten	NN	 Anrichten	Anrichten
+nicht	PTKNEG	 nicht	nicht
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Schuppe_1698_3" collection="historical" source="Schuppe" url="none" year="1698" decade="1690-1700" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Huhn|" method="|Suppe|" ref="[1698:11]">
+<title>
+<seg type="newline">
+XV.	ADJA	 UNKNOWN	XV.
+Suppe	NN	 Suppe	Suppe
+von	APPR	 von	von
+Macronen	NN	 Marone	Maronen
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+jungen	ADJA	 jung	jungen
+Hünern	NN	 UNKNOWN	Hünern
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+die	ART	 d	die
+Hüner	NN	 UNKNOWN	Hünern
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+sie	PPER	 sie	sie
+rein	ADV	 rein	rein
+</seg>
+<seg type="newline">
+beuge	VVFIN	 beugen	beuge
+sie	PPER	 sie	sie
+zusam[-]en	NE	 UNKNOWN	zusam[-]en
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+sie	PPER	 sie	sie
+steiff	ADJD	 steif	steif
+oder	KON	 oder	oder
+starr	ADJD	 starr	starr
+in	APPR	 in	in
+gekochten	ADJA	 gekocht	gekochten
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+putze	VVFIN	 putzen	putze
+sie	PPER	 sie	sie
+in	APPR	 in	in
+einen	ART	 ein	einen
+Kessel	NN	 Kessel	Kessel
+</seg>
+<seg type="newline">
+gib	VVIMP	 geben	gib
+Bouillon	NN	 Bouillon	Bouillon
+darauff	PAV	 drauf	drauf
+und	KON	 und	und
+Saltz	NN	 Salz	Salz
+.	$.	.	$.	 .	|	.
+Wenn	KOUS	 wenn	Wenn
+sie	PPER	 sie	sie
+meist	ADV	 meist	meist
+gahr	ADV	 gar	gar
+sind	VAFIN	 sein	sind
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nimm	VVIMP	 nehmen	nimm
+Macronen	NN	 Marone	Maronen
+</seg>
+<seg type="newline">
+thue	VVFIN	 UNKNOWN	thue
+sie	PPER	 sie	sie
+à	XY	à	XY	 à	|	à
+part	ADJD	 hart	hart
+in	APPR	 in	in
+einen	ART	 ein	einen
+Kessel	NN	 Kessel	Kessel
+</seg>
+<seg type="newline">
+und	KON	 und	und
+gieß	VVIMP	 gießen	gieß
+von	APPR	 von	von
+der	ART	 d	der
+Suppen	NN	 Suppe	Suppen
+darauf	PAV	 darauf	darauf
+</seg>
+<seg type="newline">
+worinn	VAPP	 werden	worden
+die	ART	 d	die
+Hüner	NN	 UNKNOWN	Hünern
+gekocht	VVPP	 kochen	gekocht
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Butter	NN	 Butter	Butter
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+beyder	PIAT	 jed	jedes
+Theil	NN	 Teil	Teil
+gahr	ADV	 gar	gar
+kochen	VVINF	 kochen	kochen
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+die	ART	 d	die
+Hüner	NN	 UNKNOWN	Hünern
+bloß	ADJD	 bloß	bloß
+in	APPR	 in	in
+die	ART	 d	die
+Schüssel	NN	 Schüssel	Schüssel
+</seg>
+<seg type="newline">
+und	KON	 und	und
+gieß	VVIMP	 gießen	gieß
+die	ART	 d	die
+Macronen	NN	 Marone	Maronen
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+wenns	KOUS	 wenn	wenn
+Zeit	NN	 Zeit	Zeit
+ist	VAFIN	 sein	ist
+anzurichten	VVIZU	 anrichten	anzurichten
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+ist	VAFIN	 sein	ist
+es	PPER	 es	es
+fertig	ADJD	 fertig	fertig
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

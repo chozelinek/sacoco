@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Buchinger_1700_26" collection="historical" source="Buchinger" url="none" year="1700" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:1f.]">
+<title>
+<seg type="newline">
+133.	ADJA	 @ord@	133.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Oder	KON	 oder	Oder
+man	PIS	 man	man
+mag	VMFIN	 mögen	mag
+das	ART	 d	das
+Hirne	NN	 Hirn	Hirne
+besonder	ADJD	 UNKNOWN	besonder
+kochen	VVINF	 kochen	kochen
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+zurichten	VVFIN	 zurichten	zurichten
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+oben	ADV	 oben	oben
+zu	PTKZU	 zu	zu
+sehen	VVINF	 sehen	sehen
+</seg>
+<seg type="newline">
+Num	VVFIN	 UNKNOWN	Num
+.	$.	.	$.	 .	|	.
+15.	ADJA	 15.	15.
+</seg>
+</body>
+</text>

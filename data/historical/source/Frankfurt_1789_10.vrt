@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Frankfurt_1789_10" collection="historical" source="Frankfurt" url="http://www.uni-giessen.de/gloning/tx/1789ffkb.htm" language="deu" year="1789" decade="1780-1790" period="1750-1800" type="|none|" course="|none|" cuisine="|none|" ingredient="|Rind|" method="|Suppe|" ref="[]">
+<title>
+<seg type="newline">
+5	CARD	5	CARD	 5	|	5
+)	$(	)	$(	 )	|	)
+Eine	ART	 ein	Eine
+Kalbfleisch=Suppe	NN	 UNKNOWN	Kalbfleisch=Suppe
+zu	PTKZU	 zu	zu
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+das	ART	 d	das
+Kalbsgenist	NN	 UNKNOWN	Kalbsgenist
+eines	ART	 ein	eines
+Hinterviertels	NN	 UNKNOWN	Hinterviertels
+,	$,	,	$,	 ,	|	,
+</seg>
+<seg type="newline">
+stelle	VVFIN	 stellen	stelle
+dasselbe	PDS	 dasselbe	dasselbe
+mit	APPR	 mit	mit
+kaltem	ADJA	 kalt	kaltem
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+und	KON	 und	und
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Salbey	NE	 UNKNOWN	Salbey
+bey	NE	 Bey	bey
+,	$,	,	$,	 ,	|	,
+wann	PWAV	 wann	wann
+solches	PIS	 solch	solches
+</seg>
+<seg type="newline">
+wohl	ADV	 wohl	wohl
+verschäumt	VVPP	 UNKNOWN	verschäumt
+ist	VAFIN	 sein	ist
+,	$,	,	$,	 ,	|	,
+so	ADV	 so	so
+nimmt	VVFIN	 nehmen	nimmt
+man	PIS	 man	man
+2	CARD	2	CARD	 2	|	2
+trockene	ADJA	 trocken	trockene
+</seg>
+<seg type="newline">
+Milchbrod	NN	 UNKNOWN	Milchbrod
+,	$,	,	$,	 ,	|	,
+schälet	VVFIN	 schälen	schälen
+die	ART	 d	die
+Kruste	NN	 Kruste	Kruste
+herunter	PTKVZ	 herunter	herunter
+,	$,	,	$,	 ,	|	,
+</seg>
+<seg type="newline">
+und	KON	 und	und
+thut	NE	 UNKNOWN	thue
+die	ART	 d	die
+Brosamen	NN	 Brosame	Brosamen
+bey	NE	 Bey	bey
+das	ART	 d	das
+Genist	NN	 UNKNOWN	Genist
+,	$,	,	$,	 ,	|	,
+</seg>
+<seg type="newline">
+alsdenn	NN	 UNKNOWN	Alsdann
+nimmt	VVFIN	 nehmen	nimmt
+man	PIS	 man	man
+Zellerie	NN	 UNKNOWN	Zellerie
+,	$,	,	$,	 ,	|	,
+Petersilgen=Wurzel	NN	 UNKNOWN	Petersilgen=Wurzel
+</seg>
+<seg type="newline">
+und	KON	 und	und
+Zwiebel	NN	 Zwiebel	Zwiebel
+,	$,	,	$,	 ,	|	,
+und	KON	 und	und
+thut	NE	 UNKNOWN	thue
+ein	ART	 ein	ein
+paar	PIAT	 paar	paar
+</seg>
+<seg type="newline">
+gute	ADJA	 gut	gute
+Handvoll	NN	 Handvoll	Handvoll
+bey	NE	 Bey	bey
+das	ART	 d	das
+Genist	NN	 UNKNOWN	Genist
+,	$,	,	$,	 ,	|	,
+bis	KON	 bis	bis
+daß	KOUS	 daß	daß
+</seg>
+<seg type="newline">
+es	PPER	 es	es
+ganz	ADV	 ganz	ganz
+verkocht	VVPP	 verkochen	verkocht
+ist	VAFIN	 sein	ist
+,	$,	,	$,	 ,	|	,
+alsdenn	NN	 UNKNOWN	Alsdann
+schlägt	VVFIN	 schlagen	schlägt
+</seg>
+<seg type="newline">
+man	PIS	 man	man
+es	PPER	 es	es
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+Siebgen	NN	 UNKNOWN	Siebgen
+,	$,	,	$,	 ,	|	,
+und	KON	 und	und
+thut	NE	 UNKNOWN	thue
+ein	ART	 ein	ein
+</seg>
+<seg type="newline">
+wenig	PIAT	 wenig	wenig
+Muscaten=Nuß	NN	 UNKNOWN	Muscaten=Nuß
+und	KON	 und	und
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+darein	ADV	 darein	darein
+,	$,	,	$,	 ,	|	,
+und	KON	 und	und
+wenn	KOUS	 wenn	wenn
+man	PIS	 man	man
+es	PPER	 es	es
+will	VMFIN	 wollen	will
+anrichten	VVINF	 anrichten	anrichten
+,	$,	,	$,	 ,	|	,
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+wird	VAFIN	 werden	wird
+das	ART	 d	das
+Gelbe	NN	 Gelbe	Gelbe
+von	APPR	 von	von
+3	CARD	3	CARD	 3	|	3
+oder	KON	 oder	oder
+4	CARD	4	CARD	 4	|	4
+Eyern	ADJA	 UNKNOWN	Eyern
+</seg>
+<seg type="newline">
+und	KON	 und	und
+eben	ADV	 eben	eben
+so	ADV	 so	so
+viel	PIAT	 viel	viel
+Löffel	NN	 Löffel	Löffel
+voll	ADJD	 voll	voll
+Rahm	NN	 Rahm	Rahm
+darunter	PAV	 darunter	darunter
+</seg>
+<seg type="newline">
+gerührt	VVPP	 rühren	gerührt
+;	$.	;	$.	 ;	|	;
+man	PIS	 man	man
+muß	VMFIN	 müssen	muß
+auch	ADV	 auch	auch
+Schnitten	NN	 Schnitt|Schnitte	Schnitten
+von	APPR	 von	von
+</seg>
+<seg type="newline">
+Milchbrod	NN	 UNKNOWN	Milchbrod
+hinein	ADV	 hinein	hinein
+rösten	VVINF	 rösten	rösten
+;	$.	;	$.	 ;	|	;
+so	ADV	 so	so
+man	PIS	 man	man
+will	VMFIN	 wollen	will
+,	$,	,	$,	 ,	|	,
+kan	KOUS	 nun	Nun
+</seg>
+<seg type="newline">
+man	PIS	 man	man
+Balges	NE	 UNKNOWN	Balges
+oder	KON	 oder	oder
+Klößger	NE	 UNKNOWN	Klößger
+von	APPR	 von	von
+Kalbfleisch	NN	 Kalbfleisch	Kalbfleisch
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Nieren=Fett	NN	 UNKNOWN	Nieren=Fett
+,	$,	,	$,	 ,	|	,
+Milchbrod	NN	 UNKNOWN	Milchbrod
+</seg>
+<seg type="newline">
+und	KON	 und	und
+ein	ART	 ein	ein
+paar	PIAT	 paar	paar
+Eyer	NE	 UNKNOWN	Eyer
+und	KON	 und	und
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Rahm	NN	 Rahm	Rahm
+</seg>
+<seg type="newline">
+angemacht	VVPP	 anmachen	angemacht
+,	$,	,	$,	 ,	|	,
+und	KON	 und	und
+in	APPR	 in	in
+Wasser	NN	 Wasser	Wasser
+gekocht	VVPP	 kochen	gekocht
+,	$,	,	$,	 ,	|	,
+</seg>
+<seg type="newline">
+darunter	ADV	 darunter	darunter
+machen	VVFIN	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

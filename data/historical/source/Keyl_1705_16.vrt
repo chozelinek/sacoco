@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Keyl_1705_16" collection="historical" source="Keyl" url="none" year="1705" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1705:122]">
+<title>
+<seg type="newline">
+Aal	NN	 Aal	Aal
+mit	APPR	 mit	mit
+Löffel=Supp	NN	 UNKNOWN	Löffel=Supp
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Schneide	VVFIN	 schneiden	Schneide
+ihn	PPER	 er	ihn
+erstlich	ADJD	 UNKNOWN	erstlich
+entzwey	NE	 UNKNOWN	entzwey
+</seg>
+<seg type="newline">
+koche	VVFIN	 kochen	koche
+ihn	PPER	 er	ihn
+in	APPR	 in	in
+Wasser	NN	 Wasser	Wasser
+mehrenteils	ADV	 UNKNOWN	mehrenteils
+gar	ADV	 gar	gar
+</seg>
+<seg type="newline">
+denn	ADV	 denn	denn
+mache	VVFIN	 machen	mache
+Klüntchen	NN	 UNKNOWN	Klüntchen
+von	NE	 von	von
+gerieben	VVPP	 reiben	gerieben
+Semmel	NN	 Semmel	Semmel
+</seg>
+<seg type="newline">
+wenig	PIAT	 wenig	wenig
+Mehl	NN	 Mehl	Mehl
+</seg>
+<seg type="newline">
+Muscatenblumen	NN	 UNKNOWN	Muscatenblumen
+</seg>
+<seg type="newline">
+Semmel	NN	 Semmel	Semmel
+in	APPR	 in	in
+Würffeln	NN	 UNKNOWN	Würffeln
+geschnitten	VVPP	 schneiden	geschnitten
+</seg>
+<seg type="newline">
+den	PRELS	 d	den
+brate	VVFIN	 braten	brate
+hart	ADJD	 hart	hart
+in	APPR	 in	in
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+und	KON	 und	und
+gib	VVIMP	 geben	gib
+ihn	PPER	 er	ihn
+dazu	PAV	 dazu	dazu
+mit	APPR	 mit	mit
+etwas	PIAT	 etwas	etwas
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+setze	VVFIN	 setzen	setze
+die	ART	 d	die
+Klüntchen	NN	 UNKNOWN	Klüntchen
+zu	APPR	 zu	zu
+den	ART	 d	den
+Aal	NN	 Aal	Aal
+hinein	ADV	 hinein	hinein
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+sie	PPER	 sie	sie
+damit	PAV	 damit	damit
+gar	ADV	 gar	gar
+werden	VAINF	 werden	werden
+</seg>
+<seg type="newline">
+schlage	VVFIN	 schlagen	schlage
+4.	ADJA	 4.	4.
+Eydotter	NN	 Eidotter	Eidotter
+klein	ADJD	 klein	klein
+mit	APPR	 mit	mit
+Saur	ADJA	 UNKNOWN	Saur
+</seg>
+<seg type="newline">
+thu	NN	 UNKNOWN	thue
+sie	PPER	 sie	sie
+auf	APPR	 auf	auf
+die	ART	 d	die
+Aal	NN	 Aal	Aal
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+grün	ADJD	 grün	grün
+Kraut	NN	 Kraut	Kraut
+darauff	PAV	 drauf	drauf
+gehackt	VVPP	 hacken	gehackt
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

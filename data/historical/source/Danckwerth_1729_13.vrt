@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Danckwerth_1729_13" collection="historical" source="Danckwerth" url="none" year="1729" decade="1720-1730" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1729:181]">
+<title>
+<seg type="newline">
+121.	ADJA	 @ord@	121.
+Cappaunen	NN	 UNKNOWN	Cappaunen
+eingedämpfft	VVPP	 UNKNOWN	eingedämpfft
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Cappaunen	NN	 UNKNOWN	Cappaunen
+zu	APPR	 zu	zu
+vier	CARD	 vier	vier
+Theil	NN	 Teil	Teil
+geschnitten	VVPP	 schneiden	geschnitten
+</seg>
+<seg type="newline">
+gedämpfft	VVFIN	 UNKNOWN	gedämpfft
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+mit	APPR	 mit	mit
+Zusatz	NN	 Zusatz	Zusatz
+</seg>
+<seg type="newline">
+gantzen	ADV	 ganz	ganz
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Saffran	NN	 Safran	Safran
+</seg>
+<seg type="newline">
+und	KON	 und	und
+gar	ADV	 gar	gar
+wenig	PIAT	 wenig	wenig
+Eßig	NN	 UNKNOWN	Eßig
+gesotten	VVPP	 sieden	gesotten
+</seg>
+<seg type="newline">
+die	ART	 d	die
+Brühe	NN	 Brühe	Brühe
+mit	APPR	 mit	mit
+Zucker	NN	 Zucker	Zucker
+und	KON	 und	und
+Zimmet	NN	 Zimt	Zimt
+vermischet	VVINF	 vermischen	vermischen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+mit	APPR	 mit	mit
+Mandeln	NN	 Mandel	Mandeln
+und	KON	 und	und
+Weinbeerlein	NN	 UNKNOWN	Weinbeerlein
+bestreuet	VVINF	 bestreuen	bestreuen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

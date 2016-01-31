@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Wecker_1679_9" collection="historical" source="Wecker" url="none" year="1679" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Hecht|" method="|Speck|" ref="[1679:120]">
+<title>
+<seg type="newline">
+Einen	ART	 ein	Einen
+Hecht	NN	 Hecht	Hecht
+in	APPR	 in	in
+Speck	NN	 Speck	Speck
+einzumachen	VVIZU	 UNKNOWN	einzumachen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Reisse	VVFIN	 reißen	Reisse
+den	ART	 d	den
+Hecht	NN	 Hecht	Hecht
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+schuppe	NN	 Schuppe	schuppe
+jhn	PPER	 er	ihn
+nicht	PTKNEG	 nicht	nicht
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+jhn	PPER	 er	ihn
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Essig	NN	 Essig	Essig
+fein	ADJD	 fein	fein
+blau	ADJD	 blau	blau
+</seg>
+<seg type="newline">
+seude	VVFIN	 UNKNOWN	seude
+jhn	PPER	 er	ihn
+dann	ADV	 dann	dann
+in	APPR	 in	in
+halb	ADJD	 halb	halb
+Wasser	NN	 Wasser	Wasser
+vnd	KON	 und	und
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+im	APPRART	 im	im
+Wasser	NN	 Wasser	Wasser
+allein	ADV	 allein	allein
+</seg>
+<seg type="newline">
+saltze	ADJA	 kalt	kalten
+es	PPER	 es	es
+recht	ADJD	 recht	recht
+.	$.	.	$.	 .	|	.
+Nimm	VVIMP	 nehmen	Nimm
+dann	ADV	 dann	dann
+einen	ART	 ein	einen
+frischen	ADJA	 frisch	frischen
+Speck	NN	 Speck	Speck
+</seg>
+<seg type="newline">
+schneide	VVFIN	 schneiden	schneide
+jhn	PPER	 er	ihn
+gar	ADV	 gar	gar
+klein	ADJD	 klein	klein
+gewürfflecht	ADJD	 UNKNOWN	gewürfflecht
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+jhn	PPER	 er	ihn
+in	APPR	 in	in
+einer	ART	 ein	einer
+Pfann	NN	 UNKNOWN	Pfann
+oder	KON	 oder	oder
+Tiegel	NN	 Tiegel	Tiegel
+zergehen	VVINF	 zergehen	zergehen
+vnd	KON	 und	und
+braun	ADJD	 braun	braun
+werden	VAINF	 werden	werden
+.	$.	.	$.	 .	|	.
+Wann	PWAV	 wann	Wann
+nun	ADV	 nun	nun
+der	ART	 d	der
+Hecht	NN	 Hecht	Hecht
+angerichtet	VVPP	 anrichten	angerichtet
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+geusse	NN	 UNKNOWN	geusse
+ein	ART	 ein	ein
+gut	ADJD	 gut	gut
+Gläslein	NN	 UNKNOWN	Gläslein
+Weinessig	NN	 Weinessig	Weinessig
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+würtze	VVFIN	 würzen	würzt
+es	PPER	 es	es
+mit	APPR	 mit	mit
+Ingwer	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+vnd	KON	 und	und
+Nägelein	NN	 UNKNOWN	Nägelein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+brenne	VVFIN	 brennen	brenne
+den	ART	 d	den
+Speck	NN	 Speck	Speck
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+er	PPER	 er	er
+wol	PWAV	 wo	wo
+heiß	ADJD	 heiß	heiß
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+über	APPR	 über	über
+den	ART	 d	den
+Hecht	NN	 Hecht	Hecht
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+ist	VAFIN	 sein	ist
+es	PPER	 es	es
+gut	ADJD	 gut	gut
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

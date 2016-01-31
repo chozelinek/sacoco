@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Prasmosfky_1671_14" collection="historical" source="Prasmosfky" url="none" year="1671" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1671:150]">
+<title>
+<seg type="newline">
+458.	ADJA	 @ord@	458.
+Muß	NN	 Muß	Muß
+von	APPR	 von	von
+Sträubelein	NN	 UNKNOWN	Sträubelein
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Bache	NN	 Bach	Bache
+die	ART	 d	die
+Sträubelein	NN	 UNKNOWN	Sträubelein
+fein	ADJD	 fein	fein
+hart	ADJD	 hart	hart
+und	KON	 und	und
+rösch	ADJD	 UNKNOWN	rösch
+</seg>
+<seg type="newline">
+hacks	NN	 UNKNOWN	hacks
+gar	ADV	 gar	gar
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+gieß	VVIMP	 gießen	gieß
+ein	ART	 ein	ein
+gute	ADJA	 gut	gute
+Milch	NN	 Milch	Milch
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+sieds	NN	 UNKNOWN	sieds
+und	KON	 und	und
+zuckers	NN	 Zucker	zuckers
+wol	PWAV	 wo	wo
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

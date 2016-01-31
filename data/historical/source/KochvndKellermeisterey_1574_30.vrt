@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Koch_vnd_Kellermeisterey_1574_30" collection="historical" source="Koch_vnd_Kellermeisterey" url="none" year="1574" decade="1570-1580" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1574:11vf.]">
+<title>
+<seg type="newline">
+Küchlin	ADJD	 UNKNOWN	Küchlin
+von	APPR	 von	von
+Krebsen	NN	 Krebs	Krebsen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+Krebs	NE	 Krebs	Krebs
+</seg>
+<seg type="newline">
+seud	VVFIN	 UNKNOWN	seud
+sie	PPER	 sie	sie
+mit	PTKVZ	 mit	mit
+wasser	VVIMP	 wassern	wasser
+vnd	KON	 und	und
+saltz	ADJA	 kalt	kalten
+</seg>
+<seg type="newline">
+schäl	VVIMP	 schälen	schäl
+sie	PPER	 sie	sie
+schön	ADJD	 schön	schön
+</seg>
+<seg type="newline">
+nimdie	NN	 UNKNOWN	nimdie
+hälß	VVFIN	 UNKNOWN	hälß
+</seg>
+<seg type="newline">
+scheren	VVFIN	 scheren	scheren
+vnd	KON	 und	und
+schwäntz	VVIMP	 UNKNOWN	schwäntz
+</seg>
+<seg type="newline">
+mehl	ADJA	 UNKNOWN	mehl
+</seg>
+<seg type="newline">
+saltz	ADJA	 kalt	kalten
+vnnd	KON	 und	und
+würtz	VVFIN	 würzen	würzt
+</seg>
+<seg type="newline">
+hack	VVIMP	 hacken	hack
+sie	PPER	 sie	sie
+schön	ADJD	 schön	schön
+</seg>
+<seg type="newline">
+bestreich	ADJD	 UNKNOWN	bestreich
+die	ART	 d	die
+händ	NE	 UNKNOWN	händ
+inwendig	ADJD	 inwendig	inwendig
+mit	APPR	 mit	mit
+honig	NN	 Honig	honig
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+wälg	NN	 UNKNOWN	wälg
+die	ART	 d	die
+küchlin	ADJD	 UNKNOWN	küchlin
+zusamen	ADJA	 UNKNOWN	zusamen
+</seg>
+<seg type="newline">
+gilb	NN	 UNKNOWN	gilb
+ein	ART	 ein	ein
+teyglin	NN	 UNKNOWN	teyglin
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+zeuch	NN	 UNKNOWN	zeuch
+die	ART	 d	die
+küchlin	ADJD	 UNKNOWN	küchlin
+durch	APPR	 durch	durch
+</seg>
+<seg type="newline">
+bach	NE	 Bach	bach
+sie	PPER	 sie	sie
+braun	ADJD	 braun	braun
+</seg>
+<seg type="newline">
+gib	VVIMP	 geben	gib
+sie	PPER	 sie	sie
+trucken	VVFIN	 UNKNOWN	trucken
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+in	APPR	 in	in
+eim	ADJA	 UNKNOWN	nimb
+ziselin	NN	 UNKNOWN	ziselin
+</seg>
+<seg type="newline">
+gibst	VVFIN	 geben	gibst
+du	PPER	 du	du
+sie	PPER	 sie	sie
+trucken	VVFIN	 UNKNOWN	trucken
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+bestreuw	VVFIN	 UNKNOWN	bestreuw
+sie	PPER	 sie	sie
+mit	PTKVZ	 mit	mit
+zucker	VVIMP	 zuckern	zucker
+.	$.	.	$.	 .	|	.
+Fisch	NN	 Fisch	Fisch
+</seg>
+<seg type="newline">
+Krebs	NE	 Krebs	Krebs
+vnnd	KON	 und	und
+Biberschwäntz	NE	 UNKNOWN	Biberschwäntz
+seind	VAFIN	 sein	sind
+vil	ADV	 viel	viel
+besser	ADJD	 gut	besser
+gesotten	VVPP	 sieden	gesotten
+mit	PTKVZ	 mit	mit
+wein	VVIMP	 weinen	wein
+</seg>
+<seg type="newline">
+danmit	ADJA	 UNKNOWN	danmit
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+Bier	NN	 Bier	Bier
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+eitel	ADJD	 eitel	eitel
+essig	ADJD	 UNKNOWN	essig
+.	$.	.	$.	 .	|	.
+All	PIAT	 all	All
+feyßt	NN	 UNKNOWN	feyßt
+essen	VVINF	 essen	essen
+seind	VAFIN	 sein	sind
+dem	ART	 d	dem
+menschen	ADJA	 UNKNOWN	menschen
+schäd	VVFIN	 UNKNOWN	schäd
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+die	PDS	 d	die
+feysten	VVFIN	 rösten	rösten
+Fisch	NN	 Fisch	Fisch
+noch	ADV	 noch	noch
+schädlicher	ADJD	 schädlich	schädlicher
+.	$.	.	$.	 .	|	.
+So	ADV	 so	So
+ist	VAFIN	 sein	ist
+brodt	ADJD	 UNKNOWN	brodt
+trucken	ADJD	 UNKNOWN	trucken
+gessen	VVFIN	 UNKNOWN	gessen
+auch	ADV	 auch	auch
+schädlich	ADJD	 schädlich	schädlich
+.	$.	.	$.	 .	|	.
+Wil	NE	 Wil	Wil
+aber	KON	 aber	aber
+der	ART	 d	der
+Mensch	NN	 Mensch	Mensch
+käß	ADJD	 UNKNOWN	käß
+vnnd	KON	 und	und
+brodt	ADJD	 UNKNOWN	brodt
+essen	VVFIN	 essen	essen
+</seg>
+<seg type="newline">
+der	ART	 d	der
+thue	NN	 UNKNOWN	thue
+es	PPER	 es	es
+nicht	PTKNEG	 nicht	nicht
+vngetruncken	ADJD	 UNKNOWN	vngetruncken
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

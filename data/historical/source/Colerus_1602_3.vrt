@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Colerus_1602_3" collection="historical" source="Colerus" url="none" year="1602" decade="1600-1610" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Hecht|" method="|säuerlich|" ref="[1602:117]">
+<title>
+<seg type="newline">
+Einen	ART	 ein	Einen
+Hecht	NN	 Hecht	Hecht
+sewerlich	ADJD	 UNKNOWN	sewerlich
+zu	PTKZU	 zu	zu
+sieden	VVINF	 sieden	sieden
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wiltu	NN	 UNKNOWN	Wiltu
+einen	ART	 ein	einen
+Hecht	NN	 Hecht	Hecht
+hübsch	ADJD	 hübsch	hübsch
+säwerlich	ADJD	 UNKNOWN	säwerlich
+machen	VVINF	 machen	machen
+oder	KON	 oder	oder
+haben	VAFIN	 haben	haben
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+schüpe	NN	 UNKNOWN	schüpe
+den	ART	 d	den
+Hecht	NN	 Hecht	Hecht
+rein	ADV	 rein	rein
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+oben	ADV	 oben	oben
+geschrieben	VVPP	 schreiben	geschrieben
+stehet	VVFIN	 stehen	stehet
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+nim	VVFIN	 UNKNOWN	nimb
+darauff	PAV	 drauf	drauf
+Essig	NN	 Essig	Essig
+vnd	KON	 und	und
+geringe	ADJA	 gering	geringe
+Bier	NN	 Bier	Bier
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+einen	ART	 ein	einen
+guten	ADJA	 gut	guten
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+wie	KOUS	 wie	wie
+du	PPER	 du	du
+jhn	PPER	 er	ihn
+am	APPRART	 am	am
+besten	ADJA	 gut	besten
+haben	VAFIN	 haben	haben
+wilt	NE	 Wilt	wilt
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+Pfefferkuche	NN	 UNKNOWN	Pfefferkuche
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+drauff	PAV	 drauf	drauf
+ein	PTKVZ	 ein	ein
+hübsch	ADJD	 hübsch	hübsch
+braun	ADJD	 braun	braun
+Sohd	NE	 UNKNOWN	Sohd
+von	APPR	 von	von
+Kirschen	NN	 Kirsche	Kirschen
+oder	KON	 oder	oder
+Welschen	ADJA	 welsch	Welschen
+Nüssen	NN	 Nuß	Nüssen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+würtze	VVFIN	 würzen	würzt
+das	PDS	 d	das
+mit	APPR	 mit	mit
+Nelcken	NE	 UNKNOWN	Nelcken
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Ingber	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Muscatenblumen	NN	 UNKNOWN	Muscatenblumen
+</seg>
+<seg type="newline">
+Cinamey	NE	 UNKNOWN	Cinamey
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+mache	VVFIN	 machen	mache
+jm	NE	 UNKNOWN	jm
+einen	ART	 ein	einen
+hübschen	ADJA	 hübsch	hübschen
+lieblichen	ADJA	 lieblich	lieblichen
+schmack	NN	 Schmack	schmack
+</seg>
+<seg type="newline">
+süsse	VVFIN	 süßen	süsse
+oder	KON	 oder	oder
+sawer	NE	 UNKNOWN	sawer
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+dirs	NN	 UNKNOWN	dirs
+am	PTKA	 am	am
+besten	ADJD	 gut	besten
+gefelt	VVPP	 UNKNOWN	gefelt
+</seg>
+<seg type="newline">
+koste	VVFIN	 kosen|kosten	koste
+es	PPER	 es	es
+zu	PTKA	 zu	zu
+rechter	ADJD	 recht	rechter
+massen	VVFIN	 maßen|messen	massen
+</seg>
+<seg type="newline">
+richts	PTKNEG	 nicht	nicht
+an	PTKVZ	 an	an
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+gibs	NN	 UNKNOWN	gilbs
+dahin	PAV	 dahin	dahin
+.	$.	.	$.	 .	|	.
+Wiltu	NE	 UNKNOWN	Wiltu
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+magstu	NN	 UNKNOWN	magsts
+kleine	ADJA	 klein	kleine
+Rosincken	NN	 Rosine	Rosinen
+darein	ADV	 darein	darein
+schütten	VVINF	 schütten	schütten
+.	$.	.	$.	 .	|	.
+Also	ADV	 also	Also
+mag	VMFIN	 mögen	mag
+man	PIS	 man	man
+sieden	VVFIN	 sieden	sieden
+allerley	NE	 Allerley	allerley
+andere	ADJA	 ander	andere
+Fische	NN	 Fisch	Fische
+</seg>
+<seg type="newline">
+als	KOKOM	 als	als
+Perßken	NN	 UNKNOWN	Perßken
+</seg>
+<seg type="newline">
+Carutzen	NE	 UNKNOWN	Carutzen
+</seg>
+<seg type="newline">
+Jessen	NE	 UNKNOWN	Jessen
+</seg>
+<seg type="newline">
+Zerten	NN	 UNKNOWN	Zerten
+</seg>
+<seg type="newline">
+etc.	ADV	 etc.	etc.
+</seg>
+</body>
+</text>

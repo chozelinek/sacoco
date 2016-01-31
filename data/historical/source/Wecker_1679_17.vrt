@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Wecker_1679_17" collection="historical" source="Wecker" url="none" year="1679" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:240]">
+<body>
+<seg type="newline">
+Erbs	NN	 UNKNOWN	Erbs
+vnd	KON	 und	und
+Gersten	NN	 Gerste	Gersten
+mit	APPR	 mit	mit
+einander	PRF	 einander	einander
+gesotten	VVPP	 sieden	gesotten
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+guter	ADJA	 gut	guter
+Erbsbrüh	TRUNC	 UNKNOWN	Erbsbrüh
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+wol	PWAV	 wo	wo
+geschmältzt	VVFIN	 UNKNOWN	geschmältzt
+.	$.	.	$.	 .	|	.
+Die	ART	 d	Die
+Speise	NN	 Speise	Speise
+ist	VAFIN	 sein	ist
+auch	ADV	 auch	auch
+nicht	PTKNEG	 nicht	nicht
+böß	VVFIN	 UNKNOWN	böß
+zu	PTKZU	 zu	zu
+essen	VVINF	 essen	essen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+in	APPR	 in	in
+Oesterreich	NN	 UNKNOWN	Oesterreich
+nennet	VVFIN	 UNKNOWN	nennet
+man	PIS	 man	man
+es	PPER	 es	es
+ein	ART	 ein	ein
+Ritscher	NN	 UNKNOWN	Ritscher
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

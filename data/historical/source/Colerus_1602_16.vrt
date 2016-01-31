@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Colerus_1602_16" collection="historical" source="Colerus" url="none" year="1602" decade="1600-1610" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Huhn|" method="|gebraten|" ref="[1602:149]">
+<title>
+<seg type="newline">
+Gebratene	ADJA	 gebraten	Gebratene
+Hüner	NN	 UNKNOWN	Hünern
+in	APPR	 in	in
+ein	ART	 ein	ein
+gescherbe	ADJD	 gescheit	gescheit
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wiltu	NE	 UNKNOWN	Wiltu
+haben	VAFIN	 haben	haben
+gebratene	ADJA	 gebraten	gebratene
+Hüner	NN	 UNKNOWN	Hünern
+</seg>
+<seg type="newline">
+es	PPER	 es	es
+sein	PPOSAT	 sein	sein
+junge	ADJA	 jung	junge
+oder	KON	 oder	oder
+alte	ADJA	 alt	alte
+Hüner	NN	 UNKNOWN	Hünern
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+ein	ART	 ein	ein
+gescherbe	ADJD	 gescheit	gescheit
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nim	ADJD	 UNKNOWN	nimb
+geschelte	ADJD	 gescheit	gescheit
+Epffel	NN	 Apfel	Apfel
+vnd	KON	 und	und
+Zwippeln	NN	 Zwiebel	Zwiebel
+</seg>
+<seg type="newline">
+schneide	VVFIN	 schneiden	schneide
+aus	APPR	 aus	aus
+den	ART	 d	den
+Epffeln	NN	 Apfel	Apfel
+die	ART	 d	die
+strüncke	NN	 UNKNOWN	Strünke
+oder	KON	 oder	oder
+grübse	NN	 UNKNOWN	grübse
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+hacke	VVFIN	 hacken	hacke
+die	ART	 d	die
+Epffel	NN	 Apfel	Apfel
+vnd	KON	 und	und
+Zwippeln	NN	 Zwiebel	Zwiebel
+klein	ADJD	 klein	klein
+vntereinander	ADV	 untereinander	untereinander
+</seg>
+<seg type="newline">
+schütte	VVFIN	 schütten	schütte
+darzu	PAV	 dazu	dazu
+kleine	ADJA	 klein	kleine
+Rosincken	NN	 Rosine	Rosinen
+</seg>
+<seg type="newline">
+thue	VVFIN	 UNKNOWN	thue
+sie	PPER	 sie	sie
+in	APPR	 in	in
+einen	ART	 ein	einen
+Topff	NN	 Topf	Topf
+</seg>
+<seg type="newline">
+geus	VVPP	 UNKNOWN	geuß
+darauff	PAV	 drauf	drauf
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+gantz	ADV	 ganz	ganz
+treuge	ADJD	 UNKNOWN	treuge
+einsieden	VVINF	 einziehen	einziehen
+</seg>
+<seg type="newline">
+schütte	VVFIN	 schütten	schütte
+sie	PPER	 sie	sie
+in	APPR	 in	in
+einen	ART	 ein	einen
+Thänen	VVFIN	 hängen	hängen
+Tiegel	NN	 Tiegel	Tiegel
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+thue	NN	 UNKNOWN	thue
+darzu	PAV	 dazu	dazu
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Schweinschmaltz	NN	 Schweineschmalz	Schweineschmalz
+</seg>
+<seg type="newline">
+rhöste	ADJD	 UNKNOWN	rhöste
+sie	PPER	 sie	sie
+wol	PWAV	 wo	wo
+vnd	KON	 und	und
+hübsch	ADJD	 hübsch	hübsch
+braun	ADJD	 braun	braun
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+nim	ADJD	 UNKNOWN	nimb
+geriebene	ADJA	 gerieben	geriebene
+Pefferkuchen	NN	 UNKNOWN	Pefferkuchen
+in	APPR	 in	in
+einen	ART	 ein	einen
+Topff	NN	 Topf	Topf
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+nim	VVFIN	 UNKNOWN	nimb
+darunter	ADV	 darunter	darunter
+zwey	CARD	 zwei	zwei
+quart	ADJA	 UNKNOWN	quart
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+geus	VVPP	 UNKNOWN	geuß
+jhn	PPER	 er	ihn
+zu	APPR	 zu	zu
+dem	ART	 d	dem
+Pfefferkuchen	NN	 Pfefferkuchen	Pfefferkuchen
+</seg>
+<seg type="newline">
+setze	VVFIN	 setzen	setze
+es	PPER	 es	es
+zum	APPRART	 zum	zum
+Fewer	NN	 Feuer	Feuer
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+wol	PWAV	 wo	wo
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+darein	ADV	 darein	darein
+Zucker	NN	 Zucker	Zucker
+oder	KON	 oder	oder
+Honig	NN	 Honig	Honig
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+jhm	PPER	 er	ihn
+einen	ART	 ein	einen
+lieblichen	ADJA	 lieblich	lieblichen
+schmack	NN	 Schmack	schmack
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+die	ART	 d	die
+gebratene	ADJA	 gebraten	gebratene
+Hüner	NN	 UNKNOWN	Hünern
+drein	PTKVZ	 drein	drein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+schütte	VVFIN	 schütten	schütte
+dieses	PDAT	 dies	dieses
+gescherbe	ADJD	 gescheit	gescheit
+aus	APPR	 aus	aus
+dem	ART	 d	dem
+Tiegel	NN	 Tiegel	Tiegel
+drauff	PAV	 drauf	drauf
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+laß	ADJD	 laß	laß
+das	PDS	 d	das
+wol	PWAV	 wo	wo
+miteinander	ADV	 miteinander	miteinander
+auffsieden	VVFIN	 UNKNOWN	aufsieden
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+richts	PTKNEG	 nicht	nicht
+an	PTKVZ	 an	an
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+gib	VVIMP	 geben	gib
+es	PPER	 es	es
+hin	PTKVZ	 hin	hin
+.	$.	.	$.	 .	|	.
+Also	ADV	 also	Also
+mag	VMFIN	 mögen	mag
+man	PIS	 man	man
+auch	ADV	 auch	auch
+kleine	ADJA	 klein	kleine
+oder	KON	 oder	oder
+grosse	ADJA	 groß	grosse
+Vogel	NN	 Vogel	Vogel
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

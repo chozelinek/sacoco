@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Prasmosfky_1671_4" collection="historical" source="Prasmosfky" url="none" year="1671" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1671:250]">
+<title>
+<seg type="newline">
+743.	ADJA	 @ord@	743.
+Weisen	NN	 Weise	Weisen
+Spiegel	NN	 Spiegel	Spiegel
+machen	VVFIN	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+ein	ART	 ein	ein
+Frisch	NE	 Frisch	Frisch
+Eyerweiß	ADJD	 UNKNOWN	Eyerweiß
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+gut	ADJD	 gut	gut
+Rosenwasser	NN	 Rosenwasser	Rosenwasser
+</seg>
+<seg type="newline">
+und	KON	 und	und
+ein	ART	 ein	ein
+gut	ADJD	 gut	gut
+Theil	NN	 Teil	Teil
+schönen	ADJA	 schön	schönen
+Canari=Zucker	NN	 UNKNOWN	Canari=Zucker
+</seg>
+<seg type="newline">
+thues	VVFIN	 UNKNOWN	thues
+miteinander	ADV	 miteinander	miteinander
+in	APPR	 in	in
+eine	ART	 ein	eine
+verglast	VVFIN	 verglasen	verglast
+Häfelein	NN	 UNKNOWN	Häfelein
+</seg>
+<seg type="newline">
+klopffs	NE	 UNKNOWN	klopffs
+alles	PIS	 alle	alles
+zusammen	ADV	 zusammen	zusammen
+wohl	ADV	 wohl	wohl
+</seg>
+<seg type="newline">
+und	KON	 und	und
+so	ADV	 so	so
+lang	ADJD	 lang	lang
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+schön	ADJD	 schön	schön
+weiß	ADJD	 weiß	weiß
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+machs	NE	 UNKNOWN	machs
+so	ADV	 so	so
+dick	ADJD	 dick	dick
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+nicht	PTKNEG	 nicht	nicht
+hart	ADJD	 hart	hart
+fliesset	ADJA	 UNKNOWN	fliesset
+</seg>
+<seg type="newline">
+alsdann	NN	 UNKNOWN	Alsdann
+streichs	NN	 Streich	streichs
+auf	APPR	 auf	auf
+Marcepan=Räutlein	NN	 UNKNOWN	Marcepan=Räutlein
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Mandel=Dorten	NN	 UNKNOWN	Mandel=Dorten
+</seg>
+<seg type="newline">
+und	KON	 und	und
+laß	ADJD	 laß	laß
+auf	APPR	 auf	auf
+einem	ART	 ein	einem
+Ofen	NN	 Ofen	Ofen
+ertrucknen	VVINF	 UNKNOWN	ertrucknen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Colerus_1602_6" collection="historical" source="Colerus" url="none" year="1602" decade="1600-1610" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1602:124]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+Apffelmuhs	NN	 UNKNOWN	Apffelmuhs
+zu	PTKZU	 zu	zu
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Desgleichen	ADV	 desgleichen	Desgleichen
+nim	VVFIN	 UNKNOWN	nimb
+gute	ADJA	 gut	gute
+Epffel	NN	 Apfel	Apfel
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+hacke	VVFIN	 hacken	hacke
+sie	PPER	 sie	sie
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+thue	VVFIN	 UNKNOWN	thue
+sie	PPER	 sie	sie
+in	APPR	 in	in
+eine	ART	 ein	eine
+pfanne	NN	 Pfanne	pfanne
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+geus	NN	 UNKNOWN	geuß
+darzu	PAV	 dazu	dazu
+einen	ART	 ein	einen
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+aber	ADV	 aber	aber
+nicht	PTKNEG	 nicht	nicht
+viel	ADV	 viel	viel
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+setze	VVFIN	 setzen	setze
+es	PPER	 es	es
+auff	APPR	 auf	auf
+das	ART	 d	das
+Fewer	NN	 Feuer	Feuer
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+röste	VVFIN	 UNKNOWN	röste
+sie	PPER	 sie	sie
+wol	PWAV	 wo	wo
+abe	PAV	 dabei	dabei
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+darein	ADV	 darein	darein
+Zucker	NN	 Zucker	Zucker
+oder	KON	 oder	oder
+Honig	NN	 Honig	Honig
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+würtze	VVFIN	 würzen	würzt
+es	PPER	 es	es
+ab	PTKVZ	 ab	ab
+mit	APPR	 mit	mit
+obgenandter	ADJA	 UNKNOWN	obgenandter
+Würtze	NN	 UNKNOWN	Würtze
+.	$.	.	$.	 .	|	.
+Wiltu	NE	 UNKNOWN	Wiltu
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+thue	NE	 UNKNOWN	thue
+darein	ADV	 darein	darein
+kleine	ADJA	 klein	kleine
+Rosincken	NN	 Rosine	Rosinen
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+kleine	ADJA	 klein	kleine
+geschnittene	ADJA	 geschnitten	geschnittene
+Mandeln	NN	 Mandel	Mandeln
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+rührs	NN	 UNKNOWN	rührs
+wol	PWAV	 wo	wo
+durcheinander	PTKVZ	 durcheinander	durcheinander
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

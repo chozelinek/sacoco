@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Thieme_1682_18" collection="historical" source="Thieme" url="none" year="1682" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Huhn|" method="|none|" ref="[929][davor 677 Nehmet, 678 Passiv]">
+<body>
+<seg type="newline">
+Oder	KON	 oder	Oder
+</seg>
+<seg type="newline">
+könnet	VMFIN	 können	könnet
+auch	ADV	 auch	auch
+wol	PWAV	 wo	wo
+Hasel=Hüner	NN	 UNKNOWN	Hasel=Hüner
+einmachen	VVFIN	 einmachen	einmachen
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+eine	ART	 ein	eine
+Mandel=Gescharb	NN	 UNKNOWN	Mandel=Gescharb
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+fein	ADJD	 fein	fein
+süß	ADJD	 süß	süß
+und	KON	 und	und
+gelb	ADJD	 gelb	gelb
+ist	VAFIN	 sein	ist
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

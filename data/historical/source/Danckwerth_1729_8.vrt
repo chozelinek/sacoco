@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Danckwerth_1729_8" collection="historical" source="Danckwerth" url="none" year="1729" decade="1720-1730" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1729:109]">
+<title>
+<seg type="newline">
+47.	ADJA	 47.	47.
+Karpen	NN	 UNKNOWN	Karpen
+mit	APPR	 mit	mit
+Negelcken	ADJA	 UNKNOWN	Negelcken
+Suppe	NN	 Suppe	Suppe
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Schuppe	NN	 Schuppe	Schuppe
+die	ART	 d	die
+Karpe	NN	 UNKNOWN	Karpe
+ab	PTKVZ	 ab	ab
+</seg>
+<seg type="newline">
+und	KON	 und	und
+koche	VVFIN	 kochen	koche
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+Saltz	NN	 Salz	Salz
+und	KON	 und	und
+Wasser	NN	 Wasser	Wasser
+halb	ADJD	 halb	halb
+gahr	ADV	 gar	gar
+</seg>
+<seg type="newline">
+gieß	VVIMP	 gießen	gieß
+das	ART	 d	das
+Wasser	NN	 Wasser	Wasser
+rein	ADV	 rein	rein
+davon	PAV	 davon	davon
+</seg>
+<seg type="newline">
+und	KON	 und	und
+thue	NE	 UNKNOWN	thue
+dranf	NE	 UNKNOWN	dranf
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Wein=Eßig	NN	 UNKNOWN	Wein=Essig
+</seg>
+<seg type="newline">
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+Corinthen	NN	 Korinthe	Korinthen
+</seg>
+<seg type="newline">
+Muscaten=blumen	NN	 UNKNOWN	Muscaten=blumen
+</seg>
+<seg type="newline">
+Canehl=puder	NN	 UNKNOWN	Canehl=puder
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Cardemomen	NN	 UNKNOWN	Cardemomen
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Zucker	NN	 Zucker	Zucker
+und	KON	 und	und
+Negelcken=puder	NN	 UNKNOWN	Negelcken=puder
+</seg>
+<seg type="newline">
+koche	VVFIN	 kochen	koche
+den	ART	 d	den
+Karpen	NN	 UNKNOWN	Karpen
+hiemit	NE	 UNKNOWN	hiemit
+gahr	ADV	 gar	gar
+</seg>
+<seg type="newline">
+und	KON	 und	und
+richte	VVFIN	 richten	richte
+ihn	PPER	 er	ihn
+an	PTKVZ	 an	an
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

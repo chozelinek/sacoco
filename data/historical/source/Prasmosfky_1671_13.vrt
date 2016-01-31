@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Prasmosfky_1671_13" collection="historical" source="Prasmosfky" url="none" year="1671" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1671:160]">
+<title>
+<seg type="newline">
+490.	ADJA	 @ord@	490.
+Kalbfleisch=Pasteten	NN	 UNKNOWN	Kalbfleisch=Pasteten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+das	ART	 d	das
+brätig	ADJD	 UNKNOWN	brätig
+Fleisch	NN	 Fleisch	Fleisch
+</seg>
+<seg type="newline">
+beitze	VVFIN	 UNKNOWN	beitze
+es	PPER	 es	es
+ein	ART	 ein	ein
+Tag	NN	 Tag	Tag
+oder	KON	 oder	oder
+drey	CARD	 drei	drei
+mit	APPR	 mit	mit
+Essig	NN	 Essig	Essig
+ein	ART	 ein	ein
+</seg>
+<seg type="newline">
+seuds	ADJA	 UNKNOWN	seuds
+hernach	ADV	 hernach	hernach
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+in	APPR	 in	in
+Wasser	NN	 Wasser	Wasser
+ab	APPR	 ab	ab
+</seg>
+<seg type="newline">
+saltze	ADJA	 kalt	kalten
+und	KON	 und	und
+spicke	NN	 Speck	Specks
+es	PPER	 es	es
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+darnach	PAV	 danach	Danach
+die	ART	 d	die
+Pasteten	NN	 Pastete	Pasteten
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+und	KON	 und	und
+legs	VVFIN	 legen	legt
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+Speck	NN	 Speck	Speck
+an	APPR	 an	an
+den	ART	 d	den
+Boden	NN	 Boden	Boden
+</seg>
+<seg type="newline">
+würtze	VVFIN	 würzen	würzt
+und	KON	 und	und
+saltze	ADJA	 kalt	kalten
+es	PPER	 es	es
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+unten	ADV	 unten	unten
+und	KON	 und	und
+oben	ADV	 oben	oben
+Majenschmaltz	NE	 UNKNOWN	Majenschmaltz
+und	KON	 und	und
+Lemonien	NE	 UNKNOWN	Lemoni
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+geuß	NN	 UNKNOWN	geuß
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Essig	NN	 Essig	Essig
+und	KON	 und	und
+Fleischbrühe	NN	 Fleischbrühe	Fleischbrühe
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+einen	ART	 ein	einen
+Deckel	NN	 Deckel	Deckel
+darauf	PAV	 darauf	darauf
+</seg>
+<seg type="newline">
+und	KON	 und	und
+bachs	NE	 Bach	bachs
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

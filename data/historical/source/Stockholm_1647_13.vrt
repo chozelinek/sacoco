@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Stockholm_1647_13" collection="historical" source="Stockholm" url="none" year="1647" decade="1640-1650" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1647:153]">
+<body>
+<seg type="newline">
+Will	VMFIN	 wollen	Will
+man	PIS	 man	man
+die	ART	 d	die
+Schwaden	NN	 Schwaden	Schwaden
+</seg>
+<seg type="newline">
+Hirß	TRUNC	 UNKNOWN	Hirß
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Fenchel	NN	 Fenchel	Fenchel
+recht	ADJD	 recht	recht
+kochen	VVFIN	 kochen	kochen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+stost	ADJD	 UNKNOWN	stost
+mans	VMFIN	 mögen	mag
+also	ADV	 also	also
+dür	NN	 UNKNOWN	dür
+in	APPR	 in	in
+einem	ART	 ein	einem
+Mörsel	NN	 UNKNOWN	Mörsel
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+siebet	VVFIN	 UNKNOWN	siebet
+man	PIS	 man	man
+es	PPER	 es	es
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+das	ART	 d	das
+grobe	ADJA	 grob	grobe
+dahinden	NN	 UNKNOWN	dahinden
+bleibe	VVFIN	 bleiben	bleibe
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+das	ART	 d	das
+kleine	ADJA	 klein	kleine
+Mehl	NN	 Mehl	Mehl
+herdurch	ADV	 UNKNOWN	herdurch
+falle	VVFIN	 fallen	falle
+</seg>
+<seg type="newline">
+schlage	VVFIN	 schlagen	schlage
+etliche	PIS	 etlich	etliche
+Eyer	NE	 UNKNOWN	Eyer
+dazu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+klopffet	VVFIN	 UNKNOWN	klopffet
+es	PPER	 es	es
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+das	PRELS	 d	das
+es	PPER	 es	es
+nicht	PTKNEG	 nicht	nicht
+zu	PTKA	 zu	zu
+dün	ADJD	 dünn	dünn
+</seg>
+<seg type="newline">
+zu	APPR	 zu	zu
+dick	ADJD	 dick	dick
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Klösserich	NN	 UNKNOWN	Klösserich
+werde	VAFIN	 werden	werde
+</seg>
+<seg type="newline">
+Diesen	PDAT	 dies	Diesen
+Teig	NN	 Teig	Teig
+</seg>
+<seg type="newline">
+schüttet	VVFIN	 schütten	schüttet
+man	PIS	 man	man
+in	APPR	 in	in
+eine	ART	 ein	eine
+heisse	ADJA	 heiß	heisse
+Milch	NN	 Milch	Milch
+</seg>
+<seg type="newline">
+rühret	VVFIN	 rühren	rühren
+es	PPER	 es	es
+wol	PWAV	 wo	wo
+durch	APPR	 durch	durch
+einander	PRF	 einander	einander
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+thut	NE	 UNKNOWN	thue
+Butter	NN	 Butter	Butter
+vnd	KON	 und	und
+Saltz	NN	 Salz	Salz
+darunter	PAV	 darunter	darunter
+</seg>
+<seg type="newline">
+Wo	PWAV	 wo	Wo
+man	PIS	 man	man
+wil	VVFIN	 UNKNOWN	wil
+</seg>
+<seg type="newline">
+kan	ADV	 nun	Nun
+mans	VMFIN	 mögen	mag
+mit	APPR	 mit	mit
+Saffran	NN	 Safran	Safran
+gehl	NN	 UNKNOWN	gehl
+anmachen	VVFIN	 anmachen	anmachen
+</seg>
+<seg type="newline">
+Man	PIS	 man	Man
+lästs	NN	 UNKNOWN	lästs
+fein	ADJD	 fein	fein
+langsam	ADJD	 langsam	langsam
+kochen	VVFIN	 kochen	kochen
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+es	PPER	 es	es
+dick	ADJD	 dick	dick
+vnd	KON	 und	und
+braun	ADJD	 braun	braun
+rundt	NE	 UNKNOWN	rundt
+vmbher	VVINF	 UNKNOWN	vmbher
+werde	VAFIN	 werden	werde
+</seg>
+<seg type="newline">
+wen	PWS	 wer	wen
+mans	VMFIN	 mögen	mag
+anrichten	VVINF	 anrichten	anrichten
+wil	VVFIN	 UNKNOWN	wil
+</seg>
+<seg type="newline">
+löset	ADJD	 UNKNOWN	löset
+man	PIS	 man	man
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Messer	NN	 Messer	Messer
+</seg>
+<seg type="newline">
+den	ART	 d	den
+randt	NE	 Randt	randt
+vmher	ADV	 UNKNOWN	vmher
+von	APPR	 von	von
+dem	ART	 d	dem
+Topffe	NN	 UNKNOWN	Topffe
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Pfannen	NN	 Pfanne	Pfannen
+abe	PAV	 dabei	dabei
+</seg>
+<seg type="newline">
+In	APPR	 in	In
+der	ART	 d	der
+Schüssel	NN	 Schüssel	Schüssel
+bestrewet	VVINF	 bestreuen	bestreuen
+mans	VMFIN	 mögen	mag
+mit	APPR	 mit	mit
+Troyen	NN	 UNKNOWN	Troyen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

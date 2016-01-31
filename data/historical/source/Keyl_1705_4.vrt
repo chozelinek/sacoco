@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Keyl_1705_4" collection="historical" source="Keyl" url="none" year="1705" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1705:92]">
+<title>
+<seg type="newline">
+Kandel=Supp	NN	 UNKNOWN	Kandel=Supp
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+So	ADV	 so	So
+reibet	VVFIN	 reiben	reiben
+man	PIS	 man	man
+ausgesichtet	ADJA	 UNKNOWN	ausgesichtet
+Rockenbrod	NN	 UNKNOWN	Rockenbrod
+</seg>
+<seg type="newline">
+thut	NE	 UNKNOWN	thue
+selbiges	ADJA	 UNKNOWN	selbiges
+in	APPR	 in	in
+einen	ART	 ein	einen
+Topff	NN	 Topf	Topf
+</seg>
+<seg type="newline">
+halb	ADJD	 halb	halb
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+halb	ADJD	 halb	halb
+Bier	NN	 Bier	Bier
+</seg>
+<seg type="newline">
+darauff	PAV	 drauf	drauf
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+damit	PAV	 damit	damit
+auffkochen	VVFIN	 aufkochen	aufkochen
+</seg>
+<seg type="newline">
+hernach	ADV	 hernach	hernach
+nimm	VVIMP	 nehmen	nimm
+zwey	CARD	 zwei	zwei
+Eyer	NE	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+schlage	VVFIN	 schlagen	schlage
+sie	PPER	 sie	sie
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+rühre	VVFIN	 rühren	rühre
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+kalt	ADJD	 kalt	kalt
+Wasser	NN	 Wasser	Wasser
+darein	ADV	 darein	darein
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

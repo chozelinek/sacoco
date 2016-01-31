@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Hohberg_1715_30" collection="historical" source="Hohberg" url="none" year="1715" decade="1710-1720" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1715:106]">
+<title>
+<seg type="newline">
+[	$(	[	$(	 [	|	[
+Aepffel=Dortten	VVIMP	 UNKNOWN	Aepffel=Dortten
+]	$(	]	$(	 ]	|	]
+Auf	APPR	 auf	Auf
+andere	ADJA	 ander	andere
+Art.	NN	 Art.	Art.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Bratet	NN	 UNKNOWN	Bratet
+ohngefehr	ADJA	 UNKNOWN	ohngefehr
+10.	ADJA	 10.	10.
+oder	KON	 oder	oder
+12.	ADJA	 12.	12.
+Aepffel	NN	 UNKNOWN	Aepffel
+in	APPR	 in	in
+einem	ART	 ein	einem
+Oefelein	TRUNC	 UNKNOWN	Oefelein
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+sie	PPER	 sie	sie
+weich	ADJD	 weich	weich
+</seg>
+<seg type="newline">
+schälet	VVFIN	 schälen	schälen
+das	ART	 d	das
+Gute	NN	 Gute	Gute
+von	APPR	 von	von
+den	ART	 d	den
+Schelffen	TRUNC	 UNKNOWN	Schelffen
+und	KON	 und	und
+Putzen	NN	 Putzen	Putzen
+herab	ADV	 herab	herab
+</seg>
+<seg type="newline">
+rühret	VVFIN	 rühren	rühren
+ein	ART	 ein	ein
+paar	PIAT	 paar	paar
+Eyer	NE	 UNKNOWN	Eyer
+groß	ADJD	 groß	groß
+</seg>
+<seg type="newline">
+frisch	ADJD	 frisch	frisch
+Schmaltz	NN	 Schmalz	Schmalz
+in	APPR	 in	in
+einer	ART	 ein	einer
+Schüssel	NN	 Schüssel	Schüssel
+wohl	ADV	 wohl	wohl
+ab	APPR	 ab	ab
+</seg>
+<seg type="newline">
+ferners	NN	 UNKNOWN	ferners
+darein	ADV	 darein	darein
+3.	ADJA	 3.	3.
+gantze	ADV	 ganz	ganz
+Eyer	NE	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+und	KON	 und	und
+von	APPR	 von	von
+zweyen	NE	 UNKNOWN	zweyen
+das	ART	 d	das
+Weisse	ADJA	 weiß	Weisse
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+und	KON	 und	und
+Zimmet	NN	 Zimt	Zimt
+</seg>
+<seg type="newline">
+nebst	APPR	 nebst	nebst
+bemeldten	ADJA	 UNKNOWN	bemeldten
+Aepffeln	NN	 UNKNOWN	Aepffeln
+</seg>
+<seg type="newline">
+schüttets	NN	 UNKNOWN	schüttets
+in	APPR	 in	in
+eine	ART	 ein	eine
+küpffern	NN	 UNKNOWN	küpffern
+oder	KON	 oder	oder
+blechernen	ADJA	 blechern	blechernen
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Butter	NN	 Butter	Butter
+geschmierte	ADJA	 geschmiert	geschmierte
+Schüssel	NN	 Schüssel	Schüssel
+</seg>
+<seg type="newline">
+lassets	VVFIN	 UNKNOWN	lässets
+in	APPR	 in	in
+einem	ART	 ein	einem
+Oefelein	NN	 UNKNOWN	Oefelein
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+oben	ADV	 oben	oben
+und	KON	 und	und
+unten	ADV	 unten	unten
+mit	APPR	 mit	mit
+Kohlen	NN	 Kohle	Kohlen
+umgeben	VVPP	 umgeben	umgeben
+</seg>
+<seg type="newline">
+bachen	NN	 Kochen	Kochen
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+tragets	NN	 UNKNOWN	tragets
+mit	APPR	 mit	mit
+Zucker	NN	 Zucker	Zucker
+und	KON	 und	und
+Zimmet	NN	 Zimt	Zimt
+bestreuet	VVFIN	 bestreuen	bestreuen
+</seg>
+<seg type="newline">
+zu	APPR	 zu	zu
+Tisch	NN	 Tisch	Tisch
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

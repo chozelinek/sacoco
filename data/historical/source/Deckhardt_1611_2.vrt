@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Deckhardt_1611_2" collection="historical" source="Deckhardt" url="none" year="1611" decade="1610-1620" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1611:10f.]">
+<title>
+<seg type="newline">
+Kapaunen	NN	 UNKNOWN	Kapaunen
+oder	KON	 oder	oder
+Hennen	NN	 Henne	Hennen
+in	APPR	 in	in
+einem	PIS	 ein	einem
+Reiß	ADJD	 heiß	heiß
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Seude	NN	 UNKNOWN	Seude
+oder	KON	 oder	oder
+Koche	NN	 UNKNOWN	Koche
+den	ART	 d	den
+Kaupaunen	NN	 UNKNOWN	Kaupaunen
+schlecht	ADJD	 schlecht	schlecht
+abe	PAV	 dabei	dabei
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+den	ART	 d	den
+Reiß	ADJD	 heiß	heiß
+auch	ADV	 auch	auch
+besondern	ADJD	 UNKNOWN	besondern
+</seg>
+<seg type="newline">
+doch	ADV	 doch	doch
+nicht	PTKNEG	 nicht	nicht
+zu	PTKA	 zu	zu
+weich	ADJD	 weich	weich
+</seg>
+<seg type="newline">
+Alsden	NE	 UNKNOWN	Alsden
+thue	NE	 UNKNOWN	thue
+den	ART	 d	den
+Reiß	ADJD	 heiß	heiß
+an	APPR	 an	an
+den	ART	 d	den
+Kapaunen	NN	 UNKNOWN	Kapaunen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+geus	NN	 UNKNOWN	geuß
+die	ART	 d	die
+Kapaunen	NN	 UNKNOWN	Kapaunen
+Brüe	NE	 UNKNOWN	Brüe
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+nd	ADJD	 UNKNOWN	nd
+las	VVFIN	 lesen	las
+es	PPER	 es	es
+mit	APPR	 mit	mit
+einander	PRF	 einander	einander
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+damit	PAV	 damit	damit
+der	ART	 d	der
+Reiß	ADJD	 heiß	heiß
+weich	ADJD	 weich	weich
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+eine	ART	 ein	eine
+rechte	ADJA	 recht	rechte
+dicke	ADJA	 dick	dicke
+gewinne	VVFIN	 gewinnen	gewinne
+</seg>
+<seg type="newline">
+wie	KOUS	 wie	wie
+man	PIS	 man	man
+es	PPER	 es	es
+gerne	ADV	 gerne	gerne
+haben	VAFIN	 haben	haben
+wil	VVPP	 UNKNOWN	wil
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+wenn	KOUS	 wenn	wenn
+du	PPER	 du	du
+es	PPER	 es	es
+an	APZR	 an	an
+richtest	VVFIN	 UNKNOWN	richtest
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+strew	NE	 UNKNOWN	strew
+ein	ART	 ein	ein
+Trisanet	NE	 UNKNOWN	Trysaneth
+von	APPR	 von	von
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+Zimmet	NN	 Zimt	Zimt
+vnd	KON	 und	und
+Ingwer	NN	 Ingwer	Ingwer
+gemacht	VVPP	 machen	gemacht
+</seg>
+<seg type="newline">
+darüber	PAV	 darüber	darüber
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

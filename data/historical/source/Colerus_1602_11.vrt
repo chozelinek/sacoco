@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Colerus_1602_11" collection="historical" source="Colerus" url="none" year="1602" decade="1600-1610" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1602:137]">
+<title>
+<seg type="newline">
+Krebse	NN	 Krebs	Krebse
+in	APPR	 in	in
+Beyfus	NE	 UNKNOWN	Beyfus
+zu	PTKZU	 zu	zu
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wasche	VVFIN	 waschen	Wasche
+die	ART	 d	die
+Krebse	NN	 Krebs	Krebse
+rein	ADV	 rein	rein
+aus	PTKVZ	 aus	aus
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+lege	VVFIN	 legen	lege
+sie	PPER	 sie	sie
+in	APPR	 in	in
+eine	ART	 ein	eine
+Pfanne	NN	 Pfanne	Pfanne
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+seud	VVFIN	 UNKNOWN	seud
+sie	PPER	 sie	sie
+abe	PAV	 dabei	dabei
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+nim	VVFIN	 UNKNOWN	nimb
+sie	PPER	 sie	sie
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+schele	VVFIN	 UNKNOWN	schele
+die	ART	 d	die
+Zähle	NN	 UNKNOWN	Zähle
+vnd	KON	 und	und
+Scheren	NN	 Schere|Scheren	Scheren
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+die	ART	 d	die
+Bäuche	NN	 Bauch	Bäuche
+vnd	KON	 und	und
+die	ART	 d	die
+Beine	NN	 Bein	Beine
+halt	ADV	 halt	halt
+zusammen	PTKVZ	 zusammen	zusammen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+den	ART	 d	den
+Rücken	NN	 Rücken	Rücken
+wirff	VVFIN	 UNKNOWN	wirff
+weg	PTKVZ	 weg	weg
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+stos	NN	 UNKNOWN	stos
+diese	PDAT	 dies	diese
+Bäuch	NN	 UNKNOWN	Bäuch
+in	APPR	 in	in
+einem	ART	 ein	einem
+Mörsel	NE	 UNKNOWN	Mörsel
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+darein	ADV	 darein	darein
+weis	PTKVZ	 weis	weis
+Brod	NN	 Brot	Brot
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+stos	NN	 UNKNOWN	stos
+alles	PIS	 alle	alles
+wol	PWAV	 wo	wo
+durcheinander	ADV	 durcheinander	durcheinander
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+es	PPER	 es	es
+auff	APPR	 auf	auf
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Wein	NN	 Wein	Wein
+oder	KON	 oder	oder
+geringem	ADJA	 gering	geringem
+Bier	NN	 Bier	Bier
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+zeuch	NN	 UNKNOWN	zeuch
+das	ART	 d	das
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+Tuch	NN	 Tuch	Tuch
+oder	KON	 oder	oder
+Sieb	NN	 Sieb	Sieb
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+lege	VVFIN	 legen	lege
+darein	ADV	 darein	darein
+die	ART	 d	die
+geschelte	ADJD	 gescheit	gescheit
+Krebse	NN	 Krebs	Krebse
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+las	VVFIN	 lesen	las
+sie	PPER	 sie	sie
+wol	PWAV	 wo	wo
+sieden	VVINF	 sieden	sieden
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+mache	VVFIN	 machen	mache
+es	PPER	 es	es
+süslich	ADJD	 UNKNOWN	süslich
+oder	KON	 oder	oder
+säwrlich	ADJD	 UNKNOWN	säwrlich
+</seg>
+<seg type="newline">
+vnwürtze	VVFIN	 UNKNOWN	vnwürtze
+es	PPER	 es	es
+ab	PTKVZ	 ab	ab
+mit	APPR	 mit	mit
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Ingber	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Muscate	NN	 UNKNOWN	Muscate
+</seg>
+<seg type="newline">
+Saffran	NN	 Safran	Safran
+</seg>
+<seg type="newline">
+vnsaltze	VVFIN	 UNKNOWN	vnsaltze
+es	PPER	 es	es
+zu	PTKA	 zu	zu
+rechter	ADJD	 recht	rechter
+masse	VVFIN	 maßen	masse
+</seg>
+<seg type="newline">
+vngibs	NN	 UNKNOWN	vngibs
+hin	PTKVZ	 hin	hin
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

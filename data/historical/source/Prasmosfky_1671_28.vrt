@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Prasmosfky_1671_28" collection="historical" source="Prasmosfky" url="none" year="1671" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1671:10]">
+<title>
+<seg type="newline">
+[	$(	[	$(	 [	|	[
+18.	ADJA	 18.	18.
+Apffel=Dorten	NN	 UNKNOWN	Apffel=Dorten
+]	$(	]	$(	 ]	|	]
+Noch	ADV	 noch	Noch
+anderst	ADV	 UNKNOWN	anderst
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Koche	VVFIN	 kochen	Koche
+die	ART	 d	die
+Aepffel	NN	 UNKNOWN	Aepffel
+mit	APPR	 mit	mit
+zimlichen	ADJA	 UNKNOWN	zimlichen
+Schmaltz	NN	 Schmalz	Schmalz
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+sie	PPER	 sie	sie
+wol	PWAV	 wo	wo
+lind	ADJD	 lind	lind
+sind	VAFIN	 sein	sind
+</seg>
+<seg type="newline">
+zurühre	VVFIN	 UNKNOWN	zurühre
+sie	PPER	 sie	sie
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+reib	VVFIN	 UNKNOWN	reib
+hernach	ADV	 hernach	hernach
+weiß	VVFIN	 wissen	weiß
+Brod	NN	 Brot	Brot
+</seg>
+<seg type="newline">
+beutels	NN	 Beutel	beutels
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+Sieb	NN	 Sieb	Sieb
+</seg>
+<seg type="newline">
+nimm	VVIMP	 nehmen	nimm
+des	ART	 d	des
+klaren	ADJA	 klar	klaren
+Meels	NN	 UNKNOWN	Meels
+ein	ART	 ein	ein
+Hand	NN	 Hand	Hand
+voll	ADJD	 voll	voll
+</seg>
+<seg type="newline">
+zureibe	VVFIN	 UNKNOWN	zureibe
+in	APPR	 in	in
+einem	ART	 ein	einem
+andern	ADJA	 ander	andern
+Geschirr	NN	 Geschirr	Geschirr
+etliche	PIAT	 etlich	etliche
+Eyerdottern	NN	 UNKNOWN	Eyerdottern
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+ein	ART	 ein	ein
+guten	ADJA	 gut	guten
+Milchraum	NN	 UNKNOWN	Milchraum
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Zimmet	NN	 Zimt	Zimt
+oder	KON	 oder	oder
+distiliert	ADJA	 UNKNOWN	distiliert
+Quitten=Wasser	NN	 UNKNOWN	Quitten=Wasser
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+rühr	VVIMP	 rühren	rühr
+es	PPER	 es	es
+alles	PIS	 alle	alles
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+die	ART	 d	die
+Aepffel	NN	 UNKNOWN	Aepffel
+</seg>
+<seg type="newline">
+wol	PWAV	 wo	wo
+untereinander	ADV	 untereinander	untereinander
+</seg>
+<seg type="newline">
+zeugs	NN	 Zeug	zeugs
+mit	APPR	 mit	mit
+Saffran	NN	 Safran	Safran
+und	KON	 und	und
+einem	ART	 ein	einem
+guten	ADJA	 gut	guten
+Theil	NN	 Teil	Teil
+Ingwer	NN	 Ingwer	Ingwer
+wol	PWAV	 wo	wo
+an	APPR	 an	an
+</seg>
+<seg type="newline">
+thu	NE	 Thu	thu
+es	PPER	 es	es
+in	APPR	 in	in
+den	ART	 d	den
+Dortenhafen	NN	 UNKNOWN	Dortenhafen
+</seg>
+<seg type="newline">
+wanns	NE	 UNKNOWN	wanns
+fast	ADV	 fast	fast
+gebachen	ADJD	 UNKNOWN	gebachen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+bestreichs	NN	 UNKNOWN	bestreichs
+oben	ADV	 oben	oben
+mit	APPR	 mit	mit
+guten	ADJA	 gut	guten
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+Malvasier	NN	 UNKNOWN	Malvasier
+oder	KON	 oder	oder
+ermelten	ADJA	 UNKNOWN	ermelten
+Wassern	NN	 Wasser	Wassern
+</seg>
+<seg type="newline">
+streue	VVFIN	 streuen	streue
+dann	ADV	 dann	dann
+Zucker	NN	 Zucker	Zucker
+und	KON	 und	und
+Zimmet	NN	 Zimt	Zimt
+fein	ADJD	 fein	fein
+dick	ADJD	 dick	dick
+darauf	PAV	 darauf	darauf
+</seg>
+<seg type="newline">
+gib	VVIMP	 geben	gib
+ihm	PPER	 er	ihm
+rechte	ADJA	 recht	rechte
+Hitz	NN	 UNKNOWN	Hitz
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+rösch	ADJD	 UNKNOWN	rösch
+wird	VAFIN	 werden	wird
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

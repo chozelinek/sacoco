@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Wecker_1679_12" collection="historical" source="Wecker" url="none" year="1679" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:165]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+ander	ADJA	 UNKNOWN	ander
+Erdbeermuß	NN	 UNKNOWN	Erdbeermuß
+warm	ADJD	 warm	warm
+oder	KON	 oder	oder
+kalt	ADJD	 kalt	kalt
+zu	PTKZU	 zu	zu
+geben	VVINF	 geben	geben
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wann	PWAV	 wann	Wann
+die	ART	 d	die
+Erdbeern	NN	 UNKNOWN	Erdbeern
+rein	ADV	 rein	rein
+gelesen	VVPP	 lesen	gelesen
+vnd	KON	 und	und
+gewaschen	VVPP	 waschen	gewaschen
+seyn	NE	 UNKNOWN	seyn
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+treibe	VVFIN	 treiben	treibe
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+guten	ADJA	 gut	guten
+Wein	NN	 Wein	Wein
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+Sieblein	NN	 UNKNOWN	Sieblein
+oder	KON	 oder	oder
+Thuch	NN	 UNKNOWN	Thuch
+</seg>
+<seg type="newline">
+rühre	VVFIN	 rühren	rühre
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+geriebenen	ADJA	 gerieben	geriebenen
+Pfefferkuchen	NN	 Pfefferkuchen	Pfefferkuchen
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+ein	ART	 ein	ein
+Löffelein	NN	 UNKNOWN	Löffelein
+gut	ADJD	 gut	gut
+Mäl	NN	 UNKNOWN	Mäl
+darunder	ADJA	 UNKNOWN	darunder
+</seg>
+<seg type="newline">
+würtze	VVFIN	 würzen	würzt
+es	PPER	 es	es
+mit	APPR	 mit	mit
+Zimmet	NN	 Zimt	Zimt
+vnd	KON	 und	und
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+laß	ADJD	 laß	laß
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+es	PPER	 es	es
+aber	ADV	 aber	aber
+nicht	PTKNEG	 nicht	nicht
+zu	PTKA	 zu	zu
+dick	ADJD	 dick	dick
+werde	VAFIN	 werden	werde
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+gib	VVIMP	 geben	gib
+es	PPER	 es	es
+dann	ADV	 dann	dann
+kalt	ADJD	 kalt	kalt
+oder	KON	 oder	oder
+warm	ADJD	 warm	warm
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

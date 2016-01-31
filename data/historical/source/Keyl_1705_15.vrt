@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Keyl_1705_15" collection="historical" source="Keyl" url="none" year="1705" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1705:120]">
+<title>
+<seg type="newline">
+Lampreten	ADJD	 UNKNOWN	Lampreten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Die	ART	 d	Die
+Lamprete	NN	 UNKNOWN	Lamprete
+muß	VMFIN	 müssen	muß
+sich	PRF	 er|es|sie	sich
+in	APPR	 in	in
+Wein	NN	 Wein	Wein
+todt	ADJD	 UNKNOWN	todt
+saugen	VVFIN	 saugen	saugen
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+so	ADV	 so	so
+wird	VAFIN	 werden	wird
+das	ART	 d	das
+Eingeweide	NN	 Eingeweide	Eingeweide
+heraus	ADV	 heraus	heraus
+genommen	VVPP	 nehmen	genommen
+</seg>
+<seg type="newline">
+krumm	ADJD	 krumm	krumm
+zusammen	ADV	 zusammen	zusammen
+gebunden	ADJD	 gebunden	gebunden
+in	APPR	 in	in
+Wasser	NN	 Wasser	Wasser
+und	KON	 und	und
+Saltz	NN	 Salz	Salz
+scharff	ADJD	 UNKNOWN	scharff
+gekocht	VVPP	 kochen	gekocht
+ein	ART	 ein	ein
+halbe	ADJA	 halb	halbe
+Stunde	NN	 Stunde	Stunde
+</seg>
+<seg type="newline">
+denn	KON	 denn	denn
+eine	ART	 ein	eine
+Brüh	ADJD	 früh	früh
+drüber	ADV	 drüber	drüber
+von	APPR	 von	von
+Wein	NN	 Wein	Wein
+und	KON	 und	und
+Weineßig	NN	 Weinessig	Weinessig
+</seg>
+<seg type="newline">
+braunen	ADJA	 braun	braunen
+Kuchen	NN	 Kuchen	Kuchen
+</seg>
+<seg type="newline">
+Zwiebeln	NN	 Zwiebel|Zwiebeln	Zwiebeln
+in	APPR	 in	in
+Butter	NN	 Butter	Butter
+gebraten	VVPP	 braten	gebraten
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+Nelcken	NE	 UNKNOWN	Nelcken
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+zusammen	ADV	 zusammen	zusammen
+durchgekocht	VVPP	 durchkochen	durchgekocht
+</seg>
+<seg type="newline">
+und	KON	 und	und
+wenn	KOUS	 wenn	wenn
+es	PPER	 es	es
+fein	ADJD	 fein	fein
+semig	ADJD	 UNKNOWN	semig
+worden	VAPP	 werden	worden
+</seg>
+<seg type="newline">
+gib	VVIMP	 geben	gib
+es	PPER	 es	es
+über	APPR	 über	über
+die	ART	 d	die
+Lampreten	NN	 UNKNOWN	Lampreten
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

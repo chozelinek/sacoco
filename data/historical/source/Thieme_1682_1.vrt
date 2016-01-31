@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Thieme_1682_1" collection="historical" source="Thieme" url="none" year="1682" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[833]">
+<title>
+<seg type="newline">
+Einen	ART	 ein	Einen
+ganzen	ADJA	 ganz	ganzen
+Ochsen=Kopf	NN	 UNKNOWN	Ochsen=Kopf
+zu	PTKZU	 zu	zu
+kochen	VVINF	 kochen	kochen
+und	KON	 und	und
+zierlich	ADJD	 zierlich	zierlich
+zu	PTKZU	 zu	zu
+bereiten	VVINF	 bereiten	bereiten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Schneidet	VVFIN	 schneiden	Schneidet
+ihn	PPER	 er	ihn
+samt	APPR	 samt	samt
+den	ART	 d	den
+Hörnern	NN	 Horn	Hörnern
+und	KON	 und	und
+der	ART	 d	der
+Haut	NN	 Haut	Haut
+ab	PTKVZ	 ab	ab
+</seg>
+<seg type="newline">
+setzet	VVFIN	 setzen	setzet
+Wasser	NN	 Wasser	Wasser
+in	APPR	 in	in
+einem	ART	 ein	einem
+Kessel	NN	 Kessel	Kessel
+auf	APPR	 auf	auf
+</seg>
+<seg type="newline">
+brühet	ADJA	 grün	grünen
+den	ART	 d	den
+Kopf	NN	 Kopf	Kopf
+darinnen	VVFIN	 darinnen	darinnen
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+man	PIS	 man	man
+die	ART	 d	die
+Füsse	NN	 Fuß	Füsse
+zurichtet	VVFIN	 zurichten	zurichtet
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+das	ART	 d	das
+Haar	NN	 Haar	Haar
+rein	ADV	 rein	rein
+davon	PAV	 davon	davon
+komme	VVFIN	 kommen	komme
+.	$.	.	$.	 .	|	.
+Wann	PWAV	 wann	Wann
+er	PPER	 er	er
+nun	ADV	 nun	nun
+sauber	ADJD	 sauber	sauber
+bereitet	VVFIN	 bereiten	bereitet
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+setzet	VVFIN	 setzen	setzet
+ihn	PPER	 er	ihn
+im	APPRART	 im	im
+Wasser	NN	 Wasser	Wasser
+zu	APPR	 zu	zu
+</seg>
+<seg type="newline">
+verfäumet	NE	 UNKNOWN	verfäumet
+ihn	PPER	 er	ihn
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+werffet	VVFIN	 UNKNOWN	werffet
+ziemlich	ADV	 ziemlich	ziemlich
+viel	PIAT	 viel	viel
+Salz	NN	 Salz	Salz
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+lassets	ADJA	 UNKNOWN	lässets
+darmit	NN	 UNKNOWN	darmit
+gar	ADV	 gar	gar
+sieden	VVINF	 sieden	sieden
+;	$.	;	$.	 ;	|	;
+Ziehet	VVFIN	 zeihen|ziehen	Ziehet
+ihn	PPER	 er	ihn
+dann	ADV	 dann	dann
+auf	APPR	 auf	auf
+ein	ART	 ein	ein
+sauberes	ADJA	 sauber	sauberes
+Bret	NN	 UNKNOWN	Bret
+</seg>
+<seg type="newline">
+lasset	VVFIN	 lassen	lasset
+ihn	PPER	 er	ihn
+kalt	ADJD	 kalt	kalt
+werden	VAINF	 werden	werden
+</seg>
+<seg type="newline">
+säubert	VVFIN	 säubern	säubert
+ihn	PPER	 er	ihn
+wol	PWAV	 wo	wo
+aus	PTKVZ	 aus	aus
+;	$.	;	$.	 ;	|	;
+Wann	PWAV	 wann	Wann
+ihr	PPER	 ihr	ihr
+ihn	PPER	 er	ihn
+nun	ADV	 nun	nun
+wollt	VMFIN	 wollen	wollt
+auf	APPR	 auf	auf
+eine	ART	 ein	eine
+Tafel	NN	 Tafel	Tafel
+oder	KON	 oder	oder
+Tisch	NN	 Tisch	Tisch
+geben	VVINF	 geben	geben
+</seg>
+<seg type="newline">
+könnet	VMFIN	 können	könnet
+ihr	PPER	 ihr	ihr
+ihn	PPER	 er	ihn
+mit	APPR	 mit	mit
+schönen	ADJA	 schön	schönen
+und	KON	 und	und
+wolriechenden	ADJA	 UNKNOWN	wolriechenden
+Kräutern	NN	 Kraut	Kräutern
+und	KON	 und	und
+Blumen	NN	 Blume	Blumen
+schmücken	VVFIN	 schmücken	schmücken
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+mit	APPR	 mit	mit
+Gold	NN	 Gold	Gold
+und	KON	 und	und
+Silber	NN	 Silber	Silber
+zieren	VVINF	 zieren	zieren
+.	$.	.	$.	 .	|	.
+Wann	PWAV	 wann	Wann
+er	PPER	 er	er
+also	ADV	 also	also
+kalt	ADJD	 kalt	kalt
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+ist	VAFIN	 sein	ist
+er	PPER	 er	er
+gut	ADJD	 gut	gut
+zu	PTKZU	 zu	zu
+essen	VVINF	 essen	essen
+</seg>
+<seg type="newline">
+stehet	VVFIN	 stehen	stehet
+auch	ADV	 auch	auch
+schön	ADJD	 schön	schön
+für	APPR	 für	für
+ein	ART	 ein	ein
+Schau=Essen	NN	 UNKNOWN	Schau=Essen
+</seg>
+<seg type="newline">
+sonderlich	ADJD	 sonderlich	sonderlich
+so	ADV	 so	so
+die	ART	 d	die
+Hörner	NN	 Horn	Hörner
+schön	ADJD	 schön	schön
+vergüldet	VVFIN	 UNKNOWN	vergüldet
+und	KON	 und	und
+umwunden	VVPP	 umwinden	umwunden
+werden	VAINF	 werden	werden
+.	$.	.	$.	 .	|	.
+NB	NE	 NB	NB
+.	$.	.	$.	 .	|	.
+Es	PPER	 es	Es
+muß	VMFIN	 müssen	muß
+aber	ADV	 aber	aber
+ein	ART	 ein	ein
+Rosen=	NN	 UNKNOWN	Rosen=
+oder	KON	 oder	oder
+Himm=Beer=	NN	 UNKNOWN	Himm=Beer=
+oder	KON	 oder	oder
+gemeiner	ADJA	 gemein	gemeiner
+Wein=Essig	NN	 UNKNOWN	Wein=Essig
+mit	APPR	 mit	mit
+Ingber	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+und	KON	 und	und
+Salz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+wenigst	ADV	 UNKNOWN	wenigst
+ein	ART	 ein	ein
+Mustert	NN	 UNKNOWN	Mustert
+oder	KON	 oder	oder
+Senff	NN	 UNKNOWN	Senff
+beygesetzet	VVFIN	 UNKNOWN	beygesetzet
+werden	VAINF	 werden	werden
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

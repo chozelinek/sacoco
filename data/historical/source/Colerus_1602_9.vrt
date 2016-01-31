@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Colerus_1602_9" collection="historical" source="Colerus" url="none" year="1602" decade="1600-1610" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1602:132]">
+<title>
+<seg type="newline">
+Epffel	NN	 Apfel	Apfel
+vnd	KON	 und	und
+Krebs	NN	 Krebs	Krebs
+in	APPR	 in	in
+den	ART	 d	den
+Torten	NN	 Torte	Torten
+zuthun	NE	 UNKNOWN	zuthun
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nim	ADJA	 UNKNOWN	nimb
+kleine	ADJA	 klein	kleine
+weinliche	ADJA	 UNKNOWN	weinliche
+Epffel	NN	 Apfel	Apfel
+</seg>
+<seg type="newline">
+schele	ADJD	 UNKNOWN	schele
+vnd	KON	 und	und
+schneide	VVFIN	 schneiden	schneide
+sie	PPER	 sie	sie
+in	APPR	 in	in
+vier	CARD	 vier	vier
+theil	NN	 UNKNOWN	theil
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+sie	PPER	 sie	sie
+auff	APPR	 auf	auf
+eine	ART	 ein	eine
+Schüssel	NN	 Schüssel	Schüssel
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+mache	VVFIN	 machen	mache
+sie	PPER	 sie	sie
+wol	PWAV	 wo	wo
+gehle	VVFIN	 UNKNOWN	gehle
+mit	APPR	 mit	mit
+Saffaran	NN	 Safran	Safran
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+wenn	KOUS	 wenn	wenn
+diese	PDAT	 dies	diese
+vorgenante	ADJA	 UNKNOWN	vorgenante
+Torte	NN	 Torte	Torte
+halb	ADJD	 halb	halb
+gebacken	VVPP	 backen	gebacken
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+lege	VVFIN	 legen	lege
+die	ART	 d	die
+Epffel	NN	 Apfel	Apfel
+in	APPR	 in	in
+den	ART	 d	den
+Torten	NN	 Torte	Torten
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+decke	VVFIN	 decken	decke
+sie	PPER	 sie	sie
+wider	APPR	 wider	wider
+mit	APPR	 mit	mit
+der	ART	 d	der
+Stürtzen	NN	 UNKNOWN	Stürtzen
+zu	PTKVZ	 zu	zu
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+las	VVFIN	 lesen	las
+es	PPER	 es	es
+backen	VVINF	 backen	backen
+.	$.	.	$.	 .	|	.
+Wenns	ADJD	 UNKNOWN	Wenns
+gebacken	VVPP	 backen	gebacken
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+richte	VVFIN	 richten	richte
+es	PPER	 es	es
+an	PTKVZ	 an	an
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+nim	VVFIN	 UNKNOWN	nimb
+die	ART	 d	die
+Krebse	NN	 Krebs	Krebse
+</seg>
+<seg type="newline">
+die	ART	 d	die
+seud	NN	 UNKNOWN	seud
+abe	PAV	 dabei	dabei
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+schele	VVFIN	 UNKNOWN	schele
+die	ART	 d	die
+Haupt	NN	 Haupt	Haupt
+vnd	KON	 und	und
+Scheren	NN	 Schere|Scheren	Scheren
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+wenn	KOUS	 wenn	wenn
+sie	PPER	 sie	sie
+geschelet	VVFIN	 UNKNOWN	geschelet
+sein	PPOSAT	 sein	sein
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+thue	NN	 UNKNOWN	thue
+die	ART	 d	die
+geschelten	ADJA	 UNKNOWN	geschelten
+Krebse	NN	 Krebs	Krebse
+also	ADV	 also	also
+in	APPR	 in	in
+den	ART	 d	den
+Torten	NN	 Torte	Torten
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

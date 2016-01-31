@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Stockholm_1647_29" collection="historical" source="Stockholm" url="none" year="1647" decade="1640-1650" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1647:275]">
+<body>
+<seg type="newline">
+Weiß	VVFIN	 wissen	Weiß
+Pfefferkuchen	NN	 Pfefferkuchen	Pfefferkuchen
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+2.	ADJA	 2.	2.
+pfund	NN	 Pfund	pfund
+fein	ADJD	 fein	fein
+gestossen	VVPP	 stoßen	gestossen
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+halb	ADJD	 halb	halb
+Pfund	NN	 Pfund	Pfund
+Honig	NN	 Honig	Honig
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+Loth	NE	 Loth	Loth
+gestossen	VVPP	 stoßen	gestossen
+Zimmet	NN	 Zimt	Zimt
+</seg>
+<seg type="newline">
+halb	ADJD	 halb	halb
+Loth	NE	 Loth	Loth
+Pfeffer	NN	 Pfeffer	Pfeffer
+6.	ADJA	 6.	6.
+Loth	NE	 Loth	Loth
+gestossen	VVPP	 stoßen	gestossen
+Ingefer	VVFIN	 UNKNOWN	Ingefer
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+Lot	NN	 Lot	Lot
+gerieben	VVPP	 reiben	gerieben
+Muscaten	NN	 UNKNOWN	Muscaten
+Nüsse	NN	 Nuß	Nüsse
+</seg>
+<seg type="newline">
+1.	ADJA	 1.	1.
+quintl	NE	 UNKNOWN	quintl
+.	$.	.	$.	 .	|	.
+Cubeben	NN	 UNKNOWN	Cubeben
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Meel	NN	 UNKNOWN	Meel
+zu	APPR	 zu	zu
+Küchlein	NN	 Küchlein	Küchlein
+von	APPR	 von	von
+6.	ADJA	 6.	6.
+Loth	NE	 Loth	Loth
+schwer	ADJD	 schwer	schwer
+</seg>
+<seg type="newline">
+gebacket	VVFIN	 UNKNOWN	gebacket
+in	APPR	 in	in
+linder	ADJA	 lind	linder
+hitze	NN	 Hitze	hitze
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Thieme_1682_15" collection="historical" source="Thieme" url="none" year="1682" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[911]">
+<title>
+<seg type="newline">
+Gäns=Geflügel	ADJA	 UNKNOWN	Gäns=Geflügel
+oder	KON	 oder	oder
+junge	ADJA	 jung	junge
+Gäns	NN	 UNKNOWN	Gäns
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Den	ART	 d	Den
+Hals	NN	 Hals	Hals
+</seg>
+<seg type="newline">
+den	ART	 d	den
+Kopff	NN	 UNKNOWN	Kopff
+</seg>
+<seg type="newline">
+Flügel	NN	 Flügel	Flügel
+und	KON	 und	und
+Füsse	NN	 Fuß	Füsse
+</seg>
+<seg type="newline">
+(	$(	(	$(	 (	|	(
+bey	VVFIN	 UNKNOWN	bey
+etlichen	PIS	 etlich	etlichen
+die	ART	 d	die
+junge	ADJA	 jung	junge
+oder	KON	 oder	oder
+kleine	ADJA	 klein	kleine
+Gans	NN	 Gans	Gans
+genannt	VVPP	 nennen	genannt
+)	$(	)	$(	 )	|	)
+pflücket	VVFIN	 UNKNOWN	pflücket
+man	PIS	 man	man
+</seg>
+<seg type="newline">
+und	KON	 und	und
+sänget	VVFIN	 UNKNOWN	sänget
+die	ART	 d	die
+über	APPR	 über	über
+dem	ART	 d	dem
+Feuer	NN	 Feuer	Feuer
+</seg>
+<seg type="newline">
+damit	PAV	 damit	damit
+die	ART	 d	die
+Federn	NN	 Feder|Federn	Federn
+herab	ADV	 herab	herab
+kommen	VVINF	 kommen	kommen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+man	PIS	 man	man
+die	ART	 d	die
+Haut	NN	 Haut	Haut
+von	APPR	 von	von
+den	ART	 d	den
+Füssen	NN	 Fuß	Füssen
+ziehen	VVINF	 ziehen	ziehen
+könne	VMFIN	 können	könne
+.	$.	.	$.	 .	|	.
+Hernach	ADV	 hernach	Hernach
+lässet	VVFIN	 UNKNOWN	lässet
+man	PIS	 man	man
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+dem	ART	 d	dem
+Magen	NN	 Magen	Magen
+besonders	ADV	 besonders	besonders
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+es	PPER	 es	es
+wird	VAFIN	 werden	wird
+aber	ADV	 aber	aber
+gut	ADJD	 gut	gut
+seyn	ADJD	 UNKNOWN	seyn
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+man	PIS	 man	man
+alles	PIS	 alle	alles
+mit	APPR	 mit	mit
+Zwirns=Faden	NN	 UNKNOWN	Zwirns=Faden
+zusammen	ADV	 zusammen	zusammen
+bindet	VVFIN	 binden	bindet
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+sonst	ADV	 sonst	sonst
+würde	VAFIN	 werden	würde
+es	PPER	 es	es
+von	APPR	 von	von
+einander	PRF	 einander	einander
+kochen	VVINF	 kochen	kochen
+:	$.	:	$.	 :	|	:
+Wann	PWAV	 wann	Wann
+man	PIS	 man	man
+nun	ADV	 nun	nun
+solches	PIS	 solch	solches
+anrichtet	VVFIN	 anrichten	anrichtet
+</seg>
+<seg type="newline">
+machet	VVFIN	 machen	machet
+man	PIS	 man	man
+eine	ART	 ein	eine
+Brühe	NN	 Brühe	Brühe
+darüber	PAV	 darüber	darüber
+von	APPR	 von	von
+der	ART	 d	der
+Suppen	NN	 Suppe	Suppen
+</seg>
+<seg type="newline">
+worinnen	VVFIN	 springen	springen
+sie	PPER	 sie	sie
+gekocht	VVPP	 kochen	gekocht
+</seg>
+<seg type="newline">
+salzet	VVFIN	 UNKNOWN	salzet
+solche	PIS	 solch	solche
+</seg>
+<seg type="newline">
+und	KON	 und	und
+streuet	VVFIN	 UNKNOWN	streuet
+Petersilien	NN	 Petersilie	Petersilie
+darüber	PAV	 darüber	darüber
+.	$.	.	$.	 .	|	.
+So	ADV	 so	So
+kan	ADV	 nun	Nun
+man	PIS	 man	man
+auch	ADV	 auch	auch
+ein	ART	 ein	ein
+Schüßlichen	NN	 UNKNOWN	Schüßlichen
+mit	APPR	 mit	mit
+Wein=Essig	NN	 UNKNOWN	Wein=Essig
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+und	KON	 und	und
+Salz	NN	 Salz	Salz
+dabey	PAV	 dabei	dabei
+setzen	VVFIN	 setzen	setzen
+.	$.	.	$.	 .	|	.
+Wollt	VMFIN	 wollen	Wollt
+ihr	PPER	 ihr	ihr
+sie	PPER	 sie	sie
+aber	ADV	 aber	aber
+mit	APPR	 mit	mit
+einer	ART	 ein	einer
+kurzen	ADJA	 kurz	kurzen
+Brühe	NN	 Brühe	Brühe
+kochen	VVINF	 kochen	kochen
+</seg>
+<seg type="newline">
+werden	VAFIN	 werden	werden
+sie	PPER	 sie	sie
+auch	ADV	 auch	auch
+wol	PWAV	 wo	wo
+schmecken	VVINF	 schmecken	schmecken
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

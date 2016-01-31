@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Knopf_1800_2" collection="historical" source="Knopf" url="http://www.uni-giessen.de/gloning/tx/1800hakb.htm" language="deu" year="1800" decade="1800-1810" period="1800-1850" type="|none|" course="|none|" cuisine="|none|" ingredient="|Huhn|" method="|Suppe|" ref="[]">
+<title>
+<seg type="newline">
+1.	ADV	 1.	1.
+Eine	ART	 ein	Eine
+ordinaire	NN	 UNKNOWN	ordinaire
+Hühnersuppe	NN	 Hühnersuppe	Hühnersuppe
+mit	APPR	 mit	mit
+Perlgraupen	NN	 UNKNOWN	Perlgraupen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Man	PIS	 man	Man
+sezt	ADV	 jetzt	Jetzt
+1/4	CARD	 1/4	1/4
+(	$(	(	$(	 (	|	(
+lb	ADJA	 UNKNOWN	lb
+)	$(	)	$(	 )	|	)
+Perlgraupen	NN	 UNKNOWN	Perlgraupen
+in	APPR	 in	in
+einem	PIS	 ein	einem
+gut	ADJD	 gut	gut
+verzinnten	VVFIN	 verrichten	verrichten
+</seg>
+<seg type="newline">
+Kessel	NE	 Kessel	Kessel
+mit	APPR	 mit	mit
+kaltem	ADJA	 kalt	kaltem
+Wasser	NN	 Wasser	Wasser
+und	KON	 und	und
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+</seg>
+<seg type="newline">
+Butter	NN	 Butter	Butter
+aufs	APPRART	 aufs	aufs
+Feuer	NN	 Feuer	Feuer
+und	KON	 und	und
+läßt	VVFIN	 lassen	läßt
+sie	PPER	 sie	sie
+eine	ART	 ein	eine
+kleine	ADJA	 klein	kleine
+Weile	NN	 Weile	Weile
+</seg>
+<seg type="newline">
+kochen	VVINF	 kochen	kochen
+.	$.	.	$.	 .	|	.
+Alsdann	NE	 UNKNOWN	Alsdann
+nimmt	VVFIN	 nehmen	nimmt
+man	PIS	 man	man
+ein	ART	 ein	ein
+altes	ADJA	 alt	altes
+Huhn	NN	 Huhn	Huhn
+,	$,	,	$,	 ,	|	,
+</seg>
+<seg type="newline">
+welches	PRELS	 welch	welches
+ein	PTKVZ	 ein	ein
+oder	KON	 oder	oder
+ein	ART	 ein	ein
+paar	PIAT	 paar	paar
+Tage	NN	 Tag	Tage
+vorher	ADV	 vorher	vorher
+abgebrühet	VVFIN	 UNKNOWN	abgebrühet
+,	$,	,	$,	 ,	|	,
+</seg>
+<seg type="newline">
+ausgenommen	VVPP	 ausnehmen	ausgenommen
+,	$,	,	$,	 ,	|	,
+und	KON	 und	und
+nach	APPR	 nach	nach
+der	ART	 d	der
+25sten	VVFIN	 rösten	rösten
+Anweisung	NN	 Anweisung	Anweisung
+</seg>
+<seg type="newline">
+im	APPRART	 im	im
+vorigem	ADJA	 vorig	vorigem
+[	$(	[	$(	 [	|	[
+!	$.	!	$.	 !	|	!
+]	$(	]	$(	 ]	|	]
+Stücke	NN	 Stück	Stücke
+blanchirt	VVFIN	 blanchieren	blanchierte
+ist	VAFIN	 sein	ist
+,	$,	,	$,	 ,	|	,
+thut	VVFIN	 UNKNOWN	thue
+es	PPER	 es	es
+zu	APPR	 zu	zu
+den	ART	 d	den
+</seg>
+<seg type="newline">
+Graupen	NN	 Traube	Trauben
+in	APPR	 in	in
+den	ART	 d	den
+Kessel	NN	 Kessel	Kessel
+,	$,	,	$,	 ,	|	,
+gießt	VVFIN	 gießen	gießt
+so	ADV	 so	so
+viel	PIAT	 viel	viel
+kochendes	ADJA	 kochend	kochendes
+</seg>
+<seg type="newline">
+Wasser	NN	 Wasser	Wasser
+darauf	PAV	 darauf	darauf
+,	$,	,	$,	 ,	|	,
+als	KOUS	 als	als
+man	PIS	 man	man
+Suppe	NN	 Suppe	Suppe
+nöthig	ADJD	 nötig	nötig
+hat	VAFIN	 haben	hat
+,	$,	,	$,	 ,	|	,
+wirft	VVFIN	 werfen	wirft
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Salz	NN	 Salz	Salz
+daran	PAV	 daran	daran
+,	$,	,	$,	 ,	|	,
+und	KON	 und	und
+läßt	VVFIN	 lassen	läßt
+das	ART	 d	das
+Huhn	NN	 Huhn	Huhn
+langsam	ADJD	 langsam	langsam
+</seg>
+<seg type="newline">
+kochen	VVINF	 kochen	kochen
+,	$,	,	$,	 ,	|	,
+bis	KOUS	 bis	bis
+es	PPER	 es	es
+beinahe	ADV	 beinahe	beinahe
+gar	ADV	 gar	gar
+ist	VAFIN	 sein	ist
+.	$.	.	$.	 .	|	.
+Alsdann	NE	 UNKNOWN	Alsdann
+wirft	VVFIN	 werfen	wirft
+</seg>
+<seg type="newline">
+man	PIS	 man	man
+etwas	ADV	 etwas	etwas
+reingemachten	VVFIN	 UNKNOWN	angemachten
+,	$,	,	$,	 ,	|	,
+und	KON	 und	und
+in	APPR	 in	in
+zierliche	ADJA	 zierlich	zierliche
+Stücke	NN	 Stück	Stücke
+</seg>
+<seg type="newline">
+geschnittenen	ADJA	 geschnitten	geschnittenen
+Sellerie	NN	 Sellerie	Sellerie
+,	$,	,	$,	 ,	|	,
+Petersilienwurzeln	NN	 Petersilienwurzel	Petersilienwurzeln
+und	KON	 und	und
+Borre	NN	 UNKNOWN	Borre
+</seg>
+<seg type="newline">
+dazu	PAV	 dazu	dazu
+,	$,	,	$,	 ,	|	,
+und	KON	 und	und
+läßt	VVFIN	 lassen	läßt
+es	PPER	 es	es
+zusammen	ADV	 zusammen	zusammen
+gar	ADV	 gar	gar
+kochen	VVINF	 kochen	kochen
+.	$.	.	$.	 .	|	.
+Auch	ADV	 auch	Auch
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+gestoßene	ADJA	 gestoßen	gestoßene
+Muskatenblüthe	NN	 UNKNOWN	Muskatenblüthe
+thut	NE	 UNKNOWN	thue
+man	PIS	 man	man
+kurz	ADJD	 kurz	kurz
+</seg>
+<seg type="newline">
+vor	APPR	 vor	vor
+dem	ART	 d	dem
+Anrichten	NN	 Anrichten	Anrichten
+in	APPR	 in	in
+die	ART	 d	die
+Suppe	NN	 Suppe	Suppe
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

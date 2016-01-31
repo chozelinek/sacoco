@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Hohberg_1715_9" collection="historical" source="Hohberg" url="none" year="1715" decade="1710-1720" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1715:29]">
+<title>
+<seg type="newline">
+Gehäck	NN	 UNKNOWN	Gehäck
+</seg>
+<seg type="newline">
+zu	PTKA	 zu	zu
+allerhand	ADJD	 allerhand	allerhand
+grossen	ADJA	 groß	grossen
+und	KON	 und	und
+kleinen	ADJA	 klein	kleinen
+Pasteten	NN	 Pastete	Pasteten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Lasse	VVFIN	 lassen	Lasse
+sauber	ADJD	 sauber	sauber
+gewaschen	VVPP	 waschen	gewaschen
+Kalb=Fleisch	NN	 UNKNOWN	Kalb=Fleisch
+in	APPR	 in	in
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Saltz	NN	 Salz	Salz
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+hacke	VVFIN	 hacken	hacke
+es	PPER	 es	es
+mit	APPR	 mit	mit
+Rind=	NE	 UNKNOWN	Rind=
+oder	KON	 oder	oder
+Ochsen=Marck	NE	 UNKNOWN	Ochsen=Marck
+</seg>
+<seg type="newline">
+mische	VVFIN	 mischen	mische
+Semmel=Meel	NN	 UNKNOWN	Semmel=Meel
+</seg>
+<seg type="newline">
+Muscatenblüh	NN	 UNKNOWN	Muscatenblüh
+</seg>
+<seg type="newline">
+Cardamomen	NN	 Kardamom	Kardamom
+</seg>
+<seg type="newline">
+Ingber	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	ADV	 wenig	wenig
+zuvor	ADV	 zuvor	zuvor
+mit	APPR	 mit	mit
+siedendem	ADJA	 siedend	siedendem
+Wasser	NN	 Wasser	Wasser
+angebrühte	VVFIN	 UNKNOWN	angebrühte
+</seg>
+<seg type="newline">
+hernach	ADV	 hernach	hernach
+gehackte	ADJA	 gehackt	gehackte
+Chapions	NN	 UNKNOWN	Chapions
+,	$,	,	$,	 ,	|	,
+würfflicht=geschnittene	ADJA	 UNKNOWN	würfflicht=geschnittene
+Limonien	NN	 UNKNOWN	Limonien
+und	KON	 und	und
+Citronen=Schelffen	NN	 UNKNOWN	Citronen=Schelffen
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+auch	ADV	 auch	auch
+ein	ART	 ein	ein
+gut	ADJD	 gut	gut
+Theil	NN	 Teil	Teil
+sauren	ADJA	 sauer	sauren
+Milchram	NN	 UNKNOWN	Milchram
+darunter	PAV	 darunter	darunter
+</seg>
+<seg type="newline">
+feucht	ADJD	 feucht	feucht
+dis	ADJA	 UNKNOWN	dis
+Gehäck	NN	 UNKNOWN	Gehäck
+mit	APPR	 mit	mit
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+Wein=Eßig	NN	 UNKNOWN	Wein=Essig
+und	KON	 und	und
+Fleischbrüh	NN	 Fleischbrühe	Fleischbrühe
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+solche	PIS	 solch	solche
+unten	ADV	 unten	unten
+auf	APPR	 auf	auf
+den	ART	 d	den
+Boden	NN	 Boden	Boden
+der	ART	 d	der
+Pasteten	NN	 Pastete	Pasteten
+</seg>
+<seg type="newline">
+schneide	VVFIN	 schneiden	schneide
+etwas	PIAT	 etwas	etwas
+Butter	NN	 Butter	Butter
+darauf	PAV	 darauf	darauf
+</seg>
+<seg type="newline">
+alsdann	NN	 UNKNOWN	Alsdann
+leget	ADJD	 UNKNOWN	leget
+man	PIS	 man	man
+Cappaun	NE	 UNKNOWN	Cappaun
+</seg>
+<seg type="newline">
+Hüner	NN	 UNKNOWN	Hünern
+</seg>
+<seg type="newline">
+gepeitzte	ADJA	 UNKNOWN	gepeitzte
+kälberne	ADJA	 UNKNOWN	kälberne
+Schlegel	NN	 Schlegel	Schlegel
+</seg>
+<seg type="newline">
+Prisillen	VVFIN	 UNKNOWN	Prisillen
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+was	PWS	 was	was
+beliebig	ADJD	 beliebig	beliebig
+</seg>
+<seg type="newline">
+entweder	KON	 entweder	entweder
+gantz	ADJD	 ganz	ganz
+oder	KON	 oder	oder
+Viertel=weis	NN	 UNKNOWN	Viertel=weis
+</seg>
+<seg type="newline">
+nachdeme	VVFIN	 UNKNOWN	nachdeme
+solche	PIS	 solch	solche
+</seg>
+<seg type="newline">
+auf	APPR	 auf	auf
+nachfolgende	ADJA	 nachfolgend	nachfolgende
+Weis	VVIMP	 weisen	Weis
+</seg>
+<seg type="newline">
+zugerichtet	VVPP	 zurichten	zugerichtet
+mit	APPR	 mit	mit
+Muscatenblüh	NN	 UNKNOWN	Muscatenblüh
+</seg>
+<seg type="newline">
+Cardamömlein	NE	 UNKNOWN	Cardamömlein
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+und	KON	 und	und
+Saltz	NN	 Salz	Salz
+eingewürtzt	VVPP	 UNKNOWN	eingewürtzt
+</seg>
+<seg type="newline">
+und	KON	 und	und
+bestreuet	VVFIN	 bestreuen	bestreuen
+ferners	ADV	 UNKNOWN	ferners
+oben	ADV	 oben	oben
+mit	APPR	 mit	mit
+Limonien	NN	 UNKNOWN	Limonien
+oder	KON	 oder	oder
+Citronen=Plätzlein	NN	 UNKNOWN	Citronen=Plätzlein
+</seg>
+<seg type="newline">
+nebst	APPR	 nebst	nebst
+geschnittnen	ADJA	 UNKNOWN	geschnittnen
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+belegt	ADJD	 belegt	belegt
+darauf	PAV	 darauf	darauf
+</seg>
+<seg type="newline">
+machet	VVFIN	 machen	machet
+den	ART	 d	den
+Deckel	NN	 Deckel	Deckel
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+und	KON	 und	und
+verfahret	VVFIN	 UNKNOWN	verfahret
+damit	PAV	 damit	damit
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+bey	NE	 Bey	bey
+den	ART	 d	den
+Teigen	NN	 UNKNOWN	Teigen
+zu	APPR	 zu	zu
+Pasteten	NN	 Pastete	Pasteten
+gelehret	VVFIN	 UNKNOWN	gelehret
+worden	ADJD	 worden	worden
+;	$.	;	$.	 ;	|	;
+Man	PIS	 man	Man
+kan	ADV	 nun	Nun
+auch	ADV	 auch	auch
+nach	APPR	 nach	nach
+Belieben	NN	 Belieben	Belieben
+zuvor	ADV	 zuvor	zuvor
+abgeschipffte	ADJA	 UNKNOWN	abgeschipffte
+Kälber=Brüß	NN	 UNKNOWN	Kälber=Brüß
+gantz	ADJD	 ganz	ganz
+oder	KON	 oder	oder
+plätzlicht=weis	ADJD	 UNKNOWN	plätzlicht=weis
+geschnitten	VVPP	 schneiden	geschnitten
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+Wasser	NN	 Wasser	Wasser
+gebrühte	ADJA	 gebrüht	gebrühte
+</seg>
+<seg type="newline">
+und	KON	 und	und
+wieder	ADV	 wieder	wieder
+aus	APPR	 aus	aus
+frischem	ADJA	 frisch	frischem
+Wasser	NN	 Wasser	Wasser
+sauber	ADJD	 sauber	sauber
+gewaschene	ADJA	 gewaschen	gewaschene
+Spitz=	NN	 UNKNOWN	Spitz=
+und	KON	 und	und
+Stockmorgeln	NN	 UNKNOWN	Stockmorgeln
+auf	APPR	 auf	auf
+bekannte	ADJA	 bekannt	bekannte
+Weis	VVIMP	 weisen	Weis
+gebutzte	ADJA	 UNKNOWN	gebutzte
+und	KON	 und	und
+in	APPR	 in	in
+Fleischbrühe	NN	 Fleischbrühe	Fleischbrühe
+etwas	ADV	 etwas	etwas
+weich	ADJD	 weich	weich
+gesottne	ADJA	 UNKNOWN	gesottne
+Schnecken	NN	 Schnecke	Schnecken
+</seg>
+<seg type="newline">
+Hüner=Mägen	NN	 UNKNOWN	Hüner=Mägen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+Leberlein	NN	 UNKNOWN	Leberlein
+</seg>
+<seg type="newline">
+abgesottene	ADJA	 UNKNOWN	abgesottene
+</seg>
+<seg type="newline">
+ausgeschehlte	ADJA	 UNKNOWN	ausgeschehlte
+Krebs=Schwäntze	NN	 UNKNOWN	Krebs=Schwäntze
+und	KON	 und	und
+Scheeren	NN	 Schnee	Schnee
+</seg>
+<seg type="newline">
+das	ART	 d	das
+alles	PIS	 alle	alles
+mit	APPR	 mit	mit
+Wein	NN	 Wein	Wein
+angespritzt	VVPP	 anspritzen	angespritzt
+</seg>
+<seg type="newline">
+darinn	NN	 UNKNOWN	darinn
+geschwungen	ADJD	 geschwungen	geschwungen
+</seg>
+<seg type="newline">
+auf	APPR	 auf	auf
+gedachtes	ADJA	 gedacht	gedachtes
+Gehäck	NN	 UNKNOWN	Gehäck
+</seg>
+<seg type="newline">
+nebst	APPR	 nebst	nebst
+ziemlich	ADV	 ziemlich	ziemlich
+viel	PIAT	 viel	viel
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+guten	ADJA	 gut	guten
+Gewürtz	NN	 UNKNOWN	Gewürtz
+</seg>
+<seg type="newline">
+und	KON	 und	und
+unten	ADV	 unten	unten
+und	KON	 und	und
+oben	ADV	 oben	oben
+gebrüt	ADJD	 UNKNOWN	gebrüt
+in	APPR	 in	in
+einen	ART	 ein	einen
+Butter=Teig	NN	 UNKNOWN	Butter=Teig
+schlagen	VVINF	 schlagen	schlagen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+auf	APPR	 auf	auf
+daselbst	ADV	 daselbst	daselbst
+beschriebene	ADJA	 beschrieben	beschriebene
+Art	NN	 Art	Art
+bachen	NN	 Kochen	Kochen
+.	$.	.	$.	 .	|	.
+Oder	KON	 oder	Oder
+rühre	VVFIN	 rühren	rühre
+mit	APPR	 mit	mit
+unter	APPR	 unter	unter
+Ochsen=Marck	NE	 UNKNOWN	Ochsen=Marck
+gehacktes	ADJA	 gehackt	gehacktes
+Kalbfleisch	NN	 Kalbfleisch	Kalbfleisch
+Semmel=Meel	NN	 UNKNOWN	Semmel=Meel
+</seg>
+<seg type="newline">
+Weinbeer	NN	 Weizenbier	Weizenbier
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Corinthen	NN	 Korinthe	Korinthen
+</seg>
+<seg type="newline">
+abgezogene	ADJA	 abgezogen	abgezogene
+</seg>
+<seg type="newline">
+klein	ADJD	 klein	klein
+gehackte	ADJA	 gehackt	gehackte
+Mandeln	NN	 Mandel	Mandeln
+und	KON	 und	und
+Pistacien=Nüßlein	NN	 UNKNOWN	Pistacien=Nüßlein
+</seg>
+<seg type="newline">
+Muscatenblüh	NN	 UNKNOWN	Muscatenblüh
+</seg>
+<seg type="newline">
+Cardamomen	NN	 Kardamom	Kardamom
+</seg>
+<seg type="newline">
+Zimmet	NN	 Zimt	Zimt
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+klein	ADJD	 klein	klein
+geschnittene	ADJA	 geschnitten	geschnittene
+Citronen=Schelffen	NN	 UNKNOWN	Citronen=Schelffen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+drey	CARD	 drei	drei
+oder	KON	 oder	oder
+vier	CARD	 vier	vier
+Eyer	NE	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+feucht	ADJD	 feucht	feucht
+es	PPER	 es	es
+mit	APPR	 mit	mit
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Fleischbrüh	NN	 Fleischbrühe	Fleischbrühe
+an	PTKVZ	 an	an
+</seg>
+<seg type="newline">
+und	KON	 und	und
+füllet	VVFIN	 füllen	füllet
+solches	PIAT	 solch	solches
+Gehäck	NN	 UNKNOWN	Gehäck
+nebst	APPR	 nebst	nebst
+Butter	NN	 Butter	Butter
+in	APPR	 in	in
+grosse	ADJA	 groß	grosse
+oder	KON	 oder	oder
+kleine	ADJA	 klein	kleine
+Butter=Pastete[-	TRUNC	 UNKNOWN	Butter=Pastete[-
+]	$(	]	$(	 ]	|	]
+.	$.	.	$.	 .	|	.
+Oder	KON	 oder	Oder
+hacket	VVFIN	 UNKNOWN	hacket
+ein	ART	 ein	ein
+zuvor	ADV	 zuvor	zuvor
+etwas	ADV	 etwas	etwas
+weich=gesottenes	ADJA	 UNKNOWN	weich=gesottenes
+Küh=Eyter	NN	 UNKNOWN	Küh=Eyter
+</seg>
+<seg type="newline">
+mischet	VVFIN	 UNKNOWN	mischet
+Weinbeer	NN	 Weizenbier	Weizenbier
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+Butter	NN	 Butter	Butter
+geröstes	ADJA	 UNKNOWN	geröstes
+Semmel=Meel	NN	 UNKNOWN	Semmel=Meel
+</seg>
+<seg type="newline">
+Muscatenblüh	NN	 UNKNOWN	Muscatenblüh
+</seg>
+<seg type="newline">
+Muscatnuß	NN	 UNKNOWN	Muscatnuß
+</seg>
+<seg type="newline">
+Cardamommen	NE	 UNKNOWN	Cardamommen
+</seg>
+<seg type="newline">
+Zimmet=Trisanet	NN	 UNKNOWN	Zimmet=Trisanet
+</seg>
+<seg type="newline">
+und	KON	 und	und
+Zucker	NN	 Zucker	Zucker
+darunter	PAV	 darunter	darunter
+</seg>
+<seg type="newline">
+gebrauchets	NN	 UNKNOWN	gebrauchets
+auf	APPR	 auf	auf
+obige	ADJA	 obig	obige
+Art	NN	 Art	Art
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+siedet	VVFIN	 sieden	siedet
+Krebse	NN	 Krebs	Krebse
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+gebräuchlich	ADJD	 gebräuchlich	gebräuchlich
+</seg>
+<seg type="newline">
+hacket	VVFIN	 UNKNOWN	hacket
+das	ART	 d	das
+ausgeschehlte	ADJA	 UNKNOWN	ausgeschehlte
+Fleisch	NN	 Fleisch	Fleisch
+davon	PAV	 davon	davon
+</seg>
+<seg type="newline">
+nebst	APPR	 nebst	nebst
+etwas	PIAT	 etwas	etwas
+Ochsen=Marck	NE	 UNKNOWN	Ochsen=Marck
+</seg>
+<seg type="newline">
+vermengets	NN	 UNKNOWN	vermengets
+mit	APPR	 mit	mit
+in	APPR	 in	in
+Butter	NN	 Butter	Butter
+gerösten	ADJA	 UNKNOWN	gerösten
+Eyeren=Brod	NN	 UNKNOWN	Eyeren=Brod
+</seg>
+<seg type="newline">
+auf	APPR	 auf	auf
+bekannte	ADJA	 bekannt	bekannte
+Weiß	NN	 Weiß	Weiß
+</seg>
+<seg type="newline">
+von	APPR	 von	von
+etlichen	PIAT	 etlich	etlichen
+Eyeren	TRUNC	 UNKNOWN	Eyeren
+und	KON	 und	und
+Butter	NN	 Butter	Butter
+verfertigten	VVFIN	 verfertigen	verfertigten
+eingerührten	ADJA	 UNKNOWN	eingerührten
+Eyeren=Schmaltz	NN	 UNKNOWN	Eyeren=Schmaltz
+</seg>
+<seg type="newline">
+Muscatenblüh	NN	 UNKNOWN	Muscatenblüh
+</seg>
+<seg type="newline">
+Cardamomen	NN	 Kardamom	Kardamom
+</seg>
+<seg type="newline">
+Ingber	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+und	KON	 und	und
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+feuchts	ADJD	 UNKNOWN	feuchts
+zuvor	ADV	 zuvor	zuvor
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Stück	NN	 Stück	Stück
+Butter	NN	 Butter	Butter
+abgestossen	VVPP	 abstoßen	abgestossen
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+Fleischbrüh	NN	 Fleischbrühe	Fleischbrühe
+gesottenen	ADJA	 gesiedet	gesottenen
+</seg>
+<seg type="newline">
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+Tuch	NN	 Tuch	Tuch
+gezwungenen	ADJA	 gezwungen	gezwungenen
+Krebs=Schalen=Brüh	NN	 UNKNOWN	Krebs=Schalen=Brüh
+an	PTKVZ	 an	an
+;	$.	;	$.	 ;	|	;
+Man	PIS	 man	Man
+kan	ADV	 nun	Nun
+auch	ADV	 auch	auch
+nach	APPR	 nach	nach
+Belieben	NN	 Belieben	Belieben
+</seg>
+<seg type="newline">
+das	ART	 d	das
+Eyerenschmaltz	NN	 UNKNOWN	Eyerenschmaltz
+davon	PAV	 davon	davon
+lassen	VVFIN	 lassen	lassen
+</seg>
+<seg type="newline">
+hingegen	ADV	 hingegen	hingegen
+etwas	PIAT	 etwas	etwas
+gehacktes	ADJA	 gehackt	gehacktes
+Petersillien=Kraut	NN	 UNKNOWN	Petersillien=Kraut
+</seg>
+<seg type="newline">
+und	KON	 und	und
+Citronen=Safft	NN	 UNKNOWN	Citronen=Safft
+unter	APPR	 unter	unter
+die	ART	 d	die
+Krebse	NN	 Krebs	Krebse
+mischen	VVINF	 mischen	mischen
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+an	APPR	 an	an
+statt	APPR	 statt	statt
+der	ART	 d	der
+Krebse	NN	 Krebs	Krebse
+</seg>
+<seg type="newline">
+im	APPRART	 im	im
+Wasser	NN	 Wasser	Wasser
+übersottenen	ADJA	 UNKNOWN	übersottenen
+Kälber=Brüß	NN	 UNKNOWN	Kälber=Brüß
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+gebutzt	ADJA	 UNKNOWN	gebutzt
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+Fleischbrüh	NN	 Fleischbrühe	Fleischbrühe
+weich=gesottener	ADJA	 UNKNOWN	weich=gesottener
+Schnecken	NN	 Schnecke	Schnecken
+</seg>
+<seg type="newline">
+sich	PRF	 er|es|sie	sich
+bedienen	VVINF	 bedienen	bedienen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

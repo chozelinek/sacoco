@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Schuppe_1698_13" collection="historical" source="Schuppe" url="none" year="1698" decade="1690-1700" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1698:61]">
+<title>
+<seg type="newline">
+CXI	NN	 UNKNOWN	CXI
+.	$.	.	$.	 .	|	.
+Schaaffs=Würste	NN	 UNKNOWN	Schaaffs=Würste
+zu	PTKZU	 zu	zu
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+einen	ART	 ein	einen
+Schaaffs=Magen	NN	 UNKNOWN	Schaaffs=Magen
+und	KON	 und	und
+gut	ADJD	 gut	gut
+Blut	NN	 Blut	Blut
+</seg>
+<seg type="newline">
+gieß	VVIMP	 gießen	gieß
+süße	ADJA	 süß	süße
+Milch	NN	 Milch	Milch
+dazu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+es	PPER	 es	es
+fein	ADJD	 fein	fein
+delicat	NE	 UNKNOWN	delicat
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+gehackt	VVPP	 hacken	gehackt
+Talch	NN	 UNKNOWN	Talch
+dazu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+es	PPER	 es	es
+gnug	ADJD	 UNKNOWN	gnug
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+nimm	VVIMP	 nehmen	nimm
+Bete	ADJA	 fest	festem
+und	KON	 und	und
+Lactuk	NN	 UNKNOWN	Lactuk
+</seg>
+<seg type="newline">
+hacke	VVFIN	 hacken	hacke
+das	PDS	 d	das
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+und	KON	 und	und
+thu	VVFIN	 UNKNOWN	thue
+es	PPER	 es	es
+dazu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+imgleichen	ADJA	 UNKNOWN	imgleichen
+Timian	NE	 UNKNOWN	Timian
+</seg>
+<seg type="newline">
+Majoran	NN	 Majoran	Majoran
+</seg>
+<seg type="newline">
+Fenchel	NN	 Fenchel	Fenchel
+</seg>
+<seg type="newline">
+Muscaten=Blumen	NN	 UNKNOWN	Muscaten=Blumen
+</seg>
+<seg type="newline">
+Coriander	NE	 UNKNOWN	Coriander
+</seg>
+<seg type="newline">
+Nägelein	NN	 UNKNOWN	Nägelein
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+alles	PIS	 alle	alles
+klein	ADJD	 klein	klein
+geschnitten	VVPP	 schneiden	geschnitten
+oder	KON	 oder	oder
+gestoßen	VVPP	 stoßen	gestoßen
+</seg>
+<seg type="newline">
+saltz	ADJA	 kalt	kalten
+es	PPER	 es	es
+und	KON	 und	und
+fülle	VVFIN	 füllen	fülle
+es	PPER	 es	es
+in	APPR	 in	in
+den	ART	 d	den
+Schaaffs=Magen	NN	 UNKNOWN	Schaaffs=Magen
+</seg>
+<seg type="newline">
+du	PPER	 du	du
+kanst	VVFIN	 UNKNOWN	kanst
+auch	ADV	 auch	auch
+wohl	ADV	 wohl	wohl
+Ochsen=Därmer	NN	 UNKNOWN	Ochsen=Därmer
+nehmen	VVINF	 nehmen	nehmen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+darein	ADV	 darein	darein
+füllen	VVFIN	 füllen	füllen
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+sie	PPER	 sie	sie
+in	APPR	 in	in
+Wasser	NN	 Wasser	Wasser
+gahr	ADV	 gar	gar
+kochen	VVINF	 kochen	kochen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+wenn	KOUS	 wenn	wenn
+du	PPER	 du	du
+den	ART	 d	den
+Schaffs=Magen	NN	 UNKNOWN	Schaffs=Magen
+anrichtest	VVFIN	 UNKNOWN	anrichtest
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+schneide	VVFIN	 schneiden	schneide
+ihn	PPER	 er	ihn
+oben	ADV	 oben	oben
+kreutzweis	NN	 UNKNOWN	kreutzweis
+auff	PTKVZ	 auf	auf
+</seg>
+<seg type="newline">
+und	KON	 und	und
+lege	VVFIN	 legen	lege
+die	ART	 d	die
+andern	ADJA	 ander	andern
+Würst	NN	 UNKNOWN	Würst
+ümher	ADV	 UNKNOWN	ümher
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+ist	VAFIN	 sein	ist
+es	PPER	 es	es
+fertig	ADJD	 fertig	fertig
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

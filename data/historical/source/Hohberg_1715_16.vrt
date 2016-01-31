@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Hohberg_1715_16" collection="historical" source="Hohberg" url="none" year="1715" decade="1710-1720" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1715:57]">
+<title>
+<seg type="newline">
+Gemsen	NN	 Gemse	Gemsen
+</seg>
+<seg type="newline">
+Hirsch=	NN	 UNKNOWN	Hirsch=
+und	KON	 und	und
+Reh=Schlegel	NN	 UNKNOWN	Reh=Schlegel
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Keule	NN	 Keule	Keule
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+Hirsch=	NN	 UNKNOWN	Hirsch=
+oder	KON	 oder	oder
+Reh=Zehmer	NN	 UNKNOWN	Reh=Zehmer
+zu	PTKZU	 zu	zu
+braten	VVINF	 braten	braten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+An	APPR	 an	An
+den	ART	 d	den
+Schlegeln	NN	 Schlegel	Schlegeln
+oder	KON	 oder	oder
+Keule	NN	 Keule	Keule
+wird	VAFIN	 werden	wird
+der	ART	 d	der
+Fuß	NN	 Fuß	Fuß
+mit	APPR	 mit	mit
+den	ART	 d	den
+Rauchen	NN	 Rauchen	Rauchen
+gelassen	ADJD	 gelassen	gelassen
+</seg>
+<seg type="newline">
+welchen	PIAT	 welch	welchen
+man	PIS	 man	man
+beym	ADJA	 UNKNOWN	beym
+Braten	NN	 Braten	Braten
+in	APPR	 in	in
+Papier	NN	 Papier	Papier
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+in	APPR	 in	in
+ein	ART	 ein	ein
+feuchtes	ADJA	 feucht	feuchtes
+Tüchlein	NN	 Tüchlein	Tüchlein
+bindet	VVFIN	 binden	bindet
+</seg>
+<seg type="newline">
+damit	PAV	 damit	damit
+er	PPER	 er	er
+nicht	PTKNEG	 nicht	nicht
+schmaltzig	ADJD	 UNKNOWN	schmaltzig
+wird	VAFIN	 werden	wird
+oder	KON	 oder	oder
+verbrennet	VVFIN	 UNKNOWN	verbrennet
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+häutet	VVFIN	 häuten	häutet
+solchen	PIAT	 solch	solchen
+(	$(	(	$(	 (	|	(
+etliche	PIS	 etlich	etliche
+bläuen	VVFIN	 UNKNOWN	bläuen
+die	ART	 d	die
+Schlegel	NN	 Schlegel	Schlegel
+zuvor	ADV	 zuvor	zuvor
+</seg>
+<seg type="newline">
+vermeynend	ADJD	 UNKNOWN	vermeynend
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+sie	PPER	 sie	sie
+davon	PAV	 davon	davon
+mürber	ADJD	 mürbe	mürber
+werden/	ADJD	 UNKNOWN	werden/
+)	$(	)	$(	 )	|	)
+bestreuet	VVFIN	 bestreuen	bestreuen
+ihn	PPER	 er	ihn
+mit	APPR	 mit	mit
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+und	KON	 und	und
+Negelein	NN	 UNKNOWN	Negelein
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+so	ADV	 so	so
+es	PPER	 es	es
+beliebt	ADJD	 beliebt	beliebt
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+ein	ART	 ein	ein
+wenig	ADV	 wenig	wenig
+gantzen	ADV	 ganz	ganz
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+gröblicht=zerstossenen	ADJA	 UNKNOWN	gröblicht=zerstossenen
+Wachholderbeern	NN	 UNKNOWN	Wachholderbeern
+</seg>
+<seg type="newline">
+leget	ADJD	 UNKNOWN	leget
+ihn	PPER	 er	ihn
+3.	ADJA	 3.	3.
+4.	ADJA	 4.	4.
+oder	KON	 oder	oder
+mehr	ADV	 mehr	mehr
+Täge	NN	 UNKNOWN	Täge
+</seg>
+<seg type="newline">
+nach	APPR	 nach	nach
+Gefallen	NN	 Gefallen	Gefallen
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+lautern	NN	 UNKNOWN	lautern
+Wein=Eßig	NN	 UNKNOWN	Wein=Essig
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+halb	ADJD	 halb	halb
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+halb	ADJD	 halb	halb
+weissen	ADJA	 weiß	weissen
+Bier=Eßig	NN	 UNKNOWN	Bier=Eßig
+;	$.	;	$.	 ;	|	;
+Wann	PWAV	 wann	Wann
+man	PIS	 man	man
+ihn	PPER	 er	ihn
+nun	ADV	 nun	nun
+braten	VVINF	 braten	braten
+will	VMFIN	 wollen	will
+</seg>
+<seg type="newline">
+wird	VAFIN	 werden	wird
+er	PPER	 er	er
+mit	APPR	 mit	mit
+frischen	ADJA	 frisch	frischen
+Eßig	NN	 UNKNOWN	Eßig
+abgewaschen	VVPP	 abwaschen	abgewaschen
+</seg>
+<seg type="newline">
+auf	APPR	 auf	auf
+einem	ART	 ein	einem
+Rost	NN	 Rost	Rost
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+ertrocknet	VVFIN	 UNKNOWN	ertrocknet
+</seg>
+<seg type="newline">
+folgends	ADJA	 folgend	folgenden
+auf	APPR	 auf	auf
+beeden	ADJA	 UNKNOWN	beeden
+Seiten	NN	 Seite	Seiten
+zierlich	ADJD	 zierlich	zierlich
+mit	APPR	 mit	mit
+Speck	NN	 Speck	Speck
+gespickt	VVPP	 spicken	gespickt
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Muscatenblüh	NN	 UNKNOWN	Muscatenblüh
+</seg>
+<seg type="newline">
+Cardamomen	NN	 Kardamom	Kardamom
+</seg>
+<seg type="newline">
+Negelein	ADJA	 UNKNOWN	Negelein
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+und	KON	 und	und
+Saltz	NN	 Salz	Salz
+eingewürtzt	ADJA	 UNKNOWN	eingewürtzt
+</seg>
+<seg type="newline">
+etlich	NN	 Rettich	Rettich
+Stunden	NN	 Stunde|Stunden	Stunden
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+wohl	ADV	 wohl	wohl
+über	APPR	 über	über
+Nacht	NN	 Nacht	Nacht
+</seg>
+<seg type="newline">
+darinnen	VVFIN	 darinnen	darinnen
+liegend	ADJD	 liegend	liegend
+gelassen	ADJD	 gelassen	gelassen
+</seg>
+<seg type="newline">
+hernach	ADV	 hernach	hernach
+an	APPR	 an	an
+Spieß	NN	 Spieß	Spieß
+gesteckt	VVPP	 stecken	gesteckt
+</seg>
+<seg type="newline">
+und	KON	 und	und
+wann	PWAV	 wann	wann
+er	PPER	 er	er
+etwas	ADV	 etwas	etwas
+ertrocknet	VVFIN	 UNKNOWN	ertrocknet
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+heissem	ADJA	 heiß	heissem
+Schmaltz	NN	 Schmalz	Schmalz
+betriefft	VVFIN	 UNKNOWN	betriefft
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+aber	ADV	 aber	aber
+mit	APPR	 mit	mit
+zerschlichener	ADJA	 UNKNOWN	zerschlichener
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+vermittelst	VVFIN	 vermitteln	vermittelst
+eines	ART	 ein	eines
+Pinsels	NN	 Pinsel	Pinsels
+</seg>
+<seg type="newline">
+immerzu	ADV	 immerzu	immerzu
+überstrichen	VVPP	 überstreichen	überstrichen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+solchergestalt	ADV	 solchergestalt	solchergestalt
+langsam	ADJD	 langsam	langsam
+abgebraten	VVFIN	 UNKNOWN	abgebraten
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+mit	APPR	 mit	mit
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+ohne	KOUI	 ohne	ohne
+Brüh	ADJD	 früh	früh
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Citronen	NN	 Citrone	Citronen
+und	KON	 und	und
+Blumwerck	NE	 UNKNOWN	Blumwerck
+beziert	VVFIN	 UNKNOWN	Geliert
+</seg>
+<seg type="newline">
+und	KON	 und	und
+aufgetragen	VVPP	 auftragen	aufgetragen
+.	$.	.	$.	 .	|	.
+Einige	PIS	 einige	Einige
+pflegen	VVFIN	 pflegen	pflegen
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+der	ART	 d	der
+Schlegel	NN	 Schlegel	Schlegel
+halb	ADJD	 halb	halb
+getraten	VVFIN	 UNKNOWN	getraten
+</seg>
+<seg type="newline">
+solchen	PIS	 solch	solchen
+zwischen	APPR	 zwischen	zwischen
+dem	ART	 d	dem
+Speck	NN	 Speck	Speck
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Zimmet	NN	 Zimt	Zimt
+und	KON	 und	und
+Negelein	NN	 UNKNOWN	Negelein
+zu	PTKZU	 zu	zu
+bestecken	VVINF	 UNKNOWN	bestecken
+</seg>
+<seg type="newline">
+und	KON	 und	und
+unter	APPR	 unter	unter
+währenden	ADJA	 während	währenden
+Braten	NN	 Braten	Braten
+</seg>
+<seg type="newline">
+offtermalen	ADJA	 UNKNOWN	offtermalen
+Citronen=Safft	NN	 UNKNOWN	Citronen=Safft
+darauf	PAV	 darauf	darauf
+zu	PTKZU	 zu	zu
+trucken	VVINF	 UNKNOWN	trucken
+.	$.	.	$.	 .	|	.
+Man	PIS	 man	Man
+kan	ADV	 nun	Nun
+diese	PDAT	 dies	diese
+Schlegel	NN	 Schlegel	Schlegel
+oder	KON	 oder	oder
+Keule	NN	 Keule	Keule
+auch	ADV	 auch	auch
+ungepaitzt	ADJD	 UNKNOWN	ungepaitzt
+</seg>
+<seg type="newline">
+sonsten	ADJD	 UNKNOWN	sonsten
+aber	KON	 aber	aber
+allerdings	ADV	 allerdings	allerdings
+auf	APPR	 auf	auf
+erstbesagte	ADJA	 UNKNOWN	erstbesagte
+Weise	NN	 Weise	Weise
+</seg>
+<seg type="newline">
+braten	VVFIN	 braten	braten
+.	$.	.	$.	 .	|	.
+Will	VMFIN	 wollen	Will
+man	PIS	 man	man
+ihn	PPER	 er	ihn
+aber	ADV	 aber	aber
+ungepaitzt	ADJD	 UNKNOWN	ungepaitzt
+und	KON	 und	und
+gleichwohl	ADV	 gleichwohl	gleichwohl
+säuerlich	ADJD	 säuerlich	säuerlich
+haben	VAFIN	 haben	haben
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+begiesset	VVFIN	 UNKNOWN	begiesset
+man	PIS	 man	man
+solchen	PIAT	 solch	solchen
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+er	PPER	 er	er
+angesteckt	VVPP	 anstecken	angesteckt
+</seg>
+<seg type="newline">
+zu	APPR	 zu	zu
+erst	ADV	 erst	erst
+2.	ADJA	 2.	2.
+oder	KON	 oder	oder
+3.	ADJA	 3.	3.
+mal	ADV	 mal	mal
+mit	APPR	 mit	mit
+siedendem	ADJA	 siedend	siedendem
+Eßig	NN	 UNKNOWN	Eßig
+</seg>
+<seg type="newline">
+und	KON	 und	und
+nachgehends	NN	 UNKNOWN	nachgehends
+mit	APPR	 mit	mit
+Schmaltz	NN	 Schmalz	Schmalz
+oder	KON	 oder	oder
+Butter	NN	 Butter	Butter
+.	$.	.	$.	 .	|	.
+Wann	PWAV	 wann	Wann
+man	PIS	 man	man
+in	APPR	 in	in
+das	ART	 d	das
+Wildpret	NN	 UNKNOWN	Wildpret
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Messer	NN	 Messer	Messer
+sticht	VVFIN	 stechen	sticht
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+stopffet	VVFIN	 UNKNOWN	stopffet
+</seg>
+<seg type="newline">
+hernach	ADV	 hernach	hernach
+vielmalen	ADJD	 UNKNOWN	vielmalen
+solches	PIS	 solch	solches
+mit	APPR	 mit	mit
+heisser	ADJA	 heiß	heisser
+Butter	NN	 Butter	Butter
+begiest	VVFIN	 UNKNOWN	begiest
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+wird	VAFIN	 werden	wird
+es	PPER	 es	es
+davon	PAV	 davon	davon
+mürb	ADJD	 mürb	mürb
+und	KON	 und	und
+gut	ADJD	 gut	gut
+.	$.	.	$.	 .	|	.
+Die	ART	 d	Die
+Hirsch	NN	 Hirsch	Hirsch
+und	KON	 und	und
+Reh=Zehmer	NN	 UNKNOWN	Reh=Zehmer
+werden	VAFIN	 werden	werden
+in	APPR	 in	in
+allem	PIS	 alle	allem
+den	ART	 d	den
+Schlegeln	NN	 Schlegel	Schlegeln
+gleich	ADJD	 gleich	gleich
+</seg>
+<seg type="newline">
+zugerichtet	VVPP	 zurichten	zugerichtet
+</seg>
+<seg type="newline">
+gebraten	VVPP	 braten	gebraten
+</seg>
+<seg type="newline">
+bezieret	NN	 UNKNOWN	Geliert
+und	KON	 und	und
+zu	APPR	 zu	zu
+Tisch	NN	 Tisch	Tisch
+gebracht	VVPP	 bringen	gebracht
+.	$.	.	$.	 .	|	.
+Erstbemeldtes	ADJA	 UNKNOWN	Erstbemeldtes
+Wildpret	NN	 UNKNOWN	Wildpret
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+nachdem	KOUS	 nachdem	nachdem
+es	PPER	 es	es
+starck	ADJD	 UNKNOWN	starck
+oder	KON	 oder	oder
+dick	ADJD	 dick	dick
+</seg>
+<seg type="newline">
+anderthalb	ADJA	 anderthalb	anderthalb
+</seg>
+<seg type="newline">
+3.	ADJA	 3.	3.
+biß	VVFIN	 beißen	biß
+4.	ADJA	 4.	4.
+Stundlang	NN	 UNKNOWN	Stundlang
+gebraten	VVPP	 braten	gebraten
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

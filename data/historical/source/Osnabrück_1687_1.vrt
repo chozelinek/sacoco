@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Osnabrueck_1687_1" collection="historical" source="Osnabrueck" url="none" year="1687" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1687:1f.]">
+<title>
+<seg type="newline">
+Rohen	ADJA	 roh	Rohen
+Salat	NN	 Salat	Salat
+von	APPR	 von	von
+grünen	ADJA	 grün	grünen
+Kräutern	NN	 Kraut	Kräutern
+</seg>
+<seg type="newline">
+Garten=	NN	 UNKNOWN	Garten=
+und	KON	 und	und
+Feld=Früchten	NN	 UNKNOWN	Feld=Früchten
+zu	PTKZU	 zu	zu
+bereiten	VVINF	 bereiten	bereiten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nehmet	NE	 Nehmet	Nehmet
+im	APPRART	 im	im
+ersten	ADJA	 erst	ersten
+Frühling	NN	 Frühling	Frühling
+</seg>
+<seg type="newline">
+Garten-	TRUNC	 Garten-	Garten-
+oder	KON	 oder	oder
+Wasser-Kresse	NN	 UNKNOWN	Wasser-Kresse
+</seg>
+<seg type="newline">
+Wasser=Bunge	NN	 UNKNOWN	Wasser=Bunge
+(	$(	(	$(	 (	|	(
+becabunga	NE	 UNKNOWN	becabunga
+)	$(	)	$(	 )	|	)
+hernach	ADV	 hernach	hernach
+schließ=	ADJA	 UNKNOWN	schließ=
+gemein=	ADJA	 UNKNOWN	gemein=
+oder	KON	 oder	oder
+krausen	ADJA	 kraus	krausen
+Lattich	NN	 UNKNOWN	Lattich
+</seg>
+<seg type="newline">
+Rapuntzel	NE	 UNKNOWN	Rapuntzel
+</seg>
+<seg type="newline">
+Feld=Salat	NN	 UNKNOWN	Feld=Salat
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+die	ART	 d	die
+Sprossen	NN	 Sprosse|Sproß	Sprossen
+von	APPR	 von	von
+der	ART	 d	der
+wilden	ADJA	 wild	wilden
+und	KON	 und	und
+Garten=Cichorien	NN	 UNKNOWN	Garten=Cichorien
+</seg>
+<seg type="newline">
+Endivien	NN	 Endivie	Endivien
+</seg>
+<seg type="newline">
+rothen	NN	 UNKNOWN	rothen
+oder	KON	 oder	oder
+weissen	ADJA	 weiß	weissen
+Cappus=Kohl	NN	 UNKNOWN	Cappus=Kohl
+</seg>
+<seg type="newline">
+Gurcken	NE	 UNKNOWN	Gurcken
+oder	KON	 oder	oder
+Cucumern	NN	 UNKNOWN	Cucumern
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+Summa	NN	 UNKNOWN	Summa
+dasjenige	PDAT	 dasjenige	dasjenige
+</seg>
+<seg type="newline">
+was	PRELS	 was	was
+man	PIS	 man	man
+zur	APPRART	 zur	zur
+Hand	NN	 Hand	Hand
+hat	VAFIN	 haben	hat
+</seg>
+<seg type="newline">
+und	KON	 und	und
+die	ART	 d	die
+Zeit	NN	 Zeit	Zeit
+vom	APPRART	 vom	vom
+Jahre	NN	 Jahr	Jahre
+giebt	VVFIN	 liegen	liegt
+;	$.	;	$.	 ;	|	;
+Wenn	KOUS	 wenn	Wenn
+eines	PIS	 ein	eines
+von	APPR	 von	von
+diesen	PDAT	 dies	diesen
+fein	ADJD	 fein	fein
+sauber	ADJD	 sauber	sauber
+gewaschen	VVPP	 waschen	gewaschen
+</seg>
+<seg type="newline">
+wirds	VAFIN	 werden	wird
+alsdenn	NE	 UNKNOWN	Alsdann
+mit	APPR	 mit	mit
+Baumöhl	NN	 UNKNOWN	Baumöhl
+</seg>
+<seg type="newline">
+Essig	NN	 Essig	Essig
+und	KON	 und	und
+Saltz	NN	 Salz	Salz
+gegessen	VVPP	 essen	gegessen
+;	$.	;	$.	 ;	|	;
+Etzliche	NN	 UNKNOWN	Etzliche
+mengen	VVFIN	 mengen	mengen
+andere	ADJA	 ander	andere
+Kräuter	NN	 Kraut	Kräuter
+dazwischen	PAV	 dazwischen	dazwischen
+</seg>
+<seg type="newline">
+als	KOKOM	 als	als
+Garten=Kresse	NN	 UNKNOWN	Garten=Kresse
+</seg>
+<seg type="newline">
+Katzen=Nept	NN	 UNKNOWN	Katzen=Nept
+,	$,	,	$,	 ,	|	,
+Burtzel	NN	 UNKNOWN	Burtzel
+(	$(	(	$(	 (	|	(
+portulaca	NE	 UNKNOWN	portulaca
+)	$(	)	$(	 )	|	)
+Pimpinelle	NN	 UNKNOWN	Pimpinelle
+,	$,	,	$,	 ,	|	,
+Dragon	NN	 UNKNOWN	Dragon
+</seg>
+<seg type="newline">
+Trauben=Kraut	NN	 UNKNOWN	Trauben=Kraut
+</seg>
+<seg type="newline">
+(	$(	(	$(	 (	|	(
+botriis	NE	 UNKNOWN	botriis
+)	$(	)	$(	 )	|	)
+weil	KOUS	 weil	weil
+solche	PIS	 solch	solche
+hitzig	ADJD	 hitzig	hitzig
+und	KON	 und	und
+trucken	ADJD	 UNKNOWN	trucken
+</seg>
+<seg type="newline">
+insonderheit	NN	 UNKNOWN	insonderheit
+umb	APPR	 um	um
+des	ART	 d	des
+leidigen	ADJA	 leidig	leidigen
+Schorbocks	NN	 UNKNOWN	Schorbocks
+willen	APPO	 willen	willen
+</seg>
+<seg type="newline">
+Löffel=Kraut	NN	 UNKNOWN	Löffel=Kraut
+und	KON	 und	und
+Einblat	NN	 UNKNOWN	Einblat
+(	$(	(	$(	 (	|	(
+Cochlearia	NE	 UNKNOWN	Cochlearia
+Sylvestris	NE	 UNKNOWN	Sylvestris
+)	$(	)	$(	 )	|	)
+auch	ADV	 auch	auch
+bestreuet	VVFIN	 bestreuen	bestreuen
+man	PIS	 man	man
+doch	ADV	 doch	doch
+mehr	ADV	 mehr	mehr
+zum	APPRART	 zum	zum
+Zierat	NN	 Zierat	Zierat
+</seg>
+<seg type="newline">
+die	ART	 d	die
+zugerichtete	ADJA	 zugerichtet	zugerichtete
+Salate	NN	 Salat	Salate
+wohl	ADV	 wohl	wohl
+mit	APPR	 mit	mit
+Buglossen-Borragen-	TRUNC	 UNKNOWN	Buglossen-Borragen-
+Rosen	NN	 Rose	Rosen
+und	KON	 und	und
+Gold=Blumen	NN	 UNKNOWN	Gold=Blumen
+.	$.	.	$.	 .	|	.
+Solchen	PIAT	 solch	Solchen
+Salat	NN	 Salat	Salat
+isset	VVFIN	 UNKNOWN	isset
+man	PIS	 man	man
+auch	ADV	 auch	auch
+wohl	ADV	 wohl	wohl
+mit	APPR	 mit	mit
+Essig	NN	 Essig	Essig
+und	KON	 und	und
+Butter	NN	 Butter	Butter
+nach	APPR	 nach	nach
+eines	ART	 ein	eines
+jeden	PIAT	 jed	jeden
+Belieben	NN	 Belieben	Belieben
+</seg>
+<seg type="newline">
+insonderheit	VVFIN	 UNKNOWN	insonderheit
+diejenigen	PDS	 diejenigen	diejenigen
+so	ADV	 so	so
+das	ART	 d	das
+Baumöhl	NN	 UNKNOWN	Baumöhl
+nicht	PTKNEG	 nicht	nicht
+vertragen	VVINF	 vertragen	vertragen
+können	VMINF	 können	können
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

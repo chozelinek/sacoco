@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Koch_vnd_Kellermeisterey_1574_7" collection="historical" source="Koch_vnd_Kellermeisterey" url="none" year="1574" decade="1570-1580" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1574:47v]">
+<title>
+<seg type="newline">
+Von	APPR	 von	Von
+Salsen	NN	 UNKNOWN	Salsen
+:	$.	:	$.	 :	|	:
+Pomerantzen	NN	 UNKNOWN	Pomerantzen
+Salsen	NN	 UNKNOWN	Salsen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Die	PDS	 d	Die
+truckt	VVFIN	 UNKNOWN	truckt
+man	PIS	 man	man
+auß	VMFIN	 müssen	muß
+von	APPR	 von	von
+jhn	PPER	 er	ihn
+selber	ADV	 selber	selber
+</seg>
+<seg type="newline">
+geben	VVFIN	 geben	geben
+wolgeschmackten	ADJA	 UNKNOWN	wolgeschmackten
+sauren	ADJA	 sauer	sauren
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+da	ADV	 da	da
+thut	NE	 UNKNOWN	thue
+man	PIS	 man	man
+nichts	PIS	 nichts	nichts
+zu	APPR	 zu	zu
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+Zimetblü	NE	 UNKNOWN	Zimetblü
+</seg>
+<seg type="newline">
+an	APPR	 an	an
+der	ART	 d	der
+Anricht	NN	 UNKNOWN	Anricht
+.	$.	.	$.	 .	|	.
+Ist	VAFIN	 sein	Ist
+ein	ART	 ein	ein
+Fürstlich	ADJA	 UNKNOWN	Fürstlich
+Salsen	NN	 UNKNOWN	Salsen
+</seg>
+<seg type="newline">
+die	PDS	 d	die
+ist	VAFIN	 sein	ist
+nicht	PTKNEG	 nicht	nicht
+zubehalten	VVFIN	 UNKNOWN	zubehalten
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+die	ART	 d	die
+Pomerantzen	NN	 UNKNOWN	Pomerantzen
+müssen	VMFIN	 müssen	müssen
+allweg	PIS	 alle	alles
+frisch	ADJD	 frisch	frisch
+außgetruckt	ADJD	 UNKNOWN	außgetruckt
+sein	VAINF	 sein	sein
+.	$.	.	$.	 .	|	.
+Die	ART	 d	Die
+Salsen	NN	 UNKNOWN	Salsen
+ist	VAFIN	 sein	ist
+gut	ADJD	 gut	gut
+zu	APPR	 zu	zu
+allen	PIAT	 alle	allen
+Vögeln	NN	 Vogel	Vögeln
+</seg>
+<seg type="newline">
+Hünern	NN	 UNKNOWN	Hünern
+vnd	KON	 und	und
+Wildtpret	NN	 UNKNOWN	Wildtpret
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

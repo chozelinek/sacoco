@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Schuppe_1698_22" collection="historical" source="Schuppe" url="none" year="1698" decade="1690-1700" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Hecht|" method="|Wein|" ref="[1698:106]">
+<title>
+<seg type="newline">
+CCIII	NE	 UNKNOWN	CCIII
+.	$.	.	$.	 .	|	.
+Hechte	NN	 Hecht	Hechte
+mit	APPR	 mit	mit
+Sardellen	NN	 Sardelle	Sardellen
+und	KON	 und	und
+Wein	NN	 Wein	Wein
+gekocht	VVPP	 kochen	gekocht
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+die	ART	 d	die
+Hechte	NN	 Hecht	Hechte
+</seg>
+<seg type="newline">
+und	KON	 und	und
+schuppe	NN	 Schuppe	schuppe
+sie	PPER	 sie	sie
+</seg>
+<seg type="newline">
+koche	VVFIN	 kochen	koche
+sie	PPER	 sie	sie
+gar	ADV	 gar	gar
+</seg>
+<seg type="newline">
+sie	PPER	 sie	sie
+müssen	VMFIN	 müssen	müssen
+aber	ADV	 aber	aber
+nicht	PTKNEG	 nicht	nicht
+viel	ADV	 viel	viel
+gesaltzen	ADJD	 UNKNOWN	gesaltzen
+werden	VAINF	 werden	werden
+</seg>
+<seg type="newline">
+nimm	VVIMP	 nehmen	nimm
+denSardellen	VVINF	 UNKNOWN	denSardellen
+,	$,	,	$,	 ,	|	,
+und	KON	 und	und
+mache	VVFIN	 machen	mache
+sie	PPER	 sie	sie
+von	APPR	 von	von
+den	ART	 d	den
+Graten	NN	 Grat	Graten
+ab	PTKVZ	 ab	ab
+</seg>
+<seg type="newline">
+und	KON	 und	und
+mache	VVFIN	 machen	mache
+die	ART	 d	die
+Hechte	NN	 Hecht	Hechte
+mit	APPR	 mit	mit
+guter	ADJA	 gut	guter
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+geriebener	ADJA	 gerieben	geriebener
+Semmel	NN	 Semmel	Semmel
+</seg>
+<seg type="newline">
+Muscaten=blumen	NN	 UNKNOWN	Muscaten=blumen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+auch	ADV	 auch	auch
+die	ART	 d	die
+Sardellen	NN	 Sardelle	Sardellen
+damit	PAV	 damit	damit
+ab	PTKVZ	 ab	ab
+</seg>
+<seg type="newline">
+und	KON	 und	und
+gieß	VVIMP	 gießen	gieß
+dann	ADV	 dann	dann
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Wasser	NN	 Wasser	Wasser
+und	KON	 und	und
+Wein	NN	 Wein	Wein
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+sie	PPER	 sie	sie
+danzusam[-]en	NE	 UNKNOWN	danzusam[-]en
+durchkochen	VVFIN	 durchkochen	durchkochen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+ists	ADJD	 UNKNOWN	ists
+fertig	PTKVZ	 fertig	fertig
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

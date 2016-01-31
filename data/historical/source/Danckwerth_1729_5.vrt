@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Danckwerth_1729_5" collection="historical" source="Danckwerth" url="none" year="1729" decade="1720-1730" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1729:67]">
+<title>
+<seg type="newline">
+6.	ADJA	 6.	6.
+Kramets=Vögel	NN	 UNKNOWN	Kramets=Vögel
+wol	PWAV	 wo	wo
+zu	PTKZU	 zu	zu
+braten	VVINF	 braten	braten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Die	ART	 d	Die
+Kramets=Vögel	NN	 UNKNOWN	Kramets=Vögel
+</seg>
+<seg type="newline">
+nachdem	KOUS	 nachdem	nachdem
+sie	PPER	 sie	sie
+sauber	ADJD	 sauber	sauber
+und	KON	 und	und
+wol	PWAV	 wo	wo
+gepflücket	VVPP	 UNKNOWN	gepflücket
+sind	VAFIN	 sein	sind
+</seg>
+<seg type="newline">
+werden	VAFIN	 werden	werden
+nicht	PTKNEG	 nicht	nicht
+ausgenommen	VVPP	 ausnehmen	ausgenommen
+</seg>
+<seg type="newline">
+sondern	KON	 sondern	sondern
+am	APPRART	 am	am
+Spieß	NN	 Spieß	Spieß
+gesteckt	VVPP	 stecken	gesteckt
+gesaltzen	VVFIN	 UNKNOWN	gesaltzen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+wann	PWAV	 wann	wann
+sie	PPER	 sie	sie
+schier	ADJD	 schier	schier
+gebraten	VVPP	 braten	gebraten
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+angezündeten	ADJA	 angezündet	angezündeten
+Speck	NN	 Speck	Speck
+oder	KON	 oder	oder
+fetter	ADJA	 fett	fetter
+Fleisch=brühe	NN	 UNKNOWN	Fleisch=brühe
+betropfft	VVFIN	 UNKNOWN	betropfft
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+mit	APPR	 mit	mit
+heisser	ADJA	 heiß	heisser
+Butter	NN	 Butter	Butter
+begossen	VVPP	 begießen	begossen
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+geriebenen	ADJA	 gerieben	geriebenen
+Brosen=Brodt	NN	 UNKNOWN	Brosen=Brodt
+</seg>
+<seg type="newline">
+Ingber	NN	 Ingwer	Ingwer
+und	KON	 und	und
+Saltz	NN	 Salz	Salz
+bestreuet	VVFIN	 bestreuen	bestreuen
+</seg>
+<seg type="newline">
+wohl	ADV	 wohl	wohl
+safftig	ADJD	 saftig	saftig
+gebraten	VVPP	 braten	gebraten
+und	KON	 und	und
+aufgetragen	VVPP	 auftragen	aufgetragen
+.	$.	.	$.	 .	|	.
+Etliche	PIS	 etlich	Etliche
+pflegen	VVFIN	 pflegen	pflegen
+auch	ADV	 auch	auch
+die	ART	 d	die
+Kramets=Vögel	NN	 UNKNOWN	Kramets=Vögel
+zu	PTKZU	 zu	zu
+spicken	VVINF	 spicken	spicken
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

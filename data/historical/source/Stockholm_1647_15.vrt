@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Stockholm_1647_15" collection="historical" source="Stockholm" url="none" year="1647" decade="1640-1650" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1647:188f.]">
+<body>
+<seg type="newline">
+Von	APPR	 von	Von
+Schwein	NN	 Schwein	Schwein
+Leber	NN	 Leber	Leber
+aber	KON	 aber	aber
+machet	VVFIN	 machen	machet
+man	PIS	 man	man
+Würste	NN	 Wurst	Würste
+auff	APPR	 auf	auf
+folgende	ADJA	 folgend	folgende
+arht	TRUNC	 UNKNOWN	arht
+vnd	KON	 und	und
+Mannier	NN	 UNKNOWN	Mannier
+</seg>
+<seg type="newline">
+Die	ART	 d	Die
+verquirllete	ADJA	 UNKNOWN	verquirllete
+Leber	NN	 Leber	Leber
+</seg>
+<seg type="newline">
+wird	VAFIN	 werden	wird
+mit	APPR	 mit	mit
+den	ART	 d	den
+Flomen	NN	 Flocke	Flocken
+gehacket	VVFIN	 UNKNOWN	gehacket
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+mit	APPR	 mit	mit
+treugen	ADJA	 UNKNOWN	treugen
+Kreutern	NN	 Kraut	Kräutern
+</seg>
+<seg type="newline">
+kalter	ADJA	 kalt	kalter
+Grütze	NN	 UNKNOWN	Grütze
+vnd	KON	 und	und
+Saltz	NN	 Salz	Salz
+wol	PWAV	 wo	wo
+vermenget	VVFIN	 UNKNOWN	vermenget
+</seg>
+<seg type="newline">
+den	ART	 d	den
+in	APPR	 in	in
+die	ART	 d	die
+Fetdarmen	NN	 UNKNOWN	Fetdarmen
+(	$(	(	$(	 (	|	(
+aber	ADV	 aber	aber
+von	APPR	 von	von
+allem	PIS	 alle	allem
+Fett	NN	 Fett	Fett
+wol	PWAV	 wo	wo
+gereiniget	ADJA	 UNKNOWN	gereiniget
+)	$(	)	$(	 )	|	)
+gestopfet	ADJA	 UNKNOWN	gestopfet
+vnd	KON	 und	und
+gahr	ADV	 gar	gar
+gekochet	VVPP	 UNKNOWN	gekochet
+.	$.	.	$.	 .	|	.
+Wann	PWAV	 wann	Wann
+die	ART	 d	die
+Höltzerne	NN	 UNKNOWN	Höltzerne
+Spülichen	NN	 UNKNOWN	Spülichen
+beginnen	VVFIN	 beginnen	beginnen
+loß	ADJD	 UNKNOWN	loß
+zu	PTKZU	 zu	zu
+werden	VAINF	 werden	werden
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+sich	PRF	 er|es|sie	sich
+gerne	ADV	 gerne	gerne
+vmbdrehen	ADJD	 UNKNOWN	vmbdrehen
+lassen	VVINF	 lassen	lassen
+</seg>
+<seg type="newline">
+ists	VVFIN	 UNKNOWN	ists
+ein	ART	 ein	ein
+zeichen	NN	 Zeichen	zeichen
+das	PDS	 d	das
+die	ART	 d	die
+Würste	NN	 Wurst	Würste
+gahr	ADV	 gar	gar
+genung	NN	 UNKNOWN	genung
+seyn	NE	 UNKNOWN	seyn
+.	$.	.	$.	 .	|	.
+Nota	NN	 Nota	Nota
+.	$.	.	$.	 .	|	.
+Etliche	PIAT	 etlich	Etliche
+thun	NN	 UNKNOWN	thue
+auch	ADV	 auch	auch
+wol	PWAV	 wo	wo
+gestossene	ADJA	 gestoßen	gestossene
+Wacholderbeer	NN	 UNKNOWN	Wacholderbeer
+dazu	PAV	 dazu	dazu
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

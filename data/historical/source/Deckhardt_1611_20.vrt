@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Deckhardt_1611_20" collection="historical" source="Deckhardt" url="none" year="1611" decade="1610-1620" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1611:171f.]">
+<title>
+<seg type="newline">
+Eine	ART	 ein	Eine
+gute	ADJA	 gut	gute
+Brüe	NN	 UNKNOWN	Brüe
+oder	KON	 oder	oder
+Södlein	NN	 UNKNOWN	Södlein
+zu	APPR	 zu	zu
+allerley	ADJA	 UNKNOWN	allerley
+Fischgallarten	NN	 UNKNOWN	Fischgallarten
+auff	APPR	 auf	auf
+vier	CARD	 vier	vier
+arten	VVINF	 arten	arten
+zumachen	VVFIN	 zumachen	zumachen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wil	NE	 Wil	Wil
+man	PIS	 man	man
+auff	APPR	 auf	auf
+eine	ART	 ein	eine
+Schüssel	NN	 Schüssel	Schüssel
+Brüe	NE	 UNKNOWN	Brüe
+zu	APPR	 zu	zu
+Fischgallarten	NN	 UNKNOWN	Fischgallarten
+machen	VVFIN	 machen	machen
+</seg>
+<seg type="newline">
+So	ADV	 so	So
+nim	ADJD	 UNKNOWN	nimb
+vngefehr	VVFIN	 UNKNOWN	vngefehr
+ein	ART	 ein	ein
+Maß	NN	 Maß	Maß
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+Maß	NN	 Maß	Maß
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+lautern	NN	 UNKNOWN	lautern
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+ein	ART	 ein	ein
+Meßlein	NN	 UNKNOWN	Meßlein
+Essig	NN	 Essig	Essig
+</seg>
+<seg type="newline">
+Binde	NN	 Binde	Binde
+ein	PTKVZ	 ein	ein
+gut	ADJD	 gut	gut
+stücke	VVFIN	 stücken	stücke
+Hausenblasen	NN	 UNKNOWN	Hausenblasen
+vnd	KON	 und	und
+Lorbeerbletter	NN	 UNKNOWN	Lorbeerbletter
+in	APPR	 in	in
+ein	ART	 ein	ein
+rein	ADV	 rein	rein
+Tüchlein	NN	 Tüchlein	Tüchlein
+.	$.	.	$.	 .	|	.
+Hat	VAFIN	 haben	Hat
+man	PIS	 man	man
+aber	ADV	 aber	aber
+keine	PIAT	 kein	keine
+Hausenblasen	NN	 UNKNOWN	Hausenblasen
+</seg>
+<seg type="newline">
+So	ADV	 so	So
+nim	ADJA	 UNKNOWN	nimb
+Schuppen	NN	 Schuppe|Schuppen	Schuppen
+von	APPR	 von	von
+einem	ART	 ein	einem
+Hechte	NN	 Hecht	Hechte
+</seg>
+<seg type="newline">
+Karpffen	NN	 UNKNOWN	Karpffen
+oder	KON	 oder	oder
+Bersken	ADJA	 UNKNOWN	Bersken
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+sie	PPER	 sie	sie
+rein	ADV	 rein	rein
+gewaschen	VVPP	 waschen	gewaschen
+sind	VAFIN	 sein	sind
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+binde	VVFIN	 binden	binde
+sie	PPER	 sie	sie
+in	APPR	 in	in
+das	ART	 d	das
+Tüchlein	NN	 Tüchlein	Tüchlein
+</seg>
+<seg type="newline">
+henge	VVFIN	 UNKNOWN	henge
+es	PPER	 es	es
+in	APPR	 in	in
+die	ART	 d	die
+Brüe	NN	 UNKNOWN	Brüe
+vnd	KON	 und	und
+laß	ADJD	 laß	laß
+mit	PTKVZ	 mit	mit
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+Saltze	NN	 Salz	Salz
+sie	PPER	 sie	sie
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+</seg>
+<seg type="newline">
+würtze	VVFIN	 würzen	würzt
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+Ingwer	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Zimmet	NN	 Zimt	Zimt
+vnd	KON	 und	und
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+sol	NN	 Sol	sol
+die	ART	 d	die
+Brüe	NE	 UNKNOWN	Brüe
+gelbe	ADJA	 gelb	gelbe
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+So	ADV	 so	So
+thue	NN	 UNKNOWN	thue
+ein	ART	 ein	ein
+gut	ADJD	 gut	gut
+theil	ADJA	 UNKNOWN	theil
+Saffran	NN	 Safran	Safran
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+Sol	NN	 Sol	Sol
+sie	PPER	 sie	sie
+aber	KON	 aber	aber
+weis	VVIMP	 weisen	weis
+bleiben	VVFIN	 bleiben	bleiben
+</seg>
+<seg type="newline">
+So	ADV	 so	So
+ehue	ADJD	 UNKNOWN	ehue
+gantze	ADV	 ganz	ganz
+Muscatenblumen	NN	 UNKNOWN	Muscatenblumen
+an	APPR	 an	an
+stat	NN	 UNKNOWN	stat
+des	ART	 d	des
+Saffran	NN	 Safran	Safran
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+darmitte	NN	 UNKNOWN	darmitte
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+so	ADV	 so	so
+drücke	VVFIN	 drücken	drücke
+das	ART	 d	das
+Tüchlein	NN	 Tüchlein	Tüchlein
+</seg>
+<seg type="newline">
+darein	ADV	 darein	darein
+die	ART	 d	die
+Hausenblasen	NN	 UNKNOWN	Hausenblasen
+oder	KON	 oder	oder
+Fischschuppen	NN	 UNKNOWN	Fischschuppen
+gebunden	VVPP	 binden	gebunden
+sein	VAINF	 sein	sein
+</seg>
+<seg type="newline">
+rein	ADV	 rein	rein
+aus	APPR	 aus	aus
+</seg>
+<seg type="newline">
+Seige	NN	 UNKNOWN	Seige
+die	ART	 d	die
+Brüe	NE	 UNKNOWN	Brüe
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+Tuch	NN	 Tuch	Tuch
+oder	KON	 oder	oder
+sieblein	NN	 UNKNOWN	sieblein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+geus	NN	 UNKNOWN	geuß
+die	ART	 d	die
+vber	NN	 UNKNOWN	vber
+die	ART	 d	die
+Fische	NN	 Fisch	Fische
+</seg>
+<seg type="newline">
+warüber	VVFIN	 UNKNOWN	warüber
+man	PIS	 man	man
+wil	NE	 Wil	wil
+</seg>
+<seg type="newline">
+Wil	NE	 Wil	Wil
+man	PIS	 man	man
+nun	ADV	 nun	nun
+eine	ART	 ein	eine
+grüne	ADJA	 grün	grüne
+Gallarte	NN	 UNKNOWN	Gallarte
+machen	VVFIN	 machen	machen
+</seg>
+<seg type="newline">
+So	ADV	 so	So
+nim	VVFIN	 UNKNOWN	nimb
+eine	ART	 ein	eine
+gute	ADJA	 gut	gute
+Handuoll	NN	 UNKNOWN	Handuoll
+grüne	ADJA	 grün	grüne
+Petersilgen	NN	 UNKNOWN	Petersilgen
+</seg>
+<seg type="newline">
+hacke	VVFIN	 hacken	hacke
+vnnd	KON	 und	und
+stosse	VVFIN	 stoßen	stosse
+sie	PPER	 sie	sie
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+geuß	NN	 UNKNOWN	geuß
+eine	ART	 ein	eine
+Löffeluoll	ADJA	 UNKNOWN	Löffeluoll
+Wein	NN	 Wein	Wein
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+drücke	VVFIN	 drücken	drücke
+die	ART	 d	die
+grüne	ADJA	 grün	grüne
+Farbe	NN	 Farbe	Farbe
+daraus	PAV	 daraus	daraus
+</seg>
+<seg type="newline">
+thue	VVFIN	 UNKNOWN	thue
+sie	PPER	 sie	sie
+dann	ADV	 dann	dann
+zu	APPR	 zu	zu
+der	ART	 d	der
+Brüe	NE	 UNKNOWN	Brüe
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+sie	PPER	 sie	sie
+nur	ADV	 nur	nur
+warm	ADJD	 warm	warm
+damit	PAV	 damit	damit
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+das	PDS	 d	das
+im	APPRART	 im	im
+sieden	VVFIN	 sieden	sieden
+sie	PPER	 sie	sie
+die	ART	 d	die
+Farbe	NN	 Farbe	Farbe
+nicht	PTKNEG	 nicht	nicht
+verliere	VVFIN	 verlieren	verliere
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+geus	NN	 UNKNOWN	geuß
+dann	ADV	 dann	dann
+diese	PDAT	 dies	diese
+Brüe	NE	 UNKNOWN	Brüe
+vber	ADJA	 UNKNOWN	vber
+Fische	NN	 Fisch	Fische
+</seg>
+<seg type="newline">
+worüber	PWAV	 worüber	worüber
+man	PIS	 man	man
+wil	VVFIN	 UNKNOWN	wil
+.	$.	.	$.	 .	|	.
+Zu	APPR	 zu	Zu
+einer	ART	 ein	einer
+braunen	ADJA	 braun	braunen
+oder	KON	 oder	oder
+blawen	ADJA	 UNKNOWN	blawen
+Gallarten	NN	 UNKNOWN	Gallarten
+aber	ADV	 aber	aber
+</seg>
+<seg type="newline">
+So	ADV	 so	So
+nim	ADJA	 UNKNOWN	nimb
+blaw	NE	 UNKNOWN	blaw
+Tuch	NN	 Tuch	Tuch
+</seg>
+<seg type="newline">
+welches	PIS	 welch	welches
+mit	APPR	 mit	mit
+blawen	NN	 UNKNOWN	blawen
+Violensafft	ADJD	 UNKNOWN	Violensafft
+gesotten	VVPP	 sieden	gesotten
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+in	APPR	 in	in
+den	ART	 d	den
+Apotecken	NN	 UNKNOWN	Apotecken
+zu	PTKZU	 zu	zu
+bekommen	VVINF	 bekommen	bekommen
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+weiche	VVFIN	 weichen	weiche
+es	PPER	 es	es
+in	APPR	 in	in
+Wein	NN	 Wein	Wein
+oder	KON	 oder	oder
+Rosenwasser	NN	 Rosenwasser	Rosenwasser
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+eine	PIS	 ein	eine
+stunde	VVFIN	 stunden	stunde
+darinne	NN	 UNKNOWN	darinne
+liegen	VVINF	 liegen	liegen
+</seg>
+<seg type="newline">
+drücke	VVFIN	 drücken	drücke
+es	PPER	 es	es
+dann	ADV	 dann	dann
+aus	APPR	 aus	aus
+</seg>
+<seg type="newline">
+So	ADV	 so	So
+gibet	VVFIN	 UNKNOWN	gibet
+es	PPER	 es	es
+eine	ART	 ein	eine
+schöne	ADJA	 schön	schöne
+blawe	NN	 UNKNOWN	blawe
+Farbe	NN	 Farbe	Farbe
+</seg>
+<seg type="newline">
+gesund	PTKVZ	 gesund	gesund
+vnd	KON	 und	und
+dienstlichen	ADJA	 dienstlich	dienstlichen
+zu	APPR	 zu	zu
+Vögelein	NN	 UNKNOWN	Negelein
+essen	VVFIN	 essen	essen
+</seg>
+<seg type="newline">
+Wil	NE	 Wil	Wil
+man	PIS	 man	man
+es	PPER	 es	es
+aber	ADV	 aber	aber
+noch	ADV	 noch	noch
+brauner	ADJD	 braun	brauner
+haben	VAFIN	 haben	haben
+</seg>
+<seg type="newline">
+So	ADV	 so	So
+weiche	VVFIN	 weichen	weiche
+einen	ART	 ein	einen
+guten	ADJA	 gut	guten
+Löffeluoll	NN	 UNKNOWN	Löffeluoll
+Kirschmuß	NN	 UNKNOWN	Kirschmuß
+oder	KON	 oder	oder
+Safft	NE	 UNKNOWN	Safft
+in	APPR	 in	in
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+treibe	VVFIN	 treiben	treibe
+es	PPER	 es	es
+dann	ADV	 dann	dann
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+Tuch	NN	 Tuch	Tuch
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+thue	VVFIN	 UNKNOWN	thue
+es	PPER	 es	es
+zu	APPR	 zu	zu
+der	ART	 d	der
+beschriebenen	ADJA	 beschrieben	beschriebenen
+brüe	NE	 UNKNOWN	brüe
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+dem	ART	 d	dem
+abwürtzen	ADJD	 UNKNOWN	abwürtzen
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+allenthalben	ADV	 allenthalben	allenthalben
+bleiben	VVFIN	 bleiben	bleiben
+</seg>
+<seg type="newline">
+allein	ADV	 allein	allein
+an	APPR	 an	an
+stat	NN	 UNKNOWN	stat
+des	ART	 d	des
+Saffran	NN	 Safran	Safran
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+viel	PIAT	 viel	viel
+Neglin	NN	 UNKNOWN	Neglin
+darzu	PAV	 dazu	dazu
+.	$.	.	$.	 .	|	.
+Also	ADV	 also	Also
+hat	VAFIN	 haben	hat
+man	PIS	 man	man
+auff	APPR	 auf	auf
+vier	CARD	 vier	vier
+arten	VVINF	 arten	arten
+</seg>
+<seg type="newline">
+als	KON	 als	als
+weis	VVIMP	 weisen	weis
+</seg>
+<seg type="newline">
+gelb	ADJD	 gelb	gelb
+</seg>
+<seg type="newline">
+grün	ADJD	 grün	grün
+vnd	KON	 und	und
+braune	ADJA	 braun	braune
+Gallarten	NN	 UNKNOWN	Gallarten
+Brüe	NE	 UNKNOWN	Brüe
+</seg>
+<seg type="newline">
+zu	APPR	 zu	zu
+allen	PIAT	 alle	allen
+Fischen	NN	 Fisch|Fischen	Fischen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

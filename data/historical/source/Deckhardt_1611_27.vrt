@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Deckhardt_1611_27" collection="historical" source="Deckhardt" url="none" year="1611" decade="1610-1620" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1611:234]">
+<title>
+<seg type="newline">
+Eine	ART	 ein	Eine
+Eyermilch	NN	 UNKNOWN	Eyermilch
+zu	PTKZU	 zu	zu
+backen	VVINF	 backen	backen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimb	VVFIN	 UNKNOWN	nimb
+ein	ART	 ein	ein
+Maß	NN	 Maß	Maß
+dicke	ADJA	 dick	dicke
+Milch	NN	 Milch	Milch
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+7.	ADJA	 7.	7.
+oder	KON	 oder	oder
+8.	ADJA	 @ord@	8.
+Eyer	NE	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+seud	NE	 UNKNOWN	seud
+die	ART	 d	die
+Eyermilch	NN	 UNKNOWN	Eyermilch
+starck	NE	 UNKNOWN	starck
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+thue	NE	 UNKNOWN	thue
+sie	PPER	 sie	sie
+in	APPR	 in	in
+ein	ART	 ein	ein
+Tuch	NN	 Tuch	Tuch
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+einen	ART	 ein	einen
+Deckel	NN	 Deckel	Deckel
+vnd	KON	 und	und
+Stein	NN	 Stein	Stein
+drauff	PAV	 drauf	drauf
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+sie	PPER	 sie	sie
+abeseige	ADJD	 UNKNOWN	abeseige
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+trocken	ADJD	 trocken	trocken
+werde	VAFIN	 werden	werde
+</seg>
+<seg type="newline">
+Schneide	NN	 Schneid|Schneide	Schneide
+darnach	PAV	 danach	Danach
+schnitzlein	NN	 UNKNOWN	schnitzlein
+draus	PAV	 draus	draus
+</seg>
+<seg type="newline">
+kehre	VVFIN	 kehren	kehre
+vnd	KON	 und	und
+wende	VVFIN	 wenden	wende
+sie	PPER	 sie	sie
+in	APPR	 in	in
+Mehl	NN	 Mehl	Mehl
+vmb	TRUNC	 UNKNOWN	vmb
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+backs	NN	 Back	backs
+in	APPR	 in	in
+einem	ART	 ein	einem
+Schmaltze	NN	 UNKNOWN	Schmaltze
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+sie	PPER	 sie	sie
+fein	ADJD	 fein	fein
+breunlicht	VVPP	 UNKNOWN	breunlicht
+werden	VAINF	 werden	werden
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Staindl_1569_23" collection="historical" source="Staindl" url="none" year="1569" decade="1560-1570" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[15v]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+Pasteten	NN	 Pastete	Pasteten
+von	APPR	 von	von
+gebachnen	ADJA	 UNKNOWN	gebachnen
+Höchten	NN	 UNKNOWN	Höchten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimb	ADJD	 UNKNOWN	nimb
+gestossen	VVPP	 stoßen	gestossen
+Mandel	NN	 Mandel	Mandel
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+gestossen	VVPP	 stoßen	gestossen
+reiß	VVIMP	 reißen	reiß
+wann	PWAV	 wann	wann
+du	PPER	 du	du
+die	ART	 d	die
+Höcht	NN	 UNKNOWN	Höcht
+bächst	VVFIN	 UNKNOWN	bächst
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+thuo	NN	 UNKNOWN	thue
+die	ART	 d	die
+gred	NE	 UNKNOWN	gred
+alle	PIAT	 alle	alle
+daruon	NN	 UNKNOWN	daruon
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+den	ART	 d	den
+geschelten	ADJA	 UNKNOWN	geschelten
+mandel	NN	 Mandel	mandel
+stoß	VVIMP	 stoßen	stoß
+besonder	ADJD	 UNKNOWN	besonder
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+den	ART	 d	den
+teig	NN	 Teig	teig
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+löß	ADJA	 UNKNOWN	löß
+dz	NN	 UNKNOWN	dz
+brät	VVFIN	 braten	brät
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+stoß	VVIMP	 stoßen	stoß
+alles	PIS	 alle	alles
+durch	APPR	 durch	durch
+einander	PRF	 einander	einander
+</seg>
+<seg type="newline">
+misch	VVIMP	 mischen	misch
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+guoten	ADJA	 UNKNOWN	guoten
+pfenwert	NN	 UNKNOWN	pfenwert
+milch	ADJA	 UNKNOWN	milch
+</seg>
+<seg type="newline">
+machs	NN	 UNKNOWN	machs
+nit	VVFIN	 UNKNOWN	nimb
+zu	PTKA	 zu	zu
+dünn	PTKVZ	 dünn	dünn
+</seg>
+<seg type="newline">
+das	PRELS	 d	das
+es	PPER	 es	es
+dannocht	VVFIN	 UNKNOWN	dannocht
+ein	ART	 ein	ein
+gemüß	ADJA	 UNKNOWN	gemüß
+sey	NE	 UNKNOWN	sey
+</seg>
+<seg type="newline">
+thuo	NE	 UNKNOWN	thue
+ein	ART	 ein	ein
+lot	NN	 Lot	lot
+zucker	VVIMP	 zuckern	zucker
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+gilbs	NN	 UNKNOWN	gilbs
+</seg>
+<seg type="newline">
+saltz	ADJA	 kalt	kalten
+zumassen	VVFIN	 abmessen	abmessen
+</seg>
+<seg type="newline">
+mach	VVIMP	 machen	mach
+ein	ART	 ein	ein
+taig	ADJD	 UNKNOWN	taig
+wie	KOKOM	 wie	wie
+zu	APPR	 zu	zu
+einer	ART	 ein	einer
+Pasteten	NN	 Pastete	Pasteten
+</seg>
+<seg type="newline">
+thuo	NE	 UNKNOWN	thue
+das	ART	 d	das
+vorgeschriben	ADJA	 UNKNOWN	vorgeschriben
+in	APPR	 in	in
+die	ART	 d	die
+Pasteten	NN	 Pastete	Pasteten
+</seg>
+<seg type="newline">
+thuos	ADJD	 UNKNOWN	thuos
+in	APPR	 in	in
+ein	ART	 ein	ein
+ofen	ADJA	 UNKNOWN	ofen
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+bachen	NN	 Kochen	Kochen
+</seg>
+<seg type="newline">
+das	ART	 d	das
+nit	ADJA	 UNKNOWN	nimb
+verbrinn	NN	 UNKNOWN	verbrinn
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

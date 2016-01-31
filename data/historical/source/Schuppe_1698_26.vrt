@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Schuppe_1698_26" collection="historical" source="Schuppe" url="none" year="1698" decade="1690-1700" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1698:126]">
+<title>
+<seg type="newline">
+CCLIII	NE	 UNKNOWN	CCLIII
+.	$.	.	$.	 .	|	.
+Eine	ART	 ein	Eine
+Pastete	NN	 Pastete	Pastete
+von	APPR	 von	von
+Schwänen	NN	 Schwan	Schwänen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wird	VAFIN	 werden	Wird
+auch	ADV	 auch	auch
+auff	APPR	 auf	auf
+vorige	ADJA	 vorig	vorige
+Art	NN	 Art	Art
+gemacht	VVPP	 machen	gemacht
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

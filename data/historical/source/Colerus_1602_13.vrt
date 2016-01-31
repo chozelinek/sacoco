@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Colerus_1602_13" collection="historical" source="Colerus" url="none" year="1602" decade="1600-1610" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1602:142]">
+<title>
+<seg type="newline">
+Einen	ART	 ein	Einen
+Mörselkuchen	NN	 UNKNOWN	Mörselkuchen
+zu	PTKZU	 zu	zu
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wiltu	NN	 UNKNOWN	Wiltu
+einen	ART	 ein	einen
+Mörselkuchen	NN	 UNKNOWN	Mörselkuchen
+auff	APPR	 auf	auf
+eine	ART	 ein	eine
+Schüssel	NN	 Schüssel	Schüssel
+machen	VVFIN	 machen	machen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nim	ADJD	 UNKNOWN	nimb
+sechs	CARD	 sechs	sechs
+vnd	KON	 und	und
+dreissig	CARD	 dreißig	dreissig
+Eyer	NN	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+zwey	CARD	 zwei	zwei
+quart	ADJA	 UNKNOWN	quart
+guten	ADJA	 gut	guten
+Milchrohm	NN	 UNKNOWN	Milchrohm
+oder	KON	 oder	oder
+Sohm	NN	 UNKNOWN	Sohm
+</seg>
+<seg type="newline">
+schlage	VVFIN	 schlagen	schlage
+das	PDS	 d	das
+durcheinander	ADV	 durcheinander	durcheinander
+in	APPR	 in	in
+einen	ART	 ein	einen
+Topff	NN	 Topf	Topf
+</seg>
+<seg type="newline">
+würtze	VVFIN	 würzen	würzt
+es	PPER	 es	es
+ab	PTKVZ	 ab	ab
+mit	APPR	 mit	mit
+Cynamey	NE	 UNKNOWN	Cynamey
+</seg>
+<seg type="newline">
+Ingber	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Muscaten	NN	 UNKNOWN	Muscaten
+</seg>
+<seg type="newline">
+Muscatenblumen	NN	 UNKNOWN	Muscatenblumen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+thue	NN	 UNKNOWN	thue
+Zucker	NN	 Zucker	Zucker
+drein	PTKVZ	 drein	drein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+nim	VVFIN	 UNKNOWN	nimb
+einen	ART	 ein	einen
+Mörsel	NN	 UNKNOWN	Mörsel
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+jhn	PPER	 er	ihn
+gegen	APPR	 gegen	gegen
+das	ART	 d	das
+Fewer	NN	 Feuer	Feuer
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+er	PPER	 er	er
+wol	PWAV	 wo	wo
+heis	NN	 UNKNOWN	heis
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+geus	NN	 UNKNOWN	geuß
+geschmeltzte	ADJA	 UNKNOWN	geschmeltzte
+Butter	NN	 Butter	Butter
+drein	ADV	 drein	drein
+</seg>
+<seg type="newline">
+eine	ART	 ein	eine
+gute	ADJA	 gut	gute
+Kelle	NN	 Kelle	Kelle
+voll	PTKVZ	 voll	voll
+</seg>
+<seg type="newline">
+wenn	KOUS	 wenn	wenn
+sie	PPER	 sie	sie
+heis	NN	 UNKNOWN	heis
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nim	ADJD	 UNKNOWN	nimb
+zwo	CARD	 zwo	zwo
+altbacken	ADJD	 altbacken	altbacken
+Semmel	NN	 Semmel	Semmel
+</seg>
+<seg type="newline">
+schneid	VVFIN	 schneiden	schneiden
+sie	PPER	 sie	sie
+hübsch	ADJD	 hübsch	hübsch
+würfflicht	VVFIN	 UNKNOWN	würfflicht
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+scheide	VVFIN	 scheiden	scheide
+die	ART	 d	die
+in	APPR	 in	in
+die	ART	 d	die
+heisse	ADJA	 heiß	heisse
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+sie	PPER	 sie	sie
+flucks	NN	 UNKNOWN	flucks
+mit	APPR	 mit	mit
+seud	NE	 UNKNOWN	seud
+.	$.	.	$.	 .	|	.
+Darnach	ADV	 UNKNOWN	Darnach
+nim	VVFIN	 UNKNOWN	nimb
+die	ART	 d	die
+vorgenante	ADJA	 UNKNOWN	vorgenante
+Eyer	NE	 UNKNOWN	Eyer
+mit	APPR	 mit	mit
+der	ART	 d	der
+Milch	NN	 Milch	Milch
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+schütte	VVFIN	 schütten	schütte
+sie	PPER	 sie	sie
+zu	APPR	 zu	zu
+der	ART	 d	der
+Semmel	NN	 Semmel	Semmel
+in	APPR	 in	in
+den	ART	 d	den
+Mürsel	NE	 Mürsel	Mürsel
+</seg>
+<seg type="newline">
+schütte	VVFIN	 schütten	schütte
+darzu	PAV	 dazu	dazu
+kleine	ADJA	 klein	kleine
+vnd	KON	 und	und
+rohte	ADJA	 UNKNOWN	rohte
+Rosincken	NN	 Rosine	Rosinen
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+viel	ADV	 viel	viel
+du	PPER	 du	du
+wilt	NE	 Wilt	wilt
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+nim	NE	 UNKNOWN	nimb
+Meyeran	NE	 UNKNOWN	Meyeran
+</seg>
+<seg type="newline">
+Isop	NN	 UNKNOWN	Isop
+</seg>
+<seg type="newline">
+Salbenbletter	NN	 UNKNOWN	Salbenbletter
+vnd	KON	 und	und
+Rosmarien	NN	 UNKNOWN	Rosmarien
+</seg>
+<seg type="newline">
+schneid	VVFIN	 schneiden	schneiden
+diese	PDAT	 dies	diese
+Kreuter	NN	 UNKNOWN	Kreuter
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+schütte	VVFIN	 schütten	schütte
+sie	PPER	 sie	sie
+in	APPR	 in	in
+dieselbe	PDAT	 dieselbe	dieselbe
+Materia	NN	 UNKNOWN	Materia
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+las	VVFIN	 lesen	las
+das	PDS	 d	das
+hübsch	ADJD	 hübsch	hübsch
+backen	VVINF	 backen	backen
+</seg>
+<seg type="newline">
+Vnd	KON	 und	und
+den	ART	 d	den
+Mörsel	NE	 UNKNOWN	Mörsel
+mustu	NE	 UNKNOWN	mustu
+auch	ADV	 auch	auch
+allezeit	ADV	 allezeit	allezeit
+vmbdrehen	VVFIN	 UNKNOWN	vmbdrehen
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+er	PPER	 er	er
+eine	ART	 ein	eine
+bequeme	ADJA	 bequem	bequeme
+hitze	NN	 Hitze	hitze
+habe	VAFIN	 haben	habe
+.	$.	.	$.	 .	|	.
+Hastu	NE	 UNKNOWN	Hastu
+jrgend	NN	 UNKNOWN	jrgend
+eine	ART	 ein	eine
+reine	ADJA	 rein	reine
+stürtze	NN	 UNKNOWN	stürtze
+</seg>
+<seg type="newline">
+die	PDS	 d	die
+mache	VVFIN	 machen	mache
+heis	NN	 UNKNOWN	heis
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+decke	VVFIN	 decken	decke
+sie	PPER	 sie	sie
+drüber	PAV	 drüber	drüber
+</seg>
+<seg type="newline">
+Vnd	KON	 und	und
+wenns	KOUS	 wenn	wenn
+gebacken	VVPP	 backen	gebacken
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+wirds	VAFIN	 werden	wird
+oben	ADV	 oben	oben
+gar	ADV	 gar	gar
+treuge	ADJD	 UNKNOWN	treuge
+sein	VAINF	 sein	sein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+wenn	KOUS	 wenn	wenn
+du	PPER	 du	du
+es	PPER	 es	es
+wilt	NE	 Wilt	wilt
+auffgeben	VVFIN	 UNKNOWN	auffgeben
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+schütte	VVFIN	 schütten	schütte
+es	PPER	 es	es
+auff	APPR	 auf	auf
+ein	ART	 ein	ein
+rein	ADV	 rein	rein
+Brodt	TRUNC	 UNKNOWN	Brodt
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+zuschneids	NN	 UNKNOWN	zuschneids
+die	PDS	 d	die
+quere	VVFIN	 UNKNOWN	quere
+mitten	ADV	 mitten	mitten
+von	APPR	 von	von
+einander	PRF	 einander	einander
+.	$.	.	$.	 .	|	.
+Darnach	ADV	 UNKNOWN	Darnach
+nim	VVFIN	 UNKNOWN	nimb
+ein	ART	 ein	ein
+jeglich	ADJD	 UNKNOWN	jeglich
+theil	NN	 UNKNOWN	theil
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+schneids	VVFIN	 schneiden	schneiden
+in	APPR	 in	in
+zwey	CARD	 zwei	zwei
+theil	NN	 UNKNOWN	theil
+</seg>
+<seg type="newline">
+hübsch	ADJD	 hübsch	hübsch
+breit	ADJD	 breit	breit
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+nach	APPR	 nach	nach
+der	ART	 d	der
+lenge	ADJA	 UNKNOWN	lenge
+</seg>
+<seg type="newline">
+Darnach	ADJA	 UNKNOWN	Darnach
+schneid	NN	 Schneid	schneid
+dieselben	PDS	 dieselbe	dieselben
+stücke	VVFIN	 stücken	stücke
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+die	PDS	 d	die
+beschnitten	VVPP	 beschneiden	beschnitten
+sein	VAINF	 sein	sein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+legs	VVFIN	 legen	legt
+auff	APPR	 auf	auf
+die	ART	 d	die
+Schüssel	NN	 Schüssel	Schüssel
+zu	APPR	 zu	zu
+riengs	ADJA	 UNKNOWN	riengs
+herumb	NN	 UNKNOWN	herumb
+</seg>
+<seg type="newline">
+bestrewe	VVFIN	 bestreuen	bestreuen
+es	PPER	 es	es
+mit	APPR	 mit	mit
+einer	ART	 ein	einer
+Cynamey	NE	 UNKNOWN	Cynamey
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+gibs	NN	 UNKNOWN	gilbs
+hin	PTKVZ	 hin	hin
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Prasmosfky_1671_6" collection="historical" source="Prasmosfky" url="none" year="1671" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1671:230]">
+<title>
+<seg type="newline">
+697.	ADJA	 @ord@	697.
+Würst	NN	 UNKNOWN	Würst
+von	APPR	 von	von
+Kalbfleisch	NN	 Kalbfleisch	Kalbfleisch
+machen	VVFIN	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Hacke	NN	 Hacke	Hacke
+das	ART	 d	das
+Kalbfleisch	NN	 Kalbfleisch	Kalbfleisch
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+zu	APPR	 zu	zu
+den	ART	 d	den
+Knötlein	NN	 UNKNOWN	Knötlein
+</seg>
+<seg type="newline">
+nimm	VVIMP	 nehmen	nimm
+geriebenen	ADJA	 gerieben	geriebenen
+Weck	NN	 Weck	Weck
+</seg>
+<seg type="newline">
+Muscatenblühe	VVFIN	 UNKNOWN	Muscatenblühe
+</seg>
+<seg type="newline">
+Pfefferkörner	NE	 Pfefferkörner	Pfefferkörner
+gröblecht	ADJD	 UNKNOWN	gröblecht
+zustossen	VVFIN	 zustoßen	zustossen
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Coriander	NE	 UNKNOWN	Coriander
+</seg>
+<seg type="newline">
+Eyer	NE	 UNKNOWN	Eyer
+und	KON	 und	und
+Milchraum	NN	 UNKNOWN	Milchraum
+</seg>
+<seg type="newline">
+rührs	VVFIN	 UNKNOWN	rührs
+wohl	ADV	 wohl	wohl
+untereinander	ADV	 untereinander	untereinander
+</seg>
+<seg type="newline">
+schlags	ADJD	 UNKNOWN	schlags
+dann	ADV	 dann	dann
+in	APPR	 in	in
+ein	ART	 ein	ein
+Netzlein	NN	 UNKNOWN	Netzlein
+</seg>
+<seg type="newline">
+beugs	NN	 UNKNOWN	beugs
+wie	KOKOM	 wie	wie
+ein	ART	 ein	ein
+Wurst	NN	 Wurst	Wurst
+</seg>
+<seg type="newline">
+umwinds	NN	 UNKNOWN	umwinds
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Faden	ADJA	 fade	Faden
+</seg>
+<seg type="newline">
+brats	NN	 UNKNOWN	brats
+oder	KON	 oder	oder
+bachs	NN	 Bach	bachs
+</seg>
+<seg type="newline">
+schneids	VVFIN	 schneiden	schneiden
+rund	ADV	 rund	rund
+</seg>
+<seg type="newline">
+und	KON	 und	und
+legs	VVFIN	 legen	legt
+zum	APPRART	 zum	zum
+Salat	NN	 Salat	Salat
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+mach	VVIMP	 machen	mach
+ein	ART	 ein	ein
+Pfefferbrühe	NN	 UNKNOWN	Pfefferbrühe
+darüber	PAV	 darüber	darüber
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

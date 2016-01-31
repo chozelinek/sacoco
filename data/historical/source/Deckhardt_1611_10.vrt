@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Deckhardt_1611_10" collection="historical" source="Deckhardt" url="none" year="1611" decade="1610-1620" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1611:83]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+gut	ADJD	 gut	gut
+Essen	NN	 Essen	Essen
+von	APPR	 von	von
+einer	ART	 ein	einer
+Leber	NN	 Leber	Leber
+zu	PTKZU	 zu	zu
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nim	VVFIN	 UNKNOWN	nimb
+die	ART	 d	die
+Leber	NN	 Leber	Leber
+also	ADV	 also	also
+rohe	ADJA	 roh	rohe
+von	APPR	 von	von
+einem	ART	 ein	einem
+Kalbe	NN	 Kalb	Kalbe
+</seg>
+<seg type="newline">
+hacke	VVFIN	 hacken	hacke
+sie	PPER	 sie	sie
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+ein	ART	 ein	ein
+gut	ADJD	 gut	gut
+theil	ADJA	 UNKNOWN	theil
+speck	NN	 Speck	speck
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Rindfeistes	NN	 UNKNOWN	Rindfeistes
+darunter	PAV	 darunter	darunter
+</seg>
+<seg type="newline">
+thue	NN	 UNKNOWN	thue
+hernacher	VVFIN	 UNKNOWN	hernacher
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+geriebne	ADJA	 UNKNOWN	geriebne
+Semmeln	NN	 Semmel	Semmeln
+</seg>
+<seg type="newline">
+Ingwer	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+vnd	KON	 und	und
+Saffran	NN	 Safran	Safran
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+geschnitne	ADJA	 UNKNOWN	geschnitne
+gute	ADJA	 gut	gute
+grüne	ADJA	 grün	grüne
+Kreuterlein	NN	 UNKNOWN	Kreuterlein
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+schlage	VVFIN	 schlagen	schlage
+zwey	CARD	 zwei	zwei
+oder	KON	 oder	oder
+drey	CARD	 drei	drei
+Eyer	NE	 UNKNOWN	Eyer
+darzu	PAV	 dazu	dazu
+.	$.	.	$.	 .	|	.
+Nim	ADJA	 UNKNOWN	nimb
+alsden	NE	 UNKNOWN	alsden
+ein	ART	 ein	ein
+rein	ADV	 rein	rein
+Kalbesnetzlein	NN	 UNKNOWN	Kalbesnetzlein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+fülle	VVFIN	 füllen	fülle
+das	ART	 d	das
+gehackte	ADJA	 gehackt	gehackte
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+vermache	VVFIN	 UNKNOWN	vermache
+es	PPER	 es	es
+allenthalben	ADV	 allenthalben	allenthalben
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+das	ART	 d	das
+nichts	PIS	 nichts	nichts
+heraus	PTKVZ	 heraus	heraus
+rinne	VVFIN	 rinnen	rinne
+</seg>
+<seg type="newline">
+Mache	NN	 Mache	Mache
+darnach	PAV	 danach	Danach
+ein	ART	 ein	ein
+Schmaltz	NN	 Schmalz	Schmalz
+in	APPR	 in	in
+einer	ART	 ein	einer
+Pfannen	NN	 Pfanne	Pfannen
+oder	KON	 oder	oder
+Tigel	NN	 UNKNOWN	Tigel
+wol	PWAV	 wo	wo
+heis	NN	 UNKNOWN	heis
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+die	ART	 d	die
+gefülte	ADJA	 UNKNOWN	gefülte
+Leber	NN	 Leber	Leber
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+las	VVFIN	 lesen	las
+sie	PPER	 sie	sie
+backen	VVINF	 backen	backen
+</seg>
+<seg type="newline">
+bis	KON	 bis	bis
+das	PRELS	 d	das
+sie	PPER	 sie	sie
+allenthalben	ADV	 allenthalben	allenthalben
+fein	ADJD	 fein	fein
+braun	ADJD	 braun	braun
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+ist	VAFIN	 sein	ist
+es	PPER	 es	es
+recht	ADJD	 recht	recht
+vnd	KON	 und	und
+gut	ADJD	 gut	gut
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

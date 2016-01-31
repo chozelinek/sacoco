@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Schuppe_1698_27" collection="historical" source="Schuppe" url="none" year="1698" decade="1690-1700" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1698:131]">
+<title>
+<seg type="newline">
+CCLXVI	NE	 UNKNOWN	CCLXVI
+.	$.	.	$.	 .	|	.
+Kleine	ADJA	 klein	Kleine
+Pastetgen	NN	 UNKNOWN	Pastetgen
+von	APPR	 von	von
+gebratenem	ADJA	 gebraten	gebratenem
+Kalb=Fleisch	NN	 UNKNOWN	Kalb=Fleisch
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+Kälber=Braten	NN	 UNKNOWN	Kälber=Braten
+und	KON	 und	und
+etwas	PIAT	 etwas	etwas
+Fett	NN	 Fett	Fett
+von	APPR	 von	von
+Kälber=Nieren	NN	 UNKNOWN	Kälber=Nieren
+</seg>
+<seg type="newline">
+hacke	VVFIN	 hacken	hacke
+es	PPER	 es	es
+zusammen	ADV	 zusammen	zusammen
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+thue	ADJA	 UNKNOWN	thue
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Nägelein	NN	 UNKNOWN	Nägelein
+</seg>
+<seg type="newline">
+Muscaten=blumen	NN	 UNKNOWN	Muscaten=blumen
+</seg>
+<seg type="newline">
+Saltz	NN	 Salz	Salz
+und	KON	 und	und
+Knoblauch	NN	 Knoblauch	Knoblauch
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+und	KON	 und	und
+mache	VVFIN	 machen	mache
+denn	KON	 denn	denn
+einen	ART	 ein	einen
+Butter=Teig	NN	 UNKNOWN	Butter=Teig
+von	APPR	 von	von
+frischem	ADJA	 frisch	frischem
+Schweins=Schmaltz	NN	 UNKNOWN	Schweins=Schmaltz
+</seg>
+<seg type="newline">
+verfertige	ADJA	 UNKNOWN	verfertige
+kleine	ADJA	 klein	kleine
+Pastetgen	NN	 UNKNOWN	Pastetgen
+davon	PAV	 davon	davon
+in	APPR	 in	in
+kleine	ADJA	 klein	kleine
+Forms	NN	 UNKNOWN	Forms
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+von	APPR	 von	von
+gehacktem	ADJA	 gehackt	gehacktem
+Fleisch	NN	 Fleisch	Fleisch
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+sie	PPER	 sie	sie
+zu	PTKVZ	 zu	zu
+</seg>
+<seg type="newline">
+und	KON	 und	und
+backe	VVFIN	 backen	backe
+sie	PPER	 sie	sie
+gahr	ADV	 gar	gar
+</seg>
+<seg type="newline">
+richte	VVFIN	 richten	richte
+sie	PPER	 sie	sie
+an	APPR	 an	an
+wanns	NE	 UNKNOWN	wanns
+Zeit	NN	 Zeit	Zeit
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+sind	VAFIN	 sein	sind
+sie	PPER	 sie	sie
+fertig	ADJD	 fertig	fertig
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

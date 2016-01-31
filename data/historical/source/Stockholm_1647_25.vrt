@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Stockholm_1647_25" collection="historical" source="Stockholm" url="none" year="1647" decade="1640-1650" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1647:261]">
+<body>
+<seg type="newline">
+Torten	NN	 Torte	Torten
+</seg>
+<seg type="newline">
+darin	PAV	 darin	darin
+gerieben	VVPP	 reiben	gerieben
+Keese	NN	 UNKNOWN	Keese
+</seg>
+<seg type="newline">
+Eyer	NE	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+Butter	NN	 Butter	Butter
+gehackete	NN	 UNKNOWN	gehackete
+grüne	ADJA	 grün	grüne
+Kräuter	NN	 Kraut	Kräuter
+</seg>
+<seg type="newline">
+Butter	NN	 Butter	Butter
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

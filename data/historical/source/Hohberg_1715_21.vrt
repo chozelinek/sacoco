@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Hohberg_1715_21" collection="historical" source="Hohberg" url="none" year="1715" decade="1710-1720" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1715:75]">
+<title>
+<seg type="newline">
+Bauren=Knötlein	NN	 UNKNOWN	Bauren=Knötlein
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Schüttet	VVFIN	 schütten	Schüttet
+halb	ADJD	 halb	halb
+Grieß	NN	 Grieß	Grieß
+</seg>
+<seg type="newline">
+halb	ADJD	 halb	halb
+Semmel=Meel	NN	 UNKNOWN	Semmel=Meel
+</seg>
+<seg type="newline">
+jedes	PIAT	 jed	jedes
+einen	ART	 ein	einen
+Seidelbecher	NN	 UNKNOWN	Seidelbecher
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+einem	ART	 ein	einem
+Napff	NN	 UNKNOWN	Napff
+</seg>
+<seg type="newline">
+machet	VVFIN	 machen	machet
+ein	ART	 ein	ein
+gut	ADJD	 gut	gut
+Theil	NN	 Teil	Teil
+Schmaltz	NN	 Schmalz	Schmalz
+heiß	ADJD	 heiß	heiß
+</seg>
+<seg type="newline">
+giesset	PDAT	 dies	diese
+es	PPER	 es	es
+halb	ADJD	 halb	halb
+über	APPR	 über	über
+das	ART	 d	das
+geriebene	ADJA	 gerieben	geriebene
+Brod	NN	 Brot	Brot
+</seg>
+<seg type="newline">
+und	KON	 und	und
+Grieß	NN	 Grieß	Grieß
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+dem	ART	 d	dem
+übrigen	ADJA	 übrig	übrigen
+Schmaltz	NN	 Schmalz	Schmalz
+röstet	VVFIN	 rösten	röstet
+allerhand	ADJD	 allerhand	allerhand
+gehackte	ADJA	 gehackt	gehackte
+Kräuter	NN	 Kraut	Kräuter
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+ein	ART	 ein	ein
+sogenandtes	ADJA	 UNKNOWN	sogenandtes
+Mayen=Kraut	NN	 UNKNOWN	Mayen=Kraut
+</seg>
+<seg type="newline">
+sammt	VVFIN	 UNKNOWN	sammt
+etwas	PIAT	 etwas	etwas
+Schnittlauch	NN	 Schnittlauch	Schnittlauch
+oder	KON	 oder	oder
+Zwiebeln	NN	 Zwiebel|Zwiebeln	Zwiebeln
+</seg>
+<seg type="newline">
+und	KON	 und	und
+brennets	NN	 UNKNOWN	brennets
+zu	APPR	 zu	zu
+dem	ART	 d	dem
+Grieß	NN	 Grieß	Grieß
+und	KON	 und	und
+Brod	NN	 Brot	Brot
+hinein	ADV	 hinein	hinein
+</seg>
+<seg type="newline">
+ferner	ADJD	 fern	ferner
+mischet	VVFIN	 UNKNOWN	mischet
+würfflicht	ADJA	 UNKNOWN	würfflicht
+geschnittens	NN	 UNKNOWN	geschnittens
+in	APPR	 in	in
+Schmaltz	NN	 Schmalz	Schmalz
+schön	ADJD	 schön	schön
+braun	ADJD	 braun	braun
+geröstes	ADJA	 UNKNOWN	geröstes
+weisses	ADJA	 weiß	weisses
+Brod	NN	 Brot	Brot
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Ingber	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+und	KON	 und	und
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+eine	ART	 ein	eine
+Hand	NN	 Hand	Hand
+voll	ADJD	 voll	voll
+schönes	ADJA	 schön	schönes
+Meel	NN	 UNKNOWN	Meel
+und	KON	 und	und
+3.	ADJA	 3.	3.
+oder	KON	 oder	oder
+4.	ADJA	 4.	4.
+Eyer	NE	 UNKNOWN	Eyer
+darunter	ADV	 darunter	darunter
+</seg>
+<seg type="newline">
+feuchtets	ADJD	 UNKNOWN	feuchtets
+mit	APPR	 mit	mit
+so	ADV	 so	so
+viel	PIAT	 viel	viel
+kalter	ADJA	 kalt	kalter
+Milch	NN	 Milch	Milch
+</seg>
+<seg type="newline">
+Fleischbrüh	NN	 Fleischbrühe	Fleischbrühe
+oder	KON	 oder	oder
+Wasser	NN	 Wasser	Wasser
+an	APZR	 an	an
+biß	VVFIN	 beißen	biß
+recht	ADJD	 recht	recht
+</seg>
+<seg type="newline">
+formiret	ADJA	 UNKNOWN	formiret
+Knötlein	NN	 UNKNOWN	Knötlein
+</seg>
+<seg type="newline">
+lasts	NN	 UNKNOWN	lasts
+in	APPR	 in	in
+halb	ADJD	 halb	halb
+Fleischbrüh	NN	 Fleischbrühe	Fleischbrühe
+und	KON	 und	und
+halb	ADJD	 halb	halb
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+in	APPR	 in	in
+blossem	ADJA	 bloß	blossem
+siedenden	ADJA	 siedend	siedenden
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+worein	PWAV	 worein	worein
+ein	ART	 ein	ein
+guter	ADJA	 gut	guter
+Löffel	NN	 Löffel	Löffel
+voll	ADJD	 voll	voll
+Bach=Schmaltz	NN	 UNKNOWN	Bach=Schmaltz
+</seg>
+<seg type="newline">
+nebst	APPR	 nebst	nebst
+Saltz	NN	 Salz	Salz
+gethan	NN	 UNKNOWN	gethan
+worden	VAPP	 werden	worden
+</seg>
+<seg type="newline">
+sieden	VVINF	 sieden	sieden
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+sie	PPER	 sie	sie
+in	APPR	 in	in
+die	ART	 d	die
+Höhe	NN	 Höhe	Höhe
+steigen	VVINF	 steigen	steigen
+</seg>
+<seg type="newline">
+wendet	VVFIN	 wenden	wendet
+den	ART	 d	den
+Hafen	NN	 Hafen	Hafen
+zu	PTKZU	 zu	zu
+weilen	VVINF	 weilen	weilen
+um	APPR	 um	um
+</seg>
+<seg type="newline">
+damit	PAV	 damit	damit
+sich	PRF	 er|es|sie	sich
+die	ART	 d	die
+Knötlein	NN	 UNKNOWN	Knötlein
+nicht	PTKNEG	 nicht	nicht
+anlegen	VVINF	 anlegen	anlegen
+.	$.	.	$.	 .	|	.
+Einige	PIS	 einige	Einige
+pflegen	VVFIN	 pflegen	pflegen
+die	ART	 d	die
+Kräuter	NN	 Kraut	Kräuter
+und	KON	 und	und
+Zwiebeln	NN	 Zwiebel|Zwiebeln	Zwiebeln
+nicht	PTKNEG	 nicht	nicht
+</seg>
+<seg type="newline">
+hingegen	ADV	 hingegen	hingegen
+den	ART	 d	den
+Grieß	NN	 Grieß	Grieß
+und	KON	 und	und
+Semmel=Meel	NN	 UNKNOWN	Semmel=Meel
+schön	ADJD	 schön	schön
+gelblicht	ADJD	 UNKNOWN	gelblicht
+in	APPR	 in	in
+Schmaltz	NN	 Schmalz	Schmalz
+zu	PTKZU	 zu	zu
+rösten	VVINF	 rösten	rösten
+</seg>
+<seg type="newline">
+und	KON	 und	und
+unter	APPR	 unter	unter
+die	ART	 d	die
+grünen	ADJA	 grün	grünen
+Kräuter	NN	 Kraut	Kräuter
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Ochsen=Marck	NN	 UNKNOWN	Ochsen=Marck
+oder	KON	 oder	oder
+Speck	NN	 Speck	Speck
+zu	PTKZU	 zu	zu
+hacken	VVINF	 hacken	hacken
+</seg>
+<seg type="newline">
+übrigens	ADV	 übrigens	übrigens
+aber	ADV	 aber	aber
+die	ART	 d	die
+Knötlein	NN	 UNKNOWN	Knötlein
+</seg>
+<seg type="newline">
+allerdings	ADV	 allerdings	allerdings
+auf	APPR	 auf	auf
+gedachte	ADJA	 gedacht	gedachte
+Art	NN	 Art	Art
+zu	PTKZU	 zu	zu
+verfertigen	VVINF	 verfertigen	verfertigen
+.	$.	.	$.	 .	|	.
+Auch	ADV	 auch	Auch
+kan	ADV	 nun	Nun
+man	PIS	 man	man
+</seg>
+<seg type="newline">
+nach	APPR	 nach	nach
+Belieben	NN	 Belieben	Belieben
+</seg>
+<seg type="newline">
+das	ART	 d	das
+Meel	NN	 UNKNOWN	Meel
+davon	PAV	 davon	davon
+lassen	VVFIN	 lassen	lassen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

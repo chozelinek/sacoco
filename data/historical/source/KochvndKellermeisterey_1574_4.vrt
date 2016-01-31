@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Koch_vnd_Kellermeisterey_1574_4" collection="historical" source="Koch_vnd_Kellermeisterey" url="none" year="1574" decade="1570-1580" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1574:47v]">
+<title>
+<seg type="newline">
+Von	APPR	 von	Von
+Salsen	NN	 UNKNOWN	Salsen
+:	$.	:	$.	 :	|	:
+Gute	ADJA	 gut	Gute
+Salsen	NN	 UNKNOWN	Salsen
+von	APPR	 von	von
+Eschlauch	NN	 UNKNOWN	Eschlauch
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Brodt	NN	 UNKNOWN	Brodt
+weich	ADJD	 weich	weich
+in	APPR	 in	in
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+stoß	VVIMP	 stoßen	stoß
+den	ART	 d	den
+Eschlauch	NN	 UNKNOWN	Eschlauch
+im	APPRART	 im	im
+selben	PDAT	 selb	selben
+brodt	VVFIN	 UNKNOWN	brodt
+vnnd	KON	 und	und
+wein	VVIMP	 weinen	wein
+</seg>
+<seg type="newline">
+saltz	ADJA	 kalt	kalten
+vnd	KON	 und	und
+treib	VVIMP	 treiben	treib
+jn	NE	 UNKNOWN	jn
+durch	PTKVZ	 durch	durch
+</seg>
+<seg type="newline">
+mach	VVIMP	 machen	mach
+jn	NE	 UNKNOWN	jn
+ab	PTKVZ	 ab	ab
+mit	APPR	 mit	mit
+Imber	NN	 UNKNOWN	Imber
+.	$.	.	$.	 .	|	.
+Dise	ADJA	 UNKNOWN	Dise
+Salsen	NN	 UNKNOWN	Salsen
+ist	VAFIN	 sein	ist
+gut	ADJD	 gut	gut
+zu	APPR	 zu	zu
+Rinderen	NN	 UNKNOWN	Rinderen
+Braten	NN	 Braten	Braten
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Wiltpret	NN	 UNKNOWN	Wiltpret
+braten	VVINF	 braten	braten
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

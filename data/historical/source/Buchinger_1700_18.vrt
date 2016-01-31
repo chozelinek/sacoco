@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Buchinger_1700_18" collection="historical" source="Buchinger" url="none" year="1700" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:1f.]">
+<title>
+<seg type="newline">
+405.	ADJA	 @ord@	405.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Oder	KON	 oder	Oder
+man	PIS	 man	man
+siedet	VVFIN	 sieden	siedet
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+wenig	PIAT	 wenig	wenig
+Essig	NN	 Essig	Essig
+</seg>
+<seg type="newline">
+halb	ADJD	 halb	halb
+Wein	NN	 Wein	Wein
+und	KON	 und	und
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+samt	APPR	 samt	samt
+Peterlinkraut	NN	 UNKNOWN	Peterlinkraut
+</seg>
+<seg type="newline">
+groblechtem	ADJA	 UNKNOWN	groblechtem
+Pfeffer	NN	 Pfeffer	Pfeffer
+und	KON	 und	und
+Imber	NN	 UNKNOWN	Imber
+</seg>
+<seg type="newline">
+und	KON	 und	und
+deckts	NN	 UNKNOWN	deckts
+zu	APPR	 zu	zu
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+werden	VAFIN	 werden	werden
+sie	PPER	 sie	sie
+hübsch	ADJD	 hübsch	hübsch
+blawe	NN	 UNKNOWN	blawe
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

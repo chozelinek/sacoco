@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Hohberg_1715_18" collection="historical" source="Hohberg" url="none" year="1715" decade="1710-1720" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1715:64]">
+<title>
+<seg type="newline">
+Granat=Apffel=Salat	NN	 UNKNOWN	Granat=Apffel=Salat
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nehmet	NE	 Nehmet	Nehmet
+aus	APPR	 aus	aus
+den	ART	 d	den
+Granat=Aepffeln	NN	 UNKNOWN	Granat=Aepffeln
+die	ART	 d	die
+Kern	NN	 Kern	Kern
+heraus	ADV	 heraus	heraus
+</seg>
+<seg type="newline">
+mischet	VVFIN	 UNKNOWN	mischet
+sauber	ADJD	 sauber	sauber
+gewaschene	ADJA	 gewaschen	gewaschene
+</seg>
+<seg type="newline">
+wieder	ADV	 wieder	wieder
+wol	PWAV	 wo	wo
+abgetrocknete	ADJA	 UNKNOWN	abgetrocknete
+Weinbeer	NN	 Weizenbier	Weizenbier
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Corinthen	NN	 Korinthe	Korinthen
+</seg>
+<seg type="newline">
+gemachten=klein	ADJA	 UNKNOWN	gemachten=klein
+geschnittenen	ADJA	 geschnitten	geschnittenen
+Citronat=Zucker	NN	 UNKNOWN	Citronat=Zucker
+</seg>
+<seg type="newline">
+Zimmet=	NE	 UNKNOWN	Zimmet=
+und	KON	 und	und
+Trisanet	NE	 UNKNOWN	Trysaneth
+darunter	ADV	 darunter	darunter
+</seg>
+<seg type="newline">
+feuchtets	ADJD	 UNKNOWN	feuchtets
+mit	APPR	 mit	mit
+Malvasier	NN	 UNKNOWN	Malvasier
+an	APPR	 an	an
+</seg>
+<seg type="newline">
+häuffet	NN	 UNKNOWN	häuffet
+solches	PIAT	 solch	solches
+auf	APPR	 auf	auf
+im	APPRART	 im	im
+einer	ART	 ein	einer
+Schalen	NN	 Schale	Schalen
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+ein	ART	 ein	ein
+Salat	NN	 Salat	Salat
+</seg>
+<seg type="newline">
+stecket	VVFIN	 UNKNOWN	stecket
+oben	ADV	 oben	oben
+einen	ART	 ein	einen
+Blumen=Strauß	NN	 UNKNOWN	Blumen=Strauß
+neben	APPR	 neben	neben
+herum	ADV	 herum	herum
+</seg>
+<seg type="newline">
+leget	ADJD	 UNKNOWN	leget
+zierlich	ADJD	 zierlich	zierlich
+ausgeschnittene	ADJA	 ausgeschnitten	ausgeschnittene
+</seg>
+<seg type="newline">
+eingemachte	ADJA	 eingemacht	eingemachte
+Citronen	NN	 Citrone	Citronen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+Pomerantzen=Schalen	NN	 UNKNOWN	Pomerantzen=Schalen
+in	APPR	 in	in
+solche	PIAT	 solch	solche
+</seg>
+<seg type="newline">
+Wechsels=weis	NN	 UNKNOWN	Wechsels=weis
+Pistacien=Nüßlein	NN	 UNKNOWN	Pistacien=Nüßlein
+</seg>
+<seg type="newline">
+länglicht	ADJA	 UNKNOWN	länglicht
+geschnittene	ADJA	 geschnitten	geschnittene
+Mandeln	NN	 Mandel	Mandeln
+und	KON	 und	und
+Weinbeer	NN	 Weizenbier	Weizenbier
+</seg>
+<seg type="newline">
+bezierts	ADJD	 UNKNOWN	bezierts
+mit	APPR	 mit	mit
+eingemachten	ADJA	 eingemacht	eingemachten
+Früchten	NN	 Frucht	Früchten
+</seg>
+<seg type="newline">
+und	KON	 und	und
+Weinlägelein	NN	 UNKNOWN	Weinlägelein
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

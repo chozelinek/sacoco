@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Danckwerth_1729_10" collection="historical" source="Danckwerth" url="none" year="1729" decade="1720-1730" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1729:137]">
+<title>
+<seg type="newline">
+[	$(	[	$(	 [	|	[
+25.	ADJA	 25.	25.
+Kalb=Fleisch	NN	 UNKNOWN	Kalb=Fleisch
+]	$(	]	$(	 ]	|	]
+26	CARD	 26	26
+Andere	ADJA	 ander	Andere
+Arth	NE	 UNKNOWN	Arth
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Koche	VVFIN	 kochen	Koche
+zuvor	ADV	 zuvor	zuvor
+das	ART	 d	das
+Fleisch	NN	 Fleisch	Fleisch
+im	APPRART	 im	im
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+hacke	VVFIN	 hacken	hacke
+alsobald	NE	 UNKNOWN	alsobald
+Speck	NN	 Speck	Speck
+darauf	PAV	 darauf	darauf
+</seg>
+<seg type="newline">
+Muscaten=blum	NE	 UNKNOWN	Muscaten=blum
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+damit	PAV	 damit	damit
+halb	ADJD	 halb	halb
+gahr	ADV	 gar	gar
+kochen	VVINF	 kochen	kochen
+</seg>
+<seg type="newline">
+denn	KON	 denn	denn
+so	ADV	 so	so
+nimm	VVIMP	 nehmen	nimm
+lange	ADJA	 lang	lange
+Rosinen	NN	 Rosine	Rosinen
+</seg>
+<seg type="newline">
+gieb	VVFIN	 UNKNOWN	gieb
+etwas	PIAT	 etwas	etwas
+Wein	NN	 Wein	Wein
+dazu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Saur	NN	 UNKNOWN	Saur
+</seg>
+<seg type="newline">
+gerieben	VVPP	 reiben	gerieben
+Semmel	NN	 Semmel	Semmel
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+ste	VVFIN	 UNKNOWN	ste
+damit	PAV	 damit	damit
+gahr	ADV	 gar	gar
+kochen	VVFIN	 kochen	kochen
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+so	ADV	 so	so
+nimm	VVIMP	 nehmen	nimm
+das	ART	 d	das
+Fleisch	NN	 Fleisch	Fleisch
+</seg>
+<seg type="newline">
+geuß	NN	 UNKNOWN	geuß
+die	ART	 d	die
+Brühe	NN	 Brühe	Brühe
+davon	PAV	 davon	davon
+</seg>
+<seg type="newline">
+und	KON	 und	und
+die	PRELS	 d	die
+andere	PIS	 ander	andere
+wieder	ADV	 wieder	wieder
+darauf	PAV	 darauf	darauf
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Rosinen	NN	 Rosine	Rosinen
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+Saffran	NN	 Safran	Safran
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+damit	PAV	 damit	damit
+einmahl	NN	 UNKNOWN	einmahl
+aufkochen	VVINF	 aufkochen	aufkochen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

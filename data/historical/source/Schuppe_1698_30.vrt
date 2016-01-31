@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Schuppe_1698_30" collection="historical" source="Schuppe" url="none" year="1698" decade="1690-1700" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1698:146]">
+<title>
+<seg type="newline">
+CCCII	NE	 UNKNOWN	CCCII
+.	$.	.	$.	 .	|	.
+Waffel=Kuchen	NN	 UNKNOWN	Waffel=Kuchen
+auff	APPR	 auf	auf
+eine	ART	 ein	eine
+andere	ADJA	 ander	andere
+Manier	NN	 Manier	Manier
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nim1	ADJA	 UNKNOWN	Nim1
+Kanne	NN	 Kanne	Kanne
+Mehl	NN	 Mehl	Mehl
+</seg>
+<seg type="newline">
+1	CARD	1	CARD	 1	|	1
+Kanne	NN	 Kanne	Kanne
+Milch	NN	 Milch	Milch
+</seg>
+<seg type="newline">
+8	CARD	8	CARD	 8	|	8
+oder	KON	 oder	oder
+10	CARD	 10	10
+Eyer	NE	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+2	CARD	2	CARD	 2	|	2
+Löffel	NN	 Löffel	Löffel
+voll	ADJD	 voll	voll
+Gest	NN	 UNKNOWN	Gest
+</seg>
+<seg type="newline">
+4	CARD	4	CARD	 4	|	4
+oder	KON	 oder	oder
+5	CARD	5	CARD	 5	|	5
+Bisquiete	NN	 UNKNOWN	Bisquiete
+,	$,	,	$,	 ,	|	,
+oder	KON	 oder	oder
+kleine	ADJA	 klein	kleine
+Zwieback	NN	 Zwieback	Zwieback
+</seg>
+<seg type="newline">
+1/3	CARD	 1/3	1/3
+Pf.	NN	 Pf.	Pf.
+geschmältzte	ADJA	 UNKNOWN	geschmältzte
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+und	KON	 und	und
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+gestossen	VVPP	 stoßen	gestossen
+Muscaten=blumen	NN	 UNKNOWN	Muscaten=blumen
+</seg>
+<seg type="newline">
+diß	VVFIN	 UNKNOWN	diß
+alles	PIS	 alle	alles
+wol	PWAV	 wo	wo
+durcheinander	ADV	 durcheinander	durcheinander
+geschlagen	VVPP	 schlagen	geschlagen
+des	ART	 d	des
+Abends	NN	 Abend	Abends
+zuvor	ADV	 zuvor	zuvor
+</seg>
+<seg type="newline">
+wenns	KOUS	 wenn	wenn
+des	ART	 d	des
+Morgens	NN	 Morgen	Morgens
+soll	VMFIN	 sollen	soll
+gebraucht	VVPP	 brauchen|gebrauchen	gebraucht
+werden	VAINF	 werden	werden
+;	$.	;	$.	 ;	|	;
+nimm	VVIMP	 nehmen	nimm
+denn	ADV	 denn	denn
+ein	ART	 ein	ein
+Waffel=Eisen	NN	 UNKNOWN	Waffel=Eisen
+</seg>
+<seg type="newline">
+backe	VVFIN	 backen	backe
+die	ART	 d	die
+Kuchen	NN	 Kuchen	Kuchen
+gahr	ADV	 gar	gar
+</seg>
+<seg type="newline">
+sie	PPER	 sie	sie
+sind	VAFIN	 sein	sind
+recht	ADJD	 recht	recht
+gut	ADJD	 gut	gut
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

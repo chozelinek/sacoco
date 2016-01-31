@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Thieme_1682_28" collection="historical" source="Thieme" url="none" year="1682" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[994]">
+<title>
+<seg type="newline">
+Schatelen	ADJA	 UNKNOWN	Schatelen
+Certelen	NN	 UNKNOWN	Certelen
+oder	KON	 oder	oder
+Sardinen	NN	 Sardine	Sardinen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Denen	PDS	 die	Denen
+ziehet	VVFIN	 zeihen|ziehen	ziehet
+man	PIS	 man	man
+gleichfalls	ADV	 gleichfalls	gleichfalls
+die	ART	 d	die
+Haut	NN	 Haut	Haut
+ab	APPR	 ab	ab
+</seg>
+<seg type="newline">
+wäschets	NN	 UNKNOWN	wäschets
+aus	APPR	 aus	aus
+von	APPR	 von	von
+den	ART	 d	den
+überflüssigem	ADJA	 überflüssig	überflüssigem
+Salz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+schlechten	ADJA	 schlecht	schlechten
+Wein	NN	 Wein	Wein
+oder	KON	 oder	oder
+Bier=Essig	NN	 UNKNOWN	Bier=Essig
+</seg>
+<seg type="newline">
+thut	NE	 UNKNOWN	thue
+den	ART	 d	den
+Grad	NN	 Grad	Grad
+heraus	ADV	 heraus	heraus
+</seg>
+<seg type="newline">
+legets	VVFIN	 legen	legt
+fein	ADJD	 fein	fein
+zierlich	ADJD	 zierlich	zierlich
+in	APPR	 in	in
+eine	ART	 ein	eine
+Schüssel	NN	 Schüssel	Schüssel
+</seg>
+<seg type="newline">
+giesset	PDAT	 dies	diese
+Oel	NN	 UNKNOWN	Oel
+</seg>
+<seg type="newline">
+Essig	NN	 Essig	Essig
+mit	APPR	 mit	mit
+Pfeffer	NN	 Pfeffer	Pfeffer
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+und	KON	 und	und
+issets	NN	 UNKNOWN	issets
+also	ADV	 also	also
+roh	ADJD	 roh	roh
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Koch_vnd_Kellermeisterey_1574_21" collection="historical" source="Koch_vnd_Kellermeisterey" url="none" year="1574" decade="1570-1580" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Huhn|" method="|none|" ref="[1574:26rf.]">
+<title>
+<seg type="newline">
+Gestossen	VVPP	 stoßen	Gestossen
+Hüner	NN	 UNKNOWN	Hünern
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Seud	NN	 UNKNOWN	Sud
+die	ART	 d	die
+alten	ADJA	 alt	alten
+feysten	VVFIN	 rösten	rösten
+Hüner	NN	 UNKNOWN	Hünern
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+schaum	NN	 Schaum	schaum
+die	ART	 d	die
+brüh	ADJD	 früh	früh
+</seg>
+<seg type="newline">
+vnmach	VVIMP	 machen	mach
+sie	PPER	 sie	sie
+lauter	ADJD	 laut	lauter
+als	KOKOM	 als	als
+ein	ART	 ein	ein
+Wasserbrühe	NN	 UNKNOWN	Kesselbrühe
+</seg>
+<seg type="newline">
+geuß	NN	 UNKNOWN	geuß
+nit	VVFIN	 UNKNOWN	nimb
+mehr	ADV	 mehr	mehr
+dran	PAV	 dran	dran
+</seg>
+<seg type="newline">
+saltz	ADJA	 kalt	kalten
+es	PPER	 es	es
+</seg>
+<seg type="newline">
+verseuds	ADJA	 UNKNOWN	verseuds
+nit	ADJA	 UNKNOWN	nimb
+</seg>
+<seg type="newline">
+thu	NN	 UNKNOWN	thu
+die	ART	 d	die
+hüner	NN	 UNKNOWN	Hünern
+auß	VMFIN	 müssen	muß
+vnd	KON	 und	und
+behalt	NN	 Inhalt	Inhalt
+die	PDS	 d	die
+brühe	VVFIN	 brühen	brühe
+</seg>
+<seg type="newline">
+seihe	PPOSAT	 sein	seine
+das	ART	 d	das
+feyßte	NN	 UNKNOWN	Feißte
+ab	PTKVZ	 ab	ab
+in	APPR	 in	in
+einen	ART	 ein	einen
+andern	ADJA	 ander	andern
+hafen	NN	 Hafen	hafen
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+die	ART	 d	die
+mager	ADJD	 mager	mager
+brühe	VVFIN	 brühen	brühe
+aber	ADV	 aber	aber
+in	APPR	 in	in
+einn	ART	 ein	einem
+andern	PIS	 ander	andern
+</seg>
+<seg type="newline">
+die	ART	 d	die
+laß	ADJD	 laß	laß
+also	ADV	 also	also
+stehn	VVFIN	 stellen	stellt
+.	$.	.	$.	 .	|	.
+Danzeuch	NN	 UNKNOWN	Danzeuch
+die	ART	 d	die
+grossen	ADJA	 groß	grossen
+beyn	NE	 Bey	bey
+auß	VMFIN	 müssen	muß
+den	ART	 d	den
+Hünern	NN	 UNKNOWN	Hünern
+</seg>
+<seg type="newline">
+hack	VVIMP	 hacken	hack
+sie	PPER	 sie	sie
+gar	ADV	 gar	gar
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+weych	ADJD	 weich	weich
+ein	ART	 ein	ein
+brodtbrosam	NE	 UNKNOWN	brodtbrosam
+weytzen	VVFIN	 setzen	setzen
+brodts	ADJA	 UNKNOWN	brats
+wol	PWAV	 wo	wo
+in	APPR	 in	in
+die	ART	 d	die
+mageren	ADJA	 mager	mageren
+brühe	VVFIN	 brühen	brühe
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+nimdas	NE	 UNKNOWN	nimdas
+brod	NN	 Brot	Brot
+vndie	NE	 UNKNOWN	dendie
+hüner	NN	 UNKNOWN	Hünern
+</seg>
+<seg type="newline">
+stoß	VVIMP	 stoßen	stoß
+gar	ADV	 gar	gar
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+eim	ADJA	 UNKNOWN	nimb
+Mörser	NN	 Mörser	Mörser
+</seg>
+<seg type="newline">
+zwings	VVFIN	 UNKNOWN	zwings
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+pfeffer	NN	 Pfeffer	pfeffer
+tuch	NN	 Tuch	tuch
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+der	ART	 d	der
+alten	ADJA	 alt	alten
+Hünerbrühe	NN	 Hühnerbrühe	Hühnerbrühe
+</seg>
+<seg type="newline">
+stoß	VVIMP	 stoßen	stoß
+es	PPER	 es	es
+noch	ADV	 noch	noch
+eins	CARD	 eins	eins
+</seg>
+<seg type="newline">
+zwings	NN	 UNKNOWN	zwings
+aber	ADV	 aber	aber
+durch	PTKVZ	 durch	durch
+</seg>
+<seg type="newline">
+ist	VAFIN	 sein	ist
+es	PPER	 es	es
+zu	PTKA	 zu	zu
+dün	ADJD	 dünn	dünn
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+thu	NE	 Thu	thu
+mehr	PIAT	 mehr	mehr
+Weißbrodt	NN	 Weißbrot	Weißbrot
+drein	ADV	 drein	drein
+</seg>
+<seg type="newline">
+zwings	ADJD	 UNKNOWN	zwings
+durch	PTKVZ	 durch	durch
+</seg>
+<seg type="newline">
+ist	VAFIN	 sein	ist
+es	PPER	 es	es
+zu	PTKA	 zu	zu
+dick	ADJD	 dick	dick
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+zwing	VVFIN	 UNKNOWN	zwings
+es	PPER	 es	es
+on	ADJA	 UNKNOWN	on
+brot	NN	 Brot	Brot
+durch	APPR	 durch	durch
+</seg>
+<seg type="newline">
+erwells	NN	 UNKNOWN	erwells
+in	APPR	 in	in
+einer	ART	 ein	einer
+pfannen	NN	 Pfanne	Pfanne
+</seg>
+<seg type="newline">
+mach	VVIMP	 machen	mach
+es	PPER	 es	es
+ab	ADV	 ab	ab
+mit	PTKVZ	 mit	mit
+würtz	VVFIN	 würzen	würzt
+vnd	KON	 und	und
+saltz	ADJA	 kalt	kalten
+Wann	PWAV	 wann	Wann
+es	PPER	 es	es
+nun	ADV	 nun	nun
+durch	PTKVZ	 durch	durch
+ist	VAFIN	 sein	ist
+gangen	ADV	 lange	lange
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+seind	VAFIN	 sein	sind
+es	PPER	 es	es
+gestossen	VVPP	 stoßen	gestossen
+Hüner	NN	 UNKNOWN	Hünern
+</seg>
+<seg type="newline">
+thu	NE	 Thu	thu
+lauter	PIAT	 lauter	lauter
+butter	VVIMP	 buttern	butter
+darauff	PTKVZ	 drauf	drauf
+.	$.	.	$.	 .	|	.
+Du	PPER	 du	Du
+magst	VMFIN	 mögen	magst
+alle	PIAT	 alle	alle
+vögel	VVIMP	 vögeln	vögel
+also	ADV	 also	also
+stossen	VVINF	 stoßen	stossen
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+machen	VVINF	 machen	machen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+mit	APPR	 mit	mit
+seiner	PPOSAT	 sein	seiner
+farb	NE	 UNKNOWN	farb
+absieden	VVINF	 abwiegen	abwiegen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

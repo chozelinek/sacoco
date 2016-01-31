@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Osnabrueck_1687_21" collection="historical" source="Osnabrueck" url="none" year="1687" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1687:41]">
+<title>
+<seg type="newline">
+Eine	ART	 ein	Eine
+Birn=Tarte	NN	 UNKNOWN	Birn=Tarte
+zu	PTKZU	 zu	zu
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nehmt	VVFIN	 nehmen	Nehmt
+zwölff	NE	 UNKNOWN	zwölff
+wohlschmeckende	ADJA	 wohlschmeckend	wohlschmeckende
+geschelte	ADJD	 gescheit	gescheit
+Birn	NN	 UNKNOWN	Birn
+</seg>
+<seg type="newline">
+Corinthen	NN	 Korinthe	Korinthen
+und	KON	 und	und
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+jedes	PIAT	 jed	jedes
+ein	ART	 ein	ein
+viertel	ADJA	 Viertel	viertel
+Pfund	NN	 Pfund	Pfund
+</seg>
+<seg type="newline">
+sechs	CARD	 sechs	sechs
+Loth	NE	 Loth	Loth
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+Ingber	NN	 Ingwer	Ingwer
+und	KON	 und	und
+Caneel	NN	 Handel	Handel
+jedes	PIAT	 jed	jedes
+ein	CARD	 ein	ein
+halb	ADJD	 halb	halb
+Loth	NE	 Loth	Loth
+</seg>
+<seg type="newline">
+macht	VVFIN	 machen	macht
+hierauß	NN	 UNKNOWN	hierauß
+eure	PPOSAT	 euer	eure
+Tarte	NN	 Torte	Torte
+im	APPRART	 im	im
+vorgedachten	ADJA	 vorgedacht	vorgedachten
+Teige	NN	 Teig	Teige
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

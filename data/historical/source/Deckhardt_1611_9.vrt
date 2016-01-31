@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Deckhardt_1611_9" collection="historical" source="Deckhardt" url="none" year="1611" decade="1610-1620" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1611:73f.]">
+<title>
+<seg type="newline">
+Geschnitne	ADJA	 UNKNOWN	Geschnitne
+Flecke	NN	 Fleck	Flecke
+oder	KON	 oder	oder
+Schabantzen	NN	 UNKNOWN	Schabantzen
+aus	APPR	 aus	aus
+Eyern	ADJD	 UNKNOWN	Eyern
+zumachen	VVFIN	 zumachen	zumachen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nim	ADJA	 UNKNOWN	nimb
+Vngeuehr	NN	 UNKNOWN	Vngeuehr
+10	CARD	 10	10
+oder	KON	 oder	oder
+12	CARD	 12	12
+Eyer	NE	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+mehr	ADV	 mehr	mehr
+oder	KON	 oder	oder
+weniger	PIS	 wenig	weniger
+</seg>
+<seg type="newline">
+schlage	VVFIN	 schlagen	schlage
+sie	PPER	 sie	sie
+in	APPR	 in	in
+ein	ART	 ein	ein
+töpfflein	NN	 UNKNOWN	töpfflein
+oder	KON	 oder	oder
+schüssel	NN	 Schüssel	schüssel
+</seg>
+<seg type="newline">
+quirle	NE	 UNKNOWN	quirle
+sie	PPER	 sie	sie
+wol	PWAV	 wo	wo
+vntereinander	ADV	 untereinander	untereinander
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+saltze	ADJA	 kalt	kalten
+sie	PPER	 sie	sie
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+.	$.	.	$.	 .	|	.
+Nim	VVFIN	 UNKNOWN	nimb
+den	ART	 d	den
+eine	ART	 ein	eine
+Pfanne	NN	 Pfanne	Pfanne
+oder	KON	 oder	oder
+Tiegel	NN	 Tiegel	Tiegel
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+darinnen	VVFIN	 darinnen	darinnen
+ein	ART	 ein	ein
+schmaltz	ADJA	 UNKNOWN	schmaltz
+heis	NN	 UNKNOWN	heis
+</seg>
+<seg type="newline">
+geus	VVPP	 UNKNOWN	geuß
+es	PPER	 es	es
+darnach	PAV	 danach	Danach
+gar	ADV	 gar	gar
+aus	PTKVZ	 aus	aus
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+nim	VVFIN	 UNKNOWN	nimb
+einen	ART	 ein	einen
+löffelvol	NN	 UNKNOWN	löffelvol
+</seg>
+<seg type="newline">
+von	APPR	 von	von
+den	ART	 d	den
+geklopfften	ADJA	 UNKNOWN	geklopfften
+Eyern	ADJA	 UNKNOWN	Eyern
+</seg>
+<seg type="newline">
+thu	NN	 UNKNOWN	thue
+es	PPER	 es	es
+in	APPR	 in	in
+die	ART	 d	die
+Pfanne	NN	 Pfanne	Pfanne
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+schwengk	VVFIN	 UNKNOWN	schwengk
+es	PPER	 es	es
+am	APPRART	 am	am
+boden	NN	 Boden	boden
+behend	ADJD	 behend	behend
+herumb	VVFIN	 UNKNOWN	herumb
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+der	ART	 d	der
+boden	NN	 Boden	boden
+allenthalben	ADV	 allenthalben	allenthalben
+wol	PWAV	 wo	wo
+bedecket	VVFIN	 UNKNOWN	bedecket
+sey	NE	 UNKNOWN	sey
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+bäcket	VVFIN	 UNKNOWN	bäcket
+schnel	NE	 UNKNOWN	schnel
+ein	ART	 ein	ein
+dünne	ADJA	 dünn	dünne
+bletlein	NN	 UNKNOWN	bletlein
+davon	PAV	 davon	davon
+</seg>
+<seg type="newline">
+schütte	VVFIN	 schütten	schütte
+es	PPER	 es	es
+den	ART	 d	den
+auff	APPR	 auf	auf
+einen	ART	 ein	einen
+reinen	ADJA	 rein	reinen
+ort	ADJA	 UNKNOWN	ort
+</seg>
+<seg type="newline">
+Geus	NN	 UNKNOWN	Geus
+wieder	ADV	 wieder	wieder
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+von	APPR	 von	von
+dem	ART	 d	dem
+zergangnen	ADJA	 UNKNOWN	zergangnen
+Schmaltze	NN	 UNKNOWN	Schmaltze
+in	APPR	 in	in
+die	ART	 d	die
+Pfanne	NN	 Pfanne	Pfanne
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+ein	ART	 ein	ein
+löfflein	NN	 UNKNOWN	löfflein
+vol	PWAV	 wo	wo
+mit	APPR	 mit	mit
+den	ART	 d	den
+geklopfften	ADJA	 UNKNOWN	geklopfften
+Eyern	NN	 UNKNOWN	Eyern
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+mache	VVFIN	 machen	mache
+es	PPER	 es	es
+darmitte	NN	 UNKNOWN	darmitte
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+vorgemeldet	ADJD	 UNKNOWN	vorgemeldet
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+derer	PDS	 d	derer
+bletlein	NN	 UNKNOWN	bletlein
+etzliche	ADJA	 UNKNOWN	Etliche
+sein	VAINF	 sein	sein
+</seg>
+<seg type="newline">
+Nim	VVFIN	 UNKNOWN	nimb
+den	PDS	 d	den
+dieselben	PDS	 dieselbe	dieselben
+</seg>
+<seg type="newline">
+wickle	VVFIN	 wickeln	wickle
+sie	PPER	 sie	sie
+fein	ADJD	 fein	fein
+subtiel	ADJA	 UNKNOWN	subtiel
+vbereinander	NN	 UNKNOWN	vbereinander
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+offte	VVFIN	 UNKNOWN	offte
+man	PIS	 man	man
+kan	ADV	 nun	Nun
+</seg>
+<seg type="newline">
+schneide	VVFIN	 schneiden	schneide
+es	PPER	 es	es
+klein	ADJD	 klein	klein
+wie	KOKOM	 wie	wie
+Flecke	NN	 Fleck	Flecke
+oder	KON	 oder	oder
+Schabantzen	NN	 UNKNOWN	Schabantzen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+mache	VVFIN	 machen	mache
+wieder	ADV	 wieder	wieder
+ein	ART	 ein	ein
+Schmaltz	NN	 Schmalz	Schmalz
+heis	VVFIN	 UNKNOWN	heis
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+es	PPER	 es	es
+nur	ADV	 nur	nur
+den	ART	 d	den
+boden	NN	 Boden	boden
+in	APPR	 in	in
+der	ART	 d	der
+Pfanne	NN	 Pfanne	Pfanne
+oder	KON	 oder	oder
+Tiegel	NN	 Tiegel	Tiegel
+bedecket	NN	 UNKNOWN	bedecket
+</seg>
+<seg type="newline">
+schütte	VVFIN	 schütten	schütte
+die	ART	 d	die
+geschnitne	ADJA	 UNKNOWN	geschnitne
+bletlein	NN	 UNKNOWN	bletlein
+drein	PTKVZ	 drein	drein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+röste	VVFIN	 UNKNOWN	röste
+es	PPER	 es	es
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+</seg>
+<seg type="newline">
+geus	NN	 UNKNOWN	geuß
+darnach	PAV	 danach	Danach
+eine	ART	 ein	eine
+gute	ADJA	 gut	gute
+dicke	ADJA	 dick	dicke
+Milch	NN	 Milch	Milch
+oder	KON	 oder	oder
+Rohm	NN	 UNKNOWN	Rohm
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+ein	ART	 ein	ein
+feiste	ADJA	 feist	feiste
+Rindfleischsuppen	NN	 UNKNOWN	Rindfleischsuppen
+dran	PTKVZ	 dran	dran
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+würtze	VVFIN	 würzen	würzt
+es	PPER	 es	es
+mit	APPR	 mit	mit
+Ingwer	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Muscaten	NN	 UNKNOWN	Muscaten
+vnd	KON	 und	und
+Saffran	NN	 Safran	Safran
+</seg>
+<seg type="newline">
+las	VVFIN	 lesen	las
+es	PPER	 es	es
+sieden	VVINF	 sieden	sieden
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+richte	VVFIN	 richten	richte
+es	PPER	 es	es
+den	PDS	 d	den
+an	PTKVZ	 an	an
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

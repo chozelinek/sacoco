@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Staindl_1569_17" collection="historical" source="Staindl" url="none" year="1569" decade="1560-1570" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[24v]">
+<title>
+<seg type="newline">
+Heiß	ADJD	 heiß	Heiß
+Wildbrät	NN	 UNKNOWN	Wildbrät
+Pasteten	NN	 Pastete	Pasteten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Von	APPR	 von	Von
+Hirschen	NN	 Hirsch	Hirschen
+oder	KON	 oder	oder
+Räch	NN	 UNKNOWN	Räch
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+die	ART	 d	die
+Pasteten	NN	 Pastete	Pasteten
+gemacht	VVPP	 machen	gemacht
+ist	VAFIN	 sein	ist
+von	NE	 von	von
+rucken	VVFIN	 rucken	rucken
+meel	ADJD	 UNKNOWN	meel
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nimb	VVFIN	 UNKNOWN	nimb
+das	ART	 d	das
+Wildbrät	NN	 UNKNOWN	Wildbrät
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+verbrenns	ADJA	 UNKNOWN	verbrenns
+</seg>
+<seg type="newline">
+schneyd	ADJA	 UNKNOWN	schneyd
+zwen	NN	 UNKNOWN	zwen
+schnit	NN	 UNKNOWN	schnit
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+wäsch	NN	 UNKNOWN	wäsch
+auß	VMFIN	 müssen	muß
+drey	CARD	 drei	drei
+oder	KON	 oder	oder
+vier	CARD	 vier	vier
+wasser	VVIMP	 wassern	wasser
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+nimb	VVFIN	 UNKNOWN	nimb
+ein	ART	 ein	ein
+news	NN	 UNKNOWN	news
+Ochsenflaisch	NN	 UNKNOWN	Ochsenflaisch
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+hack	VVIMP	 hacken	hack
+gar	ADV	 gar	gar
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+specks	ADJA	 UNKNOWN	specks
+darunder	NN	 UNKNOWN	darunder
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+ein	ART	 ein	ein
+handvol	NN	 UNKNOWN	handvol
+Maioran	NE	 UNKNOWN	Maioran
+</seg>
+<seg type="newline">
+gesaltzen	ADJA	 UNKNOWN	gesaltzen
+vnd	KON	 und	und
+gewürtzt	ADJA	 UNKNOWN	gewürtzt
+</seg>
+<seg type="newline">
+Ingber	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+vnd	KON	 und	und
+ander	ADV	 UNKNOWN	ander
+gewürtz	NN	 UNKNOWN	Gewürtz
+durch	APPR	 durch	durch
+einander	PRF	 einander	einander
+</seg>
+<seg type="newline">
+netz	ADJD	 UNKNOWN	netz
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+mit	APPR	 mit	mit
+essig	ADJD	 UNKNOWN	essig
+</seg>
+<seg type="newline">
+schaw	ADJD	 scharf	scharf
+das	ART	 d	das
+kein	PIAT	 kein	kein
+bain	NN	 UNKNOWN	bain
+in	APPR	 in	in
+der	ART	 d	der
+Pasteten	NN	 Pastete	Pasteten
+jrrt	VVINF	 UNKNOWN	jrrt
+</seg>
+<seg type="newline">
+magst	VMFIN	 mögen	magst
+auch	ADV	 auch	auch
+wol	PWAV	 wo	wo
+Lemoni	NN	 UNKNOWN	Lemoni
+darzu	PAV	 dazu	dazu
+nemen	ADJD	 UNKNOWN	nemen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+laß	ADJD	 laß	laß
+dray	ADJA	 UNKNOWN	dray
+stund	NN	 Stand	Stand
+bachen	NN	 Kochen	Kochen
+</seg>
+<seg type="newline">
+gibs	NN	 UNKNOWN	gilbs
+warm	ADJD	 warm	warm
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

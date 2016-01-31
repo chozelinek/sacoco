@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Prasmosfky_1671_17" collection="historical" source="Prasmosfky" url="none" year="1671" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1671:120]">
+<title>
+<seg type="newline">
+366.	ADJA	 @ord@	366.
+Schlepperkäß=Küchlein	NN	 UNKNOWN	Schlepperkäß=Küchlein
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+Lob	NN	 Lob	Lob
+zerreibs	NN	 UNKNOWN	zerreibs
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Löffel	NN	 Löffel	Löffel
+in	APPR	 in	in
+einer	ART	 ein	einer
+Schüssel	NN	 Schüssel	Schüssel
+mit	APPR	 mit	mit
+Milch	NN	 Milch	Milch
+</seg>
+<seg type="newline">
+gieß	VVIMP	 gießen	gieß
+in	APPR	 in	in
+den	ART	 d	den
+Hafen	NN	 Hafen	Hafen
+</seg>
+<seg type="newline">
+darinnen	VVFIN	 darinnen	darinnen
+ein	ART	 ein	ein
+warme	ADJA	 warm	warme
+Milch	NN	 Milch	Milch
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+rührs	ADJA	 UNKNOWN	rührs
+wol	PWAV	 wo	wo
+durcheinander	ADV	 durcheinander	durcheinander
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+sieden	VVINF	 sieden	sieden
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+du	PPER	 du	du
+im	APPRART	 im	im
+Hafen	NN	 Hafen	Hafen
+ein	ART	 ein	ein
+Reifflein	NN	 UNKNOWN	Reifflein
+wie	KOKOM	 wie	wie
+ein	ART	 ein	ein
+Wasser	NN	 Wasser	Wasser
+siehest	VVFIN	 sehen	siehest
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+leg	VVIMP	 legen	leg
+ein	ART	 ein	ein
+rein	ADV	 rein	rein
+Tüchlein	NN	 Tüchlein	Tüchlein
+in	APPR	 in	in
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+und	KON	 und	und
+breite	VVFIN	 breiten	breite
+solches	PIS	 solch	solches
+in	APPR	 in	in
+ein	ART	 ein	ein
+Sieblein	NN	 UNKNOWN	Sieblein
+</seg>
+<seg type="newline">
+hebe	VVFIN	 heben	hebe
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+eisernen	ADJA	 eisern	eisernen
+Löffel	NN	 Löffel	Löffel
+den	ART	 d	den
+Schlepper=Käß	NN	 UNKNOWN	Schlepper=Käß
+in	APPR	 in	in
+das	ART	 d	das
+Sieblein	NN	 UNKNOWN	Sieblein
+auf	APPR	 auf	auf
+das	ART	 d	das
+Tuch	NN	 Tuch	Tuch
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+ihn	PPER	 er	ihn
+vertropffen	VVFIN	 UNKNOWN	vertropffen
+</seg>
+<seg type="newline">
+hernach	ADV	 hernach	hernach
+thue	VVFIN	 UNKNOWN	thue
+ihn	PPER	 er	ihn
+auf	APPR	 auf	auf
+einen	ART	 ein	einen
+Deller	NN	 UNKNOWN	Deller
+</seg>
+<seg type="newline">
+schneide	VVFIN	 schneiden	schneide
+Stück	NN	 Stück	Stück
+daraus	PAV	 daraus	daraus
+</seg>
+<seg type="newline">
+nimm	VVIMP	 nehmen	nimm
+Weitzen=Meel	ADJA	 UNKNOWN	Weitzen=Meel
+</seg>
+<seg type="newline">
+thue	NN	 UNKNOWN	thue
+den	ART	 d	den
+Käß	NN	 UNKNOWN	Käß
+darunter	PAV	 darunter	darunter
+</seg>
+<seg type="newline">
+schlage	VVFIN	 schlagen	schlage
+Eyer	NE	 UNKNOWN	Eyer
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+reibs	VVFIN	 reiben	reiben
+fein	ADJD	 fein	fein
+glatt	ADJD	 glatt	glatt
+miteinander	ADV	 miteinander	miteinander
+ab	APPR	 ab	ab
+</seg>
+<seg type="newline">
+würck	NE	 UNKNOWN	würck
+ihn	PPER	 er	ihn
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+gewollene	ADJA	 UNKNOWN	gewollene
+Küchlein	NN	 Küchlein	Küchlein
+</seg>
+<seg type="newline">
+und	KON	 und	und
+bachs	NN	 Bach	bachs
+</seg>
+<seg type="newline">
+du	PPER	 du	du
+must	VVFIN	 UNKNOWN	must
+des	ART	 d	des
+Käß	NN	 UNKNOWN	Käß
+weniger	ADV	 weniger	weniger
+</seg>
+<seg type="newline">
+als	KOKOM	 als	als
+des	ART	 d	des
+Meels	NN	 UNKNOWN	Meels
+</seg>
+<seg type="newline">
+nehmen	VVINF	 nehmen	nehmen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

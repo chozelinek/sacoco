@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Deckhardt_1611_25" collection="historical" source="Deckhardt" url="none" year="1611" decade="1610-1620" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1611:216]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+Feygenmuhs	NN	 UNKNOWN	Feygenmuhs
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Feygen	NN	 UNKNOWN	Feygen
+zu	PTKZU	 zu	zu
+kochen	VVINF	 kochen	kochen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Thue	NN	 UNKNOWN	thue
+ein	ART	 ein	ein
+mäßlein	NN	 UNKNOWN	mäßlein
+Wein	NN	 Wein	Wein
+in	APPR	 in	in
+ein	ART	 ein	ein
+töpfflein	NN	 UNKNOWN	töpfflein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+die	ART	 d	die
+Feygen	NN	 UNKNOWN	Feygen
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+Wann	PWAV	 wann	Wann
+es	PPER	 es	es
+nun	ADV	 nun	nun
+anfehet	VVFIN	 UNKNOWN	anfehet
+zu	PTKVZ	 zu	zu
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+thue	NE	 UNKNOWN	thue
+geriebenen	ADJA	 gerieben	geriebenen
+Pfefferkuchen	NN	 Pfefferkuchen	Pfefferkuchen
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Semmel	NN	 Semmel	Semmel
+</seg>
+<seg type="newline">
+geschelete	ADJA	 UNKNOWN	geschelete
+Mandeln	NN	 Mandel	Mandeln
+</seg>
+<seg type="newline">
+kleine	ADJA	 klein	kleine
+oder	KON	 oder	oder
+grosse	ADJA	 groß	grosse
+Rosinen	NN	 Rosine	Rosinen
+</seg>
+<seg type="newline">
+Ingwer	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Zimmet	NN	 Zimt	Zimt
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+vnd	KON	 und	und
+Saffran	NN	 Safran	Safran
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+mehr	ADV	 mehr	mehr
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+So	ADV	 so	So
+wird	VAFIN	 werden	wird
+es	PPER	 es	es
+recht	ADJD	 recht	recht
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

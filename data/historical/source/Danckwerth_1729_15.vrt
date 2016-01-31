@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Danckwerth_1729_15" collection="historical" source="Danckwerth" url="none" year="1729" decade="1720-1730" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1729:209]">
+<title>
+<seg type="newline">
+[	$(	[	$(	 [	|	[
+40.	ADJA	 @ord@	40.
+Schüssel=Pastete	NN	 UNKNOWN	Schüssel=Pastete
+.	$.	.	$.	 .	|	.
+]	$(	]	$(	 ]	|	]
+41.	ADJA	 @ord@	41.
+Andere	ADJA	 ander	Andere
+Art.	NN	 Art.	Art.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+2.	ADJA	 2.	2.
+Pfund	NN	 Pfund	Pfund
+mager	ADJD	 mager	mager
+Kalb=Fleisch	NN	 UNKNOWN	Kalb=Fleisch
+</seg>
+<seg type="newline">
+koche	VVFIN	 kochen	koche
+es	PPER	 es	es
+so	ADV	 so	so
+lang	ADJD	 lang	lang
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+kein	PIAT	 kein	kein
+Blut	NN	 Blut	Blut
+mehr	ADV	 mehr	mehr
+darin	PAV	 darin	darin
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nim	VVFIN	 UNKNOWN	nimb
+ein	ART	 ein	ein
+Pfund	NN	 Pfund	Pfund
+schier	ADJD	 schier	schier
+Ochsen=Fett	NN	 UNKNOWN	Ochsen=Fett
+</seg>
+<seg type="newline">
+hacke	VVFIN	 hacken	hacke
+es	PPER	 es	es
+dabey	PAV	 dabei	dabei
+menge	VVFIN	 mengen	menge
+ein	ART	 ein	ein
+halb	ADJD	 halb	halb
+Pfund	NN	 Pfund	Pfund
+Corinthen	NN	 Korinthe	Korinthen
+</seg>
+<seg type="newline">
+darunter	PAV	 darunter	darunter
+Zickat	NN	 UNKNOWN	Zickat
+</seg>
+<seg type="newline">
+klein	ADJD	 klein	klein
+darin	PAV	 darin	darin
+geschnitten	VVPP	 schneiden	geschnitten
+</seg>
+<seg type="newline">
+wenig	PIAT	 wenig	wenig
+Rosen=Wasser	NN	 Rosenwasser	Rosenwasser
+</seg>
+<seg type="newline">
+wenig	PIAT	 wenig	wenig
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+Nälgen	ADJA	 UNKNOWN	Nälgen
+</seg>
+<seg type="newline">
+Canehl	NN	 UNKNOWN	Canehl
+</seg>
+<seg type="newline">
+Muscaten=blumen	NN	 UNKNOWN	Muscaten=blumen
+</seg>
+<seg type="newline">
+das	ART	 d	das
+alles	PIS	 alle	alles
+wohl	ADV	 wohl	wohl
+durch	APPR	 durch	durch
+einander	PRF	 einander	einander
+gethan	NE	 UNKNOWN	gethan
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+einen	ART	 ein	einen
+Butter=Teig	NN	 UNKNOWN	Butter=Teig
+über	APPR	 über	über
+eine	ART	 ein	eine
+tieffe	NN	 UNKNOWN	tieffe
+Schüssel	NN	 Schüssel	Schüssel
+</seg>
+<seg type="newline">
+thue	VVFIN	 UNKNOWN	thue
+es	PPER	 es	es
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+denn	ADV	 denn	denn
+wieder	ADV	 wieder	wieder
+Teig	NN	 Teig	Teig
+gemacht	VVPP	 machen	gemacht
+</seg>
+<seg type="newline">
+bedeck	VVFIN	 UNKNOWN	bedeck
+es	PPER	 es	es
+damit	PAV	 damit	damit
+</seg>
+<seg type="newline">
+und	KON	 und	und
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+im	APPRART	 im	im
+Ofen	NN	 Ofen	Ofen
+gahr	ADV	 gar	gar
+werden	VAINF	 werden	werden
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

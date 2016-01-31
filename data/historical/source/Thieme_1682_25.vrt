@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Thieme_1682_25" collection="historical" source="Thieme" url="none" year="1682" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[971]">
+<title>
+<seg type="newline">
+Ahl	NE	 UNKNOWN	Ahl
+auf	APPR	 auf	auf
+Französische	ADJA	 französisch	Französische
+Manier	NN	 Manier	Manier
+zu	PTKZU	 zu	zu
+bereiten	VVINF	 bereiten	bereiten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nehmt	VVFIN	 nehmen	Nehmt
+einen	ART	 ein	einen
+Ahl	NN	 UNKNOWN	Ahl
+</seg>
+<seg type="newline">
+lasset	VVFIN	 lassen	lasset
+ihm	PPER	 er	ihm
+seine	PPOSAT	 sein	seine
+Haut	NN	 Haut	Haut
+an	APZR	 an	an
+</seg>
+<seg type="newline">
+reibet	VVFIN	 reiben	reiben
+ihn	PPER	 er	ihn
+aber	ADV	 aber	aber
+in	APPR	 in	in
+heisser	ADJA	 heiß	heisser
+Aschen	NN	 Asche	Aschen
+wol	PWAV	 wo	wo
+ab	PTKVZ	 ab	ab
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+brühet	ADJA	 grün	grünen
+ihn	PPER	 er	ihn
+in	APPR	 in	in
+heissem	ADJA	 heiß	heissem
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+öffnet	VVFIN	 öffnen	öffnet
+den	ART	 d	den
+Bauch	NN	 Bauch	Bauch
+</seg>
+<seg type="newline">
+nehmet	VVFIN	 nehmen	nehmet
+das	ART	 d	das
+Eingeweid	NN	 UNKNOWN	Eingeweid
+heraus	ADV	 heraus	heraus
+</seg>
+<seg type="newline">
+waschet	VVFIN	 waschen	waschen
+ihn	PPER	 er	ihn
+wol	PWAV	 wo	wo
+aus	APZR	 aus	aus
+</seg>
+<seg type="newline">
+schneidet	VVFIN	 schneiden	schneidet
+ihn	PPER	 er	ihn
+Stuck=weis	NN	 UNKNOWN	Stuck=weis
+</seg>
+<seg type="newline">
+doch	ADV	 doch	doch
+also	ADV	 also	also
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+es	PPER	 es	es
+nicht	PTKNEG	 nicht	nicht
+durchaus	ADV	 durchaus	durchaus
+gehe	VVFIN	 gehen	gehe
+</seg>
+<seg type="newline">
+sondern	KON	 sondern	sondern
+Schnecken=weis	NN	 UNKNOWN	Schnecken=weis
+in	APPR	 in	in
+die	ART	 d	die
+Schüssel	NN	 Schüssel	Schüssel
+könne	VMFIN	 können	könne
+geleget	ADJD	 UNKNOWN	geleget
+werden	VAINF	 werden	werden
+</seg>
+<seg type="newline">
+bestreuet	VVFIN	 bestreuen	bestreuen
+ihn	PPER	 er	ihn
+mit	APPR	 mit	mit
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+klein=gehackten	ADJA	 UNKNOWN	klein=gehackten
+Peterlein	NN	 UNKNOWN	Peterlein
+</seg>
+<seg type="newline">
+Majoran	NN	 Majoran	Majoran
+und	KON	 und	und
+Tymian	NN	 UNKNOWN	Tymian
+</seg>
+<seg type="newline">
+thut	VVFIN	 UNKNOWN	thue
+ihn	PPER	 er	ihn
+in	APPR	 in	in
+einen	ART	 ein	einen
+Hafen	NN	 Hafen	Hafen
+</seg>
+<seg type="newline">
+siedet	VVFIN	 sieden	siedet
+ihn	PPER	 er	ihn
+mit	APPR	 mit	mit
+einer	ART	 ein	einer
+kurzen	ADJA	 kurz	kurzen
+Brühe	NN	 Brühe	Brühe
+;	$.	;	$.	 ;	|	;
+wann	PWAV	 wann	wann
+er	PPER	 er	er
+gnug	NN	 UNKNOWN	gnug
+gesotten	VVPP	 sieden	gesotten
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+lasset	VVFIN	 lassen	lasset
+ihn	PPER	 er	ihn
+in	APPR	 in	in
+der	ART	 d	der
+Brühe	NN	 Brühe	Brühe
+erkalten	VVFIN	 erkalten	erkalten
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+thut	NE	 UNKNOWN	thue
+ihn	PPER	 er	ihn
+heraus	ADV	 heraus	heraus
+</seg>
+<seg type="newline">
+legt	VVFIN	 legen	legt
+ihn	PPER	 er	ihn
+auf	APPR	 auf	auf
+einen	ART	 ein	einen
+Teller	NN	 Teller	Teller
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+er	PPER	 er	er
+vertropffet	ADJD	 UNKNOWN	vertropffet
+</seg>
+<seg type="newline">
+und	KON	 und	und
+setzet	VVFIN	 setzen	setzet
+ihn	PPER	 er	ihn
+also	ADV	 also	also
+mit	APPR	 mit	mit
+Wein=Essig	NN	 UNKNOWN	Wein=Essig
+auf	PTKVZ	 auf	auf
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

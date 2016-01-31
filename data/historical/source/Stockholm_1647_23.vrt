@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Stockholm_1647_23" collection="historical" source="Stockholm" url="none" year="1647" decade="1640-1650" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1647:246]">
+<title>
+<seg type="newline">
+[	$(	[	$(	 [	|	[
+Marginalie	NN	 UNKNOWN	Marginalie
+:	$.	:	$.	 :	|	:
+Hatteletten	NN	 UNKNOWN	Hatteletten
+Von	APPR	 von	Von
+gewässerten	ADJA	 gewässert	gewässerten
+Saltzen	NN	 UNKNOWN	Saltzen
+Lachs	NN	 Lachs	Lachs
+]	$(	]	$(	 ]	|	]
+</seg>
+</title>
+<body>
+<seg type="newline">
+Geschnitten	NN	 UNKNOWN	Geschnitten
+an	APPR	 an	an
+dünne	ADJA	 dünn	dünne
+stücken	VVFIN	 stücken	stücken
+</seg>
+<seg type="newline">
+1.	ADJA	 1.	1.
+Fingers	NN	 Finger	Fingers
+lang	ADJD	 lang	lang
+</seg>
+<seg type="newline">
+2.	ADJA	 2.	2.
+Fingers	NN	 Finger	Fingers
+breit	ADJD	 breit	breit
+</seg>
+<seg type="newline">
+Hacket	NN	 UNKNOWN	Hacket
+durcheinander	ADV	 durcheinander	durcheinander
+</seg>
+<seg type="newline">
+hart	ADJD	 hart	hart
+gesottenen	ADJA	 gesiedet	gesottenen
+Eyerdotter	ADJA	 UNKNOWN	Eyerdotter
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Mußcatenblumen	NN	 UNKNOWN	Mußcatenblumen
+</seg>
+<seg type="newline">
+Kälbern=Talch	NN	 UNKNOWN	Kälbern=Talch
+</seg>
+<seg type="newline">
+streichet	VVFIN	 UNKNOWN	streichet
+es	PPER	 es	es
+darvber	ADJD	 UNKNOWN	darvber
+</seg>
+<seg type="newline">
+drehet	VVFIN	 UNKNOWN	drehet
+es	PPER	 es	es
+zusammen	ADV	 zusammen	zusammen
+</seg>
+<seg type="newline">
+steckt	VVFIN	 stecken	steckt
+sie	PPER	 sie	sie
+an	APPR	 an	an
+höltzene	ADJA	 UNKNOWN	höltzene
+Haselne	NN	 UNKNOWN	Haselne
+Stecken	NN	 Stecken	Stecken
+</seg>
+<seg type="newline">
+zwischen	APPR	 zwischen	zwischen
+jedes	PIAT	 jed	jedes
+grüne	ADJA	 grün	grüne
+Kräuter	NN	 Kraut	Kräuter
+oder	KON	 oder	oder
+dünn	ADJD	 dünn	dünn
+geschnitten	VVPP	 schneiden	geschnitten
+Speck	NN	 Speck	Speck
+</seg>
+<seg type="newline">
+Bindet	VVFIN	 binden	Bindet
+sie	PPER	 sie	sie
+an	APPR	 an	an
+ein	ART	 ein	ein
+Bratspeiß	NN	 UNKNOWN	Bratspeiß
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+leget	ADJA	 UNKNOWN	leget
+sie	PPER	 sie	sie
+auff	APPR	 auf	auf
+eine	ART	 ein	eine
+Roste	NN	 Rost	Roste
+vnd	KON	 und	und
+bratet	VVFIN	 UNKNOWN	bratet
+sie	PPER	 sie	sie
+</seg>
+<seg type="newline">
+begiest	VVFIN	 UNKNOWN	begiest
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+Butter	NN	 Butter	Butter
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

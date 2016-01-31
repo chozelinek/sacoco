@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Wecker_1679_2" collection="historical" source="Wecker" url="none" year="1679" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:15]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+gut	ADJD	 gut	gut
+kräfftig	ADJA	 UNKNOWN	kräfftig
+Essen	NN	 Essen	Essen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+So	ADV	 so	So
+ein	ART	 ein	ein
+Krancker	NN	 UNKNOWN	Krancker
+kein	PIAT	 kein	kein
+Fleisch	NN	 Fleisch	Fleisch
+oder	KON	 oder	oder
+Brot	NN	 Brot	Brot
+esse	VVFIN	 essen	esse
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+von	APPR	 von	von
+Schwachheit	NN	 Schwachheit	Schwachheit
+wegen	APPO	 wegen	wegen
+nicht	PTKNEG	 nicht	nicht
+möchte	VMFIN	 mögen	möchte
+hinab	ADV	 hinab	hinab
+bringen	VVINF	 bringen	bringen
+</seg>
+<seg type="newline">
+nimm	VVIMP	 nehmen	nimm
+ein	ART	 ein	ein
+Stück	NN	 Stück	Stück
+oder	KON	 oder	oder
+Theil	NN	 Teil	Teil
+von	APPR	 von	von
+einem	PIS	 ein	einem
+Hun	ADV	 nun	Nun
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+von	APPR	 von	von
+dem	ART	 d	dem
+hinderen	ADJA	 UNKNOWN	hinderen
+Viertheil	NN	 UNKNOWN	Viertheil
+</seg>
+<seg type="newline">
+was	PRELS	 was	was
+es	PPER	 es	es
+wölle	VVFIN	 UNKNOWN	wölle
+</seg>
+<seg type="newline">
+allein	ADV	 allein	allein
+thu	NE	 Thu	thu
+die	ART	 d	die
+Haut	NN	 Haut	Haut
+davon	PAV	 davon	davon
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+stoß	VVIMP	 stoßen	stoß
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+thu	VVFIN	 UNKNOWN	thu
+darzu	PAV	 dazu	dazu
+ein	ART	 ein	ein
+Schnitten	NN	 Schnitt|Schnitte	Schnitten
+weiß	VVFIN	 wissen	weiß
+Brot	NN	 Brot	Brot
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+gebähet	VVFIN	 UNKNOWN	gebähet
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+in	APPR	 in	in
+die	ART	 d	die
+Brüh	ADJD	 früh	früh
+geweicht	ADJA	 gereicht	gereichten
+</seg>
+<seg type="newline">
+treibs	NN	 Kreis	Kreis
+mit	APPR	 mit	mit
+einander	PRF	 einander	einander
+durch	APPR	 durch	durch
+</seg>
+<seg type="newline">
+bereits	ADV	 bereits	bereits
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+es	PPER	 es	es
+werde	VAFIN	 werden	werde
+wie	KOKOM	 wie	wie
+ein	ART	 ein	ein
+Eyersuppen	NN	 UNKNOWN	Eyersuppen
+</seg>
+<seg type="newline">
+wanns	NE	 UNKNOWN	wanns
+kochet	ADJA	 UNKNOWN	kochet
+</seg>
+<seg type="newline">
+thu	NN	 UNKNOWN	thue
+es	PPER	 es	es
+in	APPR	 in	in
+ein	ART	 ein	ein
+mössines	ADJA	 UNKNOWN	mössines
+Pfännlein	NN	 UNKNOWN	Pfännlein
+</seg>
+<seg type="newline">
+halts	NN	 Halt	halts
+über	APPR	 über	über
+das	ART	 d	das
+Fewr	NN	 Feuer	Feuer
+</seg>
+<seg type="newline">
+rührs	ADJD	 UNKNOWN	rührs
+</seg>
+<seg type="newline">
+wirff	ADJA	 UNKNOWN	wirff
+Weinbeer	NN	 Weizenbier	Weizenbier
+vnd	KON	 und	und
+Zucker	NN	 Zucker	Zucker
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+es	PPER	 es	es
+seudt	NE	 UNKNOWN	seudt
+</seg>
+<seg type="newline">
+richts	PTKNEG	 nicht	nicht
+an	PTKVZ	 an	an
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+gibs	NN	 UNKNOWN	gilbs
+jhm	PPER	 er	ihn
+</seg>
+<seg type="newline">
+wäre	VAFIN	 sein	wäre
+es	PPER	 es	es
+dann	ADV	 dann	dann
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+der	ART	 d	der
+krancke	NE	 UNKNOWN	krancke
+das	ART	 d	das
+Fleisch	NN	 Fleisch	Fleisch
+oder	KON	 oder	oder
+Hun	ADV	 nun	Nun
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+offt	ADV	 oft	oft
+geschicht	NN	 UNKNOWN	geschicht
+</seg>
+<seg type="newline">
+gar	ADV	 gar	gar
+nicht	PTKNEG	 nicht	nicht
+riechen	VVINF	 riechen	riechen
+möchte	VMFIN	 mögen	möchte
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+treibe	VVFIN	 treiben	treibe
+die	ART	 d	die
+Stück	NN	 Stück	Stück
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Trinckwasser	NN	 UNKNOWN	Trinckwasser
+durch	PTKVZ	 durch	durch
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+sonsten	ADV	 UNKNOWN	sonsten
+ein	ART	 ein	ein
+herzstärkend	NN	 UNKNOWN	herzstärkend
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+mehr	ADV	 mehr	mehr
+verzeichnet	VVPP	 verzeichnen	verzeichnet
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+schütts	NN	 UNKNOWN	schütts
+in	APPR	 in	in
+ein	ART	 ein	ein
+heiß	ADJD	 heiß	heiß
+Schmaltz	NN	 Schmalz	Schmalz
+</seg>
+<seg type="newline">
+thu	VVFIN	 UNKNOWN	thu
+jhm	PPER	 er	ihn
+wie	KOKOM	 wie	wie
+oben	ADV	 oben	oben
+gesagt	VVPP	 sagen	gesagt
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

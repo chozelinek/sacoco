@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Danckwerth_1729_21" collection="historical" source="Danckwerth" url="none" year="1729" decade="1720-1730" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1729:293f.]">
+<title>
+<seg type="newline">
+1.	ADV	 1.	1.
+Von	APPR	 von	Von
+Einsaltzedes	NN	 UNKNOWN	Einsaltzedes
+Ochsen=fleisches	NN	 UNKNOWN	Ochsen=fleisches
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Die	ART	 d	Die
+gemeinste	ADJA	 gemein	gemeinste
+Manier	NN	 Manier	Manier
+zu	APPR	 zu	zu
+saltzen	ADJA	 kalt	kalten
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+man	PIS	 man	man
+das	ART	 d	das
+Saltz	NN	 Salz	Salz
+in	APPR	 in	in
+ein	ART	 ein	ein
+Gefäß	NN	 Gefäß	Gefäß
+nehme	VVFIN	 nehmen	nehme
+</seg>
+<seg type="newline">
+und	KON	 und	und
+ein	ART	 ein	ein
+Stück	NN	 Stück	Stück
+Fleisch	NN	 Fleisch	Fleisch
+nach	APPR	 nach	nach
+dem	ART	 d	dem
+andern	PIS	 ander	andern
+zu	APPR	 zu	zu
+dem	ART	 d	dem
+Saltz	NN	 Salz	Salz
+thun	NE	 UNKNOWN	thue
+</seg>
+<seg type="newline">
+und	KON	 und	und
+über	APPR	 über	über
+und	KON	 und	und
+über	APPR	 über	über
+|	XY	|	XY	 |	|	|
+[	$(	[	$(	 [	|	[
+294	CARD	 @card@	294
+]	$(	]	$(	 ]	|	]
+starck	NE	 UNKNOWN	starck
+einreibe	VVFIN	 UNKNOWN	einreibe
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+wo	PWAV	 wo	wo
+man	PIS	 man	man
+Höhligkeit	NN	 UNKNOWN	Höhligkeit
+findet	VVFIN	 finden	findet
+</seg>
+<seg type="newline">
+stopffet	VVFIN	 UNKNOWN	stopffet
+man	PIS	 man	man
+was	PIS	 was	was
+hinein	ADV	 hinein	hinein
+</seg>
+<seg type="newline">
+den	PDS	 d	den
+bestreuet	VVFIN	 bestreuen	bestreuen
+man	PIS	 man	man
+den	ART	 d	den
+Boden	NN	 Boden	Boden
+von	APPR	 von	von
+der	ART	 d	der
+Tonne	NN	 Tonne	Tonne
+dick	ADJD	 dick	dick
+mit	APPR	 mit	mit
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+leget	ADJD	 UNKNOWN	leget
+das	ART	 d	das
+Fleisch	NN	 Fleisch	Fleisch
+darauf	PAV	 darauf	darauf
+</seg>
+<seg type="newline">
+und	KON	 und	und
+so	ADV	 so	so
+fortan	ADV	 fortan	fortan
+</seg>
+<seg type="newline">
+aber	ADV	 aber	aber
+so	ADV	 so	so
+feste	ADJA	 fest	feste
+auf	APPR	 auf	auf
+einander	PRF	 einander	einander
+als	KON	 als	als
+es	PPER	 es	es
+möglich	ADJD	 möglich	möglich
+</seg>
+<seg type="newline">
+es	PPER	 es	es
+muß	VMFIN	 müssen	muß
+auch	ADV	 auch	auch
+allezeit	ADV	 allezeit	allezeit
+</seg>
+<seg type="newline">
+wenn	KOUS	 wenn	wenn
+eine	ART	 ein	eine
+Lage	NN	 Lage	Lage
+Fleisch	NN	 Fleisch	Fleisch
+geleget	ADJA	 UNKNOWN	geleget
+</seg>
+<seg type="newline">
+Saltz	NN	 Salz	Salz
+darzwischen	ADJA	 UNKNOWN	darzwischen
+gestreuet	NN	 UNKNOWN	gestreuet
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+das	ART	 d	das
+Fetteste	NN	 UNKNOWN	Fetteste
+saltzet	VVFIN	 UNKNOWN	saltzet
+man	PIS	 man	man
+gerne	ADV	 gerne	gerne
+unten	ADV	 unten	unten
+ein	PTKVZ	 ein	ein
+</seg>
+<seg type="newline">
+weil	KOUS	 weil	weil
+solches	PIS	 solch	solches
+das	ART	 d	das
+Saltz	NN	 Salz	Salz
+länger	ADJD	 lang	länger
+vertragen	VVFIN	 vertragen	vertragen
+kan	ADV	 nun	Nun
+</seg>
+<seg type="newline">
+und	KON	 und	und
+nicht	PTKNEG	 nicht	nicht
+so	ADV	 so	so
+leichte	ADJA	 leicht	leichte
+vom	APPRART	 vom	vom
+Saltze	NN	 Salz	Salz
+durchgefressen	VVPP	 durchfressen	durchgefressen
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+das	ART	 d	das
+Magere	NN	 Magere	Magere
+.	$.	.	$.	 .	|	.
+Solte	NN	 UNKNOWN	Solte
+man	PIS	 man	man
+mercken	VVFIN	 UNKNOWN	mercken
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+das	ART	 d	das
+Fleisch	NN	 Fleisch	Fleisch
+etwas	ADV	 etwas	etwas
+wolte	ADJD	 UNKNOWN	wolte
+angehen	VVFIN	 angehen	angehen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+muß	VMFIN	 müssen	muß
+man	PIS	 man	man
+die	ART	 d	die
+Söhle	NN	 UNKNOWN	Söhle
+abgiessen	VVINF	 abgießen	abgiessen
+</seg>
+<seg type="newline">
+auffkochen	VVINF	 aufkochen	aufkochen
+</seg>
+<seg type="newline">
+schäumen	VVINF	 schäumen	schäumen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+wenn	KOUS	 wenn	wenn
+sie	PPER	 sie	sie
+kalt	ADJD	 kalt	kalt
+</seg>
+<seg type="newline">
+wieder	ADV	 wieder	wieder
+darauf	PAV	 darauf	darauf
+giessen	VVINF	 gießen	giessen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

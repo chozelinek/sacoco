@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Buchinger_1700_23" collection="historical" source="Buchinger" url="none" year="1700" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:1f.]">
+<title>
+<seg type="newline">
+235.	ADJA	 @ord@	235.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Tauben	NN	 Taube	Tauben
+werden	VAFIN	 werden	werden
+auch	ADV	 auch	auch
+in	APPR	 in	in
+Pasteten	NN	 Pastete	Pasteten
+eingemacht	VVPP	 einmachen	eingemacht
+</seg>
+<seg type="newline">
+Besihe	NN	 UNKNOWN	Besihe
+unden	ADJD	 UNKNOWN	unden
+333/334	CARD	 @card@	333/334
+.	$.	.	$.	 .	|	.
+Item	ADV	 item	Item
+in	APPR	 in	in
+Frantzösische	ADJA	 UNKNOWN	Frantzösische
+Suppen	NN	 Suppe	Suppen
+.	$.	.	$.	 .	|	.
+Num	NN	 UNKNOWN	Num
+294.	ADJA	 @ord@	294.
+Wilde	NE	 Wilde	Wilde
+Tauben	NN	 Taube	Tauben
+werden	VAFIN	 werden	werden
+gebraten	VVPP	 braten	gebraten
+mit	APPR	 mit	mit
+einer	ART	 ein	einer
+Salße	NN	 UNKNOWN	Salße
+.	$.	.	$.	 .	|	.
+Num	NN	 UNKNOWN	Num
+171.	ADJA	 @ord@	171.
+auffgeben	ADJA	 UNKNOWN	auffgeben
+</seg>
+<seg type="newline">
+und	KON	 und	und
+sonst	ADV	 sonst	sonst
+vast	ADV	 fast	fast
+wie	KOKOM	 wie	wie
+zahme	ADJA	 zahm	zahme
+zugerichtet	VVPP	 zurichten	zugerichtet
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

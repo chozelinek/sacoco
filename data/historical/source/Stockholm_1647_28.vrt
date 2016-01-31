@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Stockholm_1647_28" collection="historical" source="Stockholm" url="none" year="1647" decade="1640-1650" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1647:272]">
+<body>
+<seg type="newline">
+Torten	NN	 Torte	Torten
+</seg>
+<seg type="newline">
+Wein	NN	 Wein	Wein
+Torte	NN	 Torte	Torte
+</seg>
+<seg type="newline">
+auff	PTKVZ	 auf	auf
+gesotten	VVPP	 sieden	gesotten
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+darin	PAV	 darin	darin
+gerüret	ADJA	 UNKNOWN	gerüret
+2.	ADJA	 2.	2.
+Eyerdotter	NN	 UNKNOWN	Eyerdotter
+</seg>
+<seg type="newline">
+zeriben	ADJA	 UNKNOWN	zeriben
+Brodt	NN	 UNKNOWN	Brodt
+</seg>
+<seg type="newline">
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

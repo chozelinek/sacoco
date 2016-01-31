@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Frankfurt_1789_9" collection="historical" source="Frankfurt" url="http://www.uni-giessen.de/gloning/tx/1789ffkb.htm" language="deu" year="1789" decade="1780-1790" period="1750-1800" type="|none|" course="|none|" cuisine="|none|" ingredient="|rind|" method="|Suppe|" ref="[]">
+<title>
+<seg type="newline">
+11	CARD	 11	11
+)	$(	)	$(	 )	|	)
+Eine	ART	 ein	Eine
+braune	ADJA	 braun	braune
+Suppe	NN	 Suppe	Suppe
+zu	PTKZU	 zu	zu
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Man	PIS	 man	Man
+nimmt	VVFIN	 nehmen	nimmt
+5	CARD	5	CARD	 5	|	5
+Pfund	NN	 Pfund	Pfund
+Rindfleisch	NN	 Rindfleisch	Rindfleisch
+von	APPR	 von	von
+</seg>
+<seg type="newline">
+einem	ART	 ein	einem
+Pasteten_Stück	NN	 UNKNOWN	Pasteten_Stück
+,	$,	,	$,	 ,	|	,
+in	APPR	 in	in
+dünne	ADJA	 dünn	dünne
+Stücke	NN	 Stück	Stücke
+</seg>
+<seg type="newline">
+geschnitten	VVPP	 schneiden	geschnitten
+und	KON	 und	und
+wohl	ADV	 wohl	wohl
+geklopft	VVPP	 klopfen	geklopft
+,	$,	,	$,	 ,	|	,
+davon	PAV	 davon	davon
+</seg>
+<seg type="newline">
+nimmt	VVFIN	 nehmen	nimmt
+man	PIS	 man	man
+ohngefehr	ADJD	 UNKNOWN	ohngefehr
+ein	ART	 ein	ein
+viertel	ADJA	 Viertel	viertel
+Pfund	NN	 Pfund	Pfund
+</seg>
+<seg type="newline">
+und	KON	 und	und
+schabet	NN	 UNKNOWN	schabet
+es	PPER	 es	es
+mit	APPR	 mit	mit
+dem	ART	 d	dem
+Messer	NN	 Messer	Messer
+,	$,	,	$,	 ,	|	,
+damit	KOUS	 damit	damit
+die	ART	 d	die
+</seg>
+<seg type="newline">
+Haut	NN	 Haut	Haut
+und	KON	 und	und
+das	ART	 d	das
+Geäder	NN	 Geäder	Geäder
+wohl	ADV	 wohl	wohl
+herausgehet	VVFIN	 UNKNOWN	herausgehet
+,	$,	,	$,	 ,	|	,
+</seg>
+<seg type="newline">
+das	ART	 d	das
+geschabte	ADJA	 UNKNOWN	geschabte
+Fleisch	NN	 Fleisch	Fleisch
+wird	VAFIN	 werden	wird
+zurück	ADV	 zurück	zurück
+vor	APPR	 vor	vor
+Klösger	NE	 UNKNOWN	Klösger
+</seg>
+<seg type="newline">
+gethan	NE	 UNKNOWN	gethan
+,	$,	,	$,	 ,	|	,
+das	ART	 d	das
+Geäder	NN	 Geäder	Geäder
+und	KON	 und	und
+Haut	NN	 Haut	Haut
+und	KON	 und	und
+</seg>
+<seg type="newline">
+das	ART	 d	das
+übrige	ADJA	 übrig	übrige
+geklopfte	ADJA	 UNKNOWN	geklopfte
+Rindfleisch	NN	 Rindfleisch	Rindfleisch
+thut	NE	 UNKNOWN	thue
+man	PIS	 man	man
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+warm	ADJD	 warm	warm
+gemachte	ADJA	 gemacht	gemachte
+gesaltzene	ADJA	 gesalzt	gesalzenem
+oder	KON	 oder	oder
+frische	ADJA	 frisch	frische
+</seg>
+<seg type="newline">
+Butter	NN	 Butter	Butter
+,	$,	,	$,	 ,	|	,
+eine	ART	 ein	eine
+ganze	ADJA	 ganz	ganze
+Zwiebel	NN	 Zwiebel	Zwiebel
+und	KON	 und	und
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+</seg>
+<seg type="newline">
+gestossene	ADJA	 gestoßen	gestossene
+Nägelein	NN	 UNKNOWN	Nägelein
+,	$,	,	$,	 ,	|	,
+und	KON	 und	und
+lässet	VVFIN	 UNKNOWN	lässet
+es	PPER	 es	es
+langsam	ADJD	 langsam	langsam
+</seg>
+<seg type="newline">
+auf	APPR	 auf	auf
+dem	ART	 d	dem
+Feuer	NN	 Feuer	Feuer
+ziehen	VVINF	 ziehen	ziehen
+,	$,	,	$,	 ,	|	,
+und	KON	 und	und
+so	ADV	 so	so
+bald	ADV	 bald	bald
+es	PPER	 es	es
+ein	ART	 ein	ein
+</seg>
+<seg type="newline">
+wenig	PIAT	 wenig	wenig
+Brühe	NN	 Brühe	Brühe
+hat	VAFIN	 haben	hat
+,	$,	,	$,	 ,	|	,
+schüttet	VVFIN	 schütten	schüttet
+man	PIS	 man	man
+sie	PPER	 sie	sie
+in	APPR	 in	in
+ein	ART	 ein	ein
+</seg>
+<seg type="newline">
+ander	ADJA	 UNKNOWN	ander
+Töpfen	NN	 Topf	Töpfen
+,	$,	,	$,	 ,	|	,
+thut	NN	 UNKNOWN	thue
+wieder	ADV	 wieder	wieder
+Wasser	NN	 Wasser	Wasser
+oder	KON	 oder	oder
+</seg>
+<seg type="newline">
+Fleischbrühe	NN	 Fleischbrühe	Fleischbrühe
+an	APPR	 an	an
+das	ART	 d	das
+Fleisch	NN	 Fleisch	Fleisch
+,	$,	,	$,	 ,	|	,
+lässet	VVFIN	 UNKNOWN	lässet
+es	PPER	 es	es
+wieder	ADV	 wieder	wieder
+</seg>
+<seg type="newline">
+ziehen	VVINF	 ziehen	ziehen
+,	$,	,	$,	 ,	|	,
+bis	KOUS	 bis	bis
+man	PIS	 man	man
+ohngefehr	ADJD	 UNKNOWN	ohngefehr
+1	CARD	1	CARD	 1	|	1
+Maas	NE	 Maas	Maas
+von	APPR	 von	von
+</seg>
+<seg type="newline">
+diesen	PDAT	 dies	diesen
+Sachen	NN	 Sache	Sachen
+hat	VAFIN	 haben	hat
+abgezogen	VVPP	 abziehen	abgezogen
+,	$,	,	$,	 ,	|	,
+alsdenn	NN	 UNKNOWN	Alsdann
+</seg>
+<seg type="newline">
+thut	NE	 UNKNOWN	thue
+man	PIS	 man	man
+Fleischbrühe	NN	 Fleischbrühe	Fleischbrühe
+an	APPR	 an	an
+das	ART	 d	das
+ausgesogene	ADJA	 UNKNOWN	ausgesogene
+</seg>
+<seg type="newline">
+Fleisch	NN	 Fleisch	Fleisch
+,	$,	,	$,	 ,	|	,
+nimmt	VVFIN	 nehmen	nimmt
+Zellerie	NN	 UNKNOWN	Zellerie
+,	$,	,	$,	 ,	|	,
+Zwiebel	NN	 Zwiebel	Zwiebel
+und	KON	 und	und
+</seg>
+<seg type="newline">
+allerhand	ADJD	 allerhand	allerhand
+Gewürz	NN	 Gewürz	Gewürz
+,	$,	,	$,	 ,	|	,
+thut	VVFIN	 UNKNOWN	thue
+es	PPER	 es	es
+in	APPR	 in	in
+diese	PDAT	 dies	diese
+Brühe	NN	 Brühe	Brühe
+</seg>
+<seg type="newline">
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+Siebgen	NN	 UNKNOWN	Siebgen
+,	$,	,	$,	 ,	|	,
+damit	KOUS	 damit	damit
+das	ART	 d	das
+Fleisch	NN	 Fleisch	Fleisch
+heraus	ADV	 heraus	heraus
+</seg>
+<seg type="newline">
+kommt	VVFIN	 kommen	kommt
+,	$,	,	$,	 ,	|	,
+man	PIS	 man	man
+kan	ADV	 nun	Nun
+auch	ADV	 auch	auch
+das	ART	 d	das
+Gewürz	NN	 Gewürz	Gewürz
+</seg>
+<seg type="newline">
+erst	ADV	 erst	erst
+in	APPR	 in	in
+die	ART	 d	die
+Brühe	NN	 Brühe	Brühe
+thun	NE	 UNKNOWN	thue
+;	$.	;	$.	 ;	|	;
+wann	PWAV	 wann	wann
+die	ART	 d	die
+Suppe	NN	 Suppe	Suppe
+</seg>
+<seg type="newline">
+durchgeschlagen	VVPP	 durchschlagen	durchgeschlagen
+,	$,	,	$,	 ,	|	,
+nimm	VVIMP	 nehmen	nimm
+Morgeln	NN	 UNKNOWN	Morgeln
+,	$,	,	$,	 ,	|	,
+Schambionen	NN	 UNKNOWN	Schambionen
+,	$,	,	$,	 ,	|	,
+</seg>
+<seg type="newline">
+koche	VVFIN	 kochen	koche
+sie	PPER	 sie	sie
+wohl	ADV	 wohl	wohl
+ab	PTKVZ	 ab	ab
+und	KON	 und	und
+thue	VVFIN	 UNKNOWN	thue
+sie	PPER	 sie	sie
+in	APPR	 in	in
+</seg>
+<seg type="newline">
+die	ART	 d	die
+Suppe	NN	 Suppe	Suppe
+,	$,	,	$,	 ,	|	,
+man	PIS	 man	man
+kan	ADV	 nun	Nun
+auch	ADV	 auch	auch
+Ochsen=Gaumen	NN	 UNKNOWN	Ochsen=Gaumen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+Kalbs=Milchen	NN	 UNKNOWN	Kalbs=Milchen
+hinein	ADV	 hinein	hinein
+thun	NE	 UNKNOWN	thue
+,	$,	,	$,	 ,	|	,
+müssen	VMFIN	 müssen	müssen
+</seg>
+<seg type="newline">
+aber	ADV	 aber	aber
+vorher	ADV	 vorher	vorher
+abgekocht	VVPP	 abkochen	abgekocht
+werden	VAINF	 werden	werden
+,	$,	,	$,	 ,	|	,
+hernach	ADV	 hernach	hernach
+</seg>
+<seg type="newline">
+nimmt	VVFIN	 nehmen	nimmt
+man	PIS	 man	man
+das	ART	 d	das
+abgekochte	ADJA	 abgekocht	abgekochte
+Fleisch	NN	 Fleisch	Fleisch
+zu	APPR	 zu	zu
+</seg>
+<seg type="newline">
+denen	PDS	 d	denen
+Klösger	NE	 UNKNOWN	Klösger
+,	$,	,	$,	 ,	|	,
+lässet	VVFIN	 UNKNOWN	lässet
+es	PPER	 es	es
+wohl	ADV	 wohl	wohl
+hacken	VVFIN	 hacken	hacken
+mit	APPR	 mit	mit
+</seg>
+<seg type="newline">
+ohngefehr	NE	 UNKNOWN	ohngefehr
+so	ADV	 so	so
+viel	PIAT	 viel	viel
+Nieren=Fett	NN	 UNKNOWN	Nieren=Fett
+als	KOKOM	 als	als
+es	PPER	 es	es
+Fleisch	NN	 Fleisch	Fleisch
+</seg>
+<seg type="newline">
+ist	VAFIN	 sein	ist
+,	$,	,	$,	 ,	|	,
+man	PIS	 man	man
+nimmt	VVFIN	 nehmen	nimmt
+hernach	ADV	 hernach	hernach
+die	ART	 d	die
+Brosamen	NN	 Brosame	Brosamen
+eines	ART	 ein	eines
+trockenen	ADJA	 trocken	trockenen
+Milchbrods	NN	 UNKNOWN	Milchbrods
+,	$,	,	$,	 ,	|	,
+3	CARD	3	CARD	 3	|	3
+bis	KON	 bis	bis
+4	CARD	4	CARD	 4	|	4
+Eyer	NE	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+,	$,	,	$,	 ,	|	,
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Rahm	NN	 Rahm	Rahm
+und	KON	 und	und
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Gewürz	NN	 Gewürz	Gewürz
+,	$,	,	$,	 ,	|	,
+</seg>
+<seg type="newline">
+machet	VVFIN	 machen	machet
+dieses	PDAT	 dies	dieses
+wohl	ADV	 wohl	wohl
+untereinander	ADV	 untereinander	untereinander
+,	$,	,	$,	 ,	|	,
+und	KON	 und	und
+</seg>
+<seg type="newline">
+machet	VVFIN	 machen	machet
+Klösger	NE	 UNKNOWN	Klösger
+daraus	PAV	 daraus	daraus
+,	$,	,	$,	 ,	|	,
+man	PIS	 man	man
+kan	ADV	 nun	Nun
+den	ART	 d	den
+halben	ADJA	 halb	halben
+</seg>
+<seg type="newline">
+Theil	NN	 Teil	Teil
+davon	PAV	 davon	davon
+zu	PTKZU	 zu	zu
+braunen	ADJA	 braun	braunen
+Klösger	NE	 UNKNOWN	Klösger
+machen	VVFIN	 machen	machen
+,	$,	,	$,	 ,	|	,
+</seg>
+<seg type="newline">
+welche	PRELS	 welch	welche
+man	PIS	 man	man
+muß	VMFIN	 müssen	muß
+in	APPR	 in	in
+Schmalz=Butter	NN	 UNKNOWN	Schmalz=Butter
+</seg>
+<seg type="newline">
+backen	VVINF	 backen	backen
+,	$,	,	$,	 ,	|	,
+daß	KOUS	 daß	daß
+sie	PPER	 sie	sie
+schön	ADJD	 schön	schön
+braun	ADJD	 braun	braun
+werden	VAFIN	 werden	werden
+,	$,	,	$,	 ,	|	,
+die	ART	 d	die
+</seg>
+<seg type="newline">
+Weissen	NN	 Weiß|Weiße|Weißen	Weissen
+kocht	VVFIN	 kochen	kocht
+man	PIS	 man	man
+in	APPR	 in	in
+der	ART	 d	der
+Suppe	NN	 Suppe	Suppe
+,	$,	,	$,	 ,	|	,
+im	APPRART	 im	im
+Sommer	NE	 Sommer	Sommer
+</seg>
+<seg type="newline">
+aber	KON	 aber	aber
+im	APPRART	 im	im
+Wasser	NN	 Wasser	Wasser
+,	$,	,	$,	 ,	|	,
+damit	KOUS	 damit	damit
+sie	PPER	 sie	sie
+nicht	PTKNEG	 nicht	nicht
+roth	VVPP	 UNKNOWN	roth
+</seg>
+<seg type="newline">
+werden	VAFIN	 werden	werden
+.	$.	.	$.	 .	|	.
+Wenn	KOUS	 wenn	Wenn
+man	PIS	 man	man
+nun	ADV	 nun	nun
+anrichten	VVINF	 anrichten	anrichten
+will	VMFIN	 wollen	will
+,	$,	,	$,	 ,	|	,
+</seg>
+<seg type="newline">
+röstet	VVFIN	 rösten	röstet
+man	PIS	 man	man
+Schnitten	NN	 Schnitt|Schnitte	Schnitten
+von	APPR	 von	von
+Milchbrod	NN	 UNKNOWN	Milchbrod
+,	$,	,	$,	 ,	|	,
+</seg>
+<seg type="newline">
+richtet	VVFIN	 richten	richtet
+die	ART	 d	die
+Suppe	NN	 Suppe	Suppe
+darüber	PAV	 darüber	darüber
+an	PTKVZ	 an	an
+,	$,	,	$,	 ,	|	,
+die	ART	 d	die
+braunen	ADJA	 braun	braunen
+</seg>
+<seg type="newline">
+Klösger	NE	 UNKNOWN	Klösger
+dörfen	VVFIN	 UNKNOWN	dörfen
+nur	ADV	 nur	nur
+einen	ART	 ein	einen
+Augenblick	NN	 Augenblick	Augenblick
+in	APPR	 in	in
+der	ART	 d	der
+</seg>
+<seg type="newline">
+Suppen	NN	 Suppe	Suppen
+liegen	VVINF	 liegen	liegen
+,	$,	,	$,	 ,	|	,
+sonst	ADV	 sonst	sonst
+gehet	VVFIN	 gehen	gehet
+das	ART	 d	das
+Braune	NN	 Braune	Braune
+</seg>
+<seg type="newline">
+ab	PTKVZ	 ab	ab
+.	$.	.	$.	 .	|	.
+Wenn	KOUS	 wenn	Wenn
+man	PIS	 man	man
+nun	ADV	 nun	nun
+die	ART	 d	die
+Suppe	NN	 Suppe	Suppe
+anrichtet	VVFIN	 anrichten	anrichtet
+,	$,	,	$,	 ,	|	,
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nimmt	VVFIN	 nehmen	nimmt
+man	PIS	 man	man
+den	ART	 d	den
+abgezogenen	ADJA	 abgezogen	abgezogenen
+Schü	NN	 UNKNOWN	Schü
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Brüh	ADJD	 früh	früh
+,	$,	,	$,	 ,	|	,
+welcher	PRELS	 welch	welcher
+warm	ADJD	 warm	warm
+gehalten	VVPP	 halten	gehalten
+werden	VAINF	 werden	werden
+</seg>
+<seg type="newline">
+muß	VMFIN	 müssen	muß
+,	$,	,	$,	 ,	|	,
+thut	VVFIN	 UNKNOWN	thue
+solche	PIS	 solch	solche
+in	APPR	 in	in
+den	ART	 d	den
+Kumpfen	NN	 UNKNOWN	Kumpfen
+bey	NE	 Bey	bey
+</seg>
+<seg type="newline">
+die	ART	 d	die
+Suppe	NN	 Suppe	Suppe
+,	$,	,	$,	 ,	|	,
+so	ADV	 so	so
+ist	VAFIN	 sein	ist
+sie	PPER	 sie	sie
+fertig	ADJD	 fertig	fertig
+,	$,	,	$,	 ,	|	,
+kräftig	ADJD	 kräftig	kräftig
+und	KON	 und	und
+</seg>
+<seg type="newline">
+gut	ADJD	 gut	gut
+.	$.	.	$.	 .	|	.
+Man	PIS	 man	Man
+kann	VMFIN	 können	kann
+von	APPR	 von	von
+dieser	PDAT	 dies	dieser
+Portion	NN	 Portion	Portion
+Fleisch	NN	 Fleisch	Fleisch
+</seg>
+<seg type="newline">
+2	CARD	2	CARD	 2	|	2
+grosse	ADJA	 groß	grosse
+Schüsseln	NN	 Schüssel	Schüsseln
+voll	ADJD	 voll	voll
+Suppen	NN	 Suppe	Suppen
+machen	VVINF	 machen	machen
+,	$,	,	$,	 ,	|	,
+die	PRELS	 d	die
+</seg>
+<seg type="newline">
+Klösger	NE	 UNKNOWN	Klösger
+kan	ADV	 nun	Nun
+man	PIS	 man	man
+auch	ADV	 auch	auch
+von	APPR	 von	von
+Kalbfleisch	NN	 Kalbfleisch	Kalbfleisch
+</seg>
+<seg type="newline">
+machen	VVFIN	 machen	machen
+,	$,	,	$,	 ,	|	,
+so	ADV	 so	so
+man	PIS	 man	man
+es	PPER	 es	es
+vor	APPR	 vor	vor
+gut	ADJD	 gut	gut
+befindet	VVFIN	 befinden	befindet
+,	$,	,	$,	 ,	|	,
+auch	ADV	 auch	auch
+</seg>
+<seg type="newline">
+kann	VMFIN	 können	kann
+solche	PIS	 solch	solche
+ohne	APPR	 ohne	ohne
+Klösger	NE	 UNKNOWN	Klösger
+und	KON	 und	und
+denjenigen	PDAT	 derjenige	denjenigen
+</seg>
+<seg type="newline">
+Sachen	NN	 Sache	Sachen
+,	$,	,	$,	 ,	|	,
+so	ADV	 so	so
+in	APPR	 in	in
+die	ART	 d	die
+Brühe	NN	 Brühe	Brühe
+kommen	VVFIN	 kommen	kommen
+,	$,	,	$,	 ,	|	,
+</seg>
+<seg type="newline">
+gemacht	VVPP	 machen	gemacht
+werden	VAFIN	 werden	werden
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

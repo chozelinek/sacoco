@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Osnabrueck_1687_15" collection="historical" source="Osnabrueck" url="none" year="1687" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1687:29]">
+<title>
+<seg type="newline">
+Einen	ART	 ein	Einen
+Kabeljau	NN	 Kabeljau	Kabeljau
+zu	PTKZU	 zu	zu
+kochen	VVINF	 kochen	kochen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Schneidet	VVFIN	 schneiden	Schneidet
+den	ART	 d	den
+Kabeljau	NN	 Kabeljau	Kabeljau
+in	APPR	 in	in
+stücken	VVINF	 stücken	stücken
+</seg>
+<seg type="newline">
+legt	VVFIN	 legen	legt
+ihn	PPER	 er	ihn
+in	APPR	 in	in
+eine	ART	 ein	eine
+zinnern	NN	 UNKNOWN	zinnern
+Schüssel	NN	 Schüssel	Schüssel
+</seg>
+<seg type="newline">
+giest	VVFIN	 geben	gibt
+so	ADV	 so	so
+viel	PIAT	 viel	viel
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+er	PPER	 er	er
+Kaum	ADV	 kaum	Kaum
+bedeckt	ADJD	 bedeckt	bedeckt
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+hinan	ADV	 hinan	hinan
+</seg>
+<seg type="newline">
+thut	NN	 UNKNOWN	thue
+denn	KON	 denn	denn
+gestossenen	ADJA	 gestoßen	gestossenen
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+gantze	ADV	 ganz	ganz
+Mußcaten=Blumen	NN	 UNKNOWN	Mußcaten=Blumen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+viel	ADV	 viel	viel
+euch	PPER	 ihr	euch
+beliebt	VVFIN	 belieben	beliebt
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+geriebenen	ADJA	 gerieben	geriebenen
+Zwieback	NN	 Zwieback	Zwieback
+</seg>
+<seg type="newline">
+und	KON	 und	und
+ziemlich	ADV	 ziemlich	ziemlich
+viele	PIAT	 viel	viele
+Butter	NN	 Butter	Butter
+hinzu	ADV	 hinzu	hinzu
+</seg>
+<seg type="newline">
+last	VVFIN	 lesen	last
+diß	ADJD	 UNKNOWN	diß
+ein	PTKVZ	 ein	ein
+oder	KON	 oder	oder
+anderthalb	ADJA	 anderthalb	anderthalb
+Stunde	NN	 Stunde	Stunde
+oben	ADV	 oben	oben
+und	KON	 und	und
+unten	ADV	 unten	unten
+mit	APPR	 mit	mit
+glüenden	ADJA	 UNKNOWN	glüenden
+Kohlen	NN	 Kohle	Kohlen
+bedecket	VVFIN	 UNKNOWN	bedecket
+wohl	ADV	 wohl	wohl
+kochen	VVFIN	 kochen	kochen
+</seg>
+<seg type="newline">
+thut	NE	 UNKNOWN	thue
+denn	ADV	 denn	denn
+weiter	ADV	 weiter	weiter
+eine	ART	 ein	eine
+frische	ADJA	 frisch	frische
+Limonie	NN	 UNKNOWN	Limonie
+oder	KON	 oder	oder
+dessen	PDAT	 d	dessen
+Safft	NE	 UNKNOWN	Safft
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+es	PPER	 es	es
+läst	VVFIN	 UNKNOWN	läst
+sich	PRF	 er|es|sie	sich
+solcher	PIAT	 solch	solcher
+Gestalt	NN	 Gestalt	Gestalt
+wohl	ADV	 wohl	wohl
+essen	VVINF	 essen	essen
+.	$.	.	$.	 .	|	.
+Auff	NN	 UNKNOWN	Auff
+diese	PDAT	 dies	diese
+Manier	NN	 Manier	Manier
+lassen	VVFIN	 lassen	lassen
+sich	PRF	 er|es|sie	sich
+auch	ADV	 auch	auch
+wohl	ADV	 wohl	wohl
+Heiligebütt	NN	 UNKNOWN	Heiligebütt
+</seg>
+<seg type="newline">
+Forellen	NN	 Forelle	Forellen
+</seg>
+<seg type="newline">
+frische	ADJA	 frisch	frische
+Schelfische	NN	 UNKNOWN	Schelfische
+und	KON	 und	und
+mehr	ADV	 mehr	mehr
+andere	PIS	 ander	andere
+</seg>
+<seg type="newline">
+bereiten	VVINF	 bereiten	bereiten
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

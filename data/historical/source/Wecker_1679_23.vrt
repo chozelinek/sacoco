@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Wecker_1679_23" collection="historical" source="Wecker" url="none" year="1679" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:331f.]">
+<title>
+<seg type="newline">
+[	$(	[	$(	 [	|	[
+Ein	ART	 eine	Ein
+Pasteten	NN	 Pastete	Pasteten
+von	APPR	 von	von
+gehacktem	ADJA	 gehackt	gehacktem
+Kalbfleisch	NN	 Kalbfleisch	Kalbfleisch
+.	$.	.	$.	 .	|	.
+]	$(	]	$(	 ]	|	]
+Ein	VVIMP	 einen	Ein
+anders	ADV	 anders	anders
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Bereite	NN	 Bereite	Bereite
+das	ART	 d	das
+Fleisch	NN	 Fleisch	Fleisch
+wie	KOKOM	 wie	wie
+oben	ADV	 oben	oben
+</seg>
+<seg type="newline">
+hacke	VVFIN	 hacken	hacke
+es	PPER	 es	es
+mit	APPR	 mit	mit
+genugsamer	ADJA	 UNKNOWN	genugsamer
+Feißte	NN	 UNKNOWN	Feißte
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+thue	NN	 UNKNOWN	thue
+wol	PWAV	 wo	wo
+Pfeffer	NN	 Pfeffer	Pfeffer
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+wenig	PIAT	 wenig	wenig
+Ingwer	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+wilt	VMFIN	 wollen	will
+du	PPER	 du	du
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nimm	VVIMP	 nehmen	nimm
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+gestossen	VVPP	 stoßen	gestossen
+Muscatblust	NN	 UNKNOWN	Muscatblust
+vnd	KON	 und	und
+Saffran	NN	 Safran	Safran
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+man	PIS	 man	man
+es	PPER	 es	es
+kaum	ADV	 kaum	kaum
+spüret	VVFIN	 UNKNOWN	spüret
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+Weinbeer	NN	 Weizenbier	Weizenbier
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+sawre	ADJA	 UNKNOWN	sawre
+Trauben	NN	 Traube	Trauben
+darfür	NN	 UNKNOWN	darfür
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+du	PPER	 du	du
+sie	PPER	 sie	sie
+haben	VAFIN	 haben	haben
+kanst	ADJD	 UNKNOWN	kanst
+.	$.	.	$.	 .	|	.
+Schupffe	NN	 UNKNOWN	Schupffe
+das	ART	 d	das
+Fleisch	NN	 Fleisch	Fleisch
+nur	ADV	 nur	nur
+in	APPR	 in	in
+einem	ART	 ein	einem
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+seude	NN	 UNKNOWN	seude
+frische	VVFIN	 frischen	frische
+Eyer	NE	 UNKNOWN	Eyer
+hart	ADJD	 hart	hart
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+doch	ADV	 doch	doch
+nicht	PTKNEG	 nicht	nicht
+zu	PTKA	 zu	zu
+hart	ADJD	 hart	hart
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+man	PIS	 man	man
+sie	PPER	 sie	sie
+oben	ADV	 oben	oben
+schölen	VVFIN	 UNKNOWN	schölen
+kan	ADV	 nun	Nun
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+noch	ADV	 noch	noch
+lind	ADJD	 lind	lind
+sind	VAFIN	 sein	sind
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+dann	ADV	 dann	dann
+das	ART	 d	das
+Fleisch	NN	 Fleisch	Fleisch
+bereitet	VVFIN	 bereiten	bereitet
+vnd	KON	 und	und
+genugsam	ADV	 genugsam	genugsam
+gewürtzt	ADJD	 UNKNOWN	gewürtzt
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+lege	VVFIN	 legen	lege
+fünff	CARD	 fünf	fünf
+Eyer	NE	 UNKNOWN	Eyer
+an	APPR	 an	an
+den	ART	 d	den
+Boden	NN	 Boden	Boden
+des	ART	 d	des
+Hafens	NN	 Hafen	Hafens
+</seg>
+<seg type="newline">
+nicht	PTKNEG	 nicht	nicht
+hart	ADJD	 hart	hart
+an	APPR	 an	an
+einander	PRF	 einander	einander
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+das	ART	 d	das
+Fleisch	NN	 Fleisch	Fleisch
+darzwischen	VVIZU	 UNKNOWN	darzwischen
+kommet	VVFIN	 kommen	kommet
+</seg>
+<seg type="newline">
+decks	NN	 Deck	decks
+mit	APPR	 mit	mit
+Fleisch	NN	 Fleisch	Fleisch
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+drey	CARD	 drei	drei
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+wieder	ADV	 wieder	wieder
+also	ADV	 also	also
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+eins	CARD	 eins	eins
+vnd	KON	 und	und
+aber	ADV	 aber	aber
+gedeckt	ADJD	 gedeckt	gedeckt
+</seg>
+<seg type="newline">
+ist	VAFIN	 sein	ist
+sie	PPER	 sie	sie
+dann	ADV	 dann	dann
+nicht	PTKNEG	 nicht	nicht
+groß	ADJD	 groß	groß
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+mache	VVFIN	 machen	mache
+es	PPER	 es	es
+mit	APPR	 mit	mit
+dreyen	NE	 UNKNOWN	dreyen
+also	ADV	 also	also
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+eins	CARD	 eins	eins
+</seg>
+<seg type="newline">
+also	ADV	 also	also
+auch	ADV	 auch	auch
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+allein	ADV	 allein	allein
+</seg>
+<seg type="newline">
+machs	NN	 UNKNOWN	machs
+zu	APPR	 zu	zu
+</seg>
+<seg type="newline">
+bachs	NE	 Bach	bachs
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+oben	ADV	 oben	oben
+gemeldt	NE	 UNKNOWN	gemeldt
+</seg>
+<seg type="newline">
+anderthalb	ADJA	 anderthalb	anderthalb
+stund	NN	 Stand	Stand
+</seg>
+<seg type="newline">
+du	PPER	 du	du
+darffst	VVFIN	 UNKNOWN	darffst
+aber	ADV	 aber	aber
+keine	PIAT	 kein	keine
+Brüh	ADJD	 früh	früh
+zugiessen	VVFIN	 zugießen	zugiessen
+</seg>
+<seg type="newline">
+die	ART	 d	die
+Trauben	NN	 Traube	Trauben
+geben	VVFIN	 geben	geben
+auch	ADV	 auch	auch
+Brüh	ADJD	 früh	früh
+</seg>
+<seg type="newline">
+sie	PPER	 sie	sie
+bedörffen	VVFIN	 UNKNOWN	bedörffen
+auch	ADV	 auch	auch
+nit	VVFIN	 UNKNOWN	nimb
+so	ADV	 so	so
+viel	PIS	 viel	viel
+als	KOKOM	 als	als
+die	ART	 d	die
+andern	PIS	 ander	andern
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+also	ADV	 also	also
+bereit	ADJD	 bereit	bereit
+mans	VMFIN	 mögen	mag
+auch	ADV	 auch	auch
+von	APPR	 von	von
+Hammelfleisch	NN	 Hammelfleisch	Hammelfleisch
+</seg>
+<seg type="newline">
+aber	ADV	 aber	aber
+in	APPR	 in	in
+dasselbe	PDS	 dasselbe	dasselbe
+hackt	VVFIN	 hacken	hackt
+man	PIS	 man	man
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+Zibeben	VVPP	 umgeben	umgeben
+vnd	KON	 und	und
+kleine	ADJA	 klein	kleine
+Weinbeer	NN	 Weizenbier	Weizenbier
+</seg>
+<seg type="newline">
+nur	ADV	 nur	nur
+feißt	VVFIN	 UNKNOWN	feißt
+genug	ADV	 genug	genug
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+Trauben	NN	 Traube	Trauben
+</seg>
+<seg type="newline">
+hast	VAFIN	 haben	hast
+du	PPER	 du	du
+keine	PIAT	 kein	keine
+Trauben	NN	 Traube	Trauben
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+laß	ADJD	 laß	laß
+in	APPR	 in	in
+halb	ADJD	 halb	halb
+Wein	NN	 Wein	Wein
+oder	KON	 oder	oder
+Essig	NN	 Essig	Essig
+verschaumen	VVFIN	 UNKNOWN	verschaumen
+</seg>
+<seg type="newline">
+doch	ADV	 doch	doch
+laß	ADJD	 laß	laß
+über	APPR	 über	über
+ein	ART	 ein	ein
+viertheil	ADJA	 UNKNOWN	viertheil
+stund	NN	 Stand	Stand
+nicht	PTKNEG	 nicht	nicht
+sieden	VVINF	 sieden	sieden
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+bachs	NE	 Bach	bachs
+zwo	CARD	 zwo	zwo
+stund	NN	 Stand	Stand
+</seg>
+<seg type="newline">
+versaltz	VVFIN	 UNKNOWN	versaltz
+es	PPER	 es	es
+nicht	PTKNEG	 nicht	nicht
+</seg>
+<seg type="newline">
+aber	ADV	 aber	aber
+pfeffers	NN	 Pfeffer	pfeffers
+genug	ADV	 genug	genug
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+also	ADV	 also	also
+mag	VMFIN	 mögen	mag
+mans	VMFIN	 mögen	mag
+mit	APPR	 mit	mit
+gesottenem	ADJA	 UNKNOWN	gesottenem
+Fleisch	NN	 Fleisch	Fleisch
+bereiten	VVINF	 bereiten	bereiten
+</seg>
+<seg type="newline">
+aber	KON	 aber	aber
+doch	ADV	 doch	doch
+allezeit	ADV	 allezeit	allezeit
+besser	ADJD	 gut	besser
+von	APPR	 von	von
+frischem	ADJA	 frisch	frischem
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+den	ART	 d	den
+jrdenen	ADJA	 UNKNOWN	jrdenen
+Pastetenhäfen	NN	 UNKNOWN	Pastetenhäfen
+thuts	VVFIN	 UNKNOWN	thuts
+besser	ADJD	 gut	besser
+mit	APPR	 mit	mit
+dem	ART	 d	dem
+überbliebenen	NN	 UNKNOWN	überbliebenen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+auch	ADV	 auch	auch
+das	ART	 d	das
+überblieben	ADJA	 UNKNOWN	überblieben
+Gebratens	NN	 UNKNOWN	Gebratens
+mit	APPR	 mit	mit
+den	ART	 d	den
+Pommerantzen	NN	 UNKNOWN	Pommerantzen
+</seg>
+<seg type="newline">
+es	PPER	 es	es
+sey	ADJA	 UNKNOWN	sey
+Hüner	NN	 UNKNOWN	Hünern
+oder	KON	 oder	oder
+Fleisch	NN	 Fleisch	Fleisch
+</seg>
+<seg type="newline">
+du	PPER	 du	du
+magst	VMFIN	 mögen	magst
+auch	ADV	 auch	auch
+ein	ART	 ein	ein
+Lummel	NN	 UNKNOWN	Lummel
+vom	APPRART	 vom	vom
+Rind	NN	 Rind	Rind
+nemmen	VVINF	 nehmen	nehmen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+zu	APPR	 zu	zu
+einer	ART	 ein	einer
+Pasteten	NN	 Pastete	Pasteten
+bereiten	VVFIN	 bereiten	bereiten
+wie	KOKOM	 wie	wie
+die	ART	 d	die
+erste	ADJA	 erst	erste
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+so	ADV	 so	so
+er	PPER	 er	er
+gebeitzet	VVPP	 UNKNOWN	gebeitzet
+</seg>
+<seg type="newline">
+ist	VAFIN	 sein	ist
+er	PPER	 er	er
+am	PTKA	 am	am
+besten	ADJD	 gut	besten
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

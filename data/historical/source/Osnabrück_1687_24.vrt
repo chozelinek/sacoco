@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Osnabrueck_1687_24" collection="historical" source="Osnabrueck" url="none" year="1687" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1687:47]">
+<title>
+<seg type="newline">
+Pomerantzen=Pastete	NE	 UNKNOWN	Pomerantzen=Pastete
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Macht	VVFIN	 machen	Macht
+eine	ART	 ein	eine
+feine	ADJA	 fein	feine
+dünne	ADJA	 dünn	dünne
+Pasteten=Form	NN	 UNKNOWN	Pasteten=Form
+von	APPR	 von	von
+heissen	ADJA	 heiß	heissen
+mit	APPR	 mit	mit
+Butter	NN	 Butter	Butter
+durchmischten	ADJA	 durchmischt	durchmischten
+Teig	NN	 Teig	Teig
+</seg>
+<seg type="newline">
+schneidet	VVFIN	 schneiden	schneidet
+die	ART	 d	die
+Pomerantzen	NN	 UNKNOWN	Pomerantzen
+in	APPR	 in	in
+kleine	ADJA	 klein	kleine
+Stücklein	NN	 Stücklein	Stücklein
+</seg>
+<seg type="newline">
+und	KON	 und	und
+schneidet	VVFIN	 schneiden	schneidet
+einen	ART	 ein	einen
+jeglichen	PIAT	 jeglich	jeglichen
+in	APPR	 in	in
+acht	CARD	 acht	acht
+Theile	NE	 Theile	Theile
+</seg>
+<seg type="newline">
+legt	VVFIN	 legen	legt
+selbige	ADJA	 UNKNOWN	selbige
+drein	ADV	 drein	drein
+</seg>
+<seg type="newline">
+machts	ADJD	 UNKNOWN	machts
+zu	PTKVZ	 zu	zu
+</seg>
+<seg type="newline">
+und	KON	 und	und
+backt	VVFIN	 backen	backt
+es	PPER	 es	es
+</seg>
+<seg type="newline">
+überstreuet	VVFIN	 UNKNOWN	überstreuet
+es	PPER	 es	es
+mit	APPR	 mit	mit
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+und	KON	 und	und
+leget	ADJA	 UNKNOWN	leget
+sie	PPER	 sie	sie
+auff	APPR	 auf	auf
+den	ART	 d	den
+Boden	NN	 Boden	Boden
+selbiger	ADJA	 UNKNOWN	selbiger
+Form	NN	 Form	Form
+nehmt	VVFIN	 nehmen	nehmt
+darnach	PAV	 danach	Danach
+etzliche	ADJA	 UNKNOWN	Etliche
+Apffel	NN	 Apfel	Apfel
+</seg>
+<seg type="newline">
+Pasteten=Teig	NN	 UNKNOWN	Pasteten=Teig
+</seg>
+<seg type="newline">
+giest	VVFIN	 geben	gibt
+alsdenn	NE	 UNKNOWN	Alsdann
+Pomerantzen=Syrup	NE	 UNKNOWN	Pomerantzen=Syrup
+und	KON	 und	und
+Zucker	NN	 Zucker	Zucker
+oberher	ADJD	 UNKNOWN	oberher
+</seg>
+<seg type="newline">
+und	KON	 und	und
+tragt	VVFIN	 tragen	tragt
+es	PPER	 es	es
+auff	PTKVZ	 auf	auf
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

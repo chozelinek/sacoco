@@ -1,1 +1,7 @@
-data*
+data/contemporary
+data/cqp
+data/metadata
+data/historical/meta
+data/historical/tei
+data/historical/vrt
+test/cqp

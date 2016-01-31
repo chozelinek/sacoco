@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Staindl_1569_1" collection="historical" source="Staindl" url="none" year="1569" decade="1560-1570" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[48v]">
+<title>
+<seg type="newline">
+Habermuoß	NN	 UNKNOWN	Habermuoß
+zumachen	VVFIN	 zumachen	zumachen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimb	ADJA	 UNKNOWN	nimb
+Häbern	NN	 UNKNOWN	Häbern
+brey	NE	 UNKNOWN	brey
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+meel	ADJA	 UNKNOWN	meel
+</seg>
+<seg type="newline">
+kochs	NN	 Koch	kochs
+in	APPR	 in	in
+eim	ADJA	 UNKNOWN	nimb
+heissen	ADJA	 heiß	heissen
+schmaltz	ADJA	 UNKNOWN	schmaltz
+</seg>
+<seg type="newline">
+rürs	NN	 UNKNOWN	rürs
+ab	PTKVZ	 ab	ab
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+geüß	VVIMP	 UNKNOWN	geüß
+wasser	VVIMP	 wassern	wasser
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Flaischbrü	NE	 UNKNOWN	Flaischbrü
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Erbessuppen	NN	 UNKNOWN	Erbessuppen
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+du	PPER	 du	du
+magsts	NN	 UNKNOWN	magsts
+mit	APPR	 mit	mit
+Erbesmeel	NN	 UNKNOWN	Erbesmeel
+auch	ADV	 auch	auch
+also	ADV	 also	also
+machen	VVFIN	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

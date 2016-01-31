@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Danckwerth_1729_1" collection="historical" source="Danckwerth" url="none" year="1729" decade="1720-1730" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1729:1]">
+<title>
+<seg type="newline">
+1.	ADV	 1.	1.
+Eine	ART	 ein	Eine
+Wein=Suppe	NN	 UNKNOWN	Wein=Suppe
+ohne	APPR	 ohne	ohne
+Eyer	NE	 UNKNOWN	Eyer
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Diese	PDAT	 dies	Diese
+ohne	APPR	 ohne	ohne
+Eyer	NE	 UNKNOWN	Eyer
+zu	PTKZU	 zu	zu
+machen	VVINF	 machen	machen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nimmt	VVFIN	 nehmen	nimmt
+man	PIS	 man	man
+gestossene	ADJA	 gestoßen	gestossene
+Mandeln	NN	 Mandel	Mandeln
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+zuvor	ADV	 zuvor	zuvor
+in	APPR	 in	in
+warm	ADJD	 warm	warm
+Wasser	NN	 Wasser	Wasser
+die	ART	 d	die
+Schalen	NN	 Schale	Schalen
+abgezogen	VVPP	 abziehen	abgezogen
+</seg>
+<seg type="newline">
+treibet	VVFIN	 treiben	treibet
+solche	PIS	 solch	solche
+mit	APPR	 mit	mit
+den	ART	 d	den
+Wein	NN	 Wein	Wein
+durch	APPR	 durch	durch
+</seg>
+<seg type="newline">
+thut	NE	 UNKNOWN	thue
+alsdann	NE	 UNKNOWN	Alsdann
+Ingber	NN	 Ingwer	Ingwer
+und	KON	 und	und
+Gewürtz	NN	 UNKNOWN	Gewürtz
+</seg>
+<seg type="newline">
+samt	APPR	 samt	samt
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+frischer	ADJA	 frisch	frischer
+Brühe	NN	 Brühe	Brühe
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nicht	PTKNEG	 nicht	nicht
+zu	PTKA	 zu	zu
+heiß	ADJD	 heiß	heiß
+seyn	NE	 UNKNOWN	seyn
+soll	VMFIN	 sollen	soll
+</seg>
+<seg type="newline">
+darünter	ADV	 UNKNOWN	darünter
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Wasser	NN	 Wasser	Wasser
+gegossen	VVPP	 gießen	gegossen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+richtet	VVFIN	 richten	richtet
+es	PPER	 es	es
+an	PTKVZ	 an	an
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

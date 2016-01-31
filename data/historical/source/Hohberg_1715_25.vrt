@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Hohberg_1715_25" collection="historical" source="Hohberg" url="none" year="1715" decade="1710-1720" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1715:88]">
+<title>
+<seg type="newline">
+Krebs=Sultzen	NN	 UNKNOWN	Krebs=Sultzen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Siede	NN	 Siede	Siede
+Krebs	NE	 Krebs	Krebs
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+gebräuchlich	ADJD	 gebräuchlich	gebräuchlich
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+brühe	VVFIN	 brühen	brühe
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+siedendem	ADJA	 siedend	siedendem
+Wasser	NN	 Wasser	Wasser
+an	APZR	 an	an
+</seg>
+<seg type="newline">
+schäle	VVFIN	 schälen	schäle
+die	ART	 d	die
+Schwäntz	NN	 UNKNOWN	Schwäntz
+und	KON	 und	und
+Scheeren	NN	 Schnee	Schnee
+heraus	ADV	 heraus	heraus
+</seg>
+<seg type="newline">
+stosse	VVFIN	 stoßen	stosse
+die	ART	 d	die
+Schalen	NN	 Schale	Schalen
+</seg>
+<seg type="newline">
+treibs	NN	 Kreis	Kreis
+mit	APPR	 mit	mit
+Wein	NN	 Wein	Wein
+durch	PTKVZ	 durch	durch
+</seg>
+<seg type="newline">
+mische	VVFIN	 mischen	mische
+geriebenen	ADJA	 gerieben	geriebenen
+Lebkuchen	NN	 Lebkuchen	Lebkuchen
+</seg>
+<seg type="newline">
+der	ART	 d	der
+nicht	PTKNEG	 nicht	nicht
+schwartz	NE	 UNKNOWN	schwartz
+seye	NE	 UNKNOWN	seye
+</seg>
+<seg type="newline">
+gut	ADJD	 gut	gut
+Gewürtz	NN	 UNKNOWN	Gewürtz
+</seg>
+<seg type="newline">
+und	KON	 und	und
+ein	ART	 ein	ein
+Stücklein	NN	 Stücklein	Stücklein
+Hausen=Blasen	NN	 UNKNOWN	Hausen=Blasen
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+wanns	NN	 UNKNOWN	wanns
+in	APPR	 in	in
+rechter	ADJA	 recht	rechter
+Dicken	NN	 Dicke	Dicken
+gesotten	VVPP	 sieden	gesotten
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+die	ART	 d	die
+ausgeschälte	ADJA	 UNKNOWN	ausgeschälte
+Krebs	NN	 Krebs	Krebs
+in	APPR	 in	in
+eine	ART	 ein	eine
+Schüssel	NN	 Schüssel	Schüssel
+</seg>
+<seg type="newline">
+gieß	VVIMP	 gießen	gieß
+die	PRELS	 d	die
+Brüh	ADJD	 früh	früh
+darüber	PAV	 darüber	darüber
+und	KON	 und	und
+laßs	ADJD	 UNKNOWN	laßs
+gestehen	VVINF	 gestehen	gestehen
+.	$.	.	$.	 .	|	.
+Oder	KON	 oder	Oder
+siedet	VVFIN	 sieden	siedet
+2.	ADJA	 2.	2.
+Pfund	NN	 Pfund	Pfund
+Krebs	NE	 Krebs	Krebs
+</seg>
+<seg type="newline">
+schälet	VVFIN	 schälen	schälen
+sie	PPER	 sie	sie
+aus	APPR	 aus	aus
+</seg>
+<seg type="newline">
+stosset	NN	 UNKNOWN	stosset
+die	ART	 d	die
+Schalen	NN	 Schale	Schalen
+sammt	VVFIN	 UNKNOWN	sammt
+etlichen	PIAT	 etlich	etlichen
+Schwäntzen	NN	 UNKNOWN	Schwäntzen
+und	KON	 und	und
+Scheeren	NN	 Schnee	Schnee
+</seg>
+<seg type="newline">
+zwingts	VVFIN	 UNKNOWN	zwingts
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Seidlein	NN	 Seidlein	Seidlein
+Kern	NN	 Kern	Kern
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+süssen	ADJA	 süß	süssen
+Ram	NE	 Ram	Ram
+durch	APPR	 durch	durch
+</seg>
+<seg type="newline">
+weichet	ADJD	 UNKNOWN	weichet
+eine	ART	 ein	eine
+zwey	CARD	 zwei	zwei
+Pfennig=Semmel	NN	 UNKNOWN	Pfennig=Semmel
+in	APPR	 in	in
+ein	ART	 ein	ein
+halb	ADJD	 halb	halb
+Seidlein	NN	 Seidlein	Seidlein
+Kern	NE	 Kern	Kern
+</seg>
+<seg type="newline">
+zwingts	VVFIN	 UNKNOWN	zwingts
+ebenfalls	ADV	 ebenfalls	ebenfalls
+durch	APPR	 durch	durch
+</seg>
+<seg type="newline">
+giesset	PDAT	 dies	diese
+beedes	NN	 UNKNOWN	beedes
+zusammen	PTKVZ	 zusammen	zusammen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+zerklopffet	VVFIN	 UNKNOWN	zerklopffet
+in	APPR	 in	in
+der	ART	 d	der
+durchgezwungenen	ADJA	 UNKNOWN	durchgezwungenen
+Milch	NN	 Milch	Milch
+</seg>
+<seg type="newline">
+von	APPR	 von	von
+4.	ADJA	 4.	4.
+Eyern	NN	 UNKNOWN	Eyern
+das	ART	 d	das
+Weisse	NN	 Weiß|Weiße	Weisse
+wohl	ADV	 wohl	wohl
+</seg>
+<seg type="newline">
+schüttets	NN	 UNKNOWN	schüttets
+in	APPR	 in	in
+eine	ART	 ein	eine
+Schüssel	NN	 Schüssel	Schüssel
+</seg>
+<seg type="newline">
+leget	ADJD	 UNKNOWN	leget
+die	ART	 d	die
+ausgeschälte	ADJA	 UNKNOWN	ausgeschälte
+Krebs	NN	 Krebs	Krebs
+hinein	ADV	 hinein	hinein
+</seg>
+<seg type="newline">
+streuet	VVFIN	 UNKNOWN	streuet
+gut	ADJD	 gut	gut
+Gewürtz	NN	 UNKNOWN	Gewürtz
+darauf	PAV	 darauf	darauf
+</seg>
+<seg type="newline">
+deckts	VVFIN	 UNKNOWN	deckts
+zu	PTKVZ	 zu	zu
+</seg>
+<seg type="newline">
+und	KON	 und	und
+lasts	NN	 UNKNOWN	lasts
+aufsieden	VVFIN	 UNKNOWN	aufsieden
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+gestehet	VVFIN	 UNKNOWN	gestehet
+es	PPER	 es	es
+</seg>
+<seg type="newline">
+tragets	NN	 UNKNOWN	tragets
+alsdann	NE	 UNKNOWN	Alsdann
+warm	ADJD	 warm	warm
+oder	KON	 oder	oder
+kalt	ADJD	 kalt	kalt
+zu	APPR	 zu	zu
+Tisch	NN	 Tisch	Tisch
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

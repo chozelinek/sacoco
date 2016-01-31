@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Koch_vnd_Kellermeisterey_1574_12" collection="historical" source="Koch_vnd_Kellermeisterey" url="none" year="1574" decade="1570-1580" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1574:38vff.]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+Krapffen	NN	 UNKNOWN	Krapffen
+Teyg	NE	 UNKNOWN	Teyg
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Honig	NN	 Honig	Honig
+seud	NE	 UNKNOWN	seud
+in	APPR	 in	in
+wein	VVIMP	 weinen	wein
+</seg>
+<seg type="newline">
+als	KOKOM	 als	als
+vil	ADV	 viel	viel
+du	PPER	 du	du
+wilt	ADJA	 UNKNOWN	wilt
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+nimein	ADJA	 UNKNOWN	nimein
+weite	ADJA	 weit	weite
+Schüssel	NN	 Schüssel	Schüssel
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+zwir	VVFIN	 UNKNOWN	zwir
+den	ART	 d	den
+wein	VVIMP	 weinen	wein
+mit	APPR	 mit	mit
+weiß	ADJD	 weiß	weiß
+mehl	ADJD	 UNKNOWN	mehl
+als	KOKOM	 als	als
+ein	ART	 ein	ein
+Müselin	NN	 UNKNOWN	Müselin
+</seg>
+<seg type="newline">
+schlahe	ADJA	 UNKNOWN	schlahe
+Eyer	NE	 UNKNOWN	Eyer
+totter	VVFIN	 UNKNOWN	totter
+in	APPR	 in	in
+ein	ART	 ein	ein
+ander	ADJA	 UNKNOWN	ander
+schüssel	NN	 Schüssel	schüssel
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Saffran	NN	 Safran	Safran
+</seg>
+<seg type="newline">
+zertreibe	VVFIN	 UNKNOWN	zertreibe
+es	PPER	 es	es
+gar	ADV	 gar	gar
+wol	PWAV	 wo	wo
+mit	APPR	 mit	mit
+dem	ART	 d	dem
+gemachten	ADJA	 gemacht	gemachten
+Honig	NN	 Honig	Honig
+wein	VVIMP	 weinen	wein
+</seg>
+<seg type="newline">
+thu	VVFIN	 UNKNOWN	thue
+es	PPER	 es	es
+in	APPR	 in	in
+den	ART	 d	den
+gezwirten	NN	 UNKNOWN	gezwirten
+teyg	NE	 UNKNOWN	teyg
+</seg>
+<seg type="newline">
+temperiers	NE	 UNKNOWN	temperiers
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+würff	NE	 UNKNOWN	würff
+je	APPR	 je	je
+ein	ART	 ein	ein
+stäublin	NE	 UNKNOWN	stäublin
+mehls	ADJD	 UNKNOWN	mehls
+darzu	PAV	 dazu	dazu
+in	APPR	 in	in
+die	ART	 d	die
+Schüssel	NN	 Schüssel	Schüssel
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+ein	ART	 ein	ein
+leydiger	ADJA	 UNKNOWN	leydiger
+teyg	NE	 UNKNOWN	teyg
+wirdt	NE	 UNKNOWN	wirdt
+.	$.	.	$.	 .	|	.
+Darnach	ADV	 UNKNOWN	Darnach
+zeuch	NN	 UNKNOWN	zeuch
+jn	NE	 UNKNOWN	jn
+mit	APPR	 mit	mit
+eim	ADJA	 UNKNOWN	nimb
+wallholtz	NN	 UNKNOWN	wallholtz
+vff	VVFIN	 UNKNOWN	vff
+ein	ART	 ein	ein
+tuch	NN	 Tuch	tuch
+schneid	VVFIN	 schneiden	schneiden
+jhn	PPER	 er	ihn
+groß	ADJD	 groß	groß
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+nach	APPR	 nach	nach
+dem	ART	 d	dem
+du	PPER	 du	du
+die	ART	 d	die
+Krapffen	NN	 UNKNOWN	Krapffen
+haben	VAFIN	 haben	haben
+wilt	NE	 Wilt	wilt
+.	$.	.	$.	 .	|	.
+Was	PWS	 was	Was
+teyg	NE	 UNKNOWN	teyg
+man	PIS	 man	man
+mit	APPR	 mit	mit
+Häffel	NN	 UNKNOWN	Häffel
+</seg>
+<seg type="newline">
+Bier	NN	 Bier	Bier
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Hopffen	NN	 UNKNOWN	Hopffen
+macht	VVFIN	 machen	macht
+</seg>
+<seg type="newline">
+muß	VMFIN	 müssen	muß
+man	PIS	 man	man
+lassen	VVINF	 lassen	lassen
+auffgehn	VVFIN	 UNKNOWN	auffgehn
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+einkneten	VVFIN	 UNKNOWN	einkneten
+in	APPR	 in	in
+lohem	ADJA	 UNKNOWN	lohem
+wasser	VVIMP	 wassern	wasser
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+einen	PIS	 ein	einen
+gesotten	VVPP	 sieden	gesotten
+Honig	NN	 Honig	Honig
+wein	VVIMP	 weinen	wein
+.	$.	.	$.	 .	|	.
+Klein	NE	 Klein	Klein
+Krapffen	NN	 UNKNOWN	Krapffen
+für	APPR	 für	für
+Herrn	NN	 Herr	Herrn
+füll	VVIMP	 füllen	füll
+mit	APPR	 mit	mit
+eytel	NN	 UNKNOWN	eytel
+Fisch	NN	 Fisch	Fisch
+lebern	ADJA	 UNKNOWN	lebern
+</seg>
+<seg type="newline">
+wol	PWAV	 wo	wo
+gestossen	VVPP	 stoßen	gestossen
+mit	APPR	 mit	mit
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+gutem	ADJA	 gut	gutem
+geriben	ADJA	 UNKNOWN	geriben
+Lebkuchen	NN	 Lebkuchen	Lebkuchen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+haben	VAFIN	 haben	haben
+sie	PPER	 sie	sie
+würtz	VVFIN	 würzen	würzt
+genug	ADV	 genug	genug
+.	$.	.	$.	 .	|	.
+Also	ADV	 also	Also
+Vogel	NN	 Vogel	Vogel
+lebern	ADJA	 UNKNOWN	lebern
+</seg>
+<seg type="newline">
+Hünerlebern	NN	 UNKNOWN	Hünerlebern
+wol	PWAV	 wo	wo
+gehackt	VVPP	 hacken	gehackt
+vnd	KON	 und	und
+gestossen	VVPP	 stoßen	gestossen
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Eyer	NE	 UNKNOWN	Eyer
+totter	NN	 UNKNOWN	totter
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+geriben	ADJA	 UNKNOWN	geriben
+Lebkuchen	NN	 Lebkuchen	Lebkuchen
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+füll	VVIMP	 füllen	füll
+sie	PPER	 sie	sie
+ein	PTKVZ	 ein	ein
+.	$.	.	$.	 .	|	.
+Alles	PIS	 alle	Alles
+eingeweyd	VVFIN	 UNKNOWN	eingeweyd
+von	APPR	 von	von
+Fischen	NN	 Fisch|Fischen	Fischen
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+eim	ADJA	 UNKNOWN	nimb
+Eyerdottern	NN	 UNKNOWN	Eyerdottern
+gestossen	VVPP	 stoßen	gestossen
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Fischbrü	NE	 UNKNOWN	Fischbrü
+vor	PTKVZ	 vor	vor
+abgemacht	VVPP	 abmachen	abgemacht
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Lebkuchen	NN	 Lebkuchen	Lebkuchen
+darunder	ADJA	 UNKNOWN	darunder
+geriben	NN	 UNKNOWN	geriben
+</seg>
+<seg type="newline">
+ist	VAFIN	 sein	ist
+gut	ADJD	 gut	gut
+Fischfüll	NN	 UNKNOWN	Fischfüll
+in	APPR	 in	in
+die	ART	 d	die
+Krapffen	NN	 UNKNOWN	Krapffen
+</seg>
+<seg type="newline">
+also	ADV	 also	also
+schön	ADJD	 schön	schön
+gebachen	VVPP	 UNKNOWN	gebachen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

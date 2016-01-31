@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Buchinger_1700_30" collection="historical" source="Buchinger" url="none" year="1700" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:1f.]">
+<title>
+<seg type="newline">
+31	CARD	 31	31
+</seg>
+</title>
+<body>
+<seg type="newline">
+31.	ADJA	 31.	31.
+Man	PIS	 man	Man
+mag	VMFIN	 mögen	mag
+auch	ADV	 auch	auch
+wol	PWAV	 wo	wo
+Matten=Kümich	NN	 UNKNOWN	Matten=Kümich
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+auch	ADV	 auch	auch
+klein	ADJD	 klein	klein
+geschnittenen	ADJA	 geschnitten	geschnittenen
+Peterlin	NE	 UNKNOWN	Peterlin
+darzu	PAV	 dazu	dazu
+thun	NE	 UNKNOWN	thue
+.	$.	.	$.	 .	|	.
+Item	ADV	 item	Item
+Imber	NN	 UNKNOWN	Imber
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+rc	NE	 UNKNOWN	rc
+.	$.	.	$.	 .	|	.
+alsdann	NN	 UNKNOWN	Alsdann
+die	ART	 d	die
+Zwibel	NN	 UNKNOWN	Zwibel
+außgelassen	ADJD	 UNKNOWN	außgelassen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

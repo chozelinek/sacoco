@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Prasmosfky_1671_18" collection="historical" source="Prasmosfky" url="none" year="1671" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1671:110]">
+<title>
+<seg type="newline">
+330.	ADJA	 @ord@	330.
+Krebs=Gestossens	NN	 UNKNOWN	Krebs=Gestossens
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Siede	NN	 Siede	Siede
+die	ART	 d	die
+Krebs	NE	 Krebs	Krebs
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+die	ART	 d	die
+Aederlein	NN	 UNKNOWN	Aederlein
+davon	PAV	 davon	davon
+</seg>
+<seg type="newline">
+stoß	VVIMP	 stoßen	stoß
+im	APPRART	 im	im
+Mörßner	NN	 UNKNOWN	Mörßner
+</seg>
+<seg type="newline">
+treibs	NN	 Kreis	Kreis
+mit	APPR	 mit	mit
+Semmelschnitten	NN	 UNKNOWN	Semmelschnitten
+und	KON	 und	und
+Wein	NN	 Wein	Wein
+durch	PTKVZ	 durch	durch
+</seg>
+<seg type="newline">
+streue	VVFIN	 streuen	streue
+Zucker	NN	 Zucker	Zucker
+und	KON	 und	und
+gestossene	ADJA	 gestoßen	gestossene
+Zimmet	NN	 Zimt	Zimt
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+Muscatenblühe	VVFIN	 UNKNOWN	Muscatenblühe
+darunter	PAV	 darunter	darunter
+</seg>
+<seg type="newline">
+sieds	NN	 UNKNOWN	sieds
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+</seg>
+<seg type="newline">
+stecke	VVFIN	 stecken	stecke
+in	APPR	 in	in
+gebehete	ADJA	 UNKNOWN	gebehete
+Semmelschnitten	NN	 UNKNOWN	Semmelschnitten
+die	ART	 d	die
+geschelte	ADJD	 gescheit	gescheit
+Krebsscheeren	NN	 UNKNOWN	Krebsscheeren
+</seg>
+<seg type="newline">
+die	ART	 d	die
+Schwäntze	NN	 UNKNOWN	Schwäntze
+lege	VVFIN	 legen	lege
+darauf	PAV	 darauf	darauf
+</seg>
+<seg type="newline">
+und	KON	 und	und
+gieß	VVIMP	 gießen	gieß
+die	ART	 d	die
+Brühe	NN	 Brühe	Brühe
+darüber	PAV	 darüber	darüber
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

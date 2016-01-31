@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Staindl_1569_28" collection="historical" source="Staindl" url="none" year="1569" decade="1560-1570" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[8v]">
+<title>
+<seg type="newline">
+Pirn	NN	 UNKNOWN	Pirn
+magst	VMFIN	 mögen	magst
+gleich	ADJD	 gleich	gleich
+also	ADV	 also	also
+machen	VVINF	 machen	machen
+</seg>
+<seg type="newline">
+sihe	VVFIN	 UNKNOWN	sihe
+das	PDS	 d	das
+sie	PPER	 sie	sie
+nicht	PTKNEG	 nicht	nicht
+steinig	ADJD	 steinig	steinig
+werden	VAINF	 werden	werden
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Item	ADV	 item	Item
+</seg>
+<seg type="newline">
+man	PIS	 man	man
+mag	VMFIN	 mögen	mag
+Oepffel	NN	 UNKNOWN	Oepffel
+vnnd	KON	 und	und
+Pirn	NN	 UNKNOWN	Pirn
+ab	APPR	 ab	ab
+dinsten	ADJA	 UNKNOWN	dinsten
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+mans	VMFIN	 mögen	mag
+halt	ADV	 halt	halt
+nit	ADJD	 UNKNOWN	nimb
+fült	VVPP	 UNKNOWN	fült
+</seg>
+<seg type="newline">
+sonder	VVIMP	 sondern	sonder
+im	APPRART	 im	im
+schmaltz	NN	 UNKNOWN	schmaltz
+brennt	VVFIN	 brennen	brennt
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+oben	ADV	 oben	oben
+steht	VVFIN	 stehen	steht
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

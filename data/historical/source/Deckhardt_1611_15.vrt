@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Deckhardt_1611_15" collection="historical" source="Deckhardt" url="none" year="1611" decade="1610-1620" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1611:127]">
+<title>
+<seg type="newline">
+Grüne	ADJA	 grün	Grüne
+Fohren	NN	 UNKNOWN	Fohren
+</seg>
+<seg type="newline">
+Berßken	ADJA	 UNKNOWN	Berßken
+oder	KON	 oder	oder
+andere	ADJA	 ander	andere
+Fische	NN	 Fisch	Fische
+gut	ADJD	 gut	gut
+im	APPRART	 im	im
+Saltze	NN	 Salz	Salz
+zu	PTKZU	 zu	zu
+sieden	VVINF	 sieden	sieden
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Reisse	VVFIN	 reißen	Reisse
+die	ART	 d	die
+Fohren	NN	 UNKNOWN	Fohren
+</seg>
+<seg type="newline">
+Streiffberßken	NN	 UNKNOWN	Streiffberßken
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+andere	ADJA	 ander	andere
+Fische	NN	 Fisch	Fische
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+man	PIS	 man	man
+pfleget	ADJD	 UNKNOWN	pfleget
+</seg>
+<seg type="newline">
+wasche	VVFIN	 waschen	wasche
+sie	PPER	 sie	sie
+aus	APPR	 aus	aus
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+las	VVFIN	 lesen	las
+sie	PPER	 sie	sie
+abeseigen	ADJA	 UNKNOWN	abeseigen
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+mache	VVFIN	 machen	mache
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+laulichten	ADJA	 UNKNOWN	laulichten
+Essige	NN	 UNKNOWN	Essige
+fein	ADJD	 fein	fein
+blaw	NE	 UNKNOWN	blaw
+</seg>
+<seg type="newline">
+setze	VVFIN	 setzen	setze
+den	ART	 d	den
+einen	ADJA	 einen	einen
+tigel	NN	 UNKNOWN	tigel
+mit	APPR	 mit	mit
+Wasser	NN	 Wasser	Wasser
+vbers	ADJA	 UNKNOWN	vbers
+fewer	NN	 UNKNOWN	fewer
+</seg>
+<seg type="newline">
+geus	NN	 UNKNOWN	geuß
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+essig	ADJD	 UNKNOWN	essig
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+saltze	ADJA	 kalt	kalten
+es	PPER	 es	es
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+thue	NE	 UNKNOWN	thue
+ein	ART	 ein	ein
+gut	ADJD	 gut	gut
+theil	ADJA	 UNKNOWN	theil
+Pfeffer	NN	 Pfeffer	Pfeffer
+drein	PTKVZ	 drein	drein
+.	$.	.	$.	 .	|	.
+Wen	PWS	 wer	Wen
+nun	ADV	 nun	nun
+das	ART	 d	das
+Wasser	NN	 Wasser	Wasser
+anfehet	VVFIN	 UNKNOWN	anfehet
+zu	PTKVZ	 zu	zu
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+lege	VVFIN	 legen	lege
+die	ART	 d	die
+Fische	NN	 Fisch	Fische
+fein	ADJD	 fein	fein
+gemach	ADV	 gemach	gemach
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+wehre	VVFIN	 wehren	wehre
+mit	APPR	 mit	mit
+einer	ART	 ein	einer
+schaum	NN	 Schaum	schaum
+Kellen	NN	 Kelle	Kellen
+das	PRELS	 d	das
+sie	PPER	 sie	sie
+nicht	PTKNEG	 nicht	nicht
+vberlauffen	ADJD	 UNKNOWN	vberlauffen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+las	VVFIN	 lesen	las
+sie	PPER	 sie	sie
+einsieden	VVFIN	 einziehen	einziehen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+werden	VAFIN	 werden	werden
+die	ART	 d	die
+Fische	NN	 Fisch	Fische
+fein	ADJD	 fein	fein
+hertlicht	ADJD	 UNKNOWN	hertlicht
+vnd	KON	 und	und
+gut	ADJD	 gut	gut
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+lösen	VVFIN	 lösen	lösen
+sich	PRF	 er|es|sie	sich
+von	APPR	 von	von
+Greten	NE	 UNKNOWN	Greten
+abe	PTKVZ	 dabei	dabei
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Wecker_1679_13" collection="historical" source="Wecker" url="none" year="1679" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:180]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+ander	ADJA	 UNKNOWN	ander
+Lungenmuß	NN	 UNKNOWN	Lungenmuß
+zu	PTKZU	 zu	zu
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Seude	NN	 UNKNOWN	Seude
+die	ART	 d	die
+Lung	NN	 UNKNOWN	Lung
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+hacke	VVFIN	 hacken	hacke
+sie	PPER	 sie	sie
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+thue	NN	 UNKNOWN	thue
+ein	ART	 ein	ein
+gut	ADJD	 gut	gut
+theil	ADJA	 UNKNOWN	theil
+gehackte	ADJA	 gehackt	gehackte
+Petersilgen	NN	 UNKNOWN	Petersilgen
+oder	KON	 oder	oder
+ander	ADV	 UNKNOWN	ander
+grünes	ADJA	 grün	grünes
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+geuß	NN	 UNKNOWN	geuß
+ein	ART	 ein	ein
+gute	ADJA	 gut	gute
+feißte	ADJA	 UNKNOWN	feißte
+Rindfleischsuppe	NN	 Rindfleischsuppe	Rindfleischsuppe
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+würtze	VVFIN	 würzen	würzt
+es	PPER	 es	es
+mit	APPR	 mit	mit
+Ingwer	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Zimmee	NN	 UNKNOWN	Zimmee
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+vnd	KON	 und	und
+Saffran	NN	 Safran	Safran
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+laß	ADJD	 laß	laß
+wol	PWAV	 wo	wo
+heiß	ADJD	 heiß	heiß
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+wil	NE	 Wil	wil
+man	PIS	 man	man
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+thue	NE	 UNKNOWN	thue
+auch	ADV	 auch	auch
+Rosinen	NN	 Rosine	Rosinen
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+weiß	VVFIN	 wissen	weiß
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+wird	VAFIN	 werden	wird
+es	PPER	 es	es
+recht	ADJD	 recht	recht
+vnd	KON	 und	und
+gut	ADJD	 gut	gut
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

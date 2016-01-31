@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Keyl_1705_12" collection="historical" source="Keyl" url="none" year="1705" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1705:12]">
+<title>
+<seg type="newline">
+[	$(	[	$(	 [	|	[
+Kälber=Leber	NN	 UNKNOWN	Kälber=Leber
+anzurichten	VVIZU	 anrichten	anzurichten
+]	$(	]	$(	 ]	|	]
+Andere	ADJA	 ander	Andere
+Art.	NN	 Art.	Art.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Die	ART	 d	Die
+Leber	NN	 Leber	Leber
+laß	ADJD	 laß	laß
+zuvor	ADV	 zuvor	zuvor
+gar	ADV	 gar	gar
+kochen	VVINF	 kochen	kochen
+</seg>
+<seg type="newline">
+hacke	VVFIN	 hacken	hacke
+sie	PPER	 sie	sie
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Salbey	NE	 UNKNOWN	Salbey
+</seg>
+<seg type="newline">
+schmeltze	VVFIN	 UNKNOWN	schmeltze
+Butter	NN	 Butter	Butter
+oder	KON	 oder	oder
+Speck	NN	 Speck	Speck
+</seg>
+<seg type="newline">
+3.	ADJA	 3.	3.
+Eyer	NE	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+Zippoln	NE	 UNKNOWN	Zippoln
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+es	PPER	 es	es
+fein	ADJD	 fein	fein
+durch	APPR	 durch	durch
+einander	PRF	 einander	einander
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+es	PPER	 es	es
+in	APPR	 in	in
+ein	ART	 ein	ein
+Kälber=Netz	NN	 UNKNOWN	Kälber=Netz
+fein	ADJD	 fein	fein
+rund	ADV	 rund	rund
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+ein	ART	 ein	ein
+Zirckel	NN	 UNKNOWN	Zirckel
+</seg>
+<seg type="newline">
+brate	VVFIN	 braten	brate
+sie	PPER	 sie	sie
+braun	ADJD	 braun	braun
+in	APPR	 in	in
+Butter	NN	 Butter	Butter
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

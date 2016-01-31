@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Prasmosfky_1671_22" collection="historical" source="Prasmosfky" url="none" year="1671" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Huhn|" method="|gedämpft|" ref="[1671:70]">
+<title>
+<seg type="newline">
+212.	ADJA	 @ord@	212.
+Junge	ADJA	 jung	Junge
+Hüner	NN	 UNKNOWN	Hünern
+dämpffen	VVFIN	 UNKNOWN	dämpffen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wann	PWAV	 wann	Wann
+die	ART	 d	die
+Hünlein	NN	 UNKNOWN	Hünlein
+gesotten	VVPP	 sieden	gesotten
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nimm	VVIMP	 nehmen	nimm
+rein	ADV	 rein	rein
+gewaschene	ADJA	 gewaschen	gewaschene
+Weinbeer	NN	 Weizenbier	Weizenbier
+</seg>
+<seg type="newline">
+sied	ART	 d	die
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+den	ART	 d	den
+Hünern	NN	 UNKNOWN	Hünern
+</seg>
+<seg type="newline">
+und	KON	 und	und
+treibs	NN	 Kreis	Kreis
+durch	PTKVZ	 durch	durch
+</seg>
+<seg type="newline">
+gieß	VVIMP	 gießen	gieß
+nochmal	ADV	 nochmal	nochmal
+über	APPR	 über	über
+die	ART	 d	die
+Hüner	NN	 UNKNOWN	Hünern
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+du	PPER	 du	du
+sie	PPER	 sie	sie
+wilt	NE	 Wilt	wilt
+bald	ADV	 bald	bald
+anrichten	VVFIN	 anrichten	anrichten
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+vorhero	ADV	 vorher	vorher
+Butter	NN	 Butter	Butter
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+Pfeffer	NN	 Pfeffer	Pfeffer
+und	KON	 und	und
+Ingwer	NN	 Ingwer	Ingwer
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

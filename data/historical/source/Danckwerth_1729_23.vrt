@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Danckwerth_1729_23" collection="historical" source="Danckwerth" url="none" year="1729" decade="1720-1730" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1729:321f.]">
+<title>
+<seg type="newline">
+Wie	KOUS	 wie	Wie
+der	ART	 d	der
+Calmus	NN	 UNKNOWN	Calmus
+eingebitzt	VVPP	 UNKNOWN	eingebitzt
+oder	KON	 oder	oder
+eingemacht	VVPP	 einmachen	eingemacht
+werden	VAINF	 werden	werden
+muß	VMFIN	 müssen	muß
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+So	ADV	 so	So
+man	PIS	 man	man
+den	ART	 d	den
+Calmus	NN	 UNKNOWN	Calmus
+einmachen	VVFIN	 einmachen	einmachen
+wil	NE	 Wil	wil
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+leset	VVFIN	 lesen	leset
+man	PIS	 man	man
+die	ART	 d	die
+frischesten	ADJA	 UNKNOWN	frischesten
+und	KON	 und	und
+besten	ADJA	 gut	besten
+Wurtzeln	NN	 UNKNOWN	Wurtzeln
+aus	APPR	 aus	aus
+die	ART	 d	die
+man	PIS	 man	man
+haben	VAFIN	 haben	haben
+kan	ADV	 nun	Nun
+</seg>
+<seg type="newline">
+siedet	VVFIN	 sieden	siedet
+sie	PPER	 sie	sie
+dann	ADV	 dann	dann
+in	APPR	 in	in
+einen	ART	 ein	einen
+frischen	ADJA	 frisch	frischen
+Wasser	NN	 Wasser	Wasser
+über	APPR	 über	über
+einem	ART	 ein	einem
+gelinden	ADJA	 gelinde	gelinden
+Kohl=Feuerlein	NN	 UNKNOWN	Kohl=Feuerlein
+so	ADV	 so	so
+lang	ADJD	 lang	lang
+</seg>
+<seg type="newline">
+bis	APPR	 bis	bis
+ihm	PPER	 er	ihm
+der	ART	 d	der
+starck=herbe	NN	 UNKNOWN	starck=herbe
+Geschmack	NN	 Geschmack	Geschmack
+und	KON	 und	und
+die	ART	 d	die
+Bitterkeit	NN	 Bitterkeit	Bitterkeit
+vergehet	VVPP	 vergessen	vergessen
+</seg>
+<seg type="newline">
+alsdann	NN	 UNKNOWN	Alsdann
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+gar	ADV	 gar	gar
+scharffen	ADJA	 UNKNOWN	scharffen
+wolschneidenden	ADJA	 UNKNOWN	wolschneidenden
+Messerlein	NN	 UNKNOWN	Messerlein
+gereiniget	ADJA	 UNKNOWN	gereiniget
+</seg>
+<seg type="newline">
+geschabet	NN	 UNKNOWN	geschabet
+und	KON	 und	und
+beschnitten	VVFIN	 beschneiden	beschnitten
+</seg>
+<seg type="newline">
+und	KON	 und	und
+dann	ADV	 dann	dann
+in	APPR	 in	in
+kleine	ADJA	 klein	kleine
+Scheiblein	NN	 UNKNOWN	Scheiblein
+oder	KON	 oder	oder
+Stücklein	NN	 Stücklein	Stücklein
+nuch	NN	 UNKNOWN	nuch
+Gefallen	NN	 Gefallen	Gefallen
+</seg>
+<seg type="newline">
+lang	ADJD	 lang	lang
+oder	KON	 oder	oder
+kurtz	ADJD	 UNKNOWN	kurtz
+zerschnitten	VVPP	 zerschneiden	zerschnitten
+oder	KON	 oder	oder
+zerspalten	VVFIN	 zerspalten	zerspalten
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+mit	APPR	 mit	mit
+guten	ADJA	 gut	guten
+frischem	ADJA	 frisch	frischem
+Wasser	NN	 Wasser	Wasser
+noch	ADV	 noch	noch
+einen	ART	 ein	einen
+Wall	NN	 Wall	Wall
+darüber	PAV	 darüber	darüber
+gehen	VVINF	 gehen	gehen
+lassen	VVFIN	 lassen	lassen
+</seg>
+<seg type="newline">
+alsdann	NN	 UNKNOWN	Alsdann
+auf	APPR	 auf	auf
+einem	ART	 ein	einem
+Sieb	NN	 Sieb	Sieb
+wol	PWAV	 wo	wo
+getrocknet	VVPP	 trocknen	getrocknet
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+von	APPR	 von	von
+dem	ART	 d	dem
+Ingber	NN	 Ingwer	Ingwer
+gesagt	VVPP	 sagen	gesagt
+worden	VAPP	 werden	worden
+;	$.	;	$.	 ;	|	;
+ferner	ADJD	 fern	ferner
+den	ART	 d	den
+Syrup	NE	 UNKNOWN	Syrup
+vom	APPRART	 vom	vom
+Honig	NN	 Honig	Honig
+oder	KON	 oder	oder
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+(	$(	(	$(	 (	|	(
+oder	KON	 oder	oder
+halb	ADJD	 halb	halb
+Honig	NN	 Honig	Honig
+halb	ADJD	 halb	halb
+Zucker	NN	 Zucker	Zucker
+)	$(	)	$(	 )	|	)
+gleicher	ADJA	 gleich	gleicher
+Massen	NN	 Masse	Massen
+und	KON	 und	und
+Gestalt	NN	 Gestalt	Gestalt
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+von	APPR	 von	von
+dem	ART	 d	dem
+Ingber	NN	 Ingwer	Ingwer
+gesagt	VVPP	 sagen	gesagt
+worden	VAPP	 werden	worden
+</seg>
+<seg type="newline">
+zeucht	VVFIN	 UNKNOWN	zeucht
+dann	ADV	 dann	dann
+den	ART	 d	den
+Syrup	NE	 UNKNOWN	Syrup
+die	ART	 d	die
+Feuchtigkeit	NN	 Feuchtigkeit	Feuchtigkeit
+an	APZR	 an	an
+sich	PRF	 er|es|sie	sich
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+mag	VMFIN	 mögen	mag
+man	PIS	 man	man
+ihn	PPER	 er	ihn
+abseihen	VVFIN	 UNKNOWN	abseihen
+und	KON	 und	und
+besser	ADJD	 gut	besser
+einsieden	VVINF	 einziehen	einziehen
+lassen	VVINF	 lassen	lassen
+.	$.	.	$.	 .	|	.
+Dieser	PDAT	 dies	Dieser
+eingemachte	ADJA	 eingemacht	eingemachte
+Calmus	NN	 UNKNOWN	Calmus
+ist	VAFIN	 sein	ist
+eine	PIS	 ein	eine
+|	XY	|	XY	 |	|	|
+[	$(	[	$(	 [	|	[
+322	CARD	 @card@	322
+]	$(	]	$(	 ]	|	]
+köstliche	ADJA	 köstlich	köstliche
+Hauß=Artzeney	NN	 UNKNOWN	Hauß=Artzeney
+</seg>
+<seg type="newline">
+und	KON	 und	und
+mag	VMFIN	 mögen	mag
+zu	APPR	 zu	zu
+vielen	PIAT	 viel	vielen
+Kranckheiten	NN	 UNKNOWN	Kranckheiten
+</seg>
+<seg type="newline">
+sonderlich	ADJD	 sonderlich	sonderlich
+zu	APPR	 zu	zu
+einen	ART	 ein	einen
+bösen	ADJA	 böse	bösen
+</seg>
+<seg type="newline">
+undäuigen	ADJA	 UNKNOWN	undäuigen
+Magen	NN	 Magen	Magen
+</seg>
+<seg type="newline">
+gebraucht	VVPP	 brauchen|gebrauchen	gebraucht
+werden	VAINF	 werden	werden
+.	$.	.	$.	 .	|	.
+Ist	VAFIN	 sein	Ist
+auch	ADV	 auch	auch
+gut	ADJD	 gut	gut
+zu	APPR	 zu	zu
+Morgens	NN	 Morgen	Morgens
+gegessen	VVPP	 essen	gegessen
+</seg>
+<seg type="newline">
+für	APPR	 für	für
+böser	ADJA	 böse	böser
+</seg>
+<seg type="newline">
+vergiffteter	ADJA	 UNKNOWN	vergiffteter
+</seg>
+<seg type="newline">
+pestilentzischer	ADJA	 UNKNOWN	pestilentzischer
+Lufft	NN	 UNKNOWN	Lufft
+</seg>
+<seg type="newline">
+macht	VVFIN	 machen	macht
+einen	ART	 ein	einen
+guten	ADJA	 gut	guten
+wolriechenden	ADJA	 UNKNOWN	wolriechenden
+Athem	NN	 UNKNOWN	Athem
+</seg>
+<seg type="newline">
+befordert	VVPP	 UNKNOWN	befordert
+und	KON	 und	und
+treibet	VVFIN	 treiben	treibet
+den	ART	 d	den
+Urin	NN	 Urin	Urin
+</seg>
+<seg type="newline">
+und	KON	 und	und
+heilet	ADJA	 UNKNOWN	heilet
+allerley	ADJA	 UNKNOWN	allerley
+Gebrechen	NN	 Gebrech	Gebrechen
+und	KON	 und	und
+Mängel	NN	 Mangel	Mängel
+der	ART	 d	der
+Blasen	NN	 Blase|Blasen	Blasen
+und	KON	 und	und
+Nieren	NN	 Niere	Nieren
+</seg>
+<seg type="newline">
+zerbricht	VVFIN	 zerbrechen	zerbricht
+den	ART	 d	den
+Stein	NN	 Stein	Stein
+</seg>
+<seg type="newline">
+befördert	VVFIN	 befördern	befördert
+der	ART	 d	der
+Weiber	NN	 Weib	Weiber
+Menses	NN	 UNKNOWN	Menses
+oder	KON	 oder	oder
+Blumen	NN	 Blume	Blumen
+</seg>
+<seg type="newline">
+rc	NE	 UNKNOWN	rc
+.	$.	.	$.	 .	|	.
+Wer	PWS	 wer	Wer
+den	ART	 d	den
+Calmus	NN	 UNKNOWN	Calmus
+frühe	ADJA	 früh	frühe
+nüchtern	ADJD	 nüchtern	nüchtern
+geniesset	VVFIN	 UNKNOWN	geniesset
+</seg>
+<seg type="newline">
+dem	ART	 d	dem
+macht	VVFIN	 machen	macht
+er	PPER	 er	er
+einen	ART	 ein	einen
+guten	ADJA	 gut	guten
+däuenden	ADJA	 UNKNOWN	däuenden
+Magen	NN	 Magen	Magen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+präserviret	VVFIN	 UNKNOWN	präserviret
+den	ART	 d	den
+Menschen	NN	 Mensch	Menschen
+vor	APPR	 vor	vor
+allen	PIAT	 alle	allen
+Fiebern	NN	 Fieber	Fiebern
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

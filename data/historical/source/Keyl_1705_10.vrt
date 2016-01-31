@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Keyl_1705_10" collection="historical" source="Keyl" url="none" year="1705" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1705:107]">
+<title>
+<seg type="newline">
+Ferckel	NN	 UNKNOWN	Ferckel
+zu	PTKZU	 zu	zu
+braten	VVINF	 braten	braten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wenn	KOUS	 wenn	Wenn
+du	PPER	 du	du
+ihm	PPER	 er	ihm
+mit	APPR	 mit	mit
+einen	ART	 ein	einen
+kleinen	ADJA	 klein	kleinen
+Messer	NN	 Messer	Messer
+(	$(	(	$(	 (	|	(
+damit	KOUS	 damit	damit
+das	ART	 d	das
+Loch	NN	 Loch	Loch
+nicht	PTKNEG	 nicht	nicht
+zu	PTKA	 zu	zu
+groß	ADJD	 groß	groß
+werde	VAFIN	 werden	werde
+)	$(	)	$(	 )	|	)
+die	ART	 d	die
+Gurgel	NN	 Gurgel	Gurgel
+abgestochen	VVPP	 abstechen	abgestochen
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+es	PPER	 es	es
+rein	PTKVZ	 rein	rein
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+man	PIS	 man	man
+pfleget	VVFIN	 UNKNOWN	pfleget
+</seg>
+<seg type="newline">
+wenn	KOUS	 wenn	wenn
+du	PPER	 du	du
+es	PPER	 es	es
+ausnehmen	VVFIN	 ausnehmen	ausnehmen
+wilt	NE	 Wilt	wilt
+</seg>
+<seg type="newline">
+schneide	VVFIN	 schneiden	schneide
+es	PPER	 es	es
+in	APPR	 in	in
+der	ART	 d	der
+Seiten	NN	 Seite	Seiten
+bey	NE	 Bey	bey
+den	ART	 d	den
+hintersten	ADJA	 hinter	hintersten
+Beinen	NN	 Bein	Beinen
+so	ADV	 so	so
+weit	ADJD	 weit	weit
+auf	APPR	 auf	auf
+</seg>
+<seg type="newline">
+da	KOUS	 da	da
+du	PPER	 du	du
+eben	ADV	 eben	eben
+die	ART	 d	die
+Hand	NN	 Hand	Hand
+mögest	VMFIN	 mögen	mögest
+hinein	ADV	 hinein	hinein
+bringen	VVINF	 bringen	bringen
+</seg>
+<seg type="newline">
+fülle	VVFIN	 füllen	fülle
+es	PPER	 es	es
+mit	PTKVZ	 mit	mit
+gerieben	VVPP	 reiben	gerieben
+Semmel	NN	 Semmel	Semmel
+</seg>
+<seg type="newline">
+Mandeln	NN	 Mandel	Mandeln
+</seg>
+<seg type="newline">
+Corinthen	NN	 Korinthe	Korinthen
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+zerschmoltzene	ADJA	 UNKNOWN	zerschmoltzene
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+Citronenscheiben	NN	 UNKNOWN	Citronenscheiben
+</seg>
+<seg type="newline">
+stich	VVIMP	 stechen	stich
+ihn	PPER	 er	ihn
+dann	ADV	 dann	dann
+den	ART	 d	den
+Spieß	NN	 Spieß	Spieß
+hinten	ADV	 hinten	hinten
+ein	PTKVZ	 ein	ein
+</seg>
+<seg type="newline">
+und	KON	 und	und
+zum	APPRART	 zum	zum
+Munde	NN	 Mund	Munde
+wieder	ADV	 wieder	wieder
+heraus	ADV	 heraus	heraus
+</seg>
+<seg type="newline">
+dehne	VVFIN	 dehnen	dehne
+die	ART	 d	die
+hinterste	ADJA	 hinter	hinterste
+Beine	NN	 Bein	Beine
+von	APPR	 von	von
+einander	PRF	 einander	einander
+</seg>
+<seg type="newline">
+binde	VVFIN	 binden	binde
+sie	PPER	 sie	sie
+auch	ADV	 auch	auch
+wie	KOKOM	 wie	wie
+die	ART	 d	die
+fördersten	ADJA	 UNKNOWN	fördersten
+</seg>
+<seg type="newline">
+als	KOKOM	 als	als
+wenn	KOUS	 wenn	wenn
+es	PPER	 es	es
+lauffen	NN	 Raute	Rauten
+wil	NE	 Wil	wil
+</seg>
+<seg type="newline">
+darauff	PAV	 drauf	drauf
+bring	VVIMP	 bringen	bring
+es	PPER	 es	es
+zu	APPR	 zu	zu
+Feur	NN	 UNKNOWN	Feur
+</seg>
+<seg type="newline">
+und	KON	 und	und
+wenn	KOUS	 wenn	wenn
+es	PPER	 es	es
+warm	ADJD	 warm	warm
+geworden	VAPP	 werden	geworden
+</seg>
+<seg type="newline">
+wische	VVFIN	 wischen	wische
+es	PPER	 es	es
+sauber	ADJD	 sauber	sauber
+ab	PTKVZ	 ab	ab
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+reinen	ADJA	 rein	reinen
+Tuch	NN	 Tuch	Tuch
+</seg>
+<seg type="newline">
+nimm	VVIMP	 nehmen	nimm
+ein	ART	 ein	ein
+stückgen	NN	 UNKNOWN	stückgen
+Speck	NN	 Speck	Speck
+</seg>
+<seg type="newline">
+machs	NN	 UNKNOWN	machs
+heiß	ADJD	 heiß	heiß
+</seg>
+<seg type="newline">
+und	KON	 und	und
+bestreiche	VVFIN	 bestreichen	bestreiche
+es	PPER	 es	es
+damit	PAV	 damit	damit
+</seg>
+<seg type="newline">
+doch	ADV	 doch	doch
+daß	KOUS	 daß	daß
+du	PPER	 du	du
+es	PPER	 es	es
+alsobald	NE	 UNKNOWN	alsobald
+wieder	ADV	 wieder	wieder
+abwischest	VVFIN	 UNKNOWN	abwischest
+:	$.	:	$.	 :	|	:
+Wiederhole	VVFIN	 wiederholen	Wiederhole
+es	PPER	 es	es
+um	APPR	 um	um
+eine	ART	 ein	eine
+weile	VVFIN	 weilen	weile
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+es	PPER	 es	es
+gar	ADV	 gar	gar
+ist	VAFIN	 sein	ist
+.	$.	.	$.	 .	|	.
+NB	NE	 NB	NB
+.	$.	.	$.	 .	|	.
+Es	PPER	 es	Es
+pflegen	VVFIN	 pflegen	pflegen
+Blasen	NN	 Blase|Blasen	Blasen
+darauff	PAV	 drauf	drauf
+zu	PTKZU	 zu	zu
+werden	VAINF	 werden	werden
+</seg>
+<seg type="newline">
+die	ART	 d	die
+stich	VVIMP	 stechen	stich
+durch	APPR	 durch	durch
+mit	APPR	 mit	mit
+einer	ART	 ein	einer
+Nadel	NN	 Nadel	Nadel
+</seg>
+<seg type="newline">
+und	KON	 und	und
+streue	VVFIN	 streuen	streue
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Saltz	NN	 Salz	Salz
+drüber	PAV	 drüber	drüber
+</seg>
+<seg type="newline">
+damit	KOUS	 damit	damit
+es	PPER	 es	es
+nicht	PTKNEG	 nicht	nicht
+reisse	VVFIN	 reißen	reisse
+</seg>
+<seg type="newline">
+wenn	KOUS	 wenn	wenn
+es	PPER	 es	es
+gar	ADV	 gar	gar
+</seg>
+<seg type="newline">
+setze	VVFIN	 setzen	setze
+es	PPER	 es	es
+in	APPR	 in	in
+eine	ART	 ein	eine
+Pfanne	NN	 Pfanne	Pfanne
+</seg>
+<seg type="newline">
+thue	VVFIN	 UNKNOWN	thue
+es	PPER	 es	es
+ab	PTKVZ	 ab	ab
+</seg>
+<seg type="newline">
+ehe	KOUS	 ehe	ehe
+es	PPER	 es	es
+zu	APPR	 zu	zu
+Tisch	NN	 Tisch	Tisch
+kömmet	VVFIN	 UNKNOWN	kömmet
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+Pommerantz	NN	 UNKNOWN	Pommerantz
+ins	APPRART	 ins	ins
+Maul	NN	 Maul	Maul
+</seg>
+<seg type="newline">
+auf	APPR	 auf	auf
+daß	KOUS	 daß	daß
+du	PPER	 du	du
+dein	PPOSAT	 dein	dein
+Ferckel	NN	 UNKNOWN	Ferckel
+</seg>
+<seg type="newline">
+wenn	KOUS	 wenn	wenn
+es	PPER	 es	es
+nicht	PTKNEG	 nicht	nicht
+völlig	ADJD	 völlig	völlig
+verzehret	VVFIN	 UNKNOWN	verzehret
+</seg>
+<seg type="newline">
+ohn	ADJD	 UNKNOWN	ohn
+beschimpfft	VVFIN	 UNKNOWN	beschimpfft
+wieder	ADV	 wieder	wieder
+mögst	ADJD	 UNKNOWN	mögst
+zu	APPR	 zu	zu
+Tisch	NN	 Tisch	Tisch
+kommen	VVINF	 kommen	kommen
+lassen	VVINF	 lassen	lassen
+</seg>
+<seg type="newline">
+thue	VVFIN	 UNKNOWN	thue
+ihn	PPER	 er	ihn
+also	ADV	 also	also
+:	$.	:	$.	 :	|	:
+Lege	VVFIN	 legen	Lege
+den	ART	 d	den
+übergebliebenen	ADJA	 UNKNOWN	übergebliebenen
+Rest	NN	 Rest	Rest
+auf	APPR	 auf	auf
+einen	ART	 ein	einen
+Rost	NN	 Rost	Rost
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+es	PPER	 es	es
+darauff	PAV	 drauf	drauf
+fein	ADJD	 fein	fein
+wieder	ADV	 wieder	wieder
+durchbrate	VVFIN	 UNKNOWN	durchbrate
+.	$.	.	$.	 .	|	.
+Nimm	VVIMP	 nehmen	Nimm
+hernach	ADV	 hernach	hernach
+Senff	NN	 UNKNOWN	Senff
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+viel	ADV	 viel	viel
+dazu	PAV	 dazu	dazu
+nöthig	ADJD	 nötig	nötig
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+Wein	NN	 Wein	Wein
+und	KON	 und	und
+Weineßig	NN	 Weinessig	Weinessig
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+das	PDS	 d	das
+zusammen	ADV	 zusammen	zusammen
+durchkochen	VVFIN	 durchkochen	durchkochen
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+es	PPER	 es	es
+fein	ADJD	 fein	fein
+semig	ADJD	 UNKNOWN	semig
+werde	VAFIN	 werden	werde
+</seg>
+<seg type="newline">
+und	KON	 und	und
+gib	VVIMP	 geben	gib
+es	PPER	 es	es
+alsdann	NN	 UNKNOWN	Alsdann
+über	APPR	 über	über
+dein	PPOSAT	 dein	dein
+gebratenes	ADJA	 gebraten	gebratenes
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

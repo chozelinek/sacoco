@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Keyl_1705_17" collection="historical" source="Keyl" url="none" year="1705" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1705:125]">
+<title>
+<seg type="newline">
+Frische	ADJA	 frisch	Frische
+Ochsen=Zungen	NN	 UNKNOWN	Ochsen=Zungen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wann	PWAV	 wann	Wann
+die	ART	 d	die
+Zunge	NN	 Zunge	Zunge
+gar	ADV	 gar	gar
+gekochet	ADJD	 UNKNOWN	gekochet
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+sie	PPER	 sie	sie
+rein	ADV	 rein	rein
+</seg>
+<seg type="newline">
+schneide	VVFIN	 schneiden	schneide
+sie	PPER	 sie	sie
+in	APPR	 in	in
+der	ART	 d	der
+mitten	ADV	 mitten	mitten
+entzwey	ADJD	 UNKNOWN	entzwey
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+sie	PPER	 sie	sie
+in	APPR	 in	in
+eine	ART	 ein	eine
+Pfann	NN	 UNKNOWN	Pfann
+</seg>
+<seg type="newline">
+und	KON	 und	und
+brate	VVFIN	 braten	brate
+sie	PPER	 sie	sie
+braun	ADJD	 braun	braun
+in	APPR	 in	in
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+gerieben	VVPP	 reiben	gerieben
+Brod	NN	 Brot	Brot
+dazu	PAV	 dazu	dazu
+gegeben	VVPP	 geben	gegeben
+</seg>
+<seg type="newline">
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+Corinthen	NN	 Korinthe	Korinthen
+</seg>
+<seg type="newline">
+Capers	NN	 Kaper|Kapern	Kapern
+</seg>
+<seg type="newline">
+Nelcken	NE	 UNKNOWN	Nelcken
+</seg>
+<seg type="newline">
+Caneel	NN	 Handel	Handel
+</seg>
+<seg type="newline">
+Saffran	NN	 Safran	Safran
+</seg>
+<seg type="newline">
+damit	PAV	 damit	damit
+wird	VAFIN	 werden	wird
+sie	PPER	 sie	sie
+durchgeschmoret	ADJA	 UNKNOWN	durchgeschmoret
+</seg>
+<seg type="newline">
+wil	NE	 Wil	wil
+man	PIS	 man	man
+sie	PPER	 sie	sie
+anrichten	VVFIN	 anrichten	anrichten
+</seg>
+<seg type="newline">
+kan	ADV	 nun	Nun
+man	PIS	 man	man
+vor	APPR	 vor	vor
+aufftragen	NN	 UNKNOWN	aufftragen
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Citronen	NN	 Citrone	Citronen
+darauff	PAV	 drauf	drauf
+drücken	VVINF	 drücken	drücken
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

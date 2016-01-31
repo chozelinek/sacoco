@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Stockholm_1647_12" collection="historical" source="Stockholm" url="none" year="1647" decade="1640-1650" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1647:144]">
+<body>
+<seg type="newline">
+Küchlein	NN	 Küchlein	Küchlein
+von	APPR	 von	von
+Bohnen	NN	 Bohne	Bohnen
+Meel	NE	 UNKNOWN	Meel
+vnd	KON	 und	und
+Eyern	NE	 UNKNOWN	Eyern
+</seg>
+<seg type="newline">
+In	APPR	 in	In
+der	ART	 d	der
+Butter	NN	 Butter	Butter
+gebacken	VVPP	 backen	gebacken
+</seg>
+<seg type="newline">
+ist	VAFIN	 sein	ist
+gar	ADV	 gar	gar
+ein	ART	 ein	ein
+gutes	ADJA	 gut	gutes
+essen	VVINF	 essen	essen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

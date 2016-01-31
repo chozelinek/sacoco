@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Colerus_1602_20" collection="historical" source="Colerus" url="none" year="1602" decade="1600-1610" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1602:159]">
+<title>
+<seg type="newline">
+Grosse	ADJA	 groß	Grosse
+Vogel	NN	 Vogel	Vogel
+lang	ADJD	 lang	lang
+roh	ADJD	 roh	roh
+vnd	KON	 und	und
+gut	ADJD	 gut	gut
+zu	PTKZU	 zu	zu
+behalten	VVINF	 behalten	behalten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wiltu	NE	 UNKNOWN	Wiltu
+grosse	ADJA	 groß	grosse
+Vogel	NN	 Vogel	Vogel
+lange	ADV	 lange	lange
+roh	ADJD	 roh	roh
+behalten	VVFIN	 behalten	behalten
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+sie	PPER	 sie	sie
+gut	ADJD	 gut	gut
+bleiben	VVFIN	 bleiben	bleiben
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nim	ADJA	 UNKNOWN	nimb
+Jachandelbeeren	NN	 UNKNOWN	Jachandelbeeren
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+Karbe	NN	 UNKNOWN	Karbe
+</seg>
+<seg type="newline">
+schütte	VVFIN	 schütten	schütte
+sie	PPER	 sie	sie
+in	APPR	 in	in
+einen	ART	 ein	einen
+Mörsel	TRUNC	 UNKNOWN	Mörsel
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+stos	NN	 UNKNOWN	stos
+sie	PPER	 sie	sie
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+pflücke	VVFIN	 pflücken	pflücke
+die	ART	 d	die
+Vogel	NN	 Vogel	Vogel
+hübsch	ADJD	 hübsch	hübsch
+rein	ADV	 rein	rein
+</seg>
+<seg type="newline">
+nim	VVFIN	 UNKNOWN	nimb
+sie	PPER	 sie	sie
+aus	PTKVZ	 aus	aus
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+lege	VVFIN	 legen	lege
+sie	PPER	 sie	sie
+in	APPR	 in	in
+einen	ART	 ein	einen
+reinen	ADJA	 rein	reinen
+Topff	NN	 Topf	Topf
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+schütte	VVFIN	 schütten	schütte
+darzu	PAV	 dazu	dazu
+diese	PDAT	 dies	diese
+gestossene	ADJA	 gestoßen	gestossene
+Karbe	NN	 UNKNOWN	Karbe
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+Jacholderbeeren	NN	 UNKNOWN	Jacholderbeeren
+</seg>
+<seg type="newline">
+geus	VVPP	 UNKNOWN	geuß
+darzu	PAV	 dazu	dazu
+ein	ART	 ein	ein
+quart	ADJA	 UNKNOWN	quart
+Weinessig	NN	 Weinessig	Weinessig
+</seg>
+<seg type="newline">
+saltz	ADJA	 kalt	kalten
+es	PPER	 es	es
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+machs	NE	 UNKNOWN	machs
+feste	ADJA	 fest	feste
+zu	APPR	 zu	zu
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+die	ART	 d	die
+Fliegen	NN	 Fliege|Fliegen	Fliegen
+nicht	PTKNEG	 nicht	nicht
+darzu	PAV	 dazu	dazu
+kommen	VVINF	 kommen	kommen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+wenn	KOUS	 wenn	wenn
+du	PPER	 du	du
+die	ART	 d	die
+Vogel	NN	 Vogel	Vogel
+darffst	VVFIN	 UNKNOWN	darffst
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+wässer	VVFIN	 UNKNOWN	wässer
+sie	PPER	 sie	sie
+in	APPR	 in	in
+einem	ART	 ein	einem
+reinen	ADJA	 rein	reinen
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+wasche	VVFIN	 waschen	wasche
+sie	PPER	 sie	sie
+reine	PTKVZ	 reine	reine
+aus	PTKVZ	 aus	aus
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+geus	NN	 UNKNOWN	geuß
+wider	APPR	 wider	wider
+ein	ART	 ein	ein
+ander	ADJA	 UNKNOWN	ander
+Wasser	NN	 Wasser	Wasser
+drauff	PAV	 drauf	drauf
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+wenn	KOUS	 wenn	wenn
+dirs	NN	 UNKNOWN	dirs
+gefelt	VVPP	 UNKNOWN	gefelt
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+brate	VVFIN	 braten	brate
+sie	PPER	 sie	sie
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

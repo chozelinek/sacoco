@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Buchinger_1700_21" collection="historical" source="Buchinger" url="none" year="1700" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:1f.]">
+<title>
+<seg type="newline">
+303.	ADJA	 @ord@	303.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Werden	VAFIN	 werden	Werden
+auch	ADV	 auch	auch
+gantz	ADV	 ganz	ganz
+gelassen	ADJD	 gelassen	gelassen
+</seg>
+<seg type="newline">
+gespickt	VVPP	 spicken	gespickt
+</seg>
+<seg type="newline">
+gesotten	VVPP	 sieden	gesotten
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+gedämpfft	VVFIN	 UNKNOWN	gedämpfft
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+vornen	ADJA	 UNKNOWN	vornen
+beym	ADJA	 UNKNOWN	beym
+Indianischen	ADJA	 indianisch	Indianischen
+Hanen	NN	 UNKNOWN	Hanen
+zusehen	VVINF	 zusehen	zusehen
+.	$.	.	$.	 .	|	.
+Num	NN	 UNKNOWN	Num
+.	$.	.	$.	 .	|	.
+194.	ADJA	 @ord@	194.
+und	KON	 und	und
+kalt	ADJD	 kalt	kalt
+auffgeben	VVFIN	 UNKNOWN	auffgeben
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Stockholm_1647_4" collection="historical" source="Stockholm" url="none" year="1647" decade="1640-1650" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1647:94]">
+<body>
+<seg type="newline">
+Eine	ART	 ein	Eine
+gute	ADJA	 gut	gute
+Körbel	NN	 UNKNOWN	Körbel
+Suppen	NN	 Suppe	Suppen
+machet	VVFIN	 machen	machet
+man	PIS	 man	man
+also	ADV	 also	also
+:	$.	:	$.	 :	|	:
+Erstlich	ADJD	 UNKNOWN	Erstlich
+verwellet	VVFIN	 UNKNOWN	verwellet
+man	PIS	 man	man
+sie	PPER	 sie	sie
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+warmeWasser	NN	 UNKNOWN	warmeWasser
+</seg>
+<seg type="newline">
+den	ART	 d	den
+zerhacket	NN	 UNKNOWN	zerhacket
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Milch	NN	 Milch	Milch
+angesotten	ADJA	 UNKNOWN	angesotten
+</seg>
+<seg type="newline">
+Alsdann	NN	 UNKNOWN	Alsdann
+abgenommen	VVPP	 abnehmen	abgenommen
+</seg>
+<seg type="newline">
+3.	ADJA	 3.	3.
+4.	ADJA	 4.	4.
+Eyerdotter	NN	 UNKNOWN	Eyerdotter
+darein	ADV	 darein	darein
+geschlagen	VVPP	 schlagen	geschlagen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+damit	PAV	 damit	damit
+gequirlet	VVPP	 UNKNOWN	gequirlet
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+vbergeröstet	VVFIN	 UNKNOWN	vbergeröstet
+Brodt	NN	 UNKNOWN	Brodt
+angerichtet	VVPP	 anrichten	angerichtet
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

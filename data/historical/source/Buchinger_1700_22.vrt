@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Buchinger_1700_22" collection="historical" source="Buchinger" url="none" year="1700" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:1f.]">
+<title>
+<seg type="newline">
+269.	ADJA	 @ord@	269.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Man	PIS	 man	Man
+mag	VMFIN	 mögen	mag
+die	ART	 d	die
+Endten	NN	 UNKNOWN	Endten
+auch	ADV	 auch	auch
+wol	PWAV	 wo	wo
+in	APPR	 in	in
+einer	ART	 ein	einer
+Nägelin	NN	 UNKNOWN	Nägelin
+Brüh	ADJD	 früh	früh
+verdämpffen	VVINF	 UNKNOWN	verdämpffen
+:	$.	:	$.	 :	|	:
+Oder	KON	 oder	Oder
+auch	ADV	 auch	auch
+einsaltzen	VVFIN	 UNKNOWN	einsaltzen
+:	$.	:	$.	 :	|	:
+Oder	KON	 oder	Oder
+auch	ADV	 auch	auch
+wie	KOUS	 wie	wie
+die	ART	 d	die
+Gänß	NN	 UNKNOWN	Gänß
+in	APPR	 in	in
+Pasteten	NN	 Pastete	Pasteten
+machen	VVFIN	 machen	machen
+.	$.	.	$.	 .	|	.
+Num	NN	 UNKNOWN	Num
+.	$.	.	$.	 .	|	.
+333/334/335	CARD	 @card@	333/334/335
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

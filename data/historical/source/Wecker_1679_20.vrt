@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Wecker_1679_20" collection="historical" source="Wecker" url="none" year="1679" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:285]">
+<title>
+<seg type="newline">
+Aber	KON	 aber	Aber
+gefüllte	ADJA	 gefüllt	gefüllte
+Eyer	NE	 UNKNOWN	Eyer
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+andern	ADJA	 ander	andern
+Södlein	NN	 UNKNOWN	Södlein
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+Eyer	NE	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+viel	PIAT	 viel	viel
+man	PIS	 man	man
+wil	NE	 Wil	wil
+</seg>
+<seg type="newline">
+schlage	VVFIN	 schlagen	schlage
+sie	PPER	 sie	sie
+an	APPR	 an	an
+den	ART	 d	den
+Spitzen	NN	 Spitze	Spitzen
+auff	APPR	 auf	auf
+</seg>
+<seg type="newline">
+thu	NE	 Thu	thu
+das	ART	 d	das
+gelbe	ADJA	 gelb	gelbe
+vnd	KON	 und	und
+weisse	ADJA	 weiß	weisse
+in	APPR	 in	in
+eine	ART	 ein	eine
+Schüssel	NN	 Schüssel	Schüssel
+oder	KON	 oder	oder
+Töpfflein	NN	 UNKNOWN	Töpfflein
+</seg>
+<seg type="newline">
+klopffe	VVFIN	 UNKNOWN	klopffe
+sie	PPER	 sie	sie
+wol	PWAV	 wo	wo
+vnder	VVFIN	 UNKNOWN	vnder
+einander	PRF	 einander	einander
+</seg>
+<seg type="newline">
+hacke	VVFIN	 hacken	hacke
+dann	ADV	 dann	dann
+gute	ADJA	 gut	gute
+grüne	ADJA	 grün	grüne
+Kräuterlein	NN	 UNKNOWN	Kräuterlein
+</seg>
+<seg type="newline">
+was	PIAT	 was	was
+man	PIS	 man	man
+gern	ADV	 gern	gern
+hat	VAFIN	 haben	hat
+</seg>
+<seg type="newline">
+thu	NE	 Thu	thu
+sie	PPER	 sie	sie
+darunder	ADJA	 UNKNOWN	darunder
+</seg>
+<seg type="newline">
+saltze	ADJA	 kalt	kalten
+sie	PPER	 sie	sie
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+würtze	VVFIN	 würzen	würzt
+es	PPER	 es	es
+mit	APPR	 mit	mit
+Ingwer	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Zimmet	NN	 Zimt	Zimt
+vnd	KON	 und	und
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+fülle	VVFIN	 füllen	fülle
+es	PPER	 es	es
+dann	ADV	 dann	dann
+wieder	ADV	 wieder	wieder
+in	APPR	 in	in
+die	ART	 d	die
+Schalen	NN	 Schale	Schalen
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+die	ART	 d	die
+Löchlein	NN	 Löchlein	Löchlein
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Stücklein	NN	 Stücklein	Stücklein
+Teig	NN	 Teig	Teig
+zu	PTKVZ	 zu	zu
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+sie	PPER	 sie	sie
+in	APPR	 in	in
+ein	ART	 ein	ein
+Schmaltz	NN	 Schmalz	Schmalz
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+backe	VVFIN	 backen	backe
+sie	PPER	 sie	sie
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+siede	VVFIN	 UNKNOWN	siede
+sie	PPER	 sie	sie
+nur	ADV	 nur	nur
+im	APPRART	 im	im
+Wasser	NN	 Wasser	Wasser
+biß	VVFIN	 beißen	biß
+sie	PPER	 sie	sie
+hart	ADJD	 hart	hart
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+schöle	NN	 UNKNOWN	schöle
+vnd	KON	 und	und
+schneide	VVFIN	 schneiden	schneide
+sie	PPER	 sie	sie
+mitten	ADV	 mitten	mitten
+von	APPR	 von	von
+einander	PRF	 einander	einander
+</seg>
+<seg type="newline">
+stecke	VVFIN	 stecken	stecke
+sie	PPER	 sie	sie
+an	APPR	 an	an
+dünne	ADJA	 dünn	dünne
+Höltzlein	NN	 UNKNOWN	Höltzlein
+</seg>
+<seg type="newline">
+bestrewe	VVFIN	 bestreuen	bestreuen
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+Ingwer	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+trucke	VVFIN	 UNKNOWN	trucke
+sie	PPER	 sie	sie
+in	APPR	 in	in
+ein	ART	 ein	ein
+zergangenen	ADJA	 UNKNOWN	zergangenen
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+lege	VVFIN	 legen	lege
+sie	PPER	 sie	sie
+auff	APPR	 auf	auf
+einen	ART	 ein	einen
+Rost	NN	 Rost	Rost
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+laß	ADJD	 laß	laß
+sie	PPER	 sie	sie
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+brennen	VVFIN	 brennen	brennen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+sind	VAFIN	 sein	sind
+sie	PPER	 sie	sie
+gut	ADJD	 gut	gut
+</seg>
+<seg type="newline">
+jndessen	ADJD	 UNKNOWN	jndessen
+mache	VVFIN	 machen	mache
+das	ART	 d	das
+Södlein	NN	 UNKNOWN	Södlein
+</seg>
+<seg type="newline">
+reibe	VVFIN	 reiben	reibe
+ein	ART	 ein	ein
+grüne	ADJA	 grün	grüne
+Kresse	NN	 Kresse	Kresse
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Gläßlein	NN	 UNKNOWN	Gläßlein
+guten	ADJA	 gut	guten
+Weinessig	NN	 Weinessig	Weinessig
+</seg>
+<seg type="newline">
+treib	VVIMP	 treiben	treib
+sie	PPER	 sie	sie
+dann	ADV	 dann	dann
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+Sieblein	NN	 UNKNOWN	Sieblein
+oder	KON	 oder	oder
+Tuch	NN	 Tuch	Tuch
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+thu	VVFIN	 UNKNOWN	thue
+sie	PPER	 sie	sie
+in	APPR	 in	in
+ein	ART	 ein	ein
+Pfannen	NN	 Pfanne	Pfannen
+oder	KON	 oder	oder
+Tiegel	NN	 Tiegel	Tiegel
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+ein	ART	 ein	ein
+Stücklein	NN	 Stücklein	Stücklein
+guten	ADJA	 gut	guten
+Butter	NN	 Butter	Butter
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+saltz	ADJA	 kalt	kalten
+es	PPER	 es	es
+wenig	ADJD	 wenig	wenig
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+würtz	VVFIN	 würzen	würzt
+es	PPER	 es	es
+mit	APPR	 mit	mit
+Ingwer	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Zimmet	NN	 Zimt	Zimt
+vnd	KON	 und	und
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+laß	ADJD	 laß	laß
+ein	ART	 ein	ein
+Södlein	NN	 UNKNOWN	Södlein
+thun	NN	 UNKNOWN	thue
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+nun	ADV	 nun	nun
+die	ART	 d	die
+Eyer	NE	 UNKNOWN	Eyer
+angerichtet	VVPP	 anrichten	angerichtet
+seyn	NE	 UNKNOWN	seyn
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+geuß	NN	 UNKNOWN	geuß
+diß	ADJA	 UNKNOWN	diß
+Brühlein	NN	 Glühwein	Glühwein
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+ists	ADJD	 UNKNOWN	ists
+recht	ADJD	 recht	recht
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Knopf_1800_3" collection="historical" source="Knopf" url="http://www.uni-giessen.de/gloning/tx/1800hakb.htm" language="deu" year="1800" decade="1800-1810" period="1800-1850" type="|none|" course="|none|" cuisine="|none|" ingredient="|Huhn|" method="|Suppe|" ref="[]">
+<title>
+<seg type="newline">
+2.	ADJA	 2.	2.
+Hühnersuppe	NN	 Hühnersuppe	Hühnersuppe
+mit	APPR	 mit	mit
+Reis	NN	 Reis	Reis
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Man	PIS	 man	Man
+nimmt	VVFIN	 nehmen	nimmt
+ein	ART	 ein	ein
+altes	ADJA	 alt	altes
+Huhn	NN	 Huhn	Huhn
+,	$,	,	$,	 ,	|	,
+welches	PRELS	 welch	welches
+auf	APPR	 auf	auf
+die	ART	 d	die
+</seg>
+<seg type="newline">
+vorige	ADJA	 vorig	vorige
+Weise	NN	 Weise	Weise
+präparirt	NN	 UNKNOWN	präparirt
+ist	VAFIN	 sein	ist
+,	$,	,	$,	 ,	|	,
+sezt	ADV	 jetzt	Jetzt
+es	PPER	 es	es
+in	APPR	 in	in
+einem	ART	 ein	einem
+Kessel	NN	 Kessel	Kessel
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Wasser	NN	 Wasser	Wasser
+aufs	APPRART	 aufs	aufs
+Feuer	NN	 Feuer	Feuer
+,	$,	,	$,	 ,	|	,
+wirft	VVFIN	 werfen	wirft
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Salz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+daran	PAV	 daran	daran
+,	$,	,	$,	 ,	|	,
+und	KON	 und	und
+läßt	VVFIN	 lassen	läßt
+es	PPER	 es	es
+langsam	ADJD	 langsam	langsam
+kochen	VVINF	 kochen	kochen
+.	$.	.	$.	 .	|	.
+Ohngefähr	ADJD	 ungefähr	ungefähr
+</seg>
+<seg type="newline">
+3/4	CARD	 3/4	3/4
+Stunde	NN	 Stunde	Stunde
+vor	APPR	 vor	vor
+dem	ART	 d	dem
+Anrichten	NN	 Anrichten	Anrichten
+nimmt	VVFIN	 nehmen	nimmt
+man	PIS	 man	man
+3/4	CARD	 3/4	3/4
+(	$(	(	$(	 (	|	(
+lb	ADJA	 UNKNOWN	lb
+)	$(	)	$(	 )	|	)
+Reis	NN	 Reis	Reis
+,	$,	,	$,	 ,	|	,
+</seg>
+<seg type="newline">
+brühet	ADJA	 grün	grünen
+solchen	PIAT	 solch	solchen
+mit	APPR	 mit	mit
+kochendem	ADJA	 kochend	kochendem
+Wasser	NN	 Wasser	Wasser
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+ab	PTKVZ	 ab	ab
+,	$,	,	$,	 ,	|	,
+</seg>
+<seg type="newline">
+und	KON	 und	und
+wirft	VVFIN	 werfen	wirft
+ihn	PPER	 er	ihn
+an	APPR	 an	an
+die	ART	 d	die
+Suppe	NN	 Suppe	Suppe
+,	$,	,	$,	 ,	|	,
+so	ADV	 so	so
+wir	PPER	 wir	wir
+auch	ADV	 auch	auch
+etwas	PIAT	 etwas	etwas
+</seg>
+<seg type="newline">
+Suppenkräuter	NN	 UNKNOWN	Suppenkräuter
+wie	KOKOM	 wie	wie
+bey	NE	 Bey	bey
+den	ART	 d	den
+vorigen	ADJA	 vorig	vorigen
+.	$.	.	$.	 .	|	.
+Alsdann	NE	 UNKNOWN	Alsdann
+läßt	VVFIN	 lassen	läßt
+</seg>
+<seg type="newline">
+man	PIS	 man	man
+alles	PIS	 alle	alles
+zusammen	ADV	 zusammen	zusammen
+langsam	ADJD	 langsam	langsam
+gar	ADV	 gar	gar
+kochen	VVINF	 kochen	kochen
+,	$,	,	$,	 ,	|	,
+und	KON	 und	und
+thut	NE	 UNKNOWN	thue
+</seg>
+<seg type="newline">
+beim	APPRART	 beim	beim
+Anrichten	NN	 Anrichten	Anrichten
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Muskat	NN	 Muskat	Muskat
+in	APPR	 in	in
+diese	PDAT	 dies	diese
+Suppe	NN	 Suppe	Suppe
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

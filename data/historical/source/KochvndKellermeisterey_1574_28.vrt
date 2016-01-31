@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Koch_vnd_Kellermeisterey_1574_28" collection="historical" source="Koch_vnd_Kellermeisterey" url="none" year="1574" decade="1570-1580" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1574:15r]">
+<title>
+<seg type="newline">
+Gerennet	NE	 UNKNOWN	Gerennet
+Milch	NN	 Milch	Milch
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Reiß	VVIMP	 reißen	Reiß
+stoß	VVIMP	 stoßen	stoß
+klein	PTKVZ	 klein	klein
+</seg>
+<seg type="newline">
+schlag	VVIMP	 schlagen	schlag
+jn	NE	 UNKNOWN	jn
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+siblin	NE	 UNKNOWN	siblin
+.	$.	.	$.	 .	|	.
+Darnach	ADV	 UNKNOWN	Darnach
+mach	VVIMP	 machen	mach
+Milch	NN	 Milch	Milch
+von	NE	 von	von
+abgestossen	VVPP	 abstoßen	abgestossen
+Mandeln	NN	 Mandel	Mandeln
+</seg>
+<seg type="newline">
+seihe	PPOSAT	 sein	seine
+die	ART	 d	die
+besten	ADJA	 gut	besten
+ab	APPR	 ab	ab
+</seg>
+<seg type="newline">
+die	ART	 d	die
+andern	ADJA	 ander	andern
+setz	VVIMP	 setzen	setz
+zum	APPRART	 zum	zum
+feur	NN	 UNKNOWN	feur
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+sie	PPER	 sie	sie
+nit	ADJD	 UNKNOWN	nimb
+anbrenn	VVFIN	 UNKNOWN	anbrenn
+noch	ADV	 noch	noch
+vbergehe	VVFIN	 UNKNOWN	vbergehe
+</seg>
+<seg type="newline">
+thu	NE	 Thu	thu
+das	ART	 d	das
+reißmehl	NN	 UNKNOWN	reißmehl
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+ehe	KOUS	 ehe	ehe
+daß	KOUS	 daß	daß
+die	ART	 d	die
+Milch	NN	 Milch	Milch
+heyß	VVINF	 UNKNOWN	heyß
+werde	VAFIN	 werden	werde
+</seg>
+<seg type="newline">
+mach	VVIMP	 machen	mach
+ein	ART	 ein	ein
+dickes	ADJA	 dick	dickes
+müßlin	NN	 UNKNOWN	müßlin
+darauß	NN	 UNKNOWN	herauß
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+schüts	NN	 UNKNOWN	schüts
+in	APPR	 in	in
+ein	ART	 ein	ein
+feucht	ADJD	 feucht	feucht
+schüssel	NN	 Schüssel	schüssel
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+erkalten	VVINF	 erkalten	erkalten
+</seg>
+<seg type="newline">
+schneids	VVFIN	 schneiden	schneiden
+in	APPR	 in	in
+stück	VVIMP	 stücken	stück
+</seg>
+<seg type="newline">
+wecklins	NN	 UNKNOWN	wecklins
+weise	ADJD	 weise	weise
+</seg>
+<seg type="newline">
+legs	VVFIN	 legen	legt
+in	APPR	 in	in
+ein	ART	 ein	ein
+ander	ADJA	 UNKNOWN	ander
+schüssel	NN	 Schüssel	schüssel
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+giese	VVFIN	 UNKNOWN	giese
+die	ART	 d	die
+dick	ADJD	 dick	dick
+Milch	NN	 Milch	Milch
+von	APPR	 von	von
+Mandeln	NN	 Mandel	Mandeln
+Milch	NN	 Milch	Milch
+darüber	PAV	 darüber	darüber
+besteck	VVIMP	 bestecken	besteck
+es	PPER	 es	es
+mit	APPR	 mit	mit
+Mandeln	NN	 Mandel	Mandeln
+</seg>
+<seg type="newline">
+vergüldt	VVFIN	 UNKNOWN	vergüldt
+oder	KON	 oder	oder
+gefärbt	VVPP	 färben	gefärbt
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

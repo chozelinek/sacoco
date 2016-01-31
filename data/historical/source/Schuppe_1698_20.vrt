@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Schuppe_1698_20" collection="historical" source="Schuppe" url="none" year="1698" decade="1690-1700" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Hecht|" method="|none|" ref="[1698:96]">
+<title>
+<seg type="newline">
+CLXXXIV	ADJD	 UNKNOWN	CLXXXIV
+.	$.	.	$.	 .	|	.
+Stockfisch	NN	 Stockfisch	Stockfisch
+mit	APPR	 mit	mit
+neuem	ADJA	 neu	neuem
+Hering	NN	 Hering	Hering
+und	KON	 und	und
+ausgebrochenem	ADJA	 UNKNOWN	ausgebrochenem
+Hecht	NN	 Hecht	Hecht
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Erstlich	ADJD	 UNKNOWN	Erstlich
+nimgeweichteStockfisch	ADJD	 UNKNOWN	nimgeweichteStockfisch
+</seg>
+<seg type="newline">
+und	KON	 und	und
+putz	VVIMP	 putzen	putz
+ihm	PPER	 er	ihm
+die	ART	 d	die
+Graten	NN	 Grat	Graten
+und	KON	 und	und
+die	ART	 d	die
+Haut	NN	 Haut	Haut
+sauber	ADJD	 sauber	sauber
+ab	PTKVZ	 ab	ab
+</seg>
+<seg type="newline">
+und	KON	 und	und
+thue	VVFIN	 UNKNOWN	thue
+ihn	PPER	 er	ihn
+in	APPR	 in	in
+eineCastrol	NN	 UNKNOWN	eineCastrol
+oder	KON	 oder	oder
+Kessel	NN	 Kessel	Kessel
+voll	ADJD	 voll	voll
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+und	KON	 und	und
+setz	VVIMP	 setzen	setz
+ihn	PPER	 er	ihn
+auf	APPR	 auf	auf
+ein	ART	 ein	ein
+Kohl=Feuer	NN	 UNKNOWN	Kohl=Feuer
+</seg>
+<seg type="newline">
+und	KON	 und	und
+laß	ADJD	 laß	laß
+ihn	PPER	 er	ihn
+allmählig	ADJD	 UNKNOWN	allmählig
+heiß	ADJD	 heiß	heiß
+werden	VAINF	 werden	werden
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+vor	APPR	 vor	vor
+dem	PDS	 d	dem
+kochen	VVINF	 kochen	kochen
+</seg>
+<seg type="newline">
+thue	VVFIN	 UNKNOWN	thue
+ihn	PPER	 er	ihn
+denn	ADV	 denn	denn
+wieder	ADV	 wieder	wieder
+aus	APPR	 aus	aus
+dem	ART	 d	dem
+Wasser	NN	 Wasser	Wasser
+in	APPR	 in	in
+einen	ART	 ein	einen
+Durchschlag	NN	 Durchschlag	Durchschlag
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+das	ART	 d	das
+Wasser	NN	 Wasser	Wasser
+abläufft	VVFIN	 UNKNOWN	abläufft
+</seg>
+<seg type="newline">
+nimm	VVIMP	 nehmen	nimm
+denn	ADV	 denn	denn
+zween	ADJA	 UNKNOWN	zween
+kleine	ADJA	 klein	kleine
+Hechte	NN	 Hecht	Hechte
+</seg>
+<seg type="newline">
+jeden	PIAT	 jed	jeden
+zu	APPR	 zu	zu
+einem	ART	 ein	einem
+Pfund	NN	 Pfund	Pfund
+</seg>
+<seg type="newline">
+schneide	VVFIN	 schneiden	schneide
+sie	PPER	 sie	sie
+in	APPR	 in	in
+Stücken	NN	 Stück	Stücken
+</seg>
+<seg type="newline">
+und	KON	 und	und
+koche	VVFIN	 kochen	koche
+sie	PPER	 sie	sie
+aus	APPR	 aus	aus
+reinem	ADJA	 rein	reinem
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+nicht	PTKNEG	 nicht	nicht
+gesaltzen	VVINF	 UNKNOWN	gesaltzen
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+brich	VVIMP	 brechen	brich
+die	ART	 d	die
+Graten	NN	 Grat	Graten
+heraus	PTKVZ	 heraus	heraus
+</seg>
+<seg type="newline">
+und	KON	 und	und
+mache	VVFIN	 machen	mache
+die	ART	 d	die
+Schuppen	NN	 Schuppe|Schuppen	Schuppen
+davon	PAV	 davon	davon
+ab	PTKVZ	 ab	ab
+;	$.	;	$.	 ;	|	;
+nimm	VVIMP	 nehmen	nimm
+den	ART	 d	den
+neuen	ADJA	 neu	neuen
+Hering	NN	 Hering	Hering
+</seg>
+<seg type="newline">
+und	KON	 und	und
+ziehe	VVFIN	 zeihen|ziehen	ziehe
+die	ART	 d	die
+Haut	NN	 Haut	Haut
+herunter	PTKVZ	 herunter	herunter
+und	KON	 und	und
+schneide	VVFIN	 schneiden	schneide
+ihn	PPER	 er	ihn
+von	APPR	 von	von
+den	ART	 d	den
+Graten	NN	 Grat	Graten
+ab	PTKVZ	 ab	ab
+in	APPR	 in	in
+kleine	ADJA	 klein	kleine
+Stücken	NN	 Stück	Stücken
+</seg>
+<seg type="newline">
+als	KOKOM	 als	als
+ein	ART	 ein	ein
+Finger	NN	 Finger	Finger
+dick	ADJD	 dick	dick
+</seg>
+<seg type="newline">
+under	ADJA	 UNKNOWN	under
+Stockfisch	NN	 Stockfisch	Stockfisch
+muß	VMFIN	 müssen	muß
+so	ADV	 so	so
+klein	ADJD	 klein	klein
+gebrochen	VVPP	 brechen	gebrochen
+werden	VAINF	 werden	werden
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+die	ART	 d	die
+Hechte	NN	 Hecht	Hechte
+sind	VAFIN	 sein	sind
+</seg>
+<seg type="newline">
+du	PPER	 du	du
+must	ADJD	 UNKNOWN	must
+nur	ADV	 nur	nur
+den	ART	 d	den
+Rücken	NN	 Rücken	Rücken
+von	APPR	 von	von
+dem	ART	 d	dem
+Stockfisch	NN	 Stockfisch	Stockfisch
+nehmen	VVINF	 nehmen	nehmen
+</seg>
+<seg type="newline">
+denn	KON	 denn	denn
+der	ART	 d	der
+Bauch	NN	 Bauch	Bauch
+ist	VAFIN	 sein	ist
+hart	ADJD	 hart	hart
+</seg>
+<seg type="newline">
+und	KON	 und	und
+hat	VAFIN	 haben	hat
+viel	PIAT	 viel	viel
+Graten	NN	 Grat	Graten
+;	$.	;	$.	 ;	|	;
+nimm	VVIMP	 nehmen	nimm
+denn	ADV	 denn	denn
+eine	ART	 ein	eine
+silberne	ADJA	 silbern	silberne
+Schüssel	NN	 Schüssel	Schüssel
+</seg>
+<seg type="newline">
+und	KON	 und	und
+lege	VVFIN	 legen	lege
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Butter	NN	 Butter	Butter
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+und	KON	 und	und
+den	ART	 d	den
+Stockfisch	NN	 Stockfisch	Stockfisch
+</seg>
+<seg type="newline">
+Hecht	NN	 Hecht	Hecht
+und	KON	 und	und
+Hering	NN	 Hering	Hering
+durcheinander	ADV	 durcheinander	durcheinander
+zu	APPR	 zu	zu
+der	ART	 d	der
+Butter	NN	 Butter	Butter
+hinein	PTKVZ	 hinein	hinein
+und	KON	 und	und
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Butter	NN	 Butter	Butter
+oben	ADV	 oben	oben
+auff	APPR	 auf	auf
+</seg>
+<seg type="newline">
+dazu	PAV	 dazu	dazu
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+und	KON	 und	und
+ein	CARD	 ein	ein
+oder	KON	 oder	oder
+zwey	CARD	 zwei	zwei
+Spitz	NN	 Spitz	Spitz
+Gläser	NN	 Glas	Gläser
+voll	ADJD	 voll	voll
+Spanischen	ADJA	 spanisch	Spanischen
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+so	ADV	 so	so
+viel	PIS	 viel	viel
+als	KOKOM	 als	als
+nöthig	ADJD	 nötig	nötig
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+es	PPER	 es	es
+muß	VMFIN	 müssen	muß
+aber	ADV	 aber	aber
+nicht	PTKNEG	 nicht	nicht
+mehr	PIAT	 mehr	mehr
+Butter	NN	 Butter	Butter
+darauff	PAV	 drauf	drauf
+seyn	ADJD	 UNKNOWN	seyn
+</seg>
+<seg type="newline">
+als	KOKOM	 als	als
+wie	KOUS	 wie	wie
+du	PPER	 du	du
+sonst	ADV	 sonst	sonst
+zu	APPR	 zu	zu
+dem	ART	 d	dem
+Stockfisch	NN	 Stockfisch	Stockfisch
+brauchest	ADJA	 UNKNOWN	brauchest
+</seg>
+<seg type="newline">
+setz	VVIMP	 setzen	setz
+die	ART	 d	die
+Schüssel	NN	 Schüssel	Schüssel
+mit	APPR	 mit	mit
+dem	ART	 d	dem
+Stockfisch	NN	 Stockfisch	Stockfisch
+</seg>
+<seg type="newline">
+Hecht	NN	 Hecht	Hecht
+und	KON	 und	und
+Hering	NN	 Hering	Hering
+auff	APPR	 auf	auf
+einen	ART	 ein	einen
+Wind=Ofen	NN	 UNKNOWN	Wind=Ofen
+oder	KON	 oder	oder
+Feuer=Becken	NN	 UNKNOWN	Feuer=Becken
+eine	ART	 ein	eine
+viertel	ADJA	 Viertel	viertel
+Stunde	NN	 Stunde	Stunde
+zuvor	ADV	 zuvor	zuvor
+</seg>
+<seg type="newline">
+ehe	KOUS	 ehe	ehe
+du	PPER	 du	du
+anrichten	VVINF	 anrichten	anrichten
+wilst	VVFIN	 UNKNOWN	wilst
+</seg>
+<seg type="newline">
+und	KON	 und	und
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+kochen	VVINF	 kochen	kochen
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+du	PPER	 du	du
+angerichtet	VVPP	 anrichten	angerichtet
+hast	VAFIN	 haben	hast
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+ist	VAFIN	 sein	ist
+es	PPER	 es	es
+fertig	ADJD	 fertig	fertig
+.	$.	.	$.	 .	|	.
+Du	PPER	 du	Du
+must	VVFIN	 UNKNOWN	must
+aber	ADV	 aber	aber
+zusehen	VVFIN	 zusehen	zusehen
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+die	ART	 d	die
+Butter	NN	 Butter	Butter
+nicht	PTKNEG	 nicht	nicht
+klar	ADJD	 klar	klar
+wird	VAFIN	 werden	wird
+in	APPR	 in	in
+der	ART	 d	der
+Schüssel	NN	 Schüssel	Schüssel
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

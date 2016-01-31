@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Wecker_1679_27" collection="historical" source="Wecker" url="none" year="1679" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Huhn|" method="|Pastete|" ref="[1679:390]">
+<title>
+<seg type="newline">
+Hüner	NN	 UNKNOWN	Hünern
+in	APPR	 in	in
+einer	ART	 ein	einer
+Pasteten	NN	 Pastete	Pasteten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Bereite	NN	 Bereite	Bereite
+die	ART	 d	die
+Hüner	NN	 UNKNOWN	Hünern
+biß	VVFIN	 beißen	biß
+an	APPR	 an	an
+den	ART	 d	den
+Spieß	NN	 Spieß	Spieß
+</seg>
+<seg type="newline">
+schupff	VVFIN	 UNKNOWN	schupft
+sie	PPER	 sie	sie
+aber	ADV	 aber	aber
+vorher	ADV	 vorher	vorher
+wie	KOUS	 wie	wie
+du	PPER	 du	du
+weist	VVFIN	 weisen	weist
+</seg>
+<seg type="newline">
+spicks	NN	 Speck	Speck
+schön	ADJD	 schön	schön
+mit	APPR	 mit	mit
+kurtzen	NN	 Wurzel	Wurzeln
+Specklein	NN	 UNKNOWN	Speckfett
+vnd	KON	 und	und
+Feißte	NN	 UNKNOWN	Feißte
+</seg>
+<seg type="newline">
+brate	VVFIN	 braten	brate
+sie	PPER	 sie	sie
+bey	NE	 Bey	bey
+einem	PIS	 ein	einem
+starcken	VVFIN	 stocken	stocken
+Fewr	NN	 Feuer	Feuer
+schnell	ADJD	 schnell	schnell
+vnd	KON	 und	und
+schön	ADJD	 schön	schön
+braun	ADJD	 braun	braun
+</seg>
+<seg type="newline">
+du	PPER	 du	du
+wöllest	VVFIN	 UNKNOWN	wöllest
+sie	PPER	 sie	sie
+dann	ADV	 dann	dann
+für	APPR	 für	für
+einen	ART	 ein	einen
+Krancken	NN	 Tranche	Tranchen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+betreuffe	VVFIN	 UNKNOWN	betrauffe
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Schmaltz	NN	 Schmalz	Schmalz
+</seg>
+<seg type="newline">
+versaltze	VVFIN	 versalzen	versalzen
+sie	PPER	 sie	sie
+nicht	PTKNEG	 nicht	nicht
+</seg>
+<seg type="newline">
+alßdann	NN	 UNKNOWN	Alsdann
+lege	VVFIN	 legen	lege
+es	PPER	 es	es
+in	APPR	 in	in
+einen	ART	 ein	einen
+Pastetenhafen	NN	 UNKNOWN	Pastetenhafen
+mit	APPR	 mit	mit
+Weinbeer	NN	 Weizenbier	Weizenbier
+vnd	KON	 und	und
+Zibeben	VVFIN	 umgeben	umgeben
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+süssen	ADJA	 süß	süssen
+Gewürtz	NN	 UNKNOWN	Gewürtz
+</seg>
+<seg type="newline">
+Saffran	NN	 Safran	Safran
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+vnd	KON	 und	und
+Zimmet	NN	 Zimt	Zimt
+</seg>
+<seg type="newline">
+wol	PWAV	 wo	wo
+anbereitet	VVFIN	 UNKNOWN	anbereitet
+</seg>
+<seg type="newline">
+sampt	APPR	 samt	samt
+Feißte	ADJA	 UNKNOWN	Feißte
+</seg>
+<seg type="newline">
+was	PRELS	 was	was
+es	PPER	 es	es
+bedarff	NN	 Bedarf	Bedarf
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+was	PIAT	 was	was
+darauß	NN	 UNKNOWN	herauß
+tropffet	VVFIN	 tropfen	tropft
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+allzeit	ADV	 allzeit	allzeit
+gerieben	VVPP	 reiben	gerieben
+Brot	NN	 Brot	Brot
+an	APPR	 an	an
+den	ART	 d	den
+Boden	NN	 Boden	Boden
+</seg>
+<seg type="newline">
+wilt	VMFIN	 wollen	will
+du	PPER	 du	du
+gern	ADV	 gern	gern
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+grün	ADJD	 grün	grün
+Kraut	NN	 Kraut	Kraut
+darein	ADV	 darein	darein
+schneiden	VVFIN	 schneiden	schneiden
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+ist	VAFIN	 sein	ist
+es	PPER	 es	es
+vast	ADV	 fast	fast
+gut	ADJD	 gut	gut
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+also	ADV	 also	also
+vermacht	VVPP	 vermachen	vermacht
+stehen	VVFIN	 stehen	stehen
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+bachen	NN	 Kochen	Kochen
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+der	ART	 d	der
+Hafen	NN	 Hafen	Hafen
+erhartet	VVFIN	 erhalten	erhalten
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+habe	VAFIN	 haben	habe
+Wein	NN	 Wein	Wein
+vnd	KON	 und	und
+die	ART	 d	die
+Brüh	ADJD	 früh	früh
+</seg>
+<seg type="newline">
+darinnen	VVFIN	 darinnen	darinnen
+sie	PPER	 sie	sie
+geschupfft	ADJA	 UNKNOWN	gerupfft
+</seg>
+<seg type="newline">
+schupffs	NN	 UNKNOWN	schupft
+in	APPR	 in	in
+halb	ADJD	 halb	halb
+Wein	NN	 Wein	Wein
+vnd	KON	 und	und
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+da	ADV	 da	da
+werden	VAFIN	 werden	werden
+sie	PPER	 sie	sie
+am	PTKA	 am	am
+besten	ADJD	 gut	besten
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+allweg	PIS	 alle	alles
+mache	VVFIN	 machen	mache
+es	PPER	 es	es
+siedend	ADJD	 siedend	siedend
+</seg>
+<seg type="newline">
+geuß	VVPP	 UNKNOWN	geuß
+darein	ADV	 darein	darein
+was	PIS	 was	was
+vonnöhten	ADV	 UNKNOWN	vonnöhten
+</seg>
+<seg type="newline">
+wie	KOUS	 wie	wie
+du	PPER	 du	du
+offt	ADV	 oft	oft
+gelehrt	VVPP	 lehren	gelehrt
+worden	VAPP	 werden	worden
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+auff	APPR	 auf	auf
+ein	ART	 ein	ein
+halbe	ADJA	 halb	halbe
+Stund	VAFIN	 sein	sind
+bachen	NN	 Kochen	Kochen
+</seg>
+<seg type="newline">
+wilt	VVFIN	 UNKNOWN	wilt
+du	PPER	 du	du
+dann	ADV	 dann	dann
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+laß	ADJD	 laß	laß
+allen	PIAT	 alle	allen
+süssen	ADJA	 süß	süssen
+Zeug	NN	 Zeug	Zeug
+heraussen	VVINF	 herausragen	herausragen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+schneid	VVFIN	 schneiden	schneiden
+genugsam	ADV	 genugsam	genugsam
+gesaltzene	ADJA	 gesalzt	gesalzenem
+Lemonien	NN	 UNKNOWN	Lemoni
+darzu	PAV	 dazu	dazu
+:	$.	:	$.	 :	|	:
+In	APPR	 in	In
+dem	ART	 d	dem
+Sommer	NN	 Sommer	Sommer
+magst	VMFIN	 mögen	magst
+du	PPER	 du	du
+die	ART	 d	die
+sawren	PIAT	 alle	allen
+Trauben	NN	 Traube	Trauben
+oder	KON	 oder	oder
+Stichbeer	NN	 UNKNOWN	Stichbeer
+darzu	PAV	 dazu	dazu
+nemmen	VVFIN	 nehmen	nehmen
+</seg>
+<seg type="newline">
+pfeffers	NN	 Pfeffer	pfeffers
+vnd	KON	 und	und
+würtz	VVFIN	 würzen	würzt
+es	PPER	 es	es
+.	$.	.	$.	 .	|	.
+Vnd	KON	 und	und
+also	ADV	 also	also
+magst	VMFIN	 mögen	magst
+du	PPER	 du	du
+die	ART	 d	die
+Hüner	NN	 UNKNOWN	Hünern
+jetzt	ADV	 jetzt	jetzt
+also	ADV	 also	also
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+also	ADV	 also	also
+machen	VVINF	 machen	machen
+</seg>
+<seg type="newline">
+muß	VMFIN	 müssen	muß
+man	PIS	 man	man
+es	PPER	 es	es
+jmmer	ADV	 immer	immer
+verändern	VVFIN	 verändern	verändern
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+auch	ADV	 auch	auch
+in	APPR	 in	in
+andern	ADJA	 ander	andern
+Trachten	NN	 Tracht|Trachten	Trachten
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

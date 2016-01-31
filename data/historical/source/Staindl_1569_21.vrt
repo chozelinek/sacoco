@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Staindl_1569_21" collection="historical" source="Staindl" url="none" year="1569" decade="1560-1570" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[18vf.]">
+<title>
+<seg type="newline">
+Auff	NN	 UNKNOWN	Auff
+ein	ART	 ein	ein
+andere	ADJA	 ander	andere
+art	FM	 art	art
+vnd	KON	 und	und
+form[-	VVFIN	 UNKNOWN	form[-
+]	$(	]	$(	 ]	|	]
+.	$.	.	$.	 .	|	.
+[	$(	[	$(	 [	|	[
+Fischsülze	NN	 UNKNOWN	Fischsülze
+]	$(	]	$(	 ]	|	]
+</seg>
+</title>
+<body>
+<seg type="newline">
+Die	ART	 d	Die
+Sultzfisch	NN	 UNKNOWN	Sultzfisch
+wie	KOKOM	 wie	wie
+es	PPER	 es	es
+die	ART	 d	die
+Köch	NN	 UNKNOWN	Köch
+brauchen	VVFIN	 brauchen	brauchen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nimb	VVFIN	 UNKNOWN	nimb
+den	ART	 d	den
+Visch	NN	 UNKNOWN	Visch
+(	$(	(	$(	 (	|	(
+so	ADV	 so	so
+es	PPER	 es	es
+ein	ART	 ein	ein
+geschüpter	ADJA	 UNKNOWN	geschüpter
+Visch	NN	 UNKNOWN	Visch
+ist	VAFIN	 sein	ist
+)	$(	)	$(	 )	|	)
+schüpp	NN	 UNKNOWN	schüpp
+jn	VVPP	 UNKNOWN	jn
+</seg>
+<seg type="newline">
+mach	VVIMP	 machen	mach
+jn	NE	 UNKNOWN	jn
+zu	PTKZU	 zu	zu
+stucken	VVINF	 stocken	stocken
+</seg>
+<seg type="newline">
+saltz	ADJA	 kalt	kalten
+jn	NE	 UNKNOWN	jn
+ein	PTKVZ	 ein	ein
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+jn	NE	 UNKNOWN	jn
+ein	PTKVZ	 ein	ein
+weil	KOUS	 weil	weil
+im	APPRART	 im	im
+saltz	ADJA	 kalt	kalten
+ligen	ADJA	 UNKNOWN	ligen
+</seg>
+<seg type="newline">
+wäsch	NN	 UNKNOWN	wäsch
+dann	ADV	 dann	dann
+die	ART	 d	die
+stuck	NN	 Stuck	stuck
+wider	PTKVZ	 wider	wider
+auß	VMFIN	 müssen	muß
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+kompt	VVFIN	 UNKNOWN	kompt
+der	ART	 d	der
+schlaim	ADJA	 UNKNOWN	schlaim
+vnd	KON	 und	und
+das	ART	 d	das
+vberig	ADJD	 UNKNOWN	vberig
+saltz	ADJA	 kalt	kalten
+daruon	NN	 UNKNOWN	daruon
+</seg>
+<seg type="newline">
+geüß	ADJA	 UNKNOWN	geüß
+guoten	NN	 UNKNOWN	guoten
+süssen	ADJA	 süß	süssen
+wein	VVIMP	 weinen	wein
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+vornen	ADJD	 UNKNOWN	vornen
+stehet	VVFIN	 stehen	stehet
+</seg>
+<seg type="newline">
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+wol	PWAV	 wo	wo
+mit	APPR	 mit	mit
+saffran	ADJD	 UNKNOWN	saffran
+gegilbt	VVPP	 UNKNOWN	gegilbt
+</seg>
+<seg type="newline">
+du	PPER	 du	du
+magst	VMFIN	 mögen	magst
+jn	NE	 UNKNOWN	jn
+in	APPR	 in	in
+eim	ADJA	 UNKNOWN	nimb
+hafen	NN	 Hafen	hafen
+wol	PWAV	 wo	wo
+sieden	VVINF	 sieden	sieden
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+ist	VAFIN	 sein	ist
+einer	ART	 ein	einer
+pfann	ADJA	 UNKNOWN	pfann
+bey	NE	 Bey	bey
+einem	ART	 ein	einem
+Kolfewr	NN	 UNKNOWN	Kolfewr
+nur	ADV	 nur	nur
+gar	ADV	 gar	gar
+gemächlich	ADJD	 gemächlich	gemächlich
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+seüd	VVFIN	 UNKNOWN	seüd
+sich	PRF	 er|es|sie	sich
+das	PDS	 d	das
+feist	ADJD	 feist	feist
+vnd	KON	 und	und
+der	ART	 d	der
+faim	NE	 UNKNOWN	faim
+fein	ADJD	 fein	fein
+hindan	ADJA	 UNKNOWN	hindan
+</seg>
+<seg type="newline">
+zusamen	NN	 UNKNOWN	zusamen
+das	ART	 d	das
+schöpff	ADJA	 UNKNOWN	schöpff
+dann	ADV	 dann	dann
+stäts	NN	 UNKNOWN	stäts
+mit	APPR	 mit	mit
+eim	ADJA	 UNKNOWN	nimb
+Kochlöffel	NN	 Kochlöffel	Kochlöffel
+ab	ADV	 ab	ab
+</seg>
+<seg type="newline">
+So	ADV	 so	So
+es	PPER	 es	es
+ehrlich	ADJD	 ehrlich	ehrlich
+verfaimbt	ADJD	 UNKNOWN	verfaimbt
+hat	VAFIN	 haben	hat
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+thuo	NE	 UNKNOWN	thue
+dann	ADV	 dann	dann
+das	ART	 d	das
+gwürtz	NN	 UNKNOWN	Gewürtz
+darein	ADV	 darein	darein
+.	$.	.	$.	 .	|	.
+Die	ART	 d	Die
+Karpffen	NN	 UNKNOWN	Karpffen
+bedürffen	VVFIN	 UNKNOWN	bedürffen
+keiner	PIAT	 kein	keiner
+Hausenblatern	NN	 UNKNOWN	Hausenblatern
+nit	ADJA	 UNKNOWN	nimb
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+mans	VMFIN	 mögen	mag
+in	APPR	 in	in
+der	ART	 d	der
+sultzen	ADJA	 UNKNOWN	sultzen
+seüdt	NN	 UNKNOWN	seüdt
+</seg>
+<seg type="newline">
+aber	ADV	 aber	aber
+zu	APPR	 zu	zu
+den	ART	 d	den
+andern	ADJA	 ander	andern
+Vischen	NN	 UNKNOWN	Vischen
+muoß	VVFIN	 UNKNOWN	muoß
+man	PIS	 man	man
+dannocht	ADJD	 UNKNOWN	dannocht
+ein	ART	 ein	ein
+Hausenblater	NN	 UNKNOWN	Hausenblater
+nemen	VVINF	 UNKNOWN	nemen
+.	$.	.	$.	 .	|	.
+Es	PPER	 es	Es
+sit	VVFIN	 UNKNOWN	sit
+auch	ADV	 auch	auch
+guot	ADJD	 gut	gut
+das	ART	 d	das
+man	PIS	 man	man
+weiß	VVFIN	 wissen	weiß
+Erbes	NN	 Erbe	Erbes
+seüdt	ADJD	 UNKNOWN	seüdt
+</seg>
+<seg type="newline">
+seind	VAFIN	 sein	sind
+geschmach	NN	 UNKNOWN	geschmach
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+die	ART	 d	die
+suppen	NN	 Suppe	suppen
+fein	ADJD	 fein	fein
+süß	ADJD	 süß	süß
+wirt	NN	 Wirt	wirt
+</seg>
+<seg type="newline">
+Solche	PIAT	 solch	Solche
+suppen	NN	 Suppe	suppen
+möchtest	VMFIN	 mögen	möchtest
+du	PPER	 du	du
+auch	ADV	 auch	auch
+wol	PWAV	 wo	wo
+vnter	VVFIN	 UNKNOWN	vnter
+die	ART	 d	die
+sultz	NN	 UNKNOWN	sultz
+nemen	VVFIN	 UNKNOWN	nemen
+</seg>
+<seg type="newline">
+nur	ADV	 nur	nur
+nicht	PTKNEG	 nicht	nicht
+zuuil	NE	 UNKNOWN	zuuil
+</seg>
+<seg type="newline">
+das	ART	 d	das
+nit	ADJA	 UNKNOWN	nimb
+wässerig	ADJD	 wässerig	wässerig
+werd	ADJD	 UNKNOWN	werd
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+die	ART	 d	die
+schuoppen	NN	 UNKNOWN	schuoppen
+vom	APPRART	 vom	vom
+Visch	NN	 UNKNOWN	Visch
+</seg>
+<seg type="newline">
+binds	NN	 UNKNOWN	binds
+in	APPR	 in	in
+ein	ART	 ein	ein
+schöns	NN	 UNKNOWN	schöns
+saubers	ADJA	 sauber	saubers
+tüchlin	NN	 UNKNOWN	tüchlin
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+also	ADV	 also	also
+in	APPR	 in	in
+der	ART	 d	der
+sultz	NE	 UNKNOWN	sultz
+siede	NE	 UNKNOWN	siede
+</seg>
+<seg type="newline">
+die	ART	 d	die
+mach	VVIMP	 machen	mach
+auch	ADV	 auch	auch
+gestehen	VVINF	 gestehen	gestehen
+.	$.	.	$.	 .	|	.
+So	ADV	 so	So
+du	PPER	 du	du
+die	ART	 d	die
+Sultzfisch	NN	 UNKNOWN	Sultzfisch
+anrichst	VVFIN	 UNKNOWN	anrichst
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+du	PPER	 du	du
+es	PPER	 es	es
+für	APPR	 für	für
+guot	ADJD	 gut	gut
+leüt	NN	 UNKNOWN	leüt
+machst	VVFIN	 machen	machst
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nimb	VVFIN	 UNKNOWN	nimb
+dann	ADV	 dann	dann
+die	ART	 d	die
+visch	ADJD	 UNKNOWN	visch
+stuck	NN	 Stuck	stuck
+</seg>
+<seg type="newline">
+legs	VVFIN	 legen	legt
+fein	ADJD	 fein	fein
+auff	APPR	 auf	auf
+ein	ART	 ein	ein
+zynliechte	ADJA	 UNKNOWN	zynliechte
+schüssel	NN	 Schüssel	schüssel
+</seg>
+<seg type="newline">
+besee	NN	 UNKNOWN	besee
+die	ART	 d	die
+stuck	NN	 Stuck	stuck
+mit	APPR	 mit	mit
+grob	ADJD	 grob	grob
+zimmetrörn	ADJA	 UNKNOWN	zimmetrörn
+stüpp	NN	 UNKNOWN	stüpps
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+Muscatblü	NN	 UNKNOWN	Muscatenblüh
+</seg>
+<seg type="newline">
+die	ART	 d	die
+hack	VVIMP	 hacken	hack
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+geüß	ADJD	 UNKNOWN	geüß
+die	ART	 d	die
+sultz	NN	 UNKNOWN	sultz
+darauff	PAV	 drauf	drauf
+oder	KON	 oder	oder
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+thuo	NN	 UNKNOWN	thue
+ehrlich	ADJD	 ehrlich	ehrlich
+Mandelkern	NE	 Mandelkern	Mandelkern
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+setz	VVIMP	 setzen	setz
+das	ART	 d	das
+kül	NN	 UNKNOWN	kül
+hab	VAIMP	 haben	hab
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+gestehts	NN	 UNKNOWN	gestehts
+gern	ADV	 gern	gern
+</seg>
+<seg type="newline">
+Solche	PIAT	 solch	Solche
+sultz	NN	 UNKNOWN	sultz
+mag	VMFIN	 mögen	mag
+man	PIS	 man	man
+vergulden	NN	 UNKNOWN	vergulden
+</seg>
+<seg type="newline">
+die	ART	 d	die
+Visch	NN	 UNKNOWN	Visch
+stuck	ADJD	 UNKNOWN	stuck
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Hohberg_1715_26" collection="historical" source="Hohberg" url="none" year="1715" decade="1710-1720" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1715:92]">
+<title>
+<seg type="newline">
+Heffen=Küchlein	NN	 UNKNOWN	Heffen=Küchlein
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+2.	ADV	 2.	2.
+Becher	NN	 Becher	Becher
+schönes	ADJA	 schön	schönes
+Meel	NN	 UNKNOWN	Meel
+</seg>
+<seg type="newline">
+2.	ADV	 2.	2.
+gantze	ADV	 ganz	ganz
+Eyer	NE	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+und	KON	 und	und
+2.	ADJA	 2.	2.
+Eyer=Dottern	NN	 UNKNOWN	Eyer=Dottern
+</seg>
+<seg type="newline">
+2.	ADJA	 2.	2.
+grosse	ADJA	 groß	grosse
+Löffel	NN	 Löffel	Löffel
+voll	ADJD	 voll	voll
+Waitzenbier=Heffen	NN	 UNKNOWN	Waitzenbier=Heffen
+</seg>
+<seg type="newline">
+nicht	PTKNEG	 nicht	nicht
+gar	ADV	 gar	gar
+ein	ART	 ein	ein
+halb	ADJD	 halb	halb
+Seidlein	NN	 Seidlein	Seidlein
+Milch	NN	 Milch	Milch
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+Viertel	ADJA	 Viertel	Viertel
+Pfund	NN	 Pfund	Pfund
+zerlassene	VVFIN	 zerlassen	zerlassen
+Butter	NN	 Butter	Butter
+und	KON	 und	und
+Saltz	NN	 Salz	Salz
+;	$.	;	$.	 ;	|	;
+Dieses	PDAT	 dies	Dieses
+alles	PIS	 alle	alles
+wohl	ADV	 wohl	wohl
+warm	ADJD	 warm	warm
+untereinander	ADV	 untereinander	untereinander
+gerühret	ADJA	 gerührt	gerührten
+und	KON	 und	und
+geklopfft	ADJA	 UNKNOWN	geklopfft
+</seg>
+<seg type="newline">
+den	ART	 d	den
+Taig	NN	 Teig	Teig
+ausgewälchert	ADJA	 UNKNOWN	ausgewälchert
+Stücklein	NN	 Stücklein	Stücklein
+daraus	PAV	 daraus	daraus
+geschnitten	VVPP	 schneiden	geschnitten
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+groß	ADJD	 groß	groß
+als	KOKOM	 als	als
+beliebig	ADJD	 beliebig	beliebig
+</seg>
+<seg type="newline">
+bey	NE	 Bey	bey
+einem	ART	 ein	einem
+warmen	ADJA	 warm	warmen
+Ofen	NN	 Ofen	Ofen
+gehen	VVINF	 gehen	gehen
+lassen	VVFIN	 lassen	lassen
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+in	APPR	 in	in
+heiß	ADJD	 heiß	heiß
+Schmaltz	NN	 Schmalz	Schmalz
+gelegt	VVPP	 legen	gelegt
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Löffel	NN	 Löffel	Löffel
+stets	ADV	 stets	stets
+aufgegossen	VVPP	 aufgießen	aufgegossen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+gemach	ADV	 gemach	gemach
+bachen	NN	 Kochen	Kochen
+lassen	VVINF	 lassen	lassen
+.	$.	.	$.	 .	|	.
+Oder	KON	 oder	Oder
+rühret	VVFIN	 rühren	rühren
+an	APPR	 an	an
+einem	ART	 ein	einem
+Diethäufflein	NN	 UNKNOWN	Diethäufflein
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+den	ART	 d	den
+achten	ADJA	 acht	achten
+Theil	NN	 Teil	Teil
+eines	ART	 ein	eines
+Metzen	NE	 Metzen	Metzen
+Meels	NE	 UNKNOWN	Meels
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+zuvor	ADV	 zuvor	zuvor
+erwarmet	ADJD	 UNKNOWN	erwarmet
+</seg>
+<seg type="newline">
+9.	ADJA	 9.	9.
+zerklopffte	ADJA	 UNKNOWN	zerklopffte
+Eyer	NE	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+einen	ART	 ein	einen
+halben	ADJA	 halb	halben
+Seidlein	NN	 Seidlein	Seidlein
+Waitzen=	NN	 UNKNOWN	Waitzen=
+oder	KON	 oder	oder
+weisse	ADJA	 weiß	weisse
+Bier=Heffen	NN	 UNKNOWN	Bier=Heffen
+</seg>
+<seg type="newline">
+eben	ADV	 eben	eben
+so	ADV	 so	so
+viel	PIAT	 viel	viel
+Kern	NN	 Kern	Kern
+oder	KON	 oder	oder
+Milch	NN	 Milch	Milch
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+alles	PIS	 alle	alles
+warm	ADJD	 warm	warm
+gemacht	VVPP	 machen	gemacht
+</seg>
+<seg type="newline">
+und	KON	 und	und
+zuletzt	ADV	 zuletzt	zuletzt
+ein	ART	 ein	ein
+halb	ADJD	 halb	halb
+Pfund	NN	 Pfund	Pfund
+warmes	ADJA	 warm	warmes
+Schmaltz	NN	 Schmalz	Schmalz
+</seg>
+<seg type="newline">
+saltzt	ADJD	 UNKNOWN	saltzt
+</seg>
+<seg type="newline">
+und	KON	 und	und
+machet	VVFIN	 machen	machet
+daraus	PAV	 daraus	daraus
+einen	ART	 ein	einen
+Taig	NN	 Teig	Teig
+der	ART	 d	der
+sich	PRF	 er|es|sie	sich
+schön	ADJD	 schön	schön
+vom	APPRART	 vom	vom
+Löffel	NN	 Löffel	Löffel
+und	KON	 und	und
+Becken	NN	 Becken	Becken
+ablediget	ADJD	 UNKNOWN	ablediget
+</seg>
+<seg type="newline">
+wircket	VVFIN	 UNKNOWN	wircket
+ihn	PPER	 er	ihn
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+auf	APPR	 auf	auf
+ein	ART	 ein	ein
+Bret	TRUNC	 UNKNOWN	Bret
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+er	PPER	 er	er
+sich	PRF	 er|es|sie	sich
+wälchern	NN	 UNKNOWN	wälchern
+läst	ADJD	 UNKNOWN	läst
+</seg>
+<seg type="newline">
+machet	VVFIN	 machen	machet
+Küchlein	NN	 Küchlein	Küchlein
+davon	PAV	 davon	davon
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+beliebiger	ADJA	 beliebig	beliebiger
+Grösse	NN	 Größe	Grösse
+</seg>
+<seg type="newline">
+nicht	PTKNEG	 nicht	nicht
+allzu	PTKA	 allzu	allzu
+dün	ADJD	 dünn	dünn
+</seg>
+<seg type="newline">
+lassets	ADJD	 UNKNOWN	lässets
+in	APPR	 in	in
+der	ART	 d	der
+Wärme	NN	 Wärme	Wärme
+gehen	VVFIN	 gehen	gehen
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+gedacht	VVPP	 denken|gedenken	gedacht
+</seg>
+<seg type="newline">
+hernach	ADV	 hernach	hernach
+legets	VVFIN	 legen	legt
+also	ADV	 also	also
+in	APPR	 in	in
+heisses	ADJA	 heiß	heisses
+Schmaltz	NN	 Schmalz	Schmalz
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+das	ART	 d	das
+Obere	NN	 Obere	Obere
+unter	APPR	 unter	unter
+sich	PRF	 er|es|sie	sich
+in	APPR	 in	in
+das	ART	 d	das
+Schmaltz	NN	 Schmalz	Schmalz
+zu	PTKZU	 zu	zu
+liegen	VVINF	 liegen	liegen
+komme	VVFIN	 kommen	komme
+</seg>
+<seg type="newline">
+und	KON	 und	und
+bachts	NN	 UNKNOWN	bachts
+auf	APPR	 auf	auf
+obige	ADJA	 obig	obige
+Art.	NN	 Art.	Art.
+Einige	NN	 Einige	Einige
+machen	VVFIN	 machen	machen
+von	APPR	 von	von
+einem	ART	 ein	einem
+Diethäufflein	NN	 UNKNOWN	Diethäufflein
+Meel	NN	 UNKNOWN	Meel
+</seg>
+<seg type="newline">
+einen	ART	 ein	einen
+Seidlein	NN	 Seidlein	Seidlein
+Milchram	NE	 UNKNOWN	Milchram
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+nicht	PTKNEG	 nicht	nicht
+gar	ADV	 gar	gar
+so	ADV	 so	so
+viel	PIAT	 viel	viel
+Kern	NN	 Kern	Kern
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+halb	ADJD	 halb	halb
+Seidlein	NN	 Seidlein	Seidlein
+Bier=Heffen	NN	 UNKNOWN	Bier=Heffen
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+und	KON	 und	und
+2.	ADJA	 2.	2.
+Löffel	NN	 Löffel	Löffel
+voll	ADJD	 voll	voll
+klar=gestossenen	ADJA	 UNKNOWN	klar=gestossenen
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+einen	ART	 ein	einen
+Taig	NN	 Teig	Teig
+</seg>
+<seg type="newline">
+ohne	APPR	 ohne	ohne
+Eyer	NE	 UNKNOWN	Eyer
+und	KON	 und	und
+Schmaltz	NN	 Schmalz	Schmalz
+</seg>
+<seg type="newline">
+und	KON	 und	und
+bachen	NN	 Kochen	Kochen
+übrigens	ADV	 übrigens	übrigens
+auf	APPR	 auf	auf
+beschriebene	ADJA	 beschrieben	beschriebene
+Weise	NN	 Weise	Weise
+</seg>
+<seg type="newline">
+Küchlein	NN	 Küchlein	Küchlein
+daraus	PAV	 daraus	daraus
+.	$.	.	$.	 .	|	.
+Etliche	PIS	 etlich	Etliche
+schlagen	VVFIN	 schlagen	schlagen
+den	ART	 d	den
+Taig	NN	 Teig	Teig
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+er	PPER	 er	er
+ausgewircket	VVFIN	 UNKNOWN	ausgewircket
+</seg>
+<seg type="newline">
+nach	APPR	 nach	nach
+der	ART	 d	der
+Breite	NN	 Breite	Breite
+und	KON	 und	und
+Länge	NN	 Länge	Länge
+</seg>
+<seg type="newline">
+wohl	ADV	 wohl	wohl
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+dem	ART	 d	dem
+Wälcher=Holtz	NN	 UNKNOWN	Wälcher=Holtz
+</seg>
+<seg type="newline">
+vermeynen	VVFIN	 UNKNOWN	vermeynen
+die	ART	 d	die
+Küchlein	NN	 Küchlein	Küchlein
+gehen	VVFIN	 gehen	gehen
+davon	PAV	 davon	davon
+schön	ADJD	 schön	schön
+in	APPR	 in	in
+die	ART	 d	die
+Höhe	NN	 Höhe	Höhe
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

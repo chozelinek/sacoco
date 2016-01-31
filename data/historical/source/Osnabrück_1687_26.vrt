@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Osnabrueck_1687_26" collection="historical" source="Osnabrueck" url="none" year="1687" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1687:51]">
+<title>
+<seg type="newline">
+Wie	KOUS	 wie	Wie
+das	ART	 d	das
+Peckel=Faß	NN	 UNKNOWN	Peckel=Faß
+zu	PTKZU	 zu	zu
+bereiten	VVINF	 bereiten	bereiten
+sey	VVFIN	 UNKNOWN	sey
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Das	ART	 d	Das
+Faß	NN	 Faß	Faß
+</seg>
+<seg type="newline">
+worinn	VAPP	 werden	worden
+das	ART	 d	das
+Fleisch	NN	 Fleisch	Fleisch
+gesaltzet	VVFIN	 UNKNOWN	gesaltzet
+werden	VAINF	 werden	werden
+soll	VMFIN	 sollen	soll
+</seg>
+<seg type="newline">
+müst	NN	 UNKNOWN	müst
+ihr	PPER	 ihr	ihr
+zuforderst	VVFIN	 UNKNOWN	zuforderst
+wohl	ADV	 wohl	wohl
+und	KON	 und	und
+fest	ADJD	 fest	fest
+binden	VVINF	 binden	binden
+</seg>
+<seg type="newline">
+denn	KON	 denn	denn
+die	ART	 d	die
+Nacht	NN	 Nacht	Nacht
+über	APPR	 über	über
+voll	ADJD	 voll	voll
+Wasser	NN	 Wasser	Wasser
+stehen	VVINF	 stehen	stehen
+lassen	VVFIN	 lassen	lassen
+</seg>
+<seg type="newline">
+damit	PAV	 damit	damit
+es	PPER	 es	es
+sich	PRF	 er|es|sie	sich
+wohl	ADV	 wohl	wohl
+zu	PTKVZ	 zu	zu
+ziehe	VVFIN	 zeihen|ziehen	ziehe
+</seg>
+<seg type="newline">
+giest	VVFIN	 geben	gibt
+dieses	PDS	 dies	dieses
+aus	PTKVZ	 aus	aus
+</seg>
+<seg type="newline">
+gebt	VVFIN	 geben	gebt
+siedend	ADJD	 siedend	siedend
+heiß	ADJD	 heiß	heiß
+Wasser	NN	 Wasser	Wasser
+mit	APPR	 mit	mit
+auffgesottenen	ADJA	 UNKNOWN	auffgesottenen
+Wein=Rancken	NN	 UNKNOWN	Wein=Rancken
+Blätter	NN	 Blatt	Blätter
+wieder	ADV	 wieder	wieder
+hinein	ADV	 hinein	hinein
+</seg>
+<seg type="newline">
+bedeckt	ADJD	 bedeckt	bedeckt
+das	ART	 d	das
+Faß	NN	 Faß	Faß
+so	ADV	 so	so
+lang	ADJD	 lang	lang
+biß	VVFIN	 beißen	biß
+das	ART	 d	das
+Wasser	NN	 Wasser	Wasser
+fast	ADV	 fast	fast
+kalt	ADJD	 kalt	kalt
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+wenn	KOUS	 wenn	wenn
+dieses	PDAT	 dies	dieses
+außgegossen	ADJA	 UNKNOWN	außgegossen
+</seg>
+<seg type="newline">
+setzt	VVFIN	 setzen	setzt
+unter	APPR	 unter	unter
+das	ART	 d	das
+Faß	NN	 Faß	Faß
+ein	ART	 ein	ein
+Feuer=Becken	NN	 UNKNOWN	Feuer=Becken
+mit	APPR	 mit	mit
+glüenden	ADJA	 UNKNOWN	glüenden
+Kohlen	NN	 Kohle	Kohlen
+</seg>
+<seg type="newline">
+werfft	VVFIN	 UNKNOWN	werfft
+auff	APPR	 auf	auf
+das	ART	 d	das
+Becken	NN	 Becken	Becken
+ein	ART	 ein	ein
+gut	ADJD	 gut	gut
+theil	ADJA	 UNKNOWN	theil
+Nägelein	NN	 UNKNOWN	Nägelein
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+ein	ART	 ein	ein
+hand	ADJA	 UNKNOWN	hand
+voll	ADJD	 voll	voll
+Wacholder=Beeren	NN	 UNKNOWN	Wacholder=Beeren
+</seg>
+<seg type="newline">
+und	KON	 und	und
+laßt	VVFIN	 lassen	laßt
+es	PPER	 es	es
+so	ADV	 so	so
+trucken	ADJD	 UNKNOWN	trucken
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+man	PIS	 man	man
+kan	ADV	 nun	Nun
+auch	ADV	 auch	auch
+zu	APPR	 zu	zu
+mehrer	ADJA	 UNKNOWN	mehrer
+Vorsorge	NN	 Vorsorge	Vorsorge
+</seg>
+<seg type="newline">
+weil	KOUS	 weil	weil
+die	ART	 d	die
+Peckel	NN	 UNKNOWN	Peckel
+sehr	ADV	 sehr	sehr
+subtil	ADJD	 subtil	subtil
+und	KON	 und	und
+durchdringend	ADJD	 durchdringend	durchdringend
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+den	ART	 d	den
+Boden	NN	 Boden	Boden
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+auch	ADV	 auch	auch
+die	ART	 d	die
+Kimmen	NN	 UNKNOWN	Kimmen
+mit	APPR	 mit	mit
+geschmoltzendem	ADJA	 UNKNOWN	geschmoltzendem
+Talche	NN	 UNKNOWN	Talche
+begiessen	VVINF	 begießen	begiessen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+ehe	KOUS	 ehe	ehe
+man	PIS	 man	man
+das	ART	 d	das
+Fleisch	NN	 Fleisch	Fleisch
+hinein	ADV	 hinein	hinein
+legt	VVFIN	 legen	legt
+</seg>
+<seg type="newline">
+muß	VMFIN	 müssen	muß
+der	ART	 d	der
+Boden	NN	 Boden	Boden
+wohl	ADV	 wohl	wohl
+mit	APPR	 mit	mit
+Saltz	NN	 Salz	Salz
+bestreuet	VVINF	 bestreuen	bestreuen
+werden	VAINF	 werden	werden
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

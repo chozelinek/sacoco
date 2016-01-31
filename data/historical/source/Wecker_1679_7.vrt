@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Wecker_1679_7" collection="historical" source="Wecker" url="none" year="1679" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:91f.]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+Capaunen	TRUNC	 UNKNOWN	Capaunen
+vnd	KON	 und	und
+andere	ADJA	 ander	andere
+Hünerqualen	NN	 UNKNOWN	Hünerqualen
+oder	KON	 oder	oder
+Schlegel	NN	 Schlegel	Schlegel
+Kälberen	NN	 UNKNOWN	Kälberen
+oder	KON	 oder	oder
+Schäfen	NN	 UNKNOWN	Schäfen
+auff	APPR	 auf	auf
+Vngarisch	NE	 UNKNOWN	Vngarisch
+zu	PTKZU	 zu	zu
+bereiten	VVINF	 bereiten	bereiten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+einen	ART	 ein	einen
+bereiteten	ADJA	 bereitet	bereiteten
+Capaunen	TRUNC	 UNKNOWN	Capaunen
+oder	KON	 oder	oder
+Schlegel	NN	 Schlegel	Schlegel
+</seg>
+<seg type="newline">
+setze	VVFIN	 setzen	setze
+jhn	PPER	 er	ihn
+zu	APPR	 zu	zu
+in	APPR	 in	in
+einer	ART	 ein	einer
+Kachel	NN	 Kachel	Kachel
+</seg>
+<seg type="newline">
+die	ART	 d	die
+recht	ADJD	 recht	recht
+vnd	KON	 und	und
+einen	PIS	 ein	einen
+beheben	VVFIN	 beheben	beheben
+Deckel	NN	 Deckel	Deckel
+hat	VAFIN	 haben	hat
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+halb	ADJD	 halb	halb
+Wein	NN	 Wein	Wein
+vnd	KON	 und	und
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+nicht	PTKNEG	 nicht	nicht
+zu	PTKA	 zu	zu
+viel	PIAT	 viel	viel
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+Brüh	ADJD	 früh	früh
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+du	PPER	 du	du
+gedenckest	VVFIN	 UNKNOWN	gedenckest
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+es	PPER	 es	es
+eben	ADV	 eben	eben
+damit	PAV	 damit	damit
+absiede	VVFIN	 UNKNOWN	absiede
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+die	PDS	 d	die
+gar	ADV	 gar	gar
+recht	ADJD	 recht	recht
+bleibe	VVFIN	 bleiben	bleibe
+</seg>
+<seg type="newline">
+decks	NN	 Deck	decks
+beheb	NE	 UNKNOWN	beheb
+zu	PTKA	 zu	zu
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+auff	APPR	 auf	auf
+einer	ART	 ein	einer
+Kolen	NN	 UNKNOWN	Kolen
+stehen	VVFIN	 stehen	stehen
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+es	PPER	 es	es
+hinden	ADJD	 UNKNOWN	hinden
+vnd	KON	 und	und
+vornen	ADJD	 UNKNOWN	vornen
+gleich	APPR	 gleich	gleich
+seudt	NE	 UNKNOWN	seudt
+</seg>
+<seg type="newline">
+vnderdessen	ADJA	 UNKNOWN	vnderdessen
+nimm	VVIMP	 nehmen	nimm
+acht	CARD	 acht	acht
+oder	KON	 oder	oder
+zehen	NN	 Zeh|Zehe	zehen
+</seg>
+<seg type="newline">
+mehr	ADV	 mehr	mehr
+</seg>
+<seg type="newline">
+nach	APPR	 nach	nach
+dem	ART	 d	dem
+du	PPER	 du	du
+gern	ADV	 gern	gern
+hast	VAFIN	 haben	hast
+</seg>
+<seg type="newline">
+frischen	ADJA	 frisch	frischen
+Knoblauch	NN	 Knoblauch	Knoblauch
+</seg>
+<seg type="newline">
+je	ADV	 je	je
+jünger	ADJD	 jung	jünger
+je	ADV	 je	je
+besser	ADJD	 gut	besser
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+es	PPER	 es	es
+Zeit	NN	 Zeit	Zeit
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+sie	PPER	 sie	sie
+noch	ADV	 noch	noch
+in	APPR	 in	in
+dem	ART	 d	dem
+Feld	NN	 Feld	Feld
+stehen	VVFIN	 stehen	stehen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+du	PPER	 du	du
+sie	PPER	 sie	sie
+frisch	ADJD	 frisch	frisch
+haben	VAFIN	 haben	haben
+kanst	NE	 UNKNOWN	kanst
+</seg>
+<seg type="newline">
+ist	VAFIN	 sein	ist
+es	PPER	 es	es
+am	PTKA	 am	am
+lieblichsten	ADJD	 lieblich	lieblichsten
+.	$.	.	$.	 .	|	.
+Nun	ADV	 nun	Nun
+nims	NE	 UNKNOWN	nims
+</seg>
+<seg type="newline">
+schneid	VVFIN	 schneiden	schneiden
+die	ART	 d	die
+Wurtzel	NN	 UNKNOWN	Wurtzel
+vnd	KON	 und	und
+Kraut	NN	 Kraut	Kraut
+mit	APPR	 mit	mit
+der	ART	 d	der
+äusseren	ADJA	 äußer	äusseren
+Schalen	NN	 Schale	Schalen
+hinweg	ADV	 hinweg	hinweg
+</seg>
+<seg type="newline">
+doch	ADV	 doch	doch
+daß	KOUS	 daß	daß
+die	ART	 d	die
+Kief	NE	 UNKNOWN	Kief
+nicht	PTKNEG	 nicht	nicht
+von	APPR	 von	von
+einander	PRF	 einander	einander
+fallen	VVINF	 fallen	fallen
+</seg>
+<seg type="newline">
+leg	VVIMP	 legen	leg
+sie	PPER	 sie	sie
+in	APPR	 in	in
+frisch	ADJD	 frisch	frisch
+Brunnenwasser	NN	 Brunnenwasser	Brunnenwasser
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+der	ART	 d	der
+Zeug	NN	 Zeug	Zeug
+schier	ADJD	 schier	schier
+gesotten	VVPP	 sieden	gesotten
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nimm	VVIMP	 nehmen	nimm
+den	ART	 d	den
+Knoblauch	NN	 Knoblauch	Knoblauch
+auß	VMFIN	 müssen	muß
+dem	ART	 d	dem
+Wasser	NN	 Wasser	Wasser
+thue	VVFIN	 UNKNOWN	thue
+jhn	PPER	 er	ihn
+zu	APPR	 zu	zu
+dem	ART	 d	dem
+Fleisch	NN	 Fleisch	Fleisch
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+was	PIS	 was	was
+es	PPER	 es	es
+dann	ADV	 dann	dann
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+aber	ADV	 aber	aber
+absieden	VVINF	 abwiegen	abwiegen
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+der	ART	 d	der
+Knoblauch	NN	 Knoblauch	Knoblauch
+anhebt	VVFIN	 anheben	anhebt
+lind	ADJD	 lind	lind
+zu	PTKZU	 zu	zu
+werden	VAINF	 werden	werden
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+sihe	NN	 UNKNOWN	sihe
+</seg>
+<seg type="newline">
+ist	VAFIN	 sein	ist
+die	ART	 d	die
+Brüh	ADJD	 früh	früh
+wol	PWAV	 wo	wo
+feißt	VVFIN	 UNKNOWN	feißt
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+hebs	NN	 UNKNOWN	hebs
+herab	ADV	 herab	herab
+</seg>
+<seg type="newline">
+was	PIS	 was	was
+zu	APPR	 zu	zu
+viel	PIS	 viel	viel
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+nim	ADJD	 UNKNOWN	nimb
+ein	ART	 ein	ein
+Theil	NN	 Teil	Teil
+in	APPR	 in	in
+ein	ART	 ein	ein
+Pfännlein	NN	 UNKNOWN	Pfännlein
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+es	PPER	 es	es
+heiß	PTKVZ	 heiß	heiß
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+es	PPER	 es	es
+nicht	PTKNEG	 nicht	nicht
+mehr	PIAT	 mehr	mehr
+sprütze	NN	 UNKNOWN	sprütze
+</seg>
+<seg type="newline">
+ist	VAFIN	 sein	ist
+aber	ADV	 aber	aber
+die	ART	 d	die
+Brüh	ADJD	 früh	früh
+mager	ADJD	 mager	mager
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nimm	VVIMP	 nehmen	nimm
+ein	ART	 ein	ein
+andere	ADJA	 ander	andere
+Suppen	NN	 Suppe	Suppen
+</seg>
+<seg type="newline">
+schmaltze	VVFIN	 UNKNOWN	schmaltze
+es	PPER	 es	es
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+es	PPER	 es	es
+genug	ADV	 genug	genug
+sey	NE	 UNKNOWN	sey
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+es	PPER	 es	es
+heiß	ADJD	 heiß	heiß
+</seg>
+<seg type="newline">
+wirff	VVFIN	 UNKNOWN	wirff
+ein	ART	 ein	ein
+zimlich	ADJD	 UNKNOWN	zimlich
+Brotmäl	NN	 UNKNOWN	Brotmäl
+von	APPR	 von	von
+gestossenem	ADJA	 gestoßen	gestossenem
+Semmelbrot	NN	 UNKNOWN	Semmelbrot
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+mehr	ADV	 mehr	mehr
+angezeigt	VVPP	 anzeigen	angezeigt
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+viel	ADV	 viel	viel
+recht	ADJD	 recht	recht
+zu	APPR	 zu	zu
+einem	ART	 ein	einem
+kleinen	ADJA	 klein	kleinen
+Brühlein	NN	 Glühwein	Glühwein
+</seg>
+<seg type="newline">
+darzu	PAV	 dazu	dazu
+auch	ADV	 auch	auch
+ein	ART	 ein	ein
+halb	ADJD	 halb	halb
+Lot	NN	 Lot	Lot
+gestossenen	ADJA	 gestoßen	gestossenen
+Ingwer	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+hebs	NE	 UNKNOWN	hebs
+aber	ADV	 aber	aber
+nicht	PTKNEG	 nicht	nicht
+über	APPR	 über	über
+das	ART	 d	das
+Fewr	NN	 Feuer	Feuer
+</seg>
+<seg type="newline">
+sonder	VVIMP	 sondern	sonder
+geuß	VVPP	 UNKNOWN	geuß
+gleich	ADJD	 gleich	gleich
+so	ADV	 so	so
+viel	ADV	 viel	viel
+Brüh	ADJD	 früh	früh
+in	APPR	 in	in
+die	ART	 d	die
+Pfannen	NN	 Pfanne	Pfannen
+</seg>
+<seg type="newline">
+als	KOKOM	 als	als
+es	PPER	 es	es
+haben	VAINF	 haben	haben
+soll	VMFIN	 sollen	soll
+zum	APPRART	 zum	zum
+absieden	VVINF	 abwiegen	abwiegen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+was	PWS	 was	was
+bleiben	VVINF	 bleiben	bleiben
+solle	VMFIN	 sollen	solle
+</seg>
+<seg type="newline">
+es	PPER	 es	es
+soll	VMFIN	 sollen	soll
+nicht	PTKNEG	 nicht	nicht
+ein	ART	 ein	ein
+grosser	ADJA	 groß	grosser
+Hauff	NE	 Hauff	Hauff
+Brüh	ADJD	 früh	früh
+seyn	NE	 UNKNOWN	seyn
+</seg>
+<seg type="newline">
+sondern	KON	 sondern	sondern
+ein	ART	 ein	ein
+fein	ADJD	 fein	fein
+kurtz	ADJA	 UNKNOWN	kurtz
+Brühlein	NN	 Glühwein	Glühwein
+</seg>
+<seg type="newline">
+was	PIS	 was	was
+noch	ADV	 noch	noch
+zu	APPR	 zu	zu
+viel	PIAT	 viel	viel
+</seg>
+<seg type="newline">
+schütts	NN	 UNKNOWN	schütts
+ab	APPR	 ab	ab
+</seg>
+<seg type="newline">
+es	PPER	 es	es
+wäre	VAFIN	 sein	wäre
+besser	ADJD	 gut	besser
+</seg>
+<seg type="newline">
+es	PPER	 es	es
+gienge	VVFIN	 UNKNOWN	gienge
+nichts	PIS	 nichts	nichts
+ab	ADV	 ab	ab
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+angemachten	ADJA	 UNKNOWN	angemachten
+Zeug	NN	 Zeug	Zeug
+in	APPR	 in	in
+einem	ART	 ein	einem
+Pfännlein	NN	 UNKNOWN	Pfännlein
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+geuß	NN	 UNKNOWN	geuß
+wieder	ADV	 wieder	wieder
+über	APPR	 über	über
+das	ART	 d	das
+Fleisch	NN	 Fleisch	Fleisch
+</seg>
+<seg type="newline">
+wanns	NE	 UNKNOWN	wanns
+recht	ADJD	 recht	recht
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+richte	VVFIN	 richten	richte
+es	PPER	 es	es
+an	PTKVZ	 an	an
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+den	ART	 d	den
+Knoblauch	NN	 Knoblauch	Knoblauch
+hin	PTKVZ	 hin	hin
+vnd	KON	 und	und
+her	ADV	 her	her
+auff	APPR	 auf	auf
+das	ART	 d	das
+Fleisch	NN	 Fleisch	Fleisch
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+es	PPER	 es	es
+ist	VAFIN	 sein	ist
+ein	ART	 ein	ein
+herrlich	ADJD	 herrlich	herrlich
+Essen	NN	 Essen	Essen
+</seg>
+<seg type="newline">
+wer	PWS	 wer	wer
+sonsten	ADJA	 UNKNOWN	sonsten
+Knoblauch	NN	 Knoblauch	Knoblauch
+jsset	VVFIN	 UNKNOWN	jsset
+</seg>
+<seg type="newline">
+dem	ART	 d	dem
+ist	VAFIN	 sein	ist
+es	PPER	 es	es
+ein	ART	 ein	ein
+gutes	ADJA	 gut	gutes
+Essen	NN	 Essen	Essen
+</seg>
+<seg type="newline">
+zu	APPR	 zu	zu
+der	ART	 d	der
+Zeit	NN	 Zeit	Zeit
+wann	PWAV	 wann	wann
+die	ART	 d	die
+Pestilentz	NN	 UNKNOWN	Pestilentz
+regiert	VVPP	 regieren	regiert
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

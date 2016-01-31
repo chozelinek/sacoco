@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Danckwerth_1729_29" collection="historical" source="Danckwerth" url="none" year="1729" decade="1720-1730" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1729:407f.]">
+<title>
+<seg type="newline">
+Schön	ADJD	 schön	Schön
+weisses	ADJA	 weiß	weisses
+Quitten=Brodt	NN	 UNKNOWN	Quitten=Brodt
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+in	APPR	 in	in
+lange	ADJA	 lang	lange
+Bretter	NN	 Brett	Bretter
+gegossen	VVPP	 gießen	gegossen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+wie	KOUS	 wie	wie
+Frantz	NE	 UNKNOWN	Frantz
+Quitten	NN	 Quitte	Quitten
+geschnitten	VVPP	 schneiden	geschnitten
+werden	VAFIN	 werden	werden
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Subtile	ADJA	 subtil	Subtile
+durchgetriebene	ADJA	 UNKNOWN	durchgetriebene
+Quitten	NN	 Quitte	Quitten
+genommen	VVPP	 nehmen	genommen
+wie	KOKOM	 wie	wie
+zur	APPRART	 zur	zur
+Pasta	NN	 Pasta	Pasta
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+Pfund	NN	 Pfund	Pfund
+20.	ADJA	 20.	20.
+Loth	NE	 Loth	Loth
+</seg>
+<seg type="newline">
+von	APPR	 von	von
+8.	ADJA	 @ord@	8.
+Eyern	NN	 UNKNOWN	Eyern
+das	ART	 d	das
+Weisse	ADJA	 weiß	Weisse
+</seg>
+<seg type="newline">
+gestossenen	ADJA	 gestoßen	gestossenen
+feinen	ADJA	 fein	feinen
+Canarien	NN	 UNKNOWN	Canarien
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+3.	ADJA	 3.	3.
+Pfund	NN	 Pfund	Pfund
+</seg>
+<seg type="newline">
+das	ART	 d	das
+Eyerweiß	NN	 UNKNOWN	Eyerweiß
+schlaget	VVFIN	 UNKNOWN	schlaget
+mit	APPR	 mit	mit
+reinen	ADJA	 rein	reinen
+Besemreiß	NN	 UNKNOWN	Besemreiß
+in	APPR	 in	in
+einem	ART	 ein	einem
+Gefäß	NN	 Gefäß	Gefäß
+eine	ART	 ein	eine
+gute	ADJA	 gut	gute
+halbe	ADJA	 halb	halbe
+Stunde	NN	 Stunde	Stunde
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+thut	NN	 UNKNOWN	thue
+die	ART	 d	die
+durchgetriebene	ADJA	 UNKNOWN	durchgetriebene
+Quitten	NN	 Quitte	Quitten
+darein	ADV	 darein	darein
+rührets	ADJD	 UNKNOWN	rührets
+noch	ADV	 noch	noch
+eine	ART	 ein	eine
+halbe	ADJA	 halb	halbe
+Stunde	NN	 Stunde	Stunde
+</seg>
+<seg type="newline">
+alsdann	NE	 UNKNOWN	Alsdann
+schüttet	VVFIN	 schütten	schüttet
+den	ART	 d	den
+Zucker	NN	 Zucker	Zucker
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+und	KON	 und	und
+arbeitet	VVFIN	 arbeiten	arbeitet
+es	PPER	 es	es
+noch	ADV	 noch	noch
+2.	ADJA	 2.	2.
+oder	KON	 oder	oder
+3.	ADJA	 3.	3.
+Stunden	NN	 Stunde|Stunden	Stunden
+mit	APPR	 mit	mit
+einander	PRF	 einander	einander
+.	$.	.	$.	 .	|	.
+Gießt	VVFIN	 gießen	Gießt
+den	ART	 d	den
+Teig	NN	 Teig	Teig
+hernach	ADV	 hernach	hernach
+in	APPR	 in	in
+die	ART	 d	die
+dazu	PAV	 dazu	dazu
+gemachten	ADJA	 gemacht	gemachten
+Bretter	NN	 Brett	Bretter
+</seg>
+<seg type="newline">
+welche	PRELS	 welch	welche
+von	APPR	 von	von
+Oblaten	NN	 Oblate	Oblaten
+ausgefüttert	VVPP	 UNKNOWN	ausgefüttert
+seyn	NE	 UNKNOWN	seyn
+.	$.	.	$.	 .	|	.
+Ihr	PPER	 ihr	Ihr
+könnet	VMFIN	 können	könnet
+den	ART	 d	den
+Teig	NN	 Teig	Teig
+auch	ADV	 auch	auch
+auf	APPR	 auf	auf
+obgemelte	ADJA	 UNKNOWN	obgemelte
+Oblaten	NN	 Oblate	Oblaten
+fein	ADJD	 fein	fein
+sauber	ADJD	 sauber	sauber
+mit	APPR	 mit	mit
+einen	ART	 ein	einen
+Spätlein	NN	 UNKNOWN	Spätlein
+aufstreichen	VVINF	 bestreichen	bestreichen
+</seg>
+<seg type="newline">
+wol	PWAV	 wo	wo
+zugedeckt	VVPP	 zudecken	zugedeckt
+3.	ADJA	 3.	3.
+oder	KON	 oder	oder
+4.	ADJA	 4.	4.
+Wochen	NN	 Woche	Wochen
+in	APPR	 in	in
+einer	ART	 ein	einer
+warmen	ADJA	 warm	warmen
+Stuben	NN	 Stube	Stuben
+stehn	VVFIN	 stellen	stellt
+</seg>
+<seg type="newline">
+und	KON	 und	und
+also	ADV	 also	also
+allgemählig	ADJD	 UNKNOWN	allgemählig
+austrocknen	VVINF	 austrocknen	austrocknen
+lassen	VVINF	 lassen	lassen
+.	$.	.	$.	 .	|	.
+Wann	PWAV	 wann	Wann
+es	PPER	 es	es
+wol	PWAV	 wo	wo
+trocken	ADJD	 trocken	trocken
+</seg>
+<seg type="newline">
+muß	VMFIN	 müssen	muß
+man	PIS	 man	man
+es	PPER	 es	es
+hernach	ADV	 hernach	hernach
+wiederum	ADV	 wiederum	wiederum
+an	APPR	 an	an
+einen	ART	 ein	einen
+feuchten	ADJA	 feucht	feuchten
+Ort	NN	 Ort	Ort
+setzen	VVFIN	 setzen	setzen
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+mans	VMFIN	 mögen	mag
+in	APPR	 in	in
+Stücklein	NN	 Stücklein	Stücklein
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+Frantz	NE	 UNKNOWN	Frantz
+Quitten	NN	 Quitte	Quitten
+schneiden	VVFIN	 schneiden	schneiden
+kan.	NE	 UNKNOWN	kan.
+Dann	ADV	 dann	Dann
+lassets	ADJD	 UNKNOWN	lässets
+noch	ADV	 noch	noch
+einmal	ADV	 einmal	einmal
+in	APPR	 in	in
+der	ART	 d	der
+Stuben	NN	 Stube	Stuben
+trocknen	VVINF	 trocknen	trocknen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+essen	VVINF	 essen	essen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

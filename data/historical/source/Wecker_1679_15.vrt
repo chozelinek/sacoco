@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Wecker_1679_15" collection="historical" source="Wecker" url="none" year="1679" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:210f.]">
+<title>
+<seg type="newline">
+Die	PDS	 d	Die
+richte	VVFIN	 richten	richte
+also	ADV	 also	also
+zu	PTKVZ	 zu	zu
+.	$.	.	$.	 .	|	.
+[	$(	[	$(	 [	|	[
+die	ART	 d	die
+Brühe	NN	 Brühe	Brühe
+über	APPR	 über	über
+ein	ART	 ein	ein
+gut	ADJD	 gut	gut
+Essen	NN	 Essen	Essen
+von	APPR	 von	von
+Mandeln	NN	 Mandel	Mandeln
+]	$(	]	$(	 ]	|	]
+</seg>
+</title>
+<body>
+<seg type="newline">
+Weiche	ADJA	 weich	Weiche
+Brosam	NN	 UNKNOWN	Brosam
+von	APPR	 von	von
+weissem	ADJA	 weiß	weissem
+Brot	NN	 Brot	Brot
+in	APPR	 in	in
+Rosenwasser	NN	 Rosenwasser	Rosenwasser
+</seg>
+<seg type="newline">
+treibs	NN	 Kreis	Kreis
+zu	APPR	 zu	zu
+rechter	ADJA	 recht	rechter
+dicke	ADJA	 dick	dicke
+mit	APPR	 mit	mit
+durch	APPR	 durch	durch
+</seg>
+<seg type="newline">
+es	PPER	 es	es
+soll	VMFIN	 sollen	soll
+gar	ADV	 gar	gar
+dünn	ADJD	 dünn	dünn
+seyn	ADJD	 UNKNOWN	seyn
+</seg>
+<seg type="newline">
+also	ADV	 also	also
+daß	KOUS	 daß	daß
+man	PIS	 man	man
+es	PPER	 es	es
+kaum	ADV	 kaum	kaum
+spüret	ADJA	 UNKNOWN	spüret
+</seg>
+<seg type="newline">
+bezückere	ADJA	 UNKNOWN	bezückere
+es	PPER	 es	es
+</seg>
+<seg type="newline">
+ferbe	VVFIN	 UNKNOWN	ferbe
+es	PPER	 es	es
+mit	APPR	 mit	mit
+wenig	PIAT	 wenig	wenig
+Saffran	NN	 Safran	Safran
+oder	KON	 oder	oder
+rohtem	ADJA	 UNKNOWN	rohtem
+Trisanet	NE	 UNKNOWN	Trysaneth
+</seg>
+<seg type="newline">
+schütte	VVFIN	 schütten	schütte
+es	PPER	 es	es
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+nimm	VVIMP	 nehmen	nimm
+Mandelmilch	NN	 Mandelmilch	Mandelmilch
+</seg>
+<seg type="newline">
+zückers	VVFIN	 UNKNOWN	zückers
+vnd	KON	 und	und
+färbs	VVFIN	 UNKNOWN	färbs
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+:	$.	:	$.	 :	|	:
+Wilt	NE	 Wilt	Wilt
+du	PPER	 du	du
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+gib	VVIMP	 geben	gib
+es	PPER	 es	es
+also	ADV	 also	also
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+es	PPER	 es	es
+gemeiniglich	ADJD	 UNKNOWN	gemeiniglich
+den	ART	 d	den
+Krancken	NN	 Tranche	Tranchen
+besser	ADJD	 gut	besser
+schmeckt	VVFIN	 schmecken	schmeckt
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+sie	PPER	 sie	sie
+etwas	ADV	 etwas	etwas
+zu	PTKZU	 zu	zu
+duncken	VVINF	 UNKNOWN	duncken
+haben	VAINF	 haben	haben
+.	$.	.	$.	 .	|	.
+Es	PPER	 es	Es
+ist	VAFIN	 sein	ist
+kalt	ADJD	 kalt	kalt
+vnd	KON	 und	und
+warm	ADJD	 warm	warm
+gut	ADJD	 gut	gut
+</seg>
+<seg type="newline">
+wilt	VMFIN	 wollen	will
+du	PPER	 du	du
+dann	ADV	 dann	dann
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nimm	VVIMP	 nehmen	nimm
+ein	ART	 ein	ein
+Dartenhafen	NN	 UNKNOWN	Dartenhafen
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+denselben	PDAT	 derselbe	denselben
+mach	VVIMP	 machen	mach
+vorigem	ADJA	 vorig	vorigem
+Zeug	NN	 Zeug	Zeug
+ein	ART	 ein	ein
+Farb	NN	 UNKNOWN	Farb
+vmb	VVFIN	 UNKNOWN	vmb
+die	ART	 d	die
+ander	ADJA	 UNKNOWN	ander
+</seg>
+<seg type="newline">
+Sternen	NN	 Stern	Sternen
+oder	KON	 oder	oder
+Rosen	NN	 Rose	Rosen
+weiß	VVFIN	 wissen	weiß
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+ein	ART	 ein	ein
+Regenbogen	NN	 Regenbogen	Regenbogen
+</seg>
+<seg type="newline">
+man	PIS	 man	man
+soll	VMFIN	 sollen	soll
+schöne	ADJA	 schön	schöne
+glatte	ADJA	 glatt	glatte
+Reiff	NN	 UNKNOWN	Reiff
+oder	KON	 oder	oder
+Brettlein	NN	 UNKNOWN	Brettlein
+haben	VAFIN	 haben	haben
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+von	APPR	 von	von
+Stürtzen	NN	 UNKNOWN	Stürtzen
+die	ART	 d	die
+überzinnet	NE	 UNKNOWN	überzinnet
+seynd	VAFIN	 sein	sind
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+es	PPER	 es	es
+aussen	ADJD	 außenßen	aussen
+seine	PPOSAT	 sein	seine
+Form	NN	 Form	Form
+hat	VAFIN	 haben	hat
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+mans	VMFIN	 mögen	mag
+jnwendig	ADJD	 UNKNOWN	jnwendig
+auch	ADV	 auch	auch
+formieren	VVFIN	 formieren	formieren
+kan	KOUS	 nun	Nun
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+es	PPER	 es	es
+dann	ADV	 dann	dann
+anhebt	VVFIN	 anheben	anhebt
+vnd	KON	 und	und
+gestehet	VVFIN	 UNKNOWN	gestehet
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+ziehe	VVFIN	 zeihen|ziehen	ziehe
+es	PPER	 es	es
+herauß	NN	 UNKNOWN	herauß
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+es	PPER	 es	es
+etwann	ADV	 UNKNOWN	etwann
+anhänget	VVFIN	 UNKNOWN	anhänget
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+bestrewe	VVFIN	 bestreuen	bestreuen
+den	ART	 d	den
+selbigen	ADJA	 UNKNOWN	selbigen
+Ort	NN	 Ort	Ort
+mit	APPR	 mit	mit
+Rosinlein	NN	 UNKNOWN	Rosinlein
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+eins	CARD	 eins	eins
+an	APPR	 an	an
+dem	ART	 d	dem
+andern	PIS	 ander	andern
+stehe	VVFIN	 stehen	stehe
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+sihet	VVFIN	 UNKNOWN	sihet
+man	PIS	 man	man
+alßdann	NE	 UNKNOWN	Alsdann
+nicht	PTKNEG	 nicht	nicht
+wie	KOKOM	 wie	wie
+es	PPER	 es	es
+vnderscheiden	VVINF	 UNKNOWN	vnderscheiden
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+bachs	NE	 Bach	bachs
+recht	ADJD	 recht	recht
+:	$.	:	$.	 :	|	:
+die	ART	 d	die
+Krancken	NN	 Tranche	Tranchen
+werden	VAFIN	 werden	werden
+etwan	NE	 UNKNOWN	etwan
+lustig	ADJA	 lustig	lustig
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+sie	PPER	 sie	sie
+etwas	ADV	 etwas	etwas
+seltzames	ADJD	 UNKNOWN	seltzames
+sehen	VVINF	 sehen	sehen
+.	$.	.	$.	 .	|	.
+Vnd	KON	 und	und
+gleichfalls	ADV	 gleichfalls	gleichfalls
+magst	VMFIN	 mögen	magst
+du	PPER	 du	du
+ein	ART	 ein	ein
+solche	PIAT	 solch	solche
+Rüstung	NN	 Rüstung	Rüstung
+von	APPR	 von	von
+einem	ART	 ein	einem
+guten	ADJA	 gut	guten
+wol	PWAV	 wo	wo
+getrockneten	ADJA	 getrocknet	getrockneten
+Eyerziger	ADJA	 UNKNOWN	Eyerziger
+oder	KON	 oder	oder
+Eyerkäß	ADJA	 UNKNOWN	Eyerkäß
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+klein	ADJD	 klein	klein
+gestossene	ADJA	 gestoßen	gestossene
+Mandeln	NN	 Mandel	Mandeln
+</seg>
+<seg type="newline">
+eines	ART	 ein	eines
+so	ADV	 so	so
+viel	ADV	 viel	viel
+als	KOKOM	 als	als
+des	ART	 d	des
+andern	PIS	 ander	andern
+bereiten	VVFIN	 bereiten	bereiten
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+vorigen	ADJA	 vorig	vorigen
+durchgetriebenen	NN	 UNKNOWN	durchgetriebenen
+Reiß	PTKVZ	 heiß	heiß
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+all	PIAT	 all	all
+dieser	PDAT	 dies	dieser
+Sachen	NN	 Sache	Sachen
+formen	VVINF	 formen	formen
+machen	VVINF	 machen	machen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+wann	PWAV	 wann	wann
+mans	VMFIN	 mögen	mag
+in	APPR	 in	in
+dem	ART	 d	dem
+Mörsel	NN	 UNKNOWN	Mörsel
+brauchen	VVFIN	 brauchen	brauchen
+wil	NE	 Wil	wil
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+schneide	VVFIN	 schneiden	schneide
+es	PPER	 es	es
+</seg>
+<seg type="newline">
+doch	ADV	 doch	doch
+soll	VMFIN	 sollen	soll
+es	PPER	 es	es
+nach	APPR	 nach	nach
+der	ART	 d	der
+Länge	NN	 Länge	Länge
+geschehen	VVPP	 geschehen	geschehen
+</seg>
+<seg type="newline">
+alßdann	NN	 UNKNOWN	Alsdann
+sihet	VVFIN	 UNKNOWN	sihet
+man	PIS	 man	man
+ein	ART	 ein	ein
+Farb	NN	 UNKNOWN	Farb
+vmb	VVFIN	 UNKNOWN	vmb
+die	PDS	 d	die
+ander	ADV	 UNKNOWN	ander
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+es	PPER	 es	es
+also	ADV	 also	also
+in	APPR	 in	in
+der	ART	 d	der
+Blatten	NN	 UNKNOWN	Blatten
+herumb	VVFIN	 UNKNOWN	herumb
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+sie	PPER	 sie	sie
+jnwendig	ADJD	 UNKNOWN	jnwendig
+zusammen	ADV	 zusammen	zusammen
+stechen	VVINF	 stechen	stechen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+aussen	ADJD	 außenßen	aussen
+weit	ADJD	 weit	weit
+von	APPR	 von	von
+einander	PRF	 einander	einander
+.	$.	.	$.	 .	|	.
+Das	ART	 d	Das
+braun	ADJD	 braun	braun
+soll	VMFIN	 sollen	soll
+in	APPR	 in	in
+der	ART	 d	der
+Blatten	NN	 UNKNOWN	Blatten
+ligen	VVFIN	 UNKNOWN	ligen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+das	PDS	 d	das
+ander	ADV	 UNKNOWN	ander
+soll	VMFIN	 sollen	soll
+übersich	NN	 UNKNOWN	übersich
+stehen	VVINF	 stehen	stehen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

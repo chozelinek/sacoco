@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Hohberg_1715_11" collection="historical" source="Hohberg" url="none" year="1715" decade="1710-1720" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Huhn|" method="|none|" ref="[1715:36]">
+<title>
+<seg type="newline">
+Capaun	NN	 UNKNOWN	Capuns
+oder	KON	 oder	oder
+Hun	ADV	 nun	Nun
+in	APPR	 in	in
+Ulmer=Gerstlein	NN	 UNKNOWN	Ulmer=Gerstlein
+und	KON	 und	und
+Krebsen	NN	 Krebs	Krebsen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Bereite	NN	 Bereite	Bereite
+und	KON	 und	und
+siede	NN	 Siede	siede
+den	ART	 d	den
+Capaun	NN	 UNKNOWN	Capuns
+oder	KON	 oder	oder
+Hun	ADV	 nun	Nun
+wie	KOKOM	 wie	wie
+gebräuchlich	ADJD	 gebräuchlich	gebräuchlich
+</seg>
+<seg type="newline">
+inzwischen	ADV	 inzwischen	inzwischen
+lasse	VVFIN	 lassen	lasse
+eine	ART	 ein	eine
+Ulmer=	NN	 UNKNOWN	Ulmer=
+oder	KON	 oder	oder
+anders	ADV	 anders	anders
+kleines	ADJA	 klein	kleines
+Gerstlein	NN	 Gerste	Gerste
+in	APPR	 in	in
+halb	ADJD	 halb	halb
+Fleischbrüh	NN	 Fleischbrühe	Fleischbrühe
+und	KON	 und	und
+halb	ADJD	 halb	halb
+Wasser	NN	 Wasser	Wasser
+sieden	VVINF	 sieden	sieden
+</seg>
+<seg type="newline">
+schäle	VVFIN	 schälen	schäle
+von	APPR	 von	von
+gesottenen	ADJA	 gesiedet	gesottenen
+Krebsen	NN	 Krebs	Krebsen
+die	ART	 d	die
+Schwäntze	NN	 UNKNOWN	Schwäntze
+und	KON	 und	und
+Scheeren	NN	 Schnee	Schnee
+aus	APPR	 aus	aus
+</seg>
+<seg type="newline">
+die	ART	 d	die
+Schalen	NN	 Schale	Schalen
+stoß	VVIMP	 stoßen	stoß
+</seg>
+<seg type="newline">
+rösts	NN	 UNKNOWN	rösts
+in	APPR	 in	in
+Butter	NN	 Butter	Butter
+und	KON	 und	und
+zwings	NN	 UNKNOWN	zwings
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+Tuch	NN	 Tuch	Tuch
+</seg>
+<seg type="newline">
+lasse	VVFIN	 lassen	lasse
+die	ART	 d	die
+gesottene	ADJA	 gesiedet	Gesottenes
+Hüner	NN	 UNKNOWN	Hünern
+samt	APPR	 samt	samt
+den	ART	 d	den
+Gerstlein	NN	 Gerste	Gerste
+</seg>
+<seg type="newline">
+ausgeschälten	ADJA	 UNKNOWN	ungeschälten
+Krebsen	NN	 Krebs	Krebsen
+</seg>
+<seg type="newline">
+Muscatenblüh	NN	 UNKNOWN	Muscatenblüh
+</seg>
+<seg type="newline">
+Cardamomen	NN	 Kardamom	Kardamom
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+und	KON	 und	und
+Ingber	NN	 Ingwer	Ingwer
+zusammen	ADV	 zusammen	zusammen
+aufsieden	ADJD	 UNKNOWN	aufsieden
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+den	ART	 d	den
+Capaun	NN	 UNKNOWN	Capuns
+oder	KON	 oder	oder
+Hun	ADV	 nun	Nun
+in	APPR	 in	in
+die	ART	 d	die
+Schüssel	NN	 Schüssel	Schüssel
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+die	ART	 d	die
+Krebs=Butter	NN	 UNKNOWN	Kressebutter
+zum	APPRART	 zum	zum
+Gerstlein	NN	 Gerste	Gerste
+und	KON	 und	und
+Krebsen	NN	 Krebs	Krebsen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+richte	VVFIN	 richten	richte
+solches	PIS	 solch	solches
+neben	APPR	 neben	neben
+das	PDS	 d	das
+Hun	ADV	 nun	Nun
+herum	PTKVZ	 herum	herum
+.	$.	.	$.	 .	|	.
+Wanns	NN	 UNKNOWN	Wanns
+beliebt	ADJD	 beliebt	beliebt
+</seg>
+<seg type="newline">
+können	VMFIN	 können	können
+die	ART	 d	die
+Hüner	NN	 UNKNOWN	Hünern
+zuvor	ADV	 zuvor	zuvor
+untergriffen	VVINF	 UNKNOWN	untergreifen
+und	KON	 und	und
+mit	APPR	 mit	mit
+einer	ART	 ein	einer
+bey	NE	 Bey	bey
+den	ART	 d	den
+gebratenen	ADJA	 gebraten	gebratenen
+Hünern	NN	 UNKNOWN	Hünern
+beschriebenen	ADJA	 beschrieben	beschriebenen
+Füll	VVIMP	 füllen	Füll
+</seg>
+<seg type="newline">
+gefüllt	VVPP	 füllen	gefüllt
+werden	VAINF	 werden	werden
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

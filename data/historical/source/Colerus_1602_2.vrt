@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Colerus_1602_2" collection="historical" source="Colerus" url="none" year="1602" decade="1600-1610" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Hecht|" method="|polnisch|" ref="[1602:114]">
+<title>
+<seg type="newline">
+Einen	ART	 ein	Einen
+Hecht	NN	 Hecht	Hecht
+auff	APPR	 auf	auf
+Polnisch	NN	 UNKNOWN	Polnisch
+zu	PTKZU	 zu	zu
+sieden	VVINF	 sieden	sieden
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wiltu	NN	 UNKNOWN	Wiltu
+einen	ART	 ein	einen
+guten	ADJA	 gut	guten
+Hecht	NN	 Hecht	Hecht
+auff	APPR	 auf	auf
+Polnisch	NN	 UNKNOWN	Polnisch
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nim	ADJA	 UNKNOWN	nimb
+Zwippeln	NN	 Zwiebel	Zwiebel
+vnd	KON	 und	und
+schele	VVFIN	 UNKNOWN	schele
+sie	PPER	 sie	sie
+</seg>
+<seg type="newline">
+wirff	VVFIN	 UNKNOWN	wirff
+sie	PPER	 sie	sie
+in	APPR	 in	in
+ein	ART	 ein	ein
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+wasche	VVFIN	 waschen	wasche
+sie	PPER	 sie	sie
+rein	ADV	 rein	rein
+aus	APZR	 aus	aus
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+sie	PPER	 sie	sie
+in	APPR	 in	in
+einen	ART	 ein	einen
+Topff	NN	 Topf	Topf
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+las	VVFIN	 lesen	las
+sie	PPER	 sie	sie
+wol	PWAV	 wo	wo
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+sie	PPER	 sie	sie
+gantz	ADV	 ganz	ganz
+wol	PWAV	 wo	wo
+gesotten	VVPP	 sieden	gesotten
+sein	VAINF	 sein	sein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+schütte	VVFIN	 schütten	schütte
+sie	PPER	 sie	sie
+in	APPR	 in	in
+ein	ART	 ein	ein
+Sieblein	NN	 UNKNOWN	Sieblein
+oder	KON	 oder	oder
+Durchschlag	NN	 Durchschlag	Durchschlag
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+das	ART	 d	das
+Wasser	NN	 Wasser	Wasser
+rein	ADV	 rein	rein
+daruon	NN	 UNKNOWN	daruon
+leufft	ADJD	 UNKNOWN	leufft
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+zureibe	VVFIN	 UNKNOWN	zureibe
+sie	PPER	 sie	sie
+denn	KON	 denn	denn
+wol	PWAV	 wo	wo
+in	APPR	 in	in
+einem	ART	 ein	einem
+Reibtopffe	NN	 UNKNOWN	Reibtopffe
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+nim	VVFIN	 UNKNOWN	nimb
+denn	KON	 denn	denn
+den	ART	 d	den
+Hecht	NN	 Hecht	Hecht
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+schuppe	NN	 Schuppe	schuppe
+jn	NE	 UNKNOWN	jn
+rein	PTKVZ	 rein	rein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+hawe	NN	 UNKNOWN	hawe
+jn	NE	 UNKNOWN	jn
+zu	PTKZU	 zu	zu
+stücken	VVINF	 stücken	stücken
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+wasche	VVFIN	 waschen	wasche
+jn	NE	 UNKNOWN	jn
+rein	ADV	 rein	rein
+aus	PTKVZ	 aus	aus
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+saltz	ADJA	 kalt	kalten
+jn	NE	 UNKNOWN	jn
+auff	APPR	 auf	auf
+einer	ART	 ein	einer
+Mulden	NN	 Mulde	Mulden
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+las	VVFIN	 lesen	las
+jn	NE	 UNKNOWN	jn
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+im	APPRART	 im	im
+Saltze	NN	 Salz	Salz
+ligen	VVINF	 UNKNOWN	ligen
+.	$.	.	$.	 .	|	.
+Lege	VVFIN	 legen	Lege
+jn	NE	 UNKNOWN	jn
+darnach	PAV	 danach	Danach
+in	APPR	 in	in
+eine	ART	 ein	eine
+Pfanne	NN	 Pfanne	Pfanne
+oder	KON	 oder	oder
+Kessel	NN	 Kessel	Kessel
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+geus	NN	 UNKNOWN	geuß
+die	ART	 d	die
+Zwippel	NN	 UNKNOWN	Zwippel
+oder	KON	 oder	oder
+Ziwollen	NN	 UNKNOWN	Ziwollen
+mit	APPR	 mit	mit
+dem	ART	 d	dem
+Sode	NN	 UNKNOWN	Sode
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+dem	ART	 d	dem
+sie	PPER	 sie	sie
+gesotten	VVPP	 sieden	gesotten
+haben	VAFIN	 haben	haben
+</seg>
+<seg type="newline">
+darauff	PAV	 drauf	drauf
+.	$.	.	$.	 .	|	.
+Ist	VAFIN	 sein	Ist
+des	ART	 d	des
+Sodes	NN	 UNKNOWN	Sodes
+zu	APPR	 zu	zu
+wenig	PIS	 wenig	wenig
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+geus	VVPP	 UNKNOWN	geuß
+zu	APPR	 zu	zu
+hülff	NE	 UNKNOWN	hülff
+ein	ART	 ein	ein
+reines	ADJA	 rein	reines
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+setze	VVFIN	 setzen	setze
+es	PPER	 es	es
+auff	APPR	 auf	auf
+das	ART	 d	das
+Fewer	NN	 Feuer	Feuer
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+las	VVFIN	 lesen	las
+es	PPER	 es	es
+wol	PWAV	 wo	wo
+sieden	VVINF	 sieden	sieden
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+würtze	VVFIN	 würzen	würzt
+jn	NE	 UNKNOWN	jn
+ab	PTKVZ	 ab	ab
+mit	APPR	 mit	mit
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Ingber	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Muscatenblumen	NN	 UNKNOWN	Muscatenblumen
+vnd	KON	 und	und
+Saffran	NN	 Safran	Safran
+</seg>
+<seg type="newline">
+zu	PTKA	 zu	zu
+rechter	ADJD	 recht	rechter
+masse	VVFIN	 maßen	masse
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+koste	VVFIN	 kosen|kosten	koste
+jn	NE	 UNKNOWN	jn
+denn	ADV	 denn	denn
+wie	KOUS	 wie	wie
+er	PPER	 er	er
+dir	PPER	 du	dir
+gefelt	VVPP	 UNKNOWN	gefelt
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+gib	VVIMP	 geben	gib
+jn	NE	 UNKNOWN	jn
+hin	PTKVZ	 hin	hin
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

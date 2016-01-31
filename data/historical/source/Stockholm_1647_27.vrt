@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Stockholm_1647_27" collection="historical" source="Stockholm" url="none" year="1647" decade="1640-1650" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1647:268]">
+<body>
+<seg type="newline">
+Venison	NE	 UNKNOWN	Venison
+Junck	NE	 UNKNOWN	Junck
+Ochsenfleisch	NN	 Ochsenfleisch	Ochsenfleisch
+aus	APPR	 aus	aus
+der	ART	 d	der
+Keülemürbe	NN	 UNKNOWN	Keülemürbe
+mit	APPR	 mit	mit
+ein	ART	 ein	ein
+keüle	ADJA	 UNKNOWN	keüle
+geklopfet	ADJA	 UNKNOWN	geklopfet
+</seg>
+<seg type="newline">
+zu	PTKA	 zu	zu
+stückegeschnitten	ADJD	 UNKNOWN	stückegeschnitten
+durch	PTKVZ	 durch	durch
+vnd	KON	 und	und
+durch	APPR	 durch	durch
+mit	APPR	 mit	mit
+reinen	ADJA	 rein	reinen
+Speck	NN	 Speck	Speck
+gespicket	NN	 UNKNOWN	gespicket
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+gantzen	ADV	 ganz	ganz
+Näglein	NN	 UNKNOWN	Näglein
+besteckt	VVFIN	 bestecken	besteckt
+</seg>
+<seg type="newline">
+beworffen	ADJA	 UNKNOWN	beworffen
+mit	APPR	 mit	mit
+eintheil	NN	 UNKNOWN	eintheil
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+2.	ADJA	 2.	2.
+theil	ADJA	 UNKNOWN	theil
+Pfeffer	NN	 Pfeffer	Pfeffer
+vnd	KON	 und	und
+Näglein	NN	 UNKNOWN	Näglein
+</seg>
+<seg type="newline">
+3.	ADJA	 3.	3.
+4.	ADJA	 4.	4.
+Lohrber	NN	 UNKNOWN	Lohrber
+bletter	NN	 UNKNOWN	bletter
+jedes	PIAT	 jed	jedes
+in	APPR	 in	in
+2.	ADJA	 2.	2.
+3.	ADJA	 3.	3.
+stücke	VVFIN	 stücken	stücke
+zerrissen	VVFIN	 zerreißen	zerrissen
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+halb	ADJD	 halb	halb
+auff	APPR	 auf	auf
+dem	ART	 d	dem
+Postetebodem	NN	 UNKNOWN	Postetebodem
+mit	APPR	 mit	mit
+Saltz	NN	 Salz	Salz
+Pfeffer	NN	 Pfeffer	Pfeffer
+bestrewet	VVFIN	 bestreuen	bestreuen
+</seg>
+<seg type="newline">
+Fleisch	NN	 Fleisch	Fleisch
+darin	PAV	 darin	darin
+</seg>
+<seg type="newline">
+vbrige	ADJA	 UNKNOWN	vbrige
+Lohrberblätter	NN	 UNKNOWN	Lohrberblätter
+darüber	PAV	 darüber	darüber
+zugemacht	VVPP	 zumachen	zugemacht
+4.	ADJA	 4.	4.
+stunde	VVIMP	 stunden	stunde
+backen	VVINF	 backen	backen
+lassen	VVINF	 lassen	lassen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

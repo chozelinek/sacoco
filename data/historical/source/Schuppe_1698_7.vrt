@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Schuppe_1698_7" collection="historical" source="Schuppe" url="none" year="1698" decade="1690-1700" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1698:31]">
+<title>
+<seg type="newline">
+XLVIII	NE	 UNKNOWN	XLVIII
+.	$.	.	$.	 .	|	.
+Englisch	NN	 Englisch	Englisch
+Rind=Fleisch	NN	 UNKNOWN	Rind=Fleisch
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+9.	ADJA	 9.	9.
+Pfund	NN	 Pfund	Pfund
+Rind=Fleisch	NN	 UNKNOWN	Rind=Fleisch
+aus	APPR	 aus	aus
+den	ART	 d	den
+Lenden	NN	 Lende	Lenden
+</seg>
+<seg type="newline">
+schneide	VVFIN	 schneiden	schneide
+es	PPER	 es	es
+in	APPR	 in	in
+Scheiben	NN	 Scheibe	Scheiben
+</seg>
+<seg type="newline">
+nimm	VVIMP	 nehmen	nimm
+darzu	PAV	 dazu	dazu
+eine	ART	 ein	eine
+Muscaten=Nuß	NN	 UNKNOWN	Muscaten=Nuß
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+vor	APPR	 vor	vor
+ein	ART	 ein	ein
+Sechsling	NN	 UNKNOWN	Sechsling
+Salpeter	NN	 Salpeter	Salpeter
+</seg>
+<seg type="newline">
+und	KON	 und	und
+etwas	PIAT	 etwas	etwas
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+stoße	VVFIN	 stoßen	stoße
+dis	ADJD	 UNKNOWN	dis
+alles	PIS	 alle	alles
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+jedes	PIAT	 jed	jedes
+à	XY	à	XY	 à	|	à
+part	ADJD	 hart	hart
+,	$,	,	$,	 ,	|	,
+und	KON	 und	und
+menge	VVFIN	 mengen	menge
+es	PPER	 es	es
+denn	ADV	 denn	denn
+durch	APPR	 durch	durch
+einander	PRF	 einander	einander
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+das	ART	 d	das
+Rind=Fleisch	NN	 UNKNOWN	Rind=Fleisch
+in	APPR	 in	in
+einen	ART	 ein	einen
+steinern	ADJD	 steinern	steinern
+Topf	NN	 Topf	Topf
+</seg>
+<seg type="newline">
+und	KON	 und	und
+streue	VVFIN	 streuen	streue
+das	ART	 d	das
+gestoßene	ADJA	 gestoßen	gestoßene
+darunter	PAV	 darunter	darunter
+</seg>
+<seg type="newline">
+eine	ART	 ein	eine
+Schicht	NN	 Schicht	Schicht
+um	APPR	 um	um
+die	ART	 d	die
+ander	ADJA	 UNKNOWN	ander
+</seg>
+<seg type="newline">
+geuß	NN	 UNKNOWN	geuß
+dann	ADV	 dann	dann
+so	ADV	 so	so
+viel	PIAT	 viel	viel
+rothen	NN	 UNKNOWN	rothen
+Wein	NN	 Wein	Wein
+darauff	PAV	 drauf	drauf
+</seg>
+<seg type="newline">
+als	KOKOM	 als	als
+nöthig	ADJD	 nötig	nötig
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+und	KON	 und	und
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+darinn	NN	 UNKNOWN	darinn
+8.	ADJA	 @ord@	8.
+Tage	NN	 Tag	Tage
+stehen	VVINF	 stehen	stehen
+;	$.	;	$.	 ;	|	;
+nimm	VVIMP	 nehmen	nimm
+hernach	ADV	 hernach	hernach
+Ochsen=Talch	NN	 UNKNOWN	Ochsen=Talch
+</seg>
+<seg type="newline">
+schneide	VVFIN	 schneiden	schneide
+große	ADJA	 groß	große
+Sticke	NN	 UNKNOWN	Sticke
+davon	PAV	 davon	davon
+</seg>
+<seg type="newline">
+schlage	VVFIN	 schlagen	schlage
+es	PPER	 es	es
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Hackemesser	NN	 UNKNOWN	Hackemesser
+breit	ADJD	 breit	breit
+</seg>
+<seg type="newline">
+welches	PIS	 welch	welches
+zuvor	ADV	 zuvor	zuvor
+im	APPRART	 im	im
+gekochten	ADJA	 gekocht	gekochten
+Wasser	NN	 Wasser	Wasser
+heiß	ADJD	 heiß	heiß
+gemacht	VVPP	 machen	gemacht
+</seg>
+<seg type="newline">
+und	KON	 und	und
+lege	VVFIN	 legen	lege
+es	PPER	 es	es
+dann	ADV	 dann	dann
+in	APPR	 in	in
+einen	ART	 ein	einen
+Zinnern	NN	 UNKNOWN	Zinnern
+Pasteten=Topf	NN	 UNKNOWN	Pasteten=Topf
+samt	APPR	 samt	samt
+dem	ART	 d	dem
+Rind=Fleisch	NN	 UNKNOWN	Rind=Fleisch
+</seg>
+<seg type="newline">
+eine	ART	 ein	eine
+Schicht	NN	 Schicht	Schicht
+umb	APPR	 um	um
+die	ART	 d	die
+ander	NN	 UNKNOWN	ander
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+den	ART	 d	den
+Topff	NN	 Topf	Topf
+fest	ADJD	 fest	fest
+zu	APPR	 zu	zu
+</seg>
+<seg type="newline">
+das	ART	 d	das
+kein	PIAT	 kein	kein
+Brodem	NN	 UNKNOWN	Brodem
+daraus	PAV	 daraus	daraus
+gehet	VVFIN	 gehen	gehet
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+denimmerfort	NN	 UNKNOWN	denimmerfort
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Feuer	NN	 Feuer	Feuer
+darunter	PAV	 darunter	darunter
+</seg>
+<seg type="newline">
+und	KON	 und	und
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+24	CARD	 24	24
+Stunden	NN	 Stunde|Stunden	Stunden
+kochen	VVFIN	 kochen	kochen
+</seg>
+<seg type="newline">
+nimdas	NE	 UNKNOWN	nimdas
+Fleisch	NN	 Fleisch	Fleisch
+denaus	NN	 UNKNOWN	denaus
+dem	ART	 d	dem
+Topff	NN	 Topf	Topf
+und	KON	 und	und
+mache	VVFIN	 machen	mache
+es	PPER	 es	es
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+thue	NN	 UNKNOWN	thue
+das	ART	 d	das
+Talch	NN	 UNKNOWN	Talch
+in	APPR	 in	in
+kleine	ADJA	 klein	kleine
+Schälgen	NN	 UNKNOWN	Schälgen
+</seg>
+<seg type="newline">
+die	ART	 d	die
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+tieff	NE	 UNKNOWN	tieff
+sind	VAFIN	 sein	sind
+</seg>
+<seg type="newline">
+und	KON	 und	und
+schmeltze	VVFIN	 UNKNOWN	schmeltze
+Butter	NN	 Butter	Butter
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+weil	KOUS	 weil	weil
+es	PPER	 es	es
+warm	ADJD	 warm	warm
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+kalt	ADJD	 kalt	kalt
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+es	PPER	 es	es
+dauret	ADJD	 UNKNOWN	dauret
+lange	ADJA	 lang	lange
+Zeit	NN	 Zeit	Zeit
+;	$.	;	$.	 ;	|	;
+wenn	KOUS	 wenn	wenn
+es	PPER	 es	es
+soll	VMFIN	 sollen	soll
+gebraucht	ADJD	 gebraucht	gebraucht
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+schneidet	VVFIN	 schneiden	schneidet
+man	PIS	 man	man
+es	PPER	 es	es
+in	APPR	 in	in
+dinne	NN	 UNKNOWN	dinne
+Scheiben	NN	 Scheibe	Scheiben
+</seg>
+<seg type="newline">
+und	KON	 und	und
+richte	VVFIN	 richten	richte
+es	PPER	 es	es
+dann	ADV	 dann	dann
+an	PTKVZ	 an	an
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

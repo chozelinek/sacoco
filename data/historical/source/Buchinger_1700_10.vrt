@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Buchinger_1700_10" collection="historical" source="Buchinger" url="none" year="1700" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:1f.]">
+<title>
+<seg type="newline">
+643.	ADJA	 @ord@	643.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Oder	KON	 oder	Oder
+man	PIS	 man	man
+stoßt	VVFIN	 stoßen	stoßt
+gedörrt	VVPP	 dörren	gedörrt
+Eyerbrodt	VVFIN	 UNKNOWN	Eyerbrodt
+oder	KON	 oder	oder
+sonst	ADV	 sonst	sonst
+weiß	VVFIN	 wissen	weiß
+Semmelbrodt	NN	 UNKNOWN	Semmelbrodt
+gantz	ADV	 ganz	ganz
+rein	ADV	 rein	rein
+</seg>
+<seg type="newline">
+vermischts	NN	 UNKNOWN	vermischts
+mit	APPR	 mit	mit
+Eyern	ADJA	 UNKNOWN	Eyern
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+wenig	PIAT	 wenig	wenig
+Fenchel	NN	 Fenchel	Fenchel
+</seg>
+<seg type="newline">
+Aeniß	VVFIN	 UNKNOWN	Aeniß
+oder	KON	 oder	oder
+præparierten	VVFIN	 UNKNOWN	præparierten
+Coriander	NE	 UNKNOWN	Coriander
+</seg>
+<seg type="newline">
+macht	VVFIN	 machen	macht
+zimlichen	ADJA	 UNKNOWN	zimlichen
+Wecken	NN	 Wecken	Wecken
+darauß	NN	 UNKNOWN	herauß
+</seg>
+<seg type="newline">
+bachts	NN	 UNKNOWN	bachts
+im	APPRART	 im	im
+Ofen	NN	 Ofen	Ofen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nicht	PTKNEG	 nicht	nicht
+zu	PTKA	 zu	zu
+warm	ADJD	 warm	warm
+</seg>
+<seg type="newline">
+und	KON	 und	und
+weil	KOUS	 weil	weil
+selbige	ADJA	 UNKNOWN	selbige
+noch	ADV	 noch	noch
+lind	ADJD	 lind	lind
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+schneidet	VVFIN	 schneiden	schneidet
+man	PIS	 man	man
+kleine	ADJA	 klein	kleine
+Wecklin	NE	 UNKNOWN	Wecklin
+darauß	NN	 UNKNOWN	herauß
+</seg>
+<seg type="newline">
+und	KON	 und	und
+trücknets	NN	 UNKNOWN	trücknets
+hernach	ADV	 hernach	hernach
+auff	APPR	 auf	auf
+dem	ART	 d	dem
+Ofen	NN	 Ofen	Ofen
+auff	APPR	 auf	auf
+Papierenen	NN	 UNKNOWN	Papierenen
+Blättern	NN	 Blatt|Blättern	Blättern
+.	$.	.	$.	 .	|	.
+Man	PIS	 man	Man
+mag	VMFIN	 mögen	mag
+nach	ADV	 nach	nach
+belieben	VVFIN	 belieben	belieben
+auch	ADV	 auch	auch
+Saffran	NN	 Safran	Safran
+doran	ADJA	 UNKNOWN	doran
+thun	NN	 UNKNOWN	thue
+.	$.	.	$.	 .	|	.
+Heißt	VVFIN	 heißen	Heißt
+Biscuit	NN	 UNKNOWN	Biscuit
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Schuppe_1698_15" collection="historical" source="Schuppe" url="none" year="1698" decade="1690-1700" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1698:71]">
+<title>
+<seg type="newline">
+CXXX	NE	 UNKNOWN	CXXX
+.	$.	.	$.	 .	|	.
+Gänße	NN	 UNKNOWN	Gänße
+von	APPR	 von	von
+Fricassée	NE	 UNKNOWN	Fricassée
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimdie	NE	 UNKNOWN	Nimdie
+Ganß	NE	 UNKNOWN	Ganß
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+sie	PPER	 sie	sie
+rein	PTKVZ	 rein	rein
+und	KON	 und	und
+steiff	ADJD	 steif	steif
+</seg>
+<seg type="newline">
+setze	VVFIN	 setzen	setze
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+Wasser	NN	 Wasser	Wasser
+aufs	APPRART	 aufs	aufs
+Feuer	NN	 Feuer	Feuer
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+Muscaten=Blumen	NN	 UNKNOWN	Muscaten=Blumen
+</seg>
+<seg type="newline">
+Nägelein	NN	 UNKNOWN	Nägelein
+</seg>
+<seg type="newline">
+Zwiebeln	NN	 Zwiebel|Zwiebeln	Zwiebeln
+</seg>
+<seg type="newline">
+Citronen	NN	 Citrone	Citronen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+ein	ART	 ein	ein
+Bocquet	NN	 UNKNOWN	Bocquet
+daran	PAV	 daran	daran
+;	$.	;	$.	 ;	|	;
+Hernach	ADV	 hernach	Hernach
+nimm	VVIMP	 nehmen	nimm
+Morcheln	NN	 Morchel	Morcheln
+</seg>
+<seg type="newline">
+Kälberpreiß	NN	 UNKNOWN	Kälberpreiß
+</seg>
+<seg type="newline">
+Artschocken	VVFIN	 UNKNOWN	Artschocken
+</seg>
+<seg type="newline">
+und	KON	 und	und
+mach	VVIMP	 machen	mach
+eine	ART	 ein	eine
+Fricassée	NN	 UNKNOWN	Fricassée
+davon	PAV	 davon	davon
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+es	PPER	 es	es
+zusammen	ADV	 zusammen	zusammen
+gahr	ADV	 gar	gar
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+und	KON	 und	und
+anrichten	VVINF	 anrichten	anrichten
+wilst	VVFIN	 UNKNOWN	wilst
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+gieß	VVIMP	 gießen	gieß
+die	ART	 d	die
+Fricassée	NN	 UNKNOWN	Fricassée
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+ist	VAFIN	 sein	ist
+es	PPER	 es	es
+gut	ADJD	 gut	gut
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Schuppe_1698_24" collection="historical" source="Schuppe" url="none" year="1698" decade="1690-1700" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1698:116]">
+<title>
+<seg type="newline">
+CCXXVIII	NE	 UNKNOWN	CCXXVIII
+.	$.	.	$.	 .	|	.
+Forellen	NN	 Forelle	Forellen
+blau	ADJD	 blau	blau
+gekocht	VVPP	 kochen	gekocht
+in	APPR	 in	in
+Wein	NN	 Wein	Wein
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+lauter	ADJD	 laut	lauter
+rothen	ADJA	 UNKNOWN	rothen
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+viel	PIS	 viel	viel
+als	KOKOM	 als	als
+dich	PPER	 du	dich
+düncket	VVFIN	 UNKNOWN	düncket
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+die	ART	 d	die
+Forellen	NN	 Forelle	Forellen
+darinn	NN	 UNKNOWN	darinn
+bedecket	VVFIN	 UNKNOWN	bedecket
+sind	VAFIN	 sein	sind
+</seg>
+<seg type="newline">
+und	KON	 und	und
+thue	NE	 UNKNOWN	thue
+in	APPR	 in	in
+den	ART	 d	den
+Wein	NN	 Wein	Wein
+Nägelein	NN	 UNKNOWN	Nägelein
+</seg>
+<seg type="newline">
+Muscaten=blumen	NN	 UNKNOWN	Muscaten=blumen
+</seg>
+<seg type="newline">
+Lorber=Blätter	NN	 UNKNOWN	Lorber=Blätter
+</seg>
+<seg type="newline">
+Roßmarien	NN	 UNKNOWN	Roßmarien
+und	KON	 und	und
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+den	ART	 d	den
+Wein	NN	 Wein	Wein
+erst	ADV	 erst	erst
+aufkochen	VVFIN	 aufkochen	aufkochen
+</seg>
+<seg type="newline">
+ehe	KOUS	 ehe	ehe
+man	PIS	 man	man
+die	ART	 d	die
+Forellen	NN	 Forelle	Forellen
+darein	ADV	 darein	darein
+setzt	VVFIN	 setzen	setzt
+;	$.	;	$.	 ;	|	;
+wann	PWAV	 wann	wann
+sie	PPER	 sie	sie
+denn	ADV	 denn	denn
+gahr	ADV	 gar	gar
+sind	VAFIN	 sein	sind
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+richte	VVFIN	 richten	richte
+sie	PPER	 sie	sie
+an	PTKVZ	 an	an
+</seg>
+<seg type="newline">
+und	KON	 und	und
+lege	VVFIN	 legen	lege
+eine	ART	 ein	eine
+Serviette	NN	 Serviette	Serviette
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+ist	VAFIN	 sein	ist
+es	PPER	 es	es
+fertig	ADJD	 fertig	fertig
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

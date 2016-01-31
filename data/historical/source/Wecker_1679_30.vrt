@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Wecker_1679_30" collection="historical" source="Wecker" url="none" year="1679" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:435]">
+<title>
+<seg type="newline">
+Spritzkuchen	NN	 UNKNOWN	Spritzkuchen
+zu	PTKZU	 zu	zu
+backen	VVINF	 backen	backen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Mach	VVIMP	 machen	Mach
+einen	ART	 ein	einen
+Teig	NN	 Teig	Teig
+von	APPR	 von	von
+Wasser	NN	 Wasser	Wasser
+vnd	KON	 und	und
+gutem	ADJA	 gut	gutem
+Mäl	NN	 UNKNOWN	Mäl
+</seg>
+<seg type="newline">
+thu	NE	 Thu	thu
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Schmaltz	NN	 Schmalz	Schmalz
+in	APPR	 in	in
+einer	ART	 ein	einer
+Pfannen	NN	 Pfanne	Pfannen
+über	APPR	 über	über
+Kolen	NE	 UNKNOWN	Kolen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+thue	NE	 UNKNOWN	thue
+den	ART	 d	den
+Teig	NN	 Teig	Teig
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+tröckne	VVFIN	 UNKNOWN	tröckne
+jhn	PPER	 er	ihn
+wol	PWAV	 wo	wo
+ab	PTKVZ	 ab	ab
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+wann	PWAV	 wann	wann
+er	PPER	 er	er
+wol	PWAV	 wo	wo
+abgetröcknet	ADJD	 UNKNOWN	abgetröcknet
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+thue	VVFIN	 UNKNOWN	thue
+jhn	PPER	 er	ihn
+in	APPR	 in	in
+einen	ART	 ein	einen
+Reibetopff	NN	 UNKNOWN	Reibetopff
+</seg>
+<seg type="newline">
+reibe	VVFIN	 reiben	reibe
+jhn	PPER	 er	ihn
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+stosse	VVFIN	 stoßen	stosse
+jhn	PPER	 er	ihn
+in	APPR	 in	in
+einem	ART	 ein	einem
+Mörsel	NN	 UNKNOWN	Mörsel
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+geriebene	ADJA	 gerieben	geriebene
+Muscaten	NN	 UNKNOWN	Muscaten
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Saltz	NN	 Salz	Salz
+vnd	KON	 und	und
+Saffran	NN	 Safran	Safran
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+menge	VVFIN	 mengen	menge
+es	PPER	 es	es
+wol	PWAV	 wo	wo
+vnder	VVFIN	 UNKNOWN	vnder
+einander	PRF	 einander	einander
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+schlage	VVFIN	 schlagen	schlage
+ein	ART	 ein	ein
+Ey	NE	 Ey	Ey
+nach	APPR	 nach	nach
+dem	ART	 d	dem
+andern	PIS	 ander	andern
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+daß	KOUS	 daß	daß
+er	PPER	 er	er
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+man	PIS	 man	man
+jhn	PPER	 er	ihn
+durch	APPR	 durch	durch
+eine	ART	 ein	eine
+Spritze	NN	 Spritze	Spritze
+trucken	VVFIN	 UNKNOWN	trucken
+kan	ADV	 nun	Nun
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+thue	VVFIN	 UNKNOWN	thue
+jhn	PPER	 er	ihn
+dann	ADV	 dann	dann
+in	APPR	 in	in
+ein	ART	 ein	ein
+höltzerne	ADJA	 UNKNOWN	höltzerne
+Spritzen	NN	 Spritze	Spritzen
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Sternen	NN	 Stern	Sternen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+trucke	VVFIN	 UNKNOWN	trucke
+jhn	PPER	 er	ihn
+in	APPR	 in	in
+ein	ART	 ein	ein
+heiß	ADJD	 heiß	heiß
+Schmaltz	NN	 Schmalz	Schmalz
+in	APPR	 in	in
+einer	ART	 ein	einer
+Pfannen	NN	 Pfanne	Pfannen
+oder	KON	 oder	oder
+Tiegel	NN	 Tiegel	Tiegel
+</seg>
+<seg type="newline">
+zwey	CARD	 zwei	zwei
+oder	KON	 oder	oder
+dreymal	ADJD	 UNKNOWN	dreymal
+rings	ADV	 rings	rings
+herumb	VVFIN	 UNKNOWN	herumb
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+wird	VAFIN	 werden	wird
+es	PPER	 es	es
+ein	ART	 ein	ein
+dreyfacher	ADJA	 UNKNOWN	dreyfacher
+Ring	NN	 Ring	Ring
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+den	ART	 d	den
+gemach	ADV	 gemach	gemach
+bachen	NN	 Kochen	Kochen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

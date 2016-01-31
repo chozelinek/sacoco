@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Hohberg_1715_12" collection="historical" source="Hohberg" url="none" year="1715" decade="1710-1720" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1715:39]">
+<title>
+<seg type="newline">
+Gesottene	ADJA	 UNKNOWN	Gesottene
+Kramets=Vögel	NN	 UNKNOWN	Kramets=Vögel
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Troscheln	NN	 UNKNOWN	Troscheln
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Brate	VVFIN	 braten	Brate
+die	ART	 d	die
+Vögel	NN	 Vogel	Vögel
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+sonsten	ADJD	 UNKNOWN	sonsten
+gebräuchlich	ADJD	 gebräuchlich	gebräuchlich
+</seg>
+<seg type="newline">
+jedoch	ADV	 jedoch	jedoch
+nur	ADV	 nur	nur
+halb	ADJD	 halb	halb
+ab	ADV	 ab	ab
+</seg>
+<seg type="newline">
+hernach	ADV	 hernach	hernach
+lege	VVFIN	 legen	lege
+sie	PPER	 sie	sie
+in	APPR	 in	in
+einen	ART	 ein	einen
+stollichten	ADJA	 UNKNOWN	stollichten
+Hafen	NN	 Hafen	Hafen
+</seg>
+<seg type="newline">
+gieß	VVIMP	 gießen	gieß
+Wein	NN	 Wein	Wein
+und	KON	 und	und
+Fleischbrüh	NN	 Fleischbrühe	Fleischbrühe
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+thue	ADJA	 UNKNOWN	thue
+Rocken=gerieben	NN	 UNKNOWN	Rocken=gerieben
+Brod	NN	 Brot	Brot
+</seg>
+<seg type="newline">
+4	CARD	4	CARD	 4	|	4
+oder	KON	 oder	oder
+5.	ADJA	 5.	5.
+Lorbeer=Blättlein	NN	 UNKNOWN	Lorbeer=Blättlein
+</seg>
+<seg type="newline">
+etliche	PIAT	 etlich	etliche
+zerstossene	ADJA	 UNKNOWN	zerstossene
+Wachholder=Beer	NN	 UNKNOWN	Wachholder=Beer
+</seg>
+<seg type="newline">
+Muscatenblüh	NN	 UNKNOWN	Muscatenblüh
+</seg>
+<seg type="newline">
+Cardamomen	NN	 Kardamom	Kardamom
+</seg>
+<seg type="newline">
+Negelein	ADJA	 UNKNOWN	Negelein
+</seg>
+<seg type="newline">
+Ingber	NN	 Ingwer	Ingwer
+hinzu	ADV	 hinzu	hinzu
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+sieden	VVINF	 sieden	sieden
+</seg>
+<seg type="newline">
+und	KON	 und	und
+wann	PWAV	 wann	wann
+mans	VMFIN	 mögen	mag
+anrichten	VVINF	 anrichten	anrichten
+will	VMFIN	 wollen	will
+</seg>
+<seg type="newline">
+drucke	VVFIN	 drucken	drucke
+Citronen=Safft	NN	 UNKNOWN	Citronen=Safft
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+und	KON	 und	und
+streue	VVFIN	 streuen	streue
+dergleichen	PIS	 dergleichen	dergleichen
+kleine=geschnittene	ADJA	 UNKNOWN	kleine=geschnittene
+Schelffen	NN	 UNKNOWN	Schelffen
+darüber	PAV	 darüber	darüber
+.	$.	.	$.	 .	|	.
+Man	PIS	 man	Man
+pfleget	VVFIN	 UNKNOWN	pfleget
+auch	ADV	 auch	auch
+diese	PDAT	 dies	diese
+Vögel	NN	 Vogel	Vögel
+auszunehmen	VVIZU	 ausnehmen	auszunehmen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+das	ART	 d	das
+Eingeweid	NN	 UNKNOWN	Eingeweid
+zuzurichten	VVIZU	 zurichten	zuzurichten
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+dasjenige	PDS	 dasjenige	dasjenige
+von	APPR	 von	von
+Schnepffen	NN	 UNKNOWN	Schnepffen
+</seg>
+<seg type="newline">
+die	ART	 d	die
+Vögel	NN	 Vogel	Vögel
+auf	APPR	 auf	auf
+selbige	ADJA	 UNKNOWN	selbige
+Art	NN	 Art	Art
+darinnen	VVINF	 darinnen	darinnen
+zu	PTKZU	 zu	zu
+dämpffen	VVINF	 UNKNOWN	dämpffen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+zu	APPR	 zu	zu
+Tisch	NN	 Tisch	Tisch
+zubringen	VVINF	 zubringen	zubringen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

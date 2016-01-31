@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Buchinger_1700_6" collection="historical" source="Buchinger" url="none" year="1700" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:1f.]">
+<title>
+<seg type="newline">
+Salße	NN	 UNKNOWN	Salße
+.	$.	.	$.	 .	|	.
+779.	ADJA	 @ord@	779.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Man	PIS	 man	Man
+machts	VVFIN	 UNKNOWN	machts
+über	PTKVZ	 über	über
+gesotten	VVPP	 sieden	gesotten
+Fleisch	NN	 Fleisch	Fleisch
+oder	KON	 oder	oder
+Hüner	NN	 UNKNOWN	Hünern
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+zu	APPR	 zu	zu
+Frantzösischen	ADJA	 UNKNOWN	Frantzösischen
+Suppen	NN	 Suppe	Suppen
+</seg>
+<seg type="newline">
+gibts	NN	 UNKNOWN	gibts
+auff	APPR	 auf	auf
+Schnitten	NN	 Schnitt|Schnitte	Schnitten
+und	KON	 und	und
+legt	VVFIN	 legen	legt
+Knöpflin	NN	 UNKNOWN	Knöpflin
+darum	PAV	 darum	darum
+.	$.	.	$.	 .	|	.
+Num	NN	 UNKNOWN	Num
+.	$.	.	$.	 .	|	.
+2.17	CARD	 @card@	2.17
+290.	ADJA	 @ord@	290.
+Man	PIS	 man	Man
+thut	NE	 UNKNOWN	thue
+selbigen	ADJA	 UNKNOWN	selbigen
+auch	ADV	 auch	auch
+in	APPR	 in	in
+Compost	NN	 UNKNOWN	Compost
+.	$.	.	$.	 .	|	.
+Num	NN	 UNKNOWN	Num
+.	$.	.	$.	 .	|	.
+751.	ADJA	 @ord@	751.
+</seg>
+</body>
+</text>

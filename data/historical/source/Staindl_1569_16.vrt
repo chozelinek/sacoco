@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Staindl_1569_16" collection="historical" source="Staindl" url="none" year="1569" decade="1560-1570" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[26v]">
+<title>
+<seg type="newline">
+Schweinen	NN	 Schwein	Schweinen
+flaisch	ADJD	 UNKNOWN	flaisch
+frisch	ADJD	 frisch	frisch
+vnd	KON	 und	und
+new	NE	 New	new
+zubehalten	VVFIN	 UNKNOWN	zubehalten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+So	ADV	 so	So
+man	PIS	 man	man
+Säw	NN	 UNKNOWN	Säw
+schlecht	ADJD	 schlecht	schlecht
+</seg>
+<seg type="newline">
+soll	VMFIN	 sollen	soll
+man	PIS	 man	man
+den	ART	 d	den
+Pachen	NN	 UNKNOWN	Pachen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+er	PPER	 er	er
+nun	ADV	 nun	nun
+beschnitten	VVPP	 beschneiden	beschnitten
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+ein	ART	 ein	ein
+küls	NN	 UNKNOWN	küls
+ort	VVFIN	 UNKNOWN	ort
+auch	ADV	 auch	auch
+den	ART	 d	den
+tisch	VVIMP	 tischen	tisch
+</seg>
+<seg type="newline">
+auff	APPR	 auf	auf
+schnee	NN	 Schnee	schnee
+legen	VVINF	 legen	legen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+see	ADJA	 UNKNOWN	see
+schnee	NN	 Schnee	schnee
+darauff	PAV	 drauf	drauf
+</seg>
+<seg type="newline">
+ein	PTKVZ	 ein	ein
+spann	VVFIN	 spinnen	spann
+hoch	ADJD	 hoch	hoch
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+jhn	PPER	 er	ihn
+also	ADV	 also	also
+ligen	ADJA	 UNKNOWN	ligen
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+er	PPER	 er	er
+härt	ADJD	 UNKNOWN	härt
+vnnd	KON	 und	und
+kirnig	ADJD	 UNKNOWN	kirnig
+wirdt	NE	 UNKNOWN	wirdt
+</seg>
+<seg type="newline">
+etwan	NE	 UNKNOWN	etwan
+vber	VVFIN	 UNKNOWN	vber
+nacht	PTKVZ	 nacht	nacht
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+du	PPER	 du	du
+daruon	NN	 UNKNOWN	daruon
+geschnitten	VVPP	 schneiden	geschnitten
+hast	VAFIN	 haben	hast
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+des	ART	 d	des
+dicksten	ADJA	 dick	dicksten
+zu	PTKZU	 zu	zu
+schonen	VVINF	 schonen	schonen
+</seg>
+<seg type="newline">
+viereckten	ADJA	 UNKNOWN	viereckten
+schretteln	NN	 UNKNOWN	schretteln
+anderhalben	ADV	 UNKNOWN	anderhalben
+spann	VVFIN	 spinnen	spann
+lang	ADJD	 lang	lang
+geschnitten	VVPP	 schneiden	geschnitten
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+in	APPR	 in	in
+ein	ART	 ein	ein
+lärchen	ADJA	 UNKNOWN	lärchen
+kübel	NN	 Kübel	kübel
+</seg>
+<seg type="newline">
+als	KOKOM	 als	als
+offt	ADV	 oft	oft
+ein	PTKVZ	 ein	ein
+leg	VVIMP	 legen	leg
+gleich	ADJD	 gleich	gleich
+zamen	ADJD	 UNKNOWN	zamen
+gelegt	VVPP	 legen	gelegt
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+wol	PWAV	 wo	wo
+gesaltzen	VVFIN	 UNKNOWN	gesaltzen
+</seg>
+<seg type="newline">
+demnach	PAV	 demnach	demnach
+geschwert	ADJD	 UNKNOWN	geschwert
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+schönen	ADJA	 schön	schönen
+bletlin	NE	 UNKNOWN	bletlin
+mit	APPR	 mit	mit
+stain	NE	 UNKNOWN	stain
+ligen	NN	 Liga	ligen
+lassen	VVINF	 lassen	lassen
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+in	APPR	 in	in
+die	ART	 d	die
+erst	ADV	 erst	erst
+wochen	ADJA	 UNKNOWN	wochen
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+ein	ART	 ein	ein
+brunn	NN	 Brunn	brunn
+wasser	VVIMP	 wassern	wasser
+in	APPR	 in	in
+einer	ART	 ein	einer
+Molten	ADJA	 UNKNOWN	Molten
+saltz	ADJA	 kalt	kalten
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+schönen	ADJA	 schön	schönen
+newen	NN	 UNKNOWN	newen
+Besem	NN	 UNKNOWN	Besem
+durch	APPR	 durch	durch
+einander	PRF	 einander	einander
+geschlagen	VVPP	 schlagen	geschlagen
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+gantz	ADV	 ganz	ganz
+zäch	NN	 UNKNOWN	zäch
+wirdt	NE	 UNKNOWN	wirdt
+</seg>
+<seg type="newline">
+die	ART	 d	die
+suppen	NN	 Suppe	suppen
+daran	PAV	 daran	daran
+gossen	VVFIN	 gießen	gossen
+</seg>
+<seg type="newline">
+das	ART	 d	das
+zwen	NN	 UNKNOWN	zwen
+finger	VVIMP	 fingern	finger
+darüber	PAV	 darüber	darüber
+geht	VVFIN	 gehen	geht
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+allweg	PIS	 alle	alles
+wieder	ADV	 wieder	wieder
+abgeschwert	ADJD	 UNKNOWN	abgeschwert
+</seg>
+<seg type="newline">
+als	KOKOM	 als	als
+offt	ADV	 oft	oft
+man	PIS	 man	man
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+messer	NN	 Messer	messer
+ein	ART	 ein	ein
+zenterling	ADJA	 UNKNOWN	zenterling
+herauß	NN	 UNKNOWN	herauß
+nimpt	VVFIN	 UNKNOWN	nimpt
+</seg>
+<seg type="newline">
+das	ART	 d	das
+vberlüd	NN	 UNKNOWN	vberlüd
+soll	VMFIN	 sollen	soll
+ein	ART	 ein	ein
+handhab	NE	 UNKNOWN	handhab
+haben	VAFIN	 haben	haben
+</seg>
+<seg type="newline">
+wirt	NN	 Wirt	wirt
+sonst	ADV	 sonst	sonst
+milbig	ADJD	 UNKNOWN	milbig
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

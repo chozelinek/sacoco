@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Keyl_1705_6" collection="historical" source="Keyl" url="none" year="1705" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1705:97f.]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+Eyer=Käse	NN	 UNKNOWN	Eyer=Käse
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimeinen	NN	 UNKNOWN	Nimeinen
+3.	ADJA	 3.	3.
+Pfennig	NN	 Pfennig	Pfennig
+Topff	NN	 Topf	Topf
+voll	ADJD	 voll	voll
+Milch	NN	 Milch	Milch
+</seg>
+<seg type="newline">
+schlage	VVFIN	 schlagen	schlage
+6.	ADJA	 6.	6.
+Eyer	NE	 UNKNOWN	Eyer
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+rühre	VVFIN	 rühren	rühre
+es	PPER	 es	es
+ab	PTKVZ	 ab	ab
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Stecken	NN	 Stecken	Stecken
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+es	PPER	 es	es
+dick	ADJD	 dick	dick
+werde	VAFIN	 werden	werde
+</seg>
+<seg type="newline">
+wenn	KOUS	 wenn	wenn
+es	PPER	 es	es
+fein	ADJD	 fein	fein
+semig	ADJD	 UNKNOWN	semig
+und	KON	 und	und
+für	APPR	 für	für
+den	ART	 d	den
+Sode	NN	 UNKNOWN	Sode
+kommen	VVFIN	 kommen	kommen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+gib	VVIMP	 geben	gib
+es	PPER	 es	es
+in	APPR	 in	in
+die	ART	 d	die
+Form	NN	 Form	Form
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+darein	ADV	 darein	darein
+kalt	ADJD	 kalt	kalt
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+und	KON	 und	und
+gib	VVIMP	 geben	gib
+</seg>
+<seg type="newline">
+ehe	KOUS	 ehe	ehe
+es	PPER	 es	es
+vorgetragen	VVPP	 vortragen	vorgetragen
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+Wein	NN	 Wein	Wein
+und	KON	 und	und
+Zucker	NN	 Zucker	Zucker
+darüber	PAV	 darüber	darüber
+.	$.	.	$.	 .	|	.
+Auch	ADV	 auch	Auch
+machet	VVFIN	 machen	machet
+man	PIS	 man	man
+wohl	ADV	 wohl	wohl
+eine	ART	 ein	eine
+Suppe	NN	 Suppe	Suppe
+von	APPR	 von	von
+süssen	ADJA	 süß	süssen
+Raam	NE	 UNKNOWN	Raam
+und	KON	 und	und
+Milch	NN	 Milch	Milch
+drüber	PTKVZ	 drüber	drüber
+.	$.	.	$.	 .	|	.
+NB	NE	 NB	NB
+.	$.	.	$.	 .	|	.
+Der	ART	 d	Der
+Lust	NN	 Lust	Lust
+hat	VAFIN	 haben	hat
+Eyer=Käse	NN	 UNKNOWN	Eyer=Käse
+von	APPR	 von	von
+zweyerley	NE	 UNKNOWN	zweyerley
+Farbe	NN	 Farbe	Farbe
+zu	PTKZU	 zu	zu
+verfertigen	VVINF	 verfertigen	verfertigen
+</seg>
+<seg type="newline">
+der	PRELS	 d	der
+mache	VVFIN	 machen	mache
+es	PPER	 es	es
+also	ADV	 also	also
+:	$.	:	$.	 :	|	:
+Er	PPER	 er	Er
+nehm	VVFIN	 UNKNOWN	nehm
+den	ART	 d	den
+Eyerweiß	NN	 UNKNOWN	Eyerweiß
+von	APPR	 von	von
+den	ART	 d	den
+Dotter	NN	 Dotter	Dotter
+</seg>
+<seg type="newline">
+gleich	ADJD	 gleich	gleich
+wie	KOKOM	 wie	wie
+vorhin	ADV	 vorhin	vorhin
+mit	APPR	 mit	mit
+den	ART	 d	den
+weissen	ADJA	 weiß	weissen
+</seg>
+<seg type="newline">
+nur	ADV	 nur	nur
+in	APPR	 in	in
+einen	ART	 ein	einen
+besondern	ADJA	 UNKNOWN	besondern
+Topff	NN	 Topf	Topf
+.	$.	.	$.	 .	|	.
+Man	PIS	 man	Man
+pflegt	VVFIN	 pflegen	pflegt
+auch	ADV	 auch	auch
+wohl	ADV	 wohl	wohl
+den	ART	 d	den
+Eyer=Käse	NN	 UNKNOWN	Eyer=Käse
+durch	APPR	 durch	durch
+einen	ART	 ein	einen
+Durchschlag	NN	 Durchschlag	Durchschlag
+zuschlagen	VVFIN	 zuschlagen	zuschlagen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+wird	VAFIN	 werden	wird
+er	PPER	 er	er
+als	KOKOM	 als	als
+kleine	ADJA	 klein	kleine
+Wurmgens	NN	 UNKNOWN	Wurmgens
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

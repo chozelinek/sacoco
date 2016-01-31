@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Thieme_1682_21" collection="historical" source="Thieme" url="none" year="1682" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[947]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+andere	ADJA	 ander	andere
+delicate	ADJA	 UNKNOWN	delicate
+Hirsch=Wildbrät=Pastete	NN	 UNKNOWN	Hirsch=Wildbrät=Pastete
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Kochet	NN	 UNKNOWN	Kochet
+das	ART	 d	das
+Fleisch	NN	 Fleisch	Fleisch
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+durch	PTKVZ	 durch	durch
+</seg>
+<seg type="newline">
+und	KON	 und	und
+legets	VVFIN	 legen	legt
+die	ART	 d	die
+Nacht	NN	 Nacht	Nacht
+über	APPR	 über	über
+in	APPR	 in	in
+rothen	NE	 UNKNOWN	rothen
+Wein	NN	 Wein	Wein
+und	KON	 und	und
+Wein=Essig	NN	 UNKNOWN	Wein=Essig
+:	$.	:	$.	 :	|	:
+Darnach	ADV	 UNKNOWN	Darnach
+spickts	VVFIN	 UNKNOWN	spickts
+ganz	ADV	 ganz	ganz
+dicke	ADJA	 dick	dicke
+</seg>
+<seg type="newline">
+und	KON	 und	und
+würzets	NN	 UNKNOWN	würzets
+mit	APPR	 mit	mit
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Salz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+Nägelein	NN	 UNKNOWN	Nägelein
+</seg>
+<seg type="newline">
+Muscatenblumen	NN	 UNKNOWN	Muscatenblumen
+</seg>
+<seg type="newline">
+Muscatnus	NN	 UNKNOWN	Muscatnus
+</seg>
+<seg type="newline">
+und	KON	 und	und
+Ingber	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+bachets	NN	 UNKNOWN	bachets
+in	APPR	 in	in
+einer	ART	 ein	einer
+tieffen	NN	 UNKNOWN	tieffen
+Pastete	NN	 Pastete	Pastete
+von	APPR	 von	von
+Rocken=Taig	NN	 UNKNOWN	Rocken=Taig
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+guten	ADJA	 gut	guten
+Theil	NN	 Teil	Teil
+Butter	NN	 Butter	Butter
+:	$.	:	$.	 :	|	:
+Lassets	NN	 UNKNOWN	Lassets
+sich	PRF	 er|es|sie	sich
+wol	PWAV	 wo	wo
+einziehen	VVINF	 einziehen	einziehen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+macht	VVFIN	 machen	macht
+ein	ART	 ein	ein
+Lufft=Loch	NN	 UNKNOWN	Lufft=Loch
+in	APPR	 in	in
+der	ART	 d	der
+Pastete	NN	 Pastete	Pastete
+</seg>
+<seg type="newline">
+und	KON	 und	und
+wann	PWAV	 wann	wann
+ihr	PPER	 ihr	ihr
+sie	PPER	 sie	sie
+aus	APPR	 aus	aus
+dem	ART	 d	dem
+Ofen	NN	 Ofen	Ofen
+ausnehmet	NE	 UNKNOWN	ausnehmet
+</seg>
+<seg type="newline">
+richtet	VVFIN	 richten	richtet
+sie	PPER	 sie	sie
+zu	APPR	 zu	zu
+mit	APPR	 mit	mit
+Butter	NN	 Butter	Butter
+und	KON	 und	und
+Wein=Essig	NN	 UNKNOWN	Wein=Essig
+</seg>
+<seg type="newline">
+verwahret	VVFIN	 UNKNOWN	verwahret
+sie	PPER	 sie	sie
+und	KON	 und	und
+esset	VVFIN	 essen	esset
+kalt	ADJD	 kalt	kalt
+davon	PAV	 davon	davon
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

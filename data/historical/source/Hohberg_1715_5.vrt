@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Hohberg_1715_5" collection="historical" source="Hohberg" url="none" year="1715" decade="1710-1720" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1715:15]">
+<title>
+<seg type="newline">
+Kleine	NN	 Kleine	Kleine
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Kohl=Hechtlein	NN	 UNKNOWN	Kohl=Hechtlein
+</seg>
+<seg type="newline">
+und	KON	 und	und
+Pärschen	NN	 UNKNOWN	Pärschen
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Pirsing	NN	 UNKNOWN	Pirsing
+zu	PTKZU	 zu	zu
+braten	VVINF	 braten	braten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Schuppe	NN	 Schuppe	Schuppe
+die	ART	 d	die
+Hechtlein	NN	 UNKNOWN	Hechtlein
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+sie	PPER	 sie	sie
+am	APPRART	 am	am
+Rucken	NN	 Rucken	Rucken
+auf	PTKVZ	 auf	auf
+biß	VVFIN	 beißen	biß
+zu	APPR	 zu	zu
+dem	ART	 d	dem
+Schwantz	NN	 UNKNOWN	Schwantz
+</seg>
+<seg type="newline">
+durchschneide	VVFIN	 durchschneiden	durchschneide
+den	ART	 d	den
+Kopff	NN	 UNKNOWN	Kopff
+</seg>
+<seg type="newline">
+doch	ADV	 doch	doch
+also	ADV	 also	also
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+sie	PPER	 sie	sie
+unten	ADV	 unten	unten
+beysammen	NN	 UNKNOWN	beysammen
+bleiben	VVFIN	 bleiben	bleiben
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+würtze	VVFIN	 würzen	würzt
+und	KON	 und	und
+saltze	ADJA	 kalt	kalten
+sie	PPER	 sie	sie
+</seg>
+<seg type="newline">
+legs	VVFIN	 legen	legt
+ausgebreit	ADJD	 UNKNOWN	ausgebreit
+auf	APPR	 auf	auf
+einen	ART	 ein	einen
+Rost	NN	 Rost	Rost
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+ertrocknen	VVFIN	 UNKNOWN	ertrocknen
+</seg>
+<seg type="newline">
+hernach	ADV	 hernach	hernach
+begieß	ADJD	 UNKNOWN	begieß
+mit	APPR	 mit	mit
+heissem	ADJA	 heiß	heissem
+Baum=Oel	NN	 UNKNOWN	Baum=Oel
+</seg>
+<seg type="newline">
+bestreich	VVFIN	 UNKNOWN	bestreich
+sie	PPER	 sie	sie
+auch	ADV	 auch	auch
+immerzu	ADV	 immerzu	immerzu
+darmit	NN	 UNKNOWN	darmit
+</seg>
+<seg type="newline">
+vermittelst	VVFIN	 vermitteln	vermittelst
+eines	ART	 ein	eines
+darein	ADV	 darein	darein
+getunckten	ADJA	 UNKNOWN	getunckten
+Federleins	NN	 UNKNOWN	Federleins
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+sie	PPER	 sie	sie
+sich	PRF	 er|es|sie	sich
+nicht	PTKNEG	 nicht	nicht
+anhängen	VVINF	 anhängen	anhängen
+.	$.	.	$.	 .	|	.
+Oder	KON	 oder	Oder
+schneide	VVFIN	 schneiden	schneide
+in	APPR	 in	in
+geschuppte	ADJA	 geschuppt	geschuppte
+Hechtlein	NN	 UNKNOWN	Hechtlein
+über	APPR	 über	über
+zwerg	NN	 Zwerg	zwerg
+kleine	ADJA	 klein	kleine
+Schnittlein	NN	 UNKNOWN	Schnittlein
+und	KON	 und	und
+brate	VVFIN	 braten	brate
+sie	PPER	 sie	sie
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+erstgedacht	ADJD	 UNKNOWN	erstgedacht
+</seg>
+<seg type="newline">
+aber	KON	 aber	aber
+unausgebreit	ADJD	 UNKNOWN	unausgebreit
+auf	APPR	 auf	auf
+dem	ART	 d	dem
+Rost	NN	 Rost	Rost
+.	$.	.	$.	 .	|	.
+Man	PIS	 man	Man
+kan	ADV	 nun	Nun
+den	ART	 d	den
+Hechtlein	NN	 UNKNOWN	Hechtlein
+auch	ADV	 auch	auch
+den	ART	 d	den
+Schwantz	NN	 UNKNOWN	Schwantz
+in	APPR	 in	in
+das	ART	 d	das
+Maul	NN	 Maul	Maul
+geben	VVINF	 geben	geben
+</seg>
+<seg type="newline">
+und	KON	 und	und
+sie	PPER	 sie	sie
+also	ADV	 also	also
+braten	VVFIN	 braten	braten
+</seg>
+<seg type="newline">
+inzwischen	ADV	 inzwischen	inzwischen
+lasse	VVFIN	 lassen	lasse
+gerieben	VVPP	 reiben	gerieben
+Rocken=Brod	NE	 UNKNOWN	Rocken=Brod
+</seg>
+<seg type="newline">
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+Wein=Eßig	NN	 UNKNOWN	Wein=Essig
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+gantze	ADJD	 ganz	ganz
+und	KON	 und	und
+zerhackte	VVFIN	 zerhacken	zerhackte
+Eßig=Capern	ADJA	 UNKNOWN	Eßig=Capern
+</seg>
+<seg type="newline">
+Muscatenblüh	NN	 UNKNOWN	Muscatenblüh
+</seg>
+<seg type="newline">
+Cardamomen	NN	 Kardamom	Kardamom
+</seg>
+<seg type="newline">
+Ingber	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Negelein	NN	 UNKNOWN	Negelein
+und	KON	 und	und
+Pfeffer	NN	 Pfeffer	Pfeffer
+zusammen	ADV	 zusammen	zusammen
+sieden	VVINF	 sieden	sieden
+</seg>
+<seg type="newline">
+giesse	VVFIN	 gießen	giesse
+Baum=Oel	NN	 UNKNOWN	Baum=Oel
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+und	KON	 und	und
+wanns	NE	 UNKNOWN	wanns
+noch	ADV	 noch	noch
+einen	ART	 ein	einen
+Sud	NE	 UNKNOWN	Sud
+gethan	NE	 UNKNOWN	gethan
+</seg>
+<seg type="newline">
+richts	PTKNEG	 nicht	nicht
+über	APPR	 über	über
+die	ART	 d	die
+gebratene	ADJA	 gebraten	gebratene
+Hechtlein	NN	 UNKNOWN	Hechtlein
+</seg>
+<seg type="newline">
+truck	NN	 Truck	truck
+Citronen=Safft	NN	 UNKNOWN	Citronen=Safft
+darauf	PAV	 darauf	darauf
+</seg>
+<seg type="newline">
+und	KON	 und	und
+bestreus	NE	 UNKNOWN	bestreus
+mit	APPR	 mit	mit
+geschnittenen	ADJA	 geschnitten	geschnittenen
+Citronen=Schelffen	NN	 UNKNOWN	Citronen=Schelffen
+.	$.	.	$.	 .	|	.
+An	APPR	 an	An
+statt	APPR	 statt	statt
+des	ART	 d	des
+Oels	NN	 UNKNOWN	Oels
+</seg>
+<seg type="newline">
+kan	ADV	 nun	Nun
+man	PIS	 man	man
+sich	PRF	 er|es|sie	sich
+auch	ADV	 auch	auch
+der	ART	 d	der
+Butter	NN	 Butter	Butter
+bedienen	VVFIN	 bedienen	bedienen
+.	$.	.	$.	 .	|	.
+Oder	KON	 oder	Oder
+vermischet	VVFIN	 vermischen	vermischen
+Rosen=	NN	 UNKNOWN	Rosen=
+oder	KON	 oder	oder
+Weichsel=Eßig	NN	 UNKNOWN	Weichsel=Eßig
+</seg>
+<seg type="newline">
+Trisenet	NN	 UNKNOWN	Trisenet
+und	KON	 und	und
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+schüttet	VVFIN	 schütten	schüttet
+solchen	PIAT	 solch	solchen
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+die	ART	 d	die
+Hechtlein	NN	 UNKNOWN	Hechtlein
+etwas	ADV	 etwas	etwas
+erkühlet	ADJD	 UNKNOWN	erkühlet
+</seg>
+<seg type="newline">
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+und	KON	 und	und
+verspeisset	VVFIN	 UNKNOWN	verspeisset
+sie	PPER	 sie	sie
+kalt	ADJD	 kalt	kalt
+.	$.	.	$.	 .	|	.
+Item	ADV	 item	Item
+</seg>
+<seg type="newline">
+trucket	VVFIN	 UNKNOWN	trucket
+Citronen=Safft	NN	 UNKNOWN	Citronen=Safft
+und	KON	 und	und
+streuet	VVFIN	 UNKNOWN	streuet
+dergleichen	PIS	 dergleichen	dergleichen
+Schelffen	NN	 UNKNOWN	Schelffen
+über	APPR	 über	über
+die	ART	 d	die
+gebratene	ADJA	 gebraten	gebratene
+Hechtlein	NN	 UNKNOWN	Hechtlein
+und	KON	 und	und
+tragt	VVFIN	 tragen	tragt
+sie	PPER	 sie	sie
+solcher	PIAT	 solch	solcher
+Gestalt	NN	 Gestalt	Gestalt
+auf	PTKVZ	 auf	auf
+;	$.	;	$.	 ;	|	;
+Allerdings	ADV	 allerdings	Allerdings
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+die	ART	 d	die
+Hechtlein	NN	 UNKNOWN	Hechtlein
+</seg>
+<seg type="newline">
+werden	VAFIN	 werden	werden
+auch	ADV	 auch	auch
+Pärschen	NN	 UNKNOWN	Pärschen
+oder	KON	 oder	oder
+Pirsinge	NN	 UNKNOWN	Pirsinge
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+sie	PPER	 sie	sie
+geschuppt	VVPP	 schuppen	geschuppt
+und	KON	 und	und
+das	ART	 d	das
+Eingeweid	NN	 UNKNOWN	Eingeweid
+davon	PAV	 davon	davon
+</seg>
+<seg type="newline">
+jedoch	ADV	 jedoch	jedoch
+gantz	ADV	 ganz	ganz
+gelassen	ADJD	 gelassen	gelassen
+</seg>
+<seg type="newline">
+auf	APPR	 auf	auf
+dem	ART	 d	dem
+Rost	NN	 Rost	Rost
+oder	KON	 oder	oder
+in	APPR	 in	in
+einem	ART	 ein	einem
+Oefelein	NN	 UNKNOWN	Oefelein
+gebraten	VVPP	 braten	gebraten
+</seg>
+<seg type="newline">
+und	KON	 und	und
+mit=	VVFIN	 UNKNOWN	mit=
+oder	KON	 oder	oder
+ohne	KOUI	 ohne	ohne
+Brüh	ADJD	 früh	früh
+zu	APPR	 zu	zu
+Tisch	NN	 Tisch	Tisch
+getragen	VVPP	 tragen	getragen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

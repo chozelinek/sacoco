@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Danckwerth_1729_7" collection="historical" source="Danckwerth" url="none" year="1729" decade="1720-1730" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Hecht|" method="|Kuchen|" ref="[1729:95]">
+<title>
+<seg type="newline">
+20.	ADJA	 20.	20.
+Hecht=Kuchen	NN	 UNKNOWN	Hecht=Kuchen
+zu	PTKZU	 zu	zu
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Man	PIS	 man	Man
+nimt	VVFIN	 UNKNOWN	nimt
+einen	ART	 ein	einen
+ziemlich	ADV	 ziemlich	ziemlich
+grossen	ADJA	 groß	grossen
+Hecht	NN	 Hecht	Hecht
+</seg>
+<seg type="newline">
+ziehet	VVFIN	 zeihen|ziehen	ziehet
+ihm	PPER	 er	ihm
+die	ART	 d	die
+Haut	NN	 Haut	Haut
+ab	PTKVZ	 ab	ab
+</seg>
+<seg type="newline">
+und	KON	 und	und
+nimt	VVFIN	 UNKNOWN	nimt
+ihm	PPER	 er	ihm
+die	ART	 d	die
+Graten	NN	 Grat	Graten
+</seg>
+<seg type="newline">
+hackt	VVFIN	 hacken	hackt
+ihn	PPER	 er	ihn
+drauf	PAV	 drauf	drauf
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+thut	VVFIN	 UNKNOWN	thue
+ihn	PPER	 er	ihn
+in	APPR	 in	in
+einen	ART	 ein	einen
+Topff	NN	 Topf	Topf
+</seg>
+<seg type="newline">
+giesset	PDAT	 dies	diese
+dazu	PAV	 dazu	dazu
+2.	ADJA	 2.	2.
+Nösel	NN	 UNKNOWN	Nösel
+süssen	ADJA	 süß	süssen
+Rohm	NN	 UNKNOWN	Rohm
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+halb	ADJD	 halb	halb
+Pfund	NN	 Pfund	Pfund
+geschmeltzte	ADJA	 UNKNOWN	geschmeltzte
+Butter	NN	 Butter	Butter
+acht	CARD	 acht	acht
+geriebene	ADJA	 gerieben	geriebene
+Semmeln	NN	 Semmel	Semmeln
+</seg>
+<seg type="newline">
+8.	ADJA	 @ord@	8.
+Eyer	NE	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+4.	ADJA	 4.	4.
+Loth	NE	 Loth	Loth
+Rosinen	NN	 Rosine	Rosinen
+</seg>
+<seg type="newline">
+4.	ADJA	 4.	4.
+Loth	NE	 Loth	Loth
+geschelte	ADJD	 gescheit	gescheit
+Mandeln	NN	 Mandel	Mandeln
+</seg>
+<seg type="newline">
+8.	ADJA	 @ord@	8.
+Loth	NE	 Loth	Loth
+Succad	NN	 UNKNOWN	Succad
+</seg>
+<seg type="newline">
+Muscaten=Blumen	NN	 UNKNOWN	Muscaten=Blumen
+</seg>
+<seg type="newline">
+etwas	PIAT	 etwas	etwas
+Saltz	NN	 Salz	Salz
+eine	ART	 ein	eine
+geriebene	ADJA	 gerieben	geriebene
+Citronen=Schaale	NN	 UNKNOWN	Citronen=Schaale
+</seg>
+<seg type="newline">
+dieses	PDAT	 dies	dieses
+alles	PIS	 alle	alles
+rühret	VVFIN	 rühren	rühren
+man	PIS	 man	man
+wohl	ADV	 wohl	wohl
+unter	APPR	 unter	unter
+einander	PRF	 einander	einander
+</seg>
+<seg type="newline">
+nimt	VVFIN	 UNKNOWN	nimt
+eine	ART	 ein	eine
+Torten=Pfanne	NN	 UNKNOWN	Torten=Pfanne
+</seg>
+<seg type="newline">
+legt	VVFIN	 legen	legt
+drein	ADV	 drein	drein
+einen	ART	 ein	einen
+Bogen	NN	 Bogen	Bogen
+Papier	NN	 Papier	Papier
+</seg>
+<seg type="newline">
+der	ART	 d	der
+in	APPR	 in	in
+brauner	ADJA	 braun	brauner
+Butter	NN	 Butter	Butter
+genetzt	ADJD	 UNKNOWN	genetzt
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+giest	VVFIN	 geben	gibt
+das	ART	 d	das
+zusammengerührte	ADJA	 zusammengerührt	zusammengerührte
+drauf	PAV	 drauf	drauf
+</seg>
+<seg type="newline">
+und	KON	 und	und
+backet	VVFIN	 UNKNOWN	backet
+es	PPER	 es	es
+im	APPRART	 im	im
+Ofen	NN	 Ofen	Ofen
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+in	APPR	 in	in
+der	ART	 d	der
+Pfanne	NN	 Pfanne	Pfanne
+gahr	ADV	 gar	gar
+;	$.	;	$.	 ;	|	;
+wenn	KOUS	 wenn	wenn
+man	PIS	 man	man
+anrichten	VVFIN	 anrichten	anrichten
+wil	NE	 Wil	wil
+</seg>
+<seg type="newline">
+macht	VVFIN	 machen	macht
+man	PIS	 man	man
+eine	ART	 ein	eine
+braune	ADJA	 braun	braune
+Brühe	NN	 Brühe	Brühe
+von	APPR	 von	von
+einem	ART	 ein	einem
+Nössel	NN	 UNKNOWN	Nössel
+Wein	NN	 Wein	Wein
+und	KON	 und	und
+so	ADV	 so	so
+vie	ADJA	 UNKNOWN	vie
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+Corinthen	NN	 Korinthe	Korinthen
+</seg>
+<seg type="newline">
+Negelein	ADJA	 UNKNOWN	Negelein
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+und	KON	 und	und
+Citronen	NN	 Citrone	Citronen
+</seg>
+<seg type="newline">
+richtet	VVFIN	 richten	richtet
+den	ART	 d	den
+Hecht=Kuchen	NN	 UNKNOWN	Hecht=Kuchen
+an	PTKVZ	 an	an
+</seg>
+<seg type="newline">
+und	KON	 und	und
+giesset	PDS	 dies	diese
+die	ART	 d	die
+Brühe	NN	 Brühe	Brühe
+darüber	PAV	 darüber	darüber
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

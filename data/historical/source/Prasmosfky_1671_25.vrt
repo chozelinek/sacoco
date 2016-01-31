@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Prasmosfky_1671_25" collection="historical" source="Prasmosfky" url="none" year="1671" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1671:40]">
+<title>
+<seg type="newline">
+106.	ADJA	 @ord@	106.
+Datteln	NN	 Dattel	Datteln
+in	APPR	 in	in
+einer	ART	 ein	einer
+gelben	ADJA	 gelb	gelben
+Brühe	NN	 Brühe	Brühe
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Weiche	NN	 Weiche	Weiche
+die	ART	 d	die
+Datteln	NN	 Dattel	Datteln
+in	APPR	 in	in
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+bey	NE	 Bey	bey
+nahe	APPR	 nahe	nahe
+zwey	CARD	 zwei	zwei
+Stund	VAFIN	 sein	sind
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+biß	VVFIN	 beißen	biß
+sie	PPER	 sie	sie
+fein	ADJD	 fein	fein
+weich	ADJD	 weich	weich
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+hernach	ADV	 hernach	hernach
+thues	ADJD	 UNKNOWN	thues
+mit	APPR	 mit	mit
+sambt	NN	 UNKNOWN	sambt
+den	ART	 d	den
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+Trisanet	NE	 UNKNOWN	Trysaneth
+und	KON	 und	und
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+ein	ART	 ein	ein
+Pfännlein	NN	 UNKNOWN	Pfännlein
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+sieden	VVINF	 sieden	sieden
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+sie	PPER	 sie	sie
+gnug	ADJD	 UNKNOWN	gnug
+gesotten	VVPP	 sieden	gesotten
+</seg>
+<seg type="newline">
+richts	PTKNEG	 nicht	nicht
+an	APPR	 an	an
+</seg>
+<seg type="newline">
+und	KON	 und	und
+bestreue	VVFIN	 UNKNOWN	bestreue
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+Zimmet	NN	 Zimt	Zimt
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

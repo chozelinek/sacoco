@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Colerus_1602_18" collection="historical" source="Colerus" url="none" year="1602" decade="1600-1610" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1602:154]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+Welsch	ADJD	 welsch	Welsch
+Gekrüse	NN	 UNKNOWN	Gekrüse
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+Kalden	NE	 UNKNOWN	Kalden
+zu	PTKZU	 zu	zu
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wiltu	NN	 UNKNOWN	Wiltu
+ein	ART	 ein	ein
+Welsch	ADJD	 welsch	Welsch
+Gekrüse	NN	 UNKNOWN	Gekrüse
+auff	APPR	 auf	auf
+die	ART	 d	die
+art	FM	 art	art
+machen	VVINF	 machen	machen
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+die	ART	 d	die
+Kalden	NE	 UNKNOWN	Kalden
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nim	VVFIN	 UNKNOWN	nimb
+das	ART	 d	das
+Gekrüse	NN	 UNKNOWN	Gekrüse
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+reis	VVIMP	 reisen	reis
+die	ART	 d	die
+därme	NN	 Darm	därme
+auff	APPR	 auf	auf
+</seg>
+<seg type="newline">
+nim	ADJA	 UNKNOWN	nimb
+es	PPER	 es	es
+vnd	KON	 und	und
+wasche	VVFIN	 waschen	wasche
+es	PPER	 es	es
+rein	ADV	 rein	rein
+aus	APPR	 aus	aus
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+der	ART	 d	der
+vnflat	NN	 UNKNOWN	vnflat
+</seg>
+<seg type="newline">
+gar	ADV	 gar	gar
+heraus	ADV	 heraus	heraus
+kömpt	ADJA	 UNKNOWN	kömpt
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+nim	ADJA	 UNKNOWN	nimb
+Saltz	NN	 Salz	Salz
+in	APPR	 in	in
+ein	ART	 ein	ein
+Müldlein	NN	 UNKNOWN	Müldlein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+reibs	VVFIN	 reiben	reiben
+vnd	KON	 und	und
+wasche	VVFIN	 waschen	wasche
+es	PPER	 es	es
+rein	ADV	 rein	rein
+aus	APPR	 aus	aus
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+mal	ADV	 mal	mal
+oder	KON	 oder	oder
+drey	CARD	 drei	drei
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+es	PPER	 es	es
+in	APPR	 in	in
+einen	ART	 ein	einen
+Topff	NN	 Topf	Topf
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+las	VVFIN	 lesen	las
+es	PPER	 es	es
+sieden	VVINF	 sieden	sieden
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+lege	VVFIN	 legen	lege
+darzu	PAV	 dazu	dazu
+Petersilienwurtzel	NN	 Petersilienwurzel	Petersilienwurzel
+:	$.	:	$.	 :	|	:
+Wenn	KOUS	 wenn	Wenn
+das	ART	 d	das
+wol	PWAV	 wo	wo
+gesotten	VVPP	 sieden	gesotten
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+lege	VVFIN	 legen	lege
+darein	ADV	 darein	darein
+Petersilien	NN	 Petersilie	Petersilie
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+die	ART	 d	die
+Petersilie	NN	 Petersilie	Petersilie
+einen	ART	 ein	einen
+wall	VVIMP	 wallen	wall
+oder	KON	 oder	oder
+zwene	NN	 UNKNOWN	zwene
+darinnen	VVFIN	 darinnen	darinnen
+vberseud	NE	 UNKNOWN	vberseud
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+nim	VVFIN	 UNKNOWN	nimb
+die	ART	 d	die
+grüne	ADJA	 grün	grüne
+Petersilien	NN	 Petersilie	Petersilie
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+wol	PWAV	 wo	wo
+die	ART	 d	die
+Wurtzel	NN	 UNKNOWN	Wurtzel
+wider	APPR	 wider	wider
+heraus	ADV	 heraus	heraus
+</seg>
+<seg type="newline">
+reibe	VVFIN	 reiben	reibe
+sie	PPER	 sie	sie
+klein	ADJD	 klein	klein
+in	APPR	 in	in
+einem	ART	 ein	einem
+Reibetopff	NN	 UNKNOWN	Reibetopff
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+nim	VVFIN	 UNKNOWN	nimb
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+weis	PTKVZ	 weis	weis
+Brod	NN	 Brot	Brot
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+reibe	VVFIN	 reiben	reibe
+es	PPER	 es	es
+wol	PWAV	 wo	wo
+durcheinander	PTKVZ	 durcheinander	durcheinander
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+drucke	VVFIN	 drucken	drucke
+das	PDS	 d	das
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+Sieb	NN	 Sieb	Sieb
+</seg>
+<seg type="newline">
+wiltu	NE	 UNKNOWN	wiltu
+das	ART	 d	das
+Gekrüse	NN	 UNKNOWN	Gekrüse
+zuschneiden	VVFIN	 zuschneiden	zuschneiden
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+die	ART	 d	die
+Kalden	NE	 UNKNOWN	Kalden
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+setze	VVFIN	 setzen	setze
+sie	PPER	 sie	sie
+zum	APPRART	 zum	zum
+Fewr	NN	 Feuer	Feuer
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+las	VVFIN	 lesen	las
+sie	PPER	 sie	sie
+auffsieden	ADJD	 UNKNOWN	aufsieden
+.	$.	.	$.	 .	|	.
+Würtze	VVFIN	 UNKNOWN	Würtze
+sie	PPER	 sie	sie
+ab	PTKVZ	 ab	ab
+mit	APPR	 mit	mit
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Ingber	NN	 Ingwer	Ingwer
+vnd	KON	 und	und
+Saffran	NN	 Safran	Safran
+</seg>
+<seg type="newline">
+wirff	VVFIN	 UNKNOWN	wirff
+auch	ADV	 auch	auch
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Muscatenblumen	NN	 UNKNOWN	Muscatenblumen
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+saltze	ADJA	 kalt	kalten
+es	PPER	 es	es
+zu	PTKZU	 zu	zu
+rechter	ADJA	 recht	rechter
+masse	VVFIN	 maßen	masse
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+gib	VVIMP	 geben	gib
+es	PPER	 es	es
+auff	PTKVZ	 auf	auf
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

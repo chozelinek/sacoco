@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Koch_vnd_Kellermeisterey_1574_9" collection="historical" source="Koch_vnd_Kellermeisterey" url="none" year="1574" decade="1570-1580" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1574:44r]">
+<title>
+<seg type="newline">
+Morchen	NN	 UNKNOWN	Morchen
+mit	APPR	 mit	mit
+Eyern	ADJD	 UNKNOWN	Eyern
+füllen	VVINF	 füllen	füllen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Mach	VVIMP	 machen	Mach
+die	ART	 d	die
+füll	VVIMP	 füllen	füll
+als	KOKOM	 als	als
+man	PIS	 man	man
+öpffel	NN	 UNKNOWN	öpffel
+füll	VVIMP	 füllen	füll
+macht	VVFIN	 machen	macht
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+gestürtzt	ADJA	 UNKNOWN	gestürtzt
+Eyer	NE	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+die	ART	 d	die
+zwo	CARD	 zwo	zwo
+Morchen	NN	 UNKNOWN	Morchen
+vber	VVFIN	 UNKNOWN	vber
+einander	PRF	 einander	einander
+gestürtzt	ADJA	 UNKNOWN	gestürtzt
+</seg>
+<seg type="newline">
+beyd	NE	 UNKNOWN	beyd
+theyl	ADJD	 UNKNOWN	theyl
+gefüllt	VVPP	 füllen	gefüllt
+vnd	KON	 und	und
+verkleibt	VVFIN	 UNKNOWN	verkleibt
+mit	APPR	 mit	mit
+eim	ADJA	 UNKNOWN	nimb
+rohen	ADJA	 roh	rohen
+Ey	NE	 Ey	Ey
+an	APPR	 an	an
+den	ART	 d	den
+orten	VVFIN	 orten	orten
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+es	PPER	 es	es
+bey	VVFIN	 UNKNOWN	bey
+einander	PRF	 einander	einander
+bleib	VVIMP	 bleiben	bleib
+</seg>
+<seg type="newline">
+stosse	VVFIN	 stoßen	stosse
+es	PPER	 es	es
+an	APPR	 an	an
+ein	ART	 ein	ein
+spießlin	NN	 UNKNOWN	spießlin
+</seg>
+<seg type="newline">
+treiff	VVFIN	 UNKNOWN	treiff
+es	PPER	 es	es
+mit	PTKVZ	 mit	mit
+buttern	VVINF	 buttern	buttern
+</seg>
+<seg type="newline">
+brats	VVFIN	 UNKNOWN	brats
+sittlich	ADJD	 sittlich	sittlich
+auff	APPR	 auf	auf
+einem	ART	 ein	einem
+Rost	NN	 Rost	Rost
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

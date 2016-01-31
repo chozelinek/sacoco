@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Schuppe_1698_19" collection="historical" source="Schuppe" url="none" year="1698" decade="1690-1700" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1698:91]">
+<title>
+<seg type="newline">
+CLXXII	NE	 UNKNOWN	CLXXII
+.	$.	.	$.	 .	|	.
+Eingemachte	ADJA	 eingemacht	Eingemachte
+Artschocken	NN	 UNKNOWN	Artschocken
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Mache	VVFIN	 machen	Mache
+das	ART	 d	das
+Rauhe	NN	 UNKNOWN	Rauhe
+aus	APPR	 aus	aus
+den	ART	 d	den
+Artschocken	ADJA	 UNKNOWN	Artschocken
+</seg>
+<seg type="newline">
+blanchire	NN	 UNKNOWN	blanchire
+sie	PPER	 sie	sie
+</seg>
+<seg type="newline">
+nimsie	NN	 UNKNOWN	nimsie
+denn	KON	 denn	denn
+aus	APPR	 aus	aus
+dem	ART	 d	dem
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+und	KON	 und	und
+lege	VVFIN	 legen	lege
+sie	PPER	 sie	sie
+auff	APPR	 auf	auf
+ein	ART	 ein	ein
+Tischtuch	NN	 Tischtuch	Tischtuch
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+das	ART	 d	das
+Wasser	NN	 Wasser	Wasser
+daraus	PAV	 daraus	daraus
+ziehet	VVFIN	 zeihen|ziehen	ziehet
+</seg>
+<seg type="newline">
+und	KON	 und	und
+sie	PPER	 sie	sie
+kalt	ADJD	 kalt	kalt
+werden	VAINF	 werden	werden
+</seg>
+<seg type="newline">
+packe	VVFIN	 packen	packe
+sie	PPER	 sie	sie
+denn	ADV	 denn	denn
+in	APPR	 in	in
+ein	ART	 ein	ein
+klein	ADJD	 klein	klein
+Fäßlein	NN	 UNKNOWN	Fäßlein
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+es	PPER	 es	es
+gantz	ADV	 ganz	ganz
+voll	ADJD	 voll	voll
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+von	APPR	 von	von
+den	ART	 d	den
+Böttiger	NN	 UNKNOWN	Böttiger
+wieder	ADV	 wieder	wieder
+zuschlagen	VVINF	 zuschlagen	zuschlagen
+</seg>
+<seg type="newline">
+koche	VVFIN	 kochen	koche
+denn	KON	 denn	denn
+eine	ART	 ein	eine
+Laak	NN	 UNKNOWN	Laak
+von	APPR	 von	von
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+Eßig	NN	 UNKNOWN	Eßig
+und	KON	 und	und
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+die	ART	 d	die
+nicht	PTKNEG	 nicht	nicht
+zu	PTKA	 zu	zu
+scharff	ADJD	 UNKNOWN	scharff
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+man	PIS	 man	man
+muß	VMFIN	 müssen	muß
+aber	ADV	 aber	aber
+zu	APPR	 zu	zu
+einer	ART	 ein	einer
+Kannen	NN	 Kanne	Kannen
+Wasser	NN	 Wasser	Wasser
+ein	ART	 ein	ein
+Nößel	NN	 UNKNOWN	Nößel
+Wein=Eßig	NN	 UNKNOWN	Wein=Essig
+nehmen	VVFIN	 nehmen	nehmen
+</seg>
+<seg type="newline">
+wenn	KOUS	 wenn	wenn
+sie	PPER	 sie	sie
+kalt	ADJD	 kalt	kalt
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+gieß	VVIMP	 gießen	gieß
+es	PPER	 es	es
+auf	APPR	 auf	auf
+die	ART	 d	die
+Artschocken	NN	 UNKNOWN	Artschocken
+</seg>
+<seg type="newline">
+schlage	VVFIN	 schlagen	schlage
+sie	PPER	 sie	sie
+denn	ADV	 denn	denn
+feste	ADJA	 fest	feste
+zu	APPR	 zu	zu
+</seg>
+<seg type="newline">
+und	KON	 und	und
+kehre	VVFIN	 kehren	kehre
+oder	KON	 oder	oder
+schüttele	VVFIN	 schütteln	schüttele
+das	ART	 d	das
+Fäßgen	NN	 UNKNOWN	Fäßgen
+alle	PIAT	 alle	alle
+8	CARD	8	CARD	 8	|	8
+Tage	NN	 Tag	Tage
+umb	APPR	 um	um
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+verderben	VVFIN	 verderben	verderben
+sie	PPER	 sie	sie
+nicht	PTKNEG	 nicht	nicht
+;	$.	;	$.	 ;	|	;
+Wann	PWAV	 wann	Wann
+sie	PPER	 sie	sie
+sollen	VMFIN	 sollen	sollen
+gebraucht	ADJD	 gebraucht	gebraucht
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+wässere	VVFIN	 UNKNOWN	wässere
+sie	PPER	 sie	sie
+erst	ADV	 erst	erst
+aus	PTKVZ	 aus	aus
+</seg>
+<seg type="newline">
+und	KON	 und	und
+koche	VVFIN	 kochen	koche
+sie	PPER	 sie	sie
+denn	ADV	 denn	denn
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+in	APPR	 in	in
+diesem	PDAT	 dies	diesem
+Buche	NN	 Buche	Buche
+vorher	ADV	 vorher	vorher
+beschrieben	VVPP	 beschreiben	beschrieben
+steht	VVFIN	 stehen	steht
+.	$.	.	$.	 .	|	.
+NB	NE	 NB	NB
+.	$.	.	$.	 .	|	.
+Türckische	ADJA	 UNKNOWN	Türckische
+Bohnen	NN	 Bohne	Bohnen
+können	VMFIN	 können	können
+eben	ADV	 eben	eben
+auff	APPR	 auf	auf
+diese	PDAT	 dies	diese
+Manier	NN	 Manier	Manier
+zugerichtet	VVPP	 zurichten	zugerichtet
+werden	VAINF	 werden	werden
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

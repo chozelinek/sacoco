@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Deckhardt_1611_4" collection="historical" source="Deckhardt" url="none" year="1611" decade="1610-1620" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1611:28]">
+<title>
+<seg type="newline">
+Vogel	NN	 Vogel	Vogel
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+guten	ADJA	 gut	guten
+Södlein	NN	 UNKNOWN	Södlein
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wenn	KOUS	 wenn	Wenn
+die	ART	 d	die
+Vogel	NN	 Vogel	Vogel
+gepflöckt	VVPP	 UNKNOWN	gepflöckt
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+rein	ADV	 rein	rein
+gemacht	ADJD	 gemacht	gemacht
+sind	VAFIN	 sein	sind
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+seude	VVFIN	 UNKNOWN	seude
+sie	PPER	 sie	sie
+erstlich	ADJD	 UNKNOWN	erstlich
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+im	APPRART	 im	im
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+geus	VVPP	 UNKNOWN	geuß
+es	PPER	 es	es
+denn	KON	 denn	denn
+davon	PAV	 davon	davon
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+thue	NE	 UNKNOWN	thue
+einen	ART	 ein	einen
+guten	ADJA	 gut	guten
+süssen	ADJA	 süß	süssen
+oder	KON	 oder	oder
+andern	ADJA	 ander	andern
+Wein	NN	 Wein	Wein
+dran	PAV	 dran	dran
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+eine	ART	 ein	eine
+geschmeltzte	ADJA	 UNKNOWN	geschmeltzte
+Butter	NN	 Butter	Butter
+wol	PWAV	 wo	wo
+warm	PTKVZ	 warm	warm
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+geus	VVPP	 UNKNOWN	geuß
+sie	PPER	 sie	sie
+drüber	PAV	 drüber	drüber
+</seg>
+<seg type="newline">
+Würtze	NN	 UNKNOWN	Würtze
+es	PPER	 es	es
+mit	APPR	 mit	mit
+Ingwer	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+vnd	KON	 und	und
+Neglein	NN	 UNKNOWN	Neglein
+</seg>
+<seg type="newline">
+las	VVFIN	 lesen	las
+es	PPER	 es	es
+wol	PWAV	 wo	wo
+einsieden	VVFIN	 einziehen	einziehen
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+es	PPER	 es	es
+ein	ART	 ein	ein
+braun	ADJD	 braun	braun
+Södlein	NN	 UNKNOWN	Södlein
+bekomme	VVFIN	 bekommen	bekomme
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+werden	VAFIN	 werden	werden
+sie	PPER	 sie	sie
+gut	ADJD	 gut	gut
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

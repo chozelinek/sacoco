@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Schuppe_1698_18" collection="historical" source="Schuppe" url="none" year="1698" decade="1690-1700" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1698:86]">
+<title>
+<seg type="newline">
+CLIX	NE	 UNKNOWN	CLIX
+.	$.	.	$.	 .	|	.
+Italiänischen	NN	 UNKNOWN	Italiänischen
+Kohl	NE	 Kohl	Kohl
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Baumöhl	NN	 UNKNOWN	Baumöhl
+und	KON	 und	und
+Citronen=Safft	NN	 UNKNOWN	Citronen=Safft
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+braunen	ADJA	 braun	braunen
+Kohl	NE	 Kohl	Kohl
+</seg>
+<seg type="newline">
+putze	VVFIN	 putzen	putze
+ihn	PPER	 er	ihn
+ab	PTKVZ	 ab	ab
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+die	ART	 d	die
+Blätter	NN	 Blatt	Blätter
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nicht	PTKNEG	 nicht	nicht
+taugen	VVFIN	 taugen	taugen
+</seg>
+<seg type="newline">
+davon	PAV	 davon	davon
+kommen	VVINF	 kommen	kommen
+</seg>
+<seg type="newline">
+binde	VVFIN	 binden	binde
+ihn	PPER	 er	ihn
+zusammen	ADV	 zusammen	zusammen
+in	APPR	 in	in
+kleine	ADJA	 klein	kleine
+Bündlein	NN	 UNKNOWN	Bündlein
+</seg>
+<seg type="newline">
+setze	VVFIN	 setzen	setze
+ihn	PPER	 er	ihn
+mit	APPR	 mit	mit
+Fleisch=Brühe	NN	 Fleischbrühe	Fleischbrühe
+bey	NE	 Bey	bey
+das	ART	 d	das
+Feuer	NN	 Feuer	Feuer
+</seg>
+<seg type="newline">
+und	KON	 und	und
+laß	ADJD	 laß	laß
+ihn	PPER	 er	ihn
+kochen	VVINF	 kochen	kochen
+</seg>
+<seg type="newline">
+richte	VVFIN	 richten	richte
+ihn	PPER	 er	ihn
+dann	ADV	 dann	dann
+an	PTKVZ	 an	an
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+er	PPER	 er	er
+gahr	ADV	 gar	gar
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+gieß	VVIMP	 gießen	gieß
+Baumöhl	NN	 UNKNOWN	Baumöhl
+darüber	PAV	 darüber	darüber
+mit	APPR	 mit	mit
+Citronen=safft	NN	 UNKNOWN	Citronen=safft
+oder	KON	 oder	oder
+einem	ART	 ein	einem
+Löffel	NN	 Löffel	Löffel
+voll	ADJD	 voll	voll
+Wein=Essig	NN	 UNKNOWN	Wein=Essig
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+und	KON	 und	und
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+ist	VAFIN	 sein	ist
+es	PPER	 es	es
+fertig	ADJD	 fertig	fertig
+.	$.	.	$.	 .	|	.
+NB	NE	 NB	NB
+.	$.	.	$.	 .	|	.
+Auf	APPR	 auf	Auf
+die	ART	 d	die
+Manier	NN	 Manier	Manier
+kan	ADV	 nun	Nun
+man	PIS	 man	man
+die	ART	 d	die
+weißen	ADJA	 weiß	weißen
+Kohl=Pflantzen	NN	 UNKNOWN	Kohl=Pflantzen
+auch	ADV	 auch	auch
+zurichten	VVFIN	 zurichten	zurichten
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+auch	ADV	 auch	auch
+den	ART	 d	den
+Rüben=Kohl	NN	 UNKNOWN	Rüben=Kohl
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+KohlRaby	NN	 UNKNOWN	KohlRaby
+,	$,	,	$,	 ,	|	,
+er	PPER	 er	er
+muß	VMFIN	 müssen	muß
+aber	ADV	 aber	aber
+vorher	ADV	 vorher	vorher
+in	APPR	 in	in
+Scheiben	NN	 Scheibe	Scheiben
+geschnitten	VVPP	 schneiden	geschnitten
+werden	VAINF	 werden	werden
+</seg>
+<seg type="newline">
+ehe	KOUS	 ehe	ehe
+er	PPER	 er	er
+gekocht	VVPP	 kochen	gekocht
+wird	VAFIN	 werden	wird
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

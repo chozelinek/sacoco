@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Stockholm_1647_14" collection="historical" source="Stockholm" url="none" year="1647" decade="1640-1650" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1647:181f.]">
+<body>
+<seg type="newline">
+Die	ART	 d	Die
+Schaffe	NN	 UNKNOWN	Schaffe
+oder	KON	 oder	oder
+Hamelschlegel	NN	 UNKNOWN	Hamelschlegel
+</seg>
+<seg type="newline">
+nimbt	VVFIN	 UNKNOWN	nimbt
+man	PIS	 man	man
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+löset	ADJD	 UNKNOWN	löset
+das	ART	 d	das
+Fleisch	NN	 Fleisch	Fleisch
+von	APPR	 von	von
+den	ART	 d	den
+Knochen	NN	 Knochen	Knochen
+</seg>
+<seg type="newline">
+den	ART	 d	den
+zerschneidet	VVIMP	 zerschneiden	zerschneidet
+mans	VMFIN	 mögen	mag
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+vermenget	VVFIN	 UNKNOWN	vermenget
+es	PPER	 es	es
+mit	APPR	 mit	mit
+dem	ART	 d	dem
+zerschnittenem	ADJA	 UNKNOWN	zerschnittenem
+Speck	NN	 Speck	Speck
+</seg>
+<seg type="newline">
+Zwiebelen	NN	 UNKNOWN	Zwiebelen
+</seg>
+<seg type="newline">
+Gewürtze	NN	 UNKNOWN	Gewürtze
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+Hernach	ADV	 hernach	Hernach
+füllet	VVFIN	 füllen	füllet
+man	PIS	 man	man
+Schaffs	NN	 UNKNOWN	Schaffs
+darmen	VVFIN	 UNKNOWN	darmen
+damit	PAV	 damit	damit
+</seg>
+<seg type="newline">
+leget	ADJD	 UNKNOWN	leget
+dieselbe	PDAT	 dieselbe	dieselbe
+auff	APPR	 auf	auf
+4.	ADJA	 4.	4.
+stunde	VVFIN	 stunden	stunde
+in	APPR	 in	in
+kalt	ADJD	 kalt	kalt
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+sie	PPER	 sie	sie
+wol	PWAV	 wo	wo
+ersteiffen	VVFIN	 UNKNOWN	ersteiffen
+</seg>
+<seg type="newline">
+Als	KOKOM	 als	Als
+dann	ADV	 dann	dann
+auß	VMFIN	 müssen	muß
+genommen	VVPP	 nehmen	genommen
+</seg>
+<seg type="newline">
+auff	APPR	 auf	auf
+gehänget	ADJA	 UNKNOWN	gehänget
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+getrocknet	VVPP	 trocknen	getrocknet
+</seg>
+<seg type="newline">
+Diese	PDAT	 dies	Diese
+arht	NN	 UNKNOWN	arht
+wird	VAFIN	 werden	wird
+auff	APPR	 auf	auf
+die	ART	 d	die
+Roste	NN	 Rost	Roste
+geleget	ADJD	 UNKNOWN	geleget
+</seg>
+<seg type="newline">
+muß	VMFIN	 müssen	muß
+aber	ADV	 aber	aber
+geschwinde	ADJA	 geschwind	geschwinde
+gebraten	VVPP	 braten	gebraten
+werden	VAINF	 werden	werden
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

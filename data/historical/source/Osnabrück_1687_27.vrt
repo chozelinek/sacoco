@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Osnabrueck_1687_27" collection="historical" source="Osnabrueck" url="none" year="1687" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1687:55f.]">
+<title>
+<seg type="newline">
+Gepresset	ADJA	 UNKNOWN	Gepresset
+Haupt=Fleisch	NN	 UNKNOWN	Haupt=Fleisch
+zu	PTKZU	 zu	zu
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Werffet	NN	 UNKNOWN	Werffet
+den	ART	 d	den
+Kopff	NN	 UNKNOWN	Kopff
+ins	APPRART	 ins	ins
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+auff	APPR	 auf	auf
+daß	KOUS	 daß	daß
+alles	PIS	 alle	alles
+Blut	NN	 Blut	Blut
+herauß	NN	 UNKNOWN	herauß
+ziehe	VVFIN	 zeihen|ziehen	ziehe
+</seg>
+<seg type="newline">
+nehmet	VVFIN	 nehmen	nehmet
+alles	PIAT	 alle	alles
+Fleisch	NN	 Fleisch	Fleisch
+von	APPR	 von	von
+den	ART	 d	den
+Knochen	NN	 Knochen	Knochen
+ab	PTKVZ	 ab	ab
+</seg>
+<seg type="newline">
+und	KON	 und	und
+säubert	VVFIN	 säubern	säubert
+es	PPER	 es	es
+von	APPR	 von	von
+allen	PIAT	 alle	allen
+Geäder	NN	 Geäder	Geäder
+</seg>
+<seg type="newline">
+sonsten	ADJD	 UNKNOWN	sonsten
+lasset	VVFIN	 lassen	lasset
+den	ART	 d	den
+Kopff	NN	 UNKNOWN	Kopff
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+daß	KOUS	 daß	daß
+das	ART	 d	das
+Fleisch	NN	 Fleisch	Fleisch
+von	APPR	 von	von
+den	ART	 d	den
+Knochen	NN	 Knochen	Knochen
+falle	VVFIN	 fallen	falle
+</seg>
+<seg type="newline">
+gar	ADV	 gar	gar
+kochen	VVINF	 kochen	kochen
+</seg>
+<seg type="newline">
+bringt	VVFIN	 bringen	bringt
+diß	ADJD	 UNKNOWN	diß
+zum	APPRART	 zum	zum
+Hack=Block	NN	 UNKNOWN	Hack=Block
+</seg>
+<seg type="newline">
+hackt	VVFIN	 hacken	hackt
+es	PPER	 es	es
+</seg>
+<seg type="newline">
+doch	ADV	 doch	doch
+nicht	PTKNEG	 nicht	nicht
+zu	PTKA	 zu	zu
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+suchet	VVFIN	 suchen	suchet
+das	ART	 d	das
+Geäder	NN	 Geäder	Geäder
+rein	ADV	 rein	rein
+aus	APZR	 aus	aus
+</seg>
+<seg type="newline">
+bewürtzet	VVFIN	 UNKNOWN	bewürtzet
+es	PPER	 es	es
+mit	APPR	 mit	mit
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Mußcaten=Nüssen	NN	 UNKNOWN	Mußcaten=Nüssen
+und	KON	 und	und
+Nägelein	NN	 UNKNOWN	Nägelein
+</seg>
+<seg type="newline">
+alles	PIS	 alle	alles
+nach	APPR	 nach	nach
+euren	PPOSAT	 euer	euren
+Belieben	NN	 Belieben	Belieben
+</seg>
+<seg type="newline">
+bindet	VVFIN	 binden	bindet
+es	PPER	 es	es
+fest	ADJD	 fest	fest
+in	APPR	 in	in
+einen	ART	 ein	einen
+Tuch	NN	 Tuch	Tuch
+</seg>
+<seg type="newline">
+wozu	PWAV	 wozu	wozu
+ihr	PPOSAT	 ihr	ihr
+nach	APPR	 nach	nach
+Gefallen	NN	 Gefallen	Gefallen
+etwas	ADV	 etwas	etwas
+von	APPR	 von	von
+dem	ART	 d	dem
+Eingeweide	NN	 Eingeweide	Eingeweide
+und	KON	 und	und
+Hertzen	NN	 UNKNOWN	Hertzen
+thun	NE	 UNKNOWN	thue
+könnet	VMFIN	 können	könnet
+</seg>
+<seg type="newline">
+werfft	VVFIN	 UNKNOWN	werfft
+es	PPER	 es	es
+in	APPR	 in	in
+siedendes	ADJA	 siedend	siedendem
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+es	PPER	 es	es
+durch	PTKVZ	 durch	durch
+und	KON	 und	und
+durch	APPR	 durch	durch
+warm	ADJD	 warm	warm
+worden	VAPP	 werden	worden
+</seg>
+<seg type="newline">
+setzt	VVFIN	 setzen	setzt
+es	PPER	 es	es
+denn	ADV	 denn	denn
+in	APPR	 in	in
+die	ART	 d	die
+Presse	NN	 Presse	Presse
+mit	APPR	 mit	mit
+gehörigem	ADJA	 gehörig	gehörigem
+Gewichte	NN	 Gewicht	Gewichte
+.	$.	.	$.	 .	|	.
+Dieses	PDAT	 dies	Dieses
+so	ADV	 so	so
+gepressetes	ADJA	 UNKNOWN	gepressetes
+Haupt=Fleisch	NN	 UNKNOWN	Haupt=Fleisch
+wird	VAFIN	 werden	wird
+in	APPR	 in	in
+breite	ADJA	 breit	breite
+stücke	VVFIN	 stücken	stücke
+geschnitten	VVPP	 schneiden	geschnitten
+und	KON	 und	und
+mit	APPR	 mit	mit
+Essig	NN	 Essig	Essig
+übergossen	VVPP	 übergießen	übergossen
+und	KON	 und	und
+gegessen	VVPP	 essen	gegessen
+.	$.	.	$.	 .	|	.
+Auch	ADV	 auch	Auch
+kocht	VVFIN	 kochen	kocht
+man	PIS	 man	man
+es	PPER	 es	es
+wohl	ADV	 wohl	wohl
+mit	APPR	 mit	mit
+Sauerampff	NN	 UNKNOWN	Sauerampff
+oder	KON	 oder	oder
+süssen	ADJA	 süß	süssen
+Äpffeln	NN	 UNKNOWN	Äpffeln
+</seg>
+<seg type="newline">
+man	PIS	 man	man
+spaltet	VVFIN	 spalten	spaltet
+auch	ADV	 auch	auch
+wohl	ADV	 wohl	wohl
+die	ART	 d	die
+Schweins=Köpffe	NN	 UNKNOWN	Schweins=Köpffe
+mitten	ADV	 mitten	mitten
+durch	APPR	 durch	durch
+</seg>
+<seg type="newline">
+und	KON	 und	und
+saltzt	VVFIN	 UNKNOWN	saltzt
+sie	PPER	 sie	sie
+ein	PTKVZ	 ein	ein
+</seg>
+<seg type="newline">
+aber	KON	 aber	aber
+sie	PPER	 sie	sie
+können	VMFIN	 können	können
+nicht	PTKNEG	 nicht	nicht
+lange	ADV	 lange	lange
+dauren	NN	 UNKNOWN	dauren
+.	$.	.	$.	 .	|	.
+Man	PIS	 man	Man
+kocht	VVFIN	 kochen	kocht
+dieselbe	PDS	 dieselbe	dieselbe
+auch	ADV	 auch	auch
+wohl	ADV	 wohl	wohl
+gar	ADV	 gar	gar
+</seg>
+<seg type="newline">
+nimbt	VVFIN	 UNKNOWN	nimbt
+die	ART	 d	die
+Knochen	NN	 Knochen	Knochen
+davon	PAV	 davon	davon
+</seg>
+<seg type="newline">
+presset	VVFIN	 UNKNOWN	presset
+und	KON	 und	und
+bewürtzet	VVFIN	 UNKNOWN	bewürtzet
+sie	PPER	 sie	sie
+</seg>
+<seg type="newline">
+und	KON	 und	und
+legt	VVFIN	 legen	legt
+sie	PPER	 sie	sie
+in	APPR	 in	in
+Bier=Essig	NN	 UNKNOWN	Bier=Essig
+zum	APPRART	 zum	zum
+Gebrauch	NN	 Gebrauch	Gebrauch
+.	$.	.	$.	 .	|	.
+Es	PPER	 es	Es
+werden	VAFIN	 werden	werden
+auch	ADV	 auch	auch
+die	ART	 d	die
+halben	ADJA	 halb	halben
+Köpffe	NN	 UNKNOWN	Köpffe
+in	APPR	 in	in
+den	ART	 d	den
+Rauch	NN	 Rauch	Rauch
+gehangen	VVPP	 hängen	gehangen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+wenn	KOUS	 wenn	wenn
+sie	PPER	 sie	sie
+trucken	ADJD	 UNKNOWN	trucken
+worden	VAPP	 werden	worden
+</seg>
+<seg type="newline">
+gekocht	VVPP	 kochen	gekocht
+und	KON	 und	und
+gegessen	VVPP	 essen	gegessen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

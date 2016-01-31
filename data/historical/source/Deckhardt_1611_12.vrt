@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Deckhardt_1611_12" collection="historical" source="Deckhardt" url="none" year="1611" decade="1610-1620" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Hecht|" method="|Meerrettich|" ref="[1611:100f.]">
+<title>
+<seg type="newline">
+Hechte	NN	 Hecht	Hechte
+in	APPR	 in	in
+Kreen	NE	 UNKNOWN	Kreen
+oder	KON	 oder	oder
+Merrettich	NE	 UNKNOWN	Merrettich
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nim	VVFIN	 UNKNOWN	nimb
+einen	ART	 ein	einen
+Hecht	NN	 Hecht	Hecht
+seude	VVFIN	 UNKNOWN	seude
+jhn	PPER	 er	ihn
+fein	ADJD	 fein	fein
+treuge	ADJD	 UNKNOWN	treuge
+abe	PAV	 dabei	dabei
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+jetzo	ADJD	 UNKNOWN	jetzo
+gemeldet	VVPP	 melden	gemeldet
+.	$.	.	$.	 .	|	.
+Nim	ADJA	 UNKNOWN	nimb
+alsden	NE	 UNKNOWN	alsden
+Merrettich	NE	 UNKNOWN	Merrettich
+</seg>
+<seg type="newline">
+reibe	VVFIN	 reiben	reibe
+jhn	PPER	 er	ihn
+auff	APPR	 auf	auf
+einem	ART	 ein	einem
+reibeisen	NN	 Reibeisen	reibeisen
+fein	ADJD	 fein	fein
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+geus	NN	 UNKNOWN	geuß
+eine	ART	 ein	eine
+feiste	ADJA	 feist	feiste
+Rindfleischsuppen	NN	 UNKNOWN	Rindfleischsuppen
+dran	PAV	 dran	dran
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+man	PIS	 man	man
+wil	VVFIN	 UNKNOWN	wil
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+thue	NE	 UNKNOWN	thue
+gestossene	ADJA	 gestoßen	gestossene
+Mandeln	NN	 Mandel	Mandeln
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+darunter	PAV	 darunter	darunter
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+wird	VAFIN	 werden	wird
+der	ART	 d	der
+Merrettich	NE	 UNKNOWN	Merrettich
+gelinde	ADJD	 gelinde	gelinde
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+nicht	PTKNEG	 nicht	nicht
+so	ADV	 so	so
+scharff	VVPP	 UNKNOWN	scharff
+</seg>
+<seg type="newline">
+wer	PWS	 wer	wer
+es	PPER	 es	es
+gerne	ADV	 gerne	gerne
+hat	VAFIN	 haben	hat
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+pfleget	VVFIN	 UNKNOWN	pfleget
+man	PIS	 man	man
+auch	ADV	 auch	auch
+wol	PWAV	 wo	wo
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Essig	NN	 Essig	Essig
+darunter	PAV	 darunter	darunter
+zu	APPR	 zu	zu
+thun	NE	 UNKNOWN	thue
+.	$.	.	$.	 .	|	.
+Vnd	KON	 und	und
+so	ADV	 so	so
+man	PIS	 man	man
+den	ART	 d	den
+Hecht	NN	 Hecht	Hecht
+anrichtet	VVFIN	 anrichten	anrichtet
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+geus	NN	 UNKNOWN	geuß
+den	ART	 d	den
+Merrettich	NE	 UNKNOWN	Merrettich
+fein	ADJD	 fein	fein
+warm	ADJD	 warm	warm
+darüber	PAV	 darüber	darüber
+.	$.	.	$.	 .	|	.
+Hat	VAFIN	 haben	Hat
+man	PIS	 man	man
+aber	ADV	 aber	aber
+keine	PIAT	 kein	keine
+Rindfleischsuppe	NN	 Rindfleischsuppe	Rindfleischsuppe
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nim	VVFIN	 UNKNOWN	nimb
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Brüe	NN	 UNKNOWN	Brüe
+von	APPR	 von	von
+dem	ART	 d	dem
+gesottenen	ADJA	 gesiedet	gesottenen
+Hechte	NN	 Hecht	Hechte
+</seg>
+<seg type="newline">
+jedoch	ADV	 jedoch	jedoch
+das	PDS	 d	das
+sie	PPER	 sie	sie
+nicht	PTKNEG	 nicht	nicht
+zu	APPR	 zu	zu
+sehr	ADV	 sehr	sehr
+gesaltzen	ADJA	 UNKNOWN	gesaltzen
+sey	NE	 UNKNOWN	sey
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+thue	NE	 UNKNOWN	thue
+ein	ART	 ein	ein
+gut	ADJD	 gut	gut
+theil	ADJA	 UNKNOWN	theil
+Butter	NN	 Butter	Butter
+dran	PTKVZ	 dran	dran
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+las	VVFIN	 lesen	las
+es	PPER	 es	es
+mit	APPR	 mit	mit
+dem	ART	 d	dem
+Merrettiche	NN	 UNKNOWN	Merrettiche
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+ist	VAFIN	 sein	ist
+es	PPER	 es	es
+auch	ADV	 auch	auch
+gut	ADJD	 gut	gut
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Koch_vnd_Kellermeisterey_1574_31" collection="historical" source="Koch_vnd_Kellermeisterey" url="none" year="1574" decade="1570-1580" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1574:11v]">
+<title>
+<seg type="newline">
+Krebs	NN	 Krebs	Krebs
+zu	PTKZU	 zu	zu
+sieden	VVINF	 sieden	sieden
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Thu	NE	 Thu	Thu
+sie	PPER	 sie	sie
+in	APPR	 in	in
+einen	ART	 ein	einen
+hafen	NN	 Hafen	hafen
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+verdeck	VVFIN	 UNKNOWN	verdeck
+sie	PPER	 sie	sie
+gar	ADV	 gar	gar
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+geuß	VVPP	 UNKNOWN	geuß
+wein	VVIMP	 weinen	wein
+</seg>
+<seg type="newline">
+essig	ADJD	 UNKNOWN	essig
+oder	KON	 oder	oder
+Wasser	NN	 Wasser	Wasser
+dran	PTKVZ	 dran	dran
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+saltz	ADJA	 kalt	kalten
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+pfeffer	NN	 Pfeffer	pfeffer
+sie	PPER	 sie	sie
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+auch	ADV	 auch	auch
+ein	ART	 ein	ein
+feuwr	ADJA	 UNKNOWN	feuwr
+stäts	NN	 UNKNOWN	stäts
+darunder	VVPP	 UNKNOWN	darunder
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+wann	PWAV	 wann	wann
+sie	PPER	 sie	sie
+rot	ADJD	 rot	rot
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+haben	VAFIN	 haben	haben
+sie	PPER	 sie	sie
+fein	ADJD	 fein	fein
+genug	ADV	 genug	genug
+.	$.	.	$.	 .	|	.
+Die	PDS	 d	Die
+soll	VMFIN	 sollen	soll
+man	PIS	 man	man
+heyß	ADJA	 UNKNOWN	heyß
+fürtragen	NN	 UNKNOWN	fürtragen
+in	APPR	 in	in
+verdeckt	ADJD	 verdeckt	verdeckt
+schüsseln	VVINF	 UNKNOWN	schüsseln
+.	$.	.	$.	 .	|	.
+Zu	APPR	 zu	Zu
+Fischen	NN	 Fisch|Fischen	Fischen
+vnd	KON	 und	und
+Krebsen	NN	 Krebs	Krebsen
+mag	VMFIN	 mögen	mag
+man	PIS	 man	man
+Weichsel	NN	 Weichsel	Weichsel
+Salsen	NN	 UNKNOWN	Salsen
+haben	VAINF	 haben	haben
+.	$.	.	$.	 .	|	.
+Wer	PWS	 wer	Wer
+Fisch	NN	 Fisch	Fisch
+vnd	KON	 und	und
+Krebs	NN	 Krebs	Krebs
+jsset	VVFIN	 UNKNOWN	jsset
+</seg>
+<seg type="newline">
+der	ART	 d	der
+hüt	NN	 UNKNOWN	hüt
+sich	PRF	 er|es|sie	sich
+vor	APPR	 vor	vor
+milch	ADJA	 UNKNOWN	milch
+vnd	KON	 und	und
+wasser	VVIMP	 wassern	wasser
+trincken	VVINF	 UNKNOWN	trincken
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

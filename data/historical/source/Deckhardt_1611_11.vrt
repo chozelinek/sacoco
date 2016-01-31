@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Deckhardt_1611_11" collection="historical" source="Deckhardt" url="none" year="1611" decade="1610-1620" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Hecht|" method="|polnisch|" ref="[1611:91]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+Hecht	NN	 Hecht	Hecht
+in	APPR	 in	in
+einer	ART	 ein	einer
+Polnischen	NN	 Polnische	Polnischen
+Brüe	NE	 UNKNOWN	Brüe
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nim	VVFIN	 UNKNOWN	nimb
+einen	ART	 ein	einen
+Schüssel	NN	 Schüssel	Schüssel
+Hecht	NN	 Hecht	Hecht
+</seg>
+<seg type="newline">
+schupe	NN	 UNKNOWN	schupe
+oder	KON	 oder	oder
+schneide	VVFIN	 schneiden	schneide
+jhme	VVFIN	 UNKNOWN	jhme
+die	ART	 d	die
+schupen	NN	 UNKNOWN	schupen
+abe	PAV	 dabei	dabei
+</seg>
+<seg type="newline">
+zerhacke	VVFIN	 UNKNOWN	zerhacke
+jhn	PPER	 er	ihn
+auff	APPR	 auf	auf
+beyden	NN	 UNKNOWN	beyden
+seiten	APPR	 seiten	seiten
+mit	APPR	 mit	mit
+kleinen	ADJA	 klein	kleinen
+schnitzlein	NN	 UNKNOWN	schnitzlein
+</seg>
+<seg type="newline">
+daranch	VVFIN	 UNKNOWN	daranch
+reis	VVIMP	 reisen	reis
+jhn	PPER	 er	ihn
+vnd	KON	 und	und
+mache	VVFIN	 machen	mache
+stückn	NE	 UNKNOWN	stückn
+draus	PAV	 draus	draus
+</seg>
+<seg type="newline">
+wasche	VVFIN	 waschen	wasche
+sie	PPER	 sie	sie
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+besprenge	VVFIN	 UNKNOWN	besprenge
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+saltz	ADJA	 kalt	kalten
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+las	VVFIN	 lesen	las
+sie	PPER	 sie	sie
+eine	ART	 ein	eine
+halbe	ADJA	 halb	halbe
+stunde	VVFIN	 stunden	stunde
+liegen	VVFIN	 liegen	liegen
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+dessen	PDS	 d	dessen
+mache	VVFIN	 machen	mache
+die	ART	 d	die
+Brüe	NE	 UNKNOWN	Brüe
+darzu	PAV	 dazu	dazu
+.	$.	.	$.	 .	|	.
+Nim	VVFIN	 UNKNOWN	nimb
+ein	ART	 ein	ein
+gut	ADJD	 gut	gut
+theil	ADJA	 UNKNOWN	theil
+geschelte	ADJD	 gescheit	gescheit
+Zwibeln	NN	 UNKNOWN	Zwibeln
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+ein	ART	 ein	ein
+gut	ADJD	 gut	gut
+theil	ADJA	 UNKNOWN	theil
+Petersilgen	NN	 UNKNOWN	Petersilgen
+wurtzeln	VVFIN	 UNKNOWN	wurtzeln
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+ein	ART	 ein	ein
+bahr	NN	 UNKNOWN	bahr
+Opffel	NN	 UNKNOWN	Opffel
+</seg>
+<seg type="newline">
+schneide	VVFIN	 schneiden	schneide
+alles	PIS	 alle	alles
+grob	ADJD	 grob	grob
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+las	VVFIN	 lesen	las
+es	PPER	 es	es
+im	APPRART	 im	im
+Wasser	NN	 Wasser	Wasser
+erstlich	ADJD	 UNKNOWN	erstlich
+sieden	VVINF	 sieden	sieden
+</seg>
+<seg type="newline">
+bis	KON	 bis	bis
+alles	PIS	 alle	alles
+wol	PWAV	 wo	wo
+weich	ADJD	 weich	weich
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+so	ADV	 so	so
+treibe	VVFIN	 treiben	treibe
+es	PPER	 es	es
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Wein	NN	 Wein	Wein
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+sieblein	TRUNC	 UNKNOWN	sieblein
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+tuch	NN	 Tuch	tuch
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+den	ART	 d	den
+Hecht	NN	 Hecht	Hecht
+in	APPR	 in	in
+einen	ART	 ein	einen
+Kessel	NN	 Kessel	Kessel
+oder	KON	 oder	oder
+Fischtigel	NN	 UNKNOWN	Fischtigel
+</seg>
+<seg type="newline">
+geus	NN	 UNKNOWN	geuß
+die	ART	 d	die
+zugerichtete	ADJA	 zugerichtet	zugerichtete
+Brüe	NE	 UNKNOWN	Brüe
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+ist	VAFIN	 sein	ist
+es	PPER	 es	es
+zu	PTKA	 zu	zu
+wenig	ADJD	 wenig	wenig
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+geus	VVPP	 UNKNOWN	geuß
+noch	KON	 noch	noch
+ein	ART	 ein	ein
+glaß	NN	 UNKNOWN	glaß
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+etwa	ADV	 etwa	etwa
+vier	CARD	 vier	vier
+löffelvol	NN	 UNKNOWN	löffelvol
+Weinessig	NN	 Weinessig	Weinessig
+dazu	PAV	 dazu	dazu
+.	$.	.	$.	 .	|	.
+Würtze	VVFIN	 UNKNOWN	Würtze
+es	PPER	 es	es
+mit	APPR	 mit	mit
+Ingwer	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+vnd	KON	 und	und
+Saffran	NN	 Safran	Safran
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+las	VVFIN	 lesen	las
+den	ART	 d	den
+Hecht	NN	 Hecht	Hecht
+vngeuehr	VVFIN	 UNKNOWN	vngeuehr
+eine	ART	 ein	eine
+halbe	ADJA	 halb	halbe
+stunde	VVFIN	 stunden	stunde
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+thue	NE	 UNKNOWN	thue
+Zucker	NN	 Zucker	Zucker
+oder	KON	 oder	oder
+Honig	NN	 Honig	Honig
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+geus	NN	 UNKNOWN	geuß
+noch	ADV	 noch	noch
+mehr	PIAT	 mehr	mehr
+Essig	NN	 Essig	Essig
+darzu	PAV	 dazu	dazu
+.	$.	.	$.	 .	|	.
+Das	ART	 d	Das
+Södlein	NN	 UNKNOWN	Södlein
+mus	VVFIN	 UNKNOWN	mus
+aber	ADV	 aber	aber
+nicht	PTKNEG	 nicht	nicht
+zu	PTKA	 zu	zu
+treuge	ADJD	 UNKNOWN	treuge
+einsieden	VVINF	 einziehen	einziehen
+</seg>
+<seg type="newline">
+noch	KON	 noch	noch
+zu	APPR	 zu	zu
+dicke	ADJA	 dick	dicke
+werden	VAINF	 werden	werden
+.	$.	.	$.	 .	|	.
+Richte	VVFIN	 richten	Richte
+dan	NE	 Dan	dan
+den	ART	 d	den
+Hecht	NN	 Hecht	Hecht
+fein	ADJD	 fein	fein
+gantz	ADJD	 ganz	ganz
+an	PTKVZ	 an	an
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+geus	NN	 UNKNOWN	geuß
+das	ART	 d	das
+Södlein	NN	 UNKNOWN	Södlein
+darüber	PAV	 darüber	darüber
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

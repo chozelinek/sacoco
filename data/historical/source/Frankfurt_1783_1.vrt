@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Frankfurt_1783_1" collection="historical" source="Frankfurt" url="http://www.uni-giessen.de/gloning/tx/1789ffkb.htm" language="deu" year="1783" decade="1780-1790" period="1750-1800" type="|none|" course="|none|" cuisine="|none|" ingredient="|Huhn|" method="|gebraten|" ref="[]">
+<title>
+<seg type="newline">
+3	CARD	3	CARD	 3	|	3
+)	$(	)	$(	 )	|	)
+Einen	NN	 Eine	Einen
+welschen	ADJA	 welsch	welschen
+Hahn	NN	 Hahn	Hahn
+zu	PTKZU	 zu	zu
+braten	VVINF	 braten	braten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Man	PIS	 man	Man
+nimmt	VVFIN	 nehmen	nimmt
+einen	ART	 ein	einen
+Welschen	NN	 Welsche	Welschen
+,	$,	,	$,	 ,	|	,
+rupfet	VVFIN	 tupfen	tupfen
+ihn	PPER	 er	ihn
+</seg>
+<seg type="newline">
+sauber	ADJD	 sauber	sauber
+,	$,	,	$,	 ,	|	,
+nimmt	VVFIN	 nehmen	nimmt
+ihn	PPER	 er	ihn
+aus	PTKVZ	 aus	aus
+,	$,	,	$,	 ,	|	,
+waschet	VVINF	 waschen	waschen
+und	KON	 und	und
+reibet	VVFIN	 reiben	reiben
+</seg>
+<seg type="newline">
+ihn	PPER	 er	ihn
+mit	APPR	 mit	mit
+Pfeffer	NN	 Pfeffer	Pfeffer
+und	KON	 und	und
+Salz	NN	 Salz	Salz
+schön	ADJD	 schön	schön
+aus	PTKVZ	 aus	aus
+,	$,	,	$,	 ,	|	,
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+wird	VAFIN	 werden	wird
+er	PPER	 er	er
+aufgezäumt	VVPP	 aufzäumen	aufgezäumt
+,	$,	,	$,	 ,	|	,
+spickt	VVFIN	 spicken	spickt
+denselben	PDS	 derselbe	denselben
+,	$,	,	$,	 ,	|	,
+</seg>
+<seg type="newline">
+läßt	VVFIN	 lassen	läßt
+Butter	NN	 Butter	Butter
+zergehen	VVINF	 zergehen	zergehen
+,	$,	,	$,	 ,	|	,
+trieft	VVFIN	 triefen	trieft
+ihn	PPER	 er	ihn
+zuweilen	ADV	 zuweilen	zuweilen
+</seg>
+<seg type="newline">
+bis	KON	 bis	bis
+daß	KOUS	 daß	daß
+er	PPER	 er	er
+gahr	ADV	 gar	gar
+ist	VAFIN	 sein	ist
+,	$,	,	$,	 ,	|	,
+dann	ADV	 dann	dann
+richtet	VVFIN	 richten	richtet
+man	PIS	 man	man
+ihn	PPER	 er	ihn
+</seg>
+<seg type="newline">
+auf	APPR	 auf	auf
+einer	ART	 ein	einer
+Schüssel	NN	 Schüssel	Schüssel
+an	PTKVZ	 an	an
+,	$,	,	$,	 ,	|	,
+zieret	VVFIN	 zeihen|ziehen	ziehen
+selben	PDS	 selb	selben
+mit	APPR	 mit	mit
+</seg>
+<seg type="newline">
+Citronen=Schnitten	NN	 UNKNOWN	Citronen=Schnitten
+.	$.	.	$.	 .	|	.
+Auf	APPR	 auf	Auf
+eben	ADV	 eben	eben
+die	ART	 d	die
+Art	NN	 Art	Art
+</seg>
+<seg type="newline">
+werden	VAFIN	 werden	werden
+auch	ADV	 auch	auch
+die	ART	 d	die
+junge	ADJA	 jung	junge
+Hühner	NN	 Huhn	Hühner
+zugericht	VVFIN	 UNKNOWN	zugericht
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

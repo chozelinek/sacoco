@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Hohberg_1715_7" collection="historical" source="Hohberg" url="none" year="1715" decade="1710-1720" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1715:22]">
+<title>
+<seg type="newline">
+Sardellen	NN	 Sardelle	Sardellen
+zu	PTKZU	 zu	zu
+zurichten	VVINF	 zurichten	zurichten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wasche	VVFIN	 waschen	Wasche
+die	ART	 d	die
+Sardellen	NN	 Sardelle	Sardellen
+aus	APPR	 aus	aus
+etlichen	PIAT	 etlich	etlichen
+Wassern	NN	 Wasser	Wassern
+</seg>
+<seg type="newline">
+gräte	VVFIN	 UNKNOWN	gräte
+sie	PPER	 sie	sie
+aus	APPR	 aus	aus
+</seg>
+<seg type="newline">
+jedoch	ADV	 jedoch	jedoch
+so	ADV	 so	so
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+sie	PPER	 sie	sie
+am	APPRART	 am	am
+Schweiff	NN	 UNKNOWN	Schweiff
+beysammen	VVFIN	 UNKNOWN	beysammen
+hangen	ADV	 lange	lange
+bleibe	VVFIN	 bleiben	bleibe
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+sie	PPER	 sie	sie
+etwaneine	ADJA	 UNKNOWN	etwaneine
+Stund	VAFIN	 sein	sind
+lang	ADJD	 lang	lang
+in	APPR	 in	in
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+rolle	VVFIN	 rollen	rolle
+die	ART	 d	die
+zwey	CARD	 zwei	zwei
+Theil	NN	 Teil	Teil
+zusam[-]en	VVFIN	 UNKNOWN	zusam[-]en
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+das	ART	 d	das
+Schwäntzlein	NN	 UNKNOWN	Schwäntzlein
+in	APPR	 in	in
+der	ART	 d	der
+Mitten	NN	 Mitte	Mitten
+zu	PTKZU	 zu	zu
+liegen	VVINF	 liegen	liegen
+kommet	VVFIN	 kommen	kommet
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+lege	VVFIN	 legen	lege
+es	PPER	 es	es
+Hertzweis	NN	 UNKNOWN	Hertzweis
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+auf	APPR	 auf	auf
+eine	ART	 ein	eine
+ander	ADV	 UNKNOWN	ander
+belibige	ADJA	 UNKNOWN	belibige
+Manier	NN	 Manier	Manier
+</seg>
+<seg type="newline">
+mische	VVFIN	 mischen	mische
+Wein=Eßig	NN	 UNKNOWN	Wein=Essig
+</seg>
+<seg type="newline">
+Baum=Oel	NN	 UNKNOWN	Baum=Oel
+und	KON	 und	und
+Pfeffer	NN	 Pfeffer	Pfeffer
+untereinander	ADV	 untereinander	untereinander
+</seg>
+<seg type="newline">
+gieß	VVIMP	 gießen	gieß
+es	PPER	 es	es
+über	APPR	 über	über
+die	ART	 d	die
+Sardellen	NN	 Sardelle	Sardellen
+</seg>
+<seg type="newline">
+streue	VVFIN	 streuen	streue
+kleine	ADJA	 klein	kleine
+würfflicht=geschnittene	ADJA	 UNKNOWN	würfflicht=geschnittene
+Citronen=Schelffen	NN	 UNKNOWN	Citronen=Schelffen
+</seg>
+<seg type="newline">
+Eßig	NN	 UNKNOWN	Eßig
+</seg>
+<seg type="newline">
+Cappern	TRUNC	 UNKNOWN	Cappern
+</seg>
+<seg type="newline">
+und	KON	 und	und
+Granaten=Kerner	NN	 UNKNOWN	Granaten=Kerner
+darauf	PAV	 darauf	darauf
+</seg>
+<seg type="newline">
+belege	VVFIN	 belegen	belege
+den	ART	 d	den
+Schüssel=Rand	NN	 UNKNOWN	Schüssel=Rand
+mit	APPR	 mit	mit
+Oliven	ADJA	 oliv	Oliven
+</seg>
+<seg type="newline">
+beziere	NN	 UNKNOWN	Geliert
+ihn	PPER	 er	ihn
+mit	APPR	 mit	mit
+Pomerantzen	NN	 UNKNOWN	Pomerantzen
+Blättern	NN	 Blatt|Blättern	Blättern
+</seg>
+<seg type="newline">
+und	KON	 und	und
+frischem	ADJA	 frisch	frischem
+Blumwerck	NN	 UNKNOWN	Blumwerck
+</seg>
+<seg type="newline">
+und	KON	 und	und
+trags	NN	 UNKNOWN	trags
+zu=	VVFIN	 UNKNOWN	zu=
+oder	KON	 oder	oder
+an	APPR	 an	an
+statt	APPR	 statt	statt
+eines	ART	 ein	eines
+Salats	NN	 Salat	Salat
+auf	PTKVZ	 auf	auf
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

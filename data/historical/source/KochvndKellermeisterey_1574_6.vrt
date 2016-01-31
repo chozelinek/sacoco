@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Koch_vnd_Kellermeisterey_1574_6" collection="historical" source="Koch_vnd_Kellermeisterey" url="none" year="1574" decade="1570-1580" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1574:47v]">
+<title>
+<seg type="newline">
+Von	APPR	 von	Von
+Salsen	NN	 UNKNOWN	Salsen
+:	$.	:	$.	 :	|	:
+Boley	ADJA	 UNKNOWN	Boley
+Salsen	NN	 UNKNOWN	Salsen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Stoß	VVIMP	 stoßen	Stoß
+eitel	ADJD	 eitel	eitel
+Boley	NE	 UNKNOWN	Boley
+mit	PTKVZ	 mit	mit
+wein	VVIMP	 weinen	wein
+vnbrot	NN	 UNKNOWN	vnbrot
+darein	ADV	 darein	darein
+gmischt	VVFIN	 UNKNOWN	gmischt
+.	$.	.	$.	 .	|	.
+Mach	VVIMP	 machen	Mach
+es	PPER	 es	es
+an	APPR	 an	an
+der	ART	 d	der
+anricht	NN	 UNKNOWN	andickt
+ab	PTKVZ	 ab	ab
+</seg>
+<seg type="newline">
+als	KOKOM	 als	als
+ander	ADV	 UNKNOWN	ander
+Salsen	NN	 UNKNOWN	Salsen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

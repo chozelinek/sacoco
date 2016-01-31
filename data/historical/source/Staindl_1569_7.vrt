@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Staindl_1569_7" collection="historical" source="Staindl" url="none" year="1569" decade="1560-1570" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[39v]">
+<title>
+<seg type="newline">
+Praitling	NN	 UNKNOWN	Praitling
+von	APPR	 von	von
+Flecken	NN	 Flecken	Flecken
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Auff	NN	 UNKNOWN	Auff
+ein	ART	 ein	ein
+andere	ADJA	 ander	andere
+form	VVIMP	 formen	form
+mit	APPR	 mit	mit
+Käß+	NN	 UNKNOWN	Käß+
+So	ADV	 so	So
+nimb	VVFIN	 UNKNOWN	nimb
+ein	ART	 ein	ein
+guoten	ADJA	 UNKNOWN	guoten
+frischen	ADJA	 frisch	frischen
+Käß	NN	 UNKNOWN	Käß
+</seg>
+<seg type="newline">
+reyb	VVFIN	 UNKNOWN	reyb
+jn	NE	 UNKNOWN	jn
+</seg>
+<seg type="newline">
+schlag	VVIMP	 schlagen	schlag
+ayer	VVFIN	 UNKNOWN	ayer
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+mach	VVIMP	 machen	mach
+ein	ART	 ein	ein
+taig	ADJD	 UNKNOWN	taig
+in	APPR	 in	in
+der	ART	 d	der
+dick	ADJD	 dick	dick
+als	KOKOM	 als	als
+mit	APPR	 mit	mit
+dem	ART	 d	dem
+Ayerschotten	NN	 UNKNOWN	Ayerschotten
+</seg>
+<seg type="newline">
+magst	VMFIN	 mögen	magst
+wol	PWAV	 wo	wo
+Weinberlin	NE	 UNKNOWN	Weinberlin
+darein	ADV	 darein	darein
+thuon	NN	 UNKNOWN	thuon
+</seg>
+<seg type="newline">
+schlags	VVFIN	 UNKNOWN	schlags
+auch	ADV	 auch	auch
+auff	APPR	 auf	auf
+ein	ART	 ein	ein
+taig	ADJD	 UNKNOWN	taig
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+oben	ADV	 oben	oben
+steht	VVFIN	 stehen	steht
+</seg>
+<seg type="newline">
+bachs	NE	 Bach	bachs
+in	APPR	 in	in
+einem	ART	 ein	einem
+Bachofen	NN	 Bachofen	Bachofen
+</seg>
+<seg type="newline">
+aber	KON	 aber	aber
+sie	PPER	 sie	sie
+rinnen	VVFIN	 rinnen	rinnen
+fast	ADV	 fast	fast
+gern	ADV	 gern	gern
+ab	ADV	 ab	ab
+</seg>
+<seg type="newline">
+muost	VVFIN	 UNKNOWN	muost
+eben	ADV	 eben	eben
+acht	CARD	 acht	acht
+auff	APPR	 auf	auf
+die	ART	 d	die
+füll	VVIMP	 füllen	füll
+haben	VAFIN	 haben	haben
+</seg>
+<seg type="newline">
+solch	PIAT	 solch	solch
+heißt	VVFIN	 heißen	heißt
+man	PIS	 man	man
+wol	PWAV	 wo	wo
+flecken	ADJA	 UNKNOWN	flecken
+</seg>
+<seg type="newline">
+haißts	NN	 UNKNOWN	haißts
+auch	ADV	 auch	auch
+prätling	ADJD	 UNKNOWN	prätling
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

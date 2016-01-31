@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Prasmosfky_1671_26" collection="historical" source="Prasmosfky" url="none" year="1671" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1671:30]">
+<title>
+<seg type="newline">
+77.	ADJA	 @ord@	77.
+Brod	NN	 Brot	Brot
+auf	APPR	 auf	auf
+Spannische	ADJA	 UNKNOWN	Spannische
+Art	NN	 Art	Art
+machen	VVFIN	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimein	NN	 UNKNOWN	Nimein
+Ey	NE	 Ey	Ey
+zehen	NN	 Zeh|Zehe	zehen
+</seg>
+<seg type="newline">
+klopffe	VVFIN	 UNKNOWN	klopffe
+sie	PPER	 sie	sie
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+halb	ADJD	 halb	halb
+Pfund	NN	 Pfund	Pfund
+kleingestossenen	ADJA	 UNKNOWN	kleingestossenen
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+dritthalben	ADJA	 UNKNOWN	dritthalben
+Vierting	NN	 UNKNOWN	Vierting
+schön	ADJD	 schön	schön
+Meel	NN	 UNKNOWN	Meel
+</seg>
+<seg type="newline">
+gut	ADJD	 gut	gut
+Rosen=Wasser	NN	 Rosenwasser	Rosenwasser
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+viel	ADV	 viel	viel
+du	PPER	 du	du
+wilt	NE	 Wilt	wilt
+</seg>
+<seg type="newline">
+knete	VVFIN	 kneten	knete
+es	PPER	 es	es
+untereinander	ADV	 untereinander	untereinander
+</seg>
+<seg type="newline">
+beschmiere	VVFIN	 UNKNOWN	beschmiere
+sodann	ADV	 sodann	sodann
+die	ART	 d	die
+Mödel	NN	 UNKNOWN	Mödel
+mit	APPR	 mit	mit
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+gieß	VVIMP	 gießen	gieß
+den	ART	 d	den
+Täig	ADJD	 UNKNOWN	Täig
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+doch	ADV	 doch	doch
+also	ADV	 also	also
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+sie	PPER	 sie	sie
+nicht	PTKNEG	 nicht	nicht
+zu	PTKA	 zu	zu
+voll	ADJD	 voll	voll
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+und	KON	 und	und
+bachs	NE	 Bach	bachs
+in	APPR	 in	in
+einem	ART	 ein	einem
+Oeffelein	NN	 UNKNOWN	Oeffelein
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

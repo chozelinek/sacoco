@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Stockholm_1647_7" collection="historical" source="Stockholm" url="none" year="1647" decade="1640-1650" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1647:211 [eigtl. 112]]">
+<body>
+<seg type="newline">
+Hollunder	NN	 UNKNOWN	Hollunder
+blüht	VVFIN	 blühen	blüht
+Wien	NE	 Wien	Wien
+</seg>
+<seg type="newline">
+Hollunder	NN	 UNKNOWN	Hollunder
+blüht	VVFIN	 blühen	blüht
+mit	APPR	 mit	mit
+den	ART	 d	den
+stengelen	NN	 UNKNOWN	stengelen
+im	APPRART	 im	im
+schatten	VVFIN	 schatten	schatten
+getreuget	ADJD	 UNKNOWN	getreuget
+</seg>
+<seg type="newline">
+klein	ADJD	 klein	klein
+geplücket	VVPP	 UNKNOWN	geplücket
+oder	KON	 oder	oder
+geschnitten	VVPP	 schneiden	geschnitten
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+ein	ART	 ein	ein
+beutel	VVIMP	 beuteln	beutel
+mit	APPR	 mit	mit
+Kieselstein	NE	 Kieselstein	Kieselstein
+in	APPR	 in	in
+ein	ART	 ein	ein
+Fas	NN	 UNKNOWN	Fas
+getan	VVPP	 tun	getan
+</seg>
+<seg type="newline">
+Wein	NN	 Wein	Wein
+darauf	PAV	 darauf	darauf
+gegossen	VVPP	 gießen	gegossen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

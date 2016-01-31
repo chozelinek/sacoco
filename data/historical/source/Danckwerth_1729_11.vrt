@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Danckwerth_1729_11" collection="historical" source="Danckwerth" url="none" year="1729" decade="1720-1730" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1729:1553]">
+<title>
+<seg type="newline">
+[	$(	[	$(	 [	|	[
+53.	ADJA	 @ord@	53.
+Lamms=Fleisch	NN	 UNKNOWN	Lamms=Fleisch
+zu	PTKZU	 zu	zu
+kochen	VVINF	 kochen	kochen
+und	KON	 und	und
+einzumachen	VVIZU	 UNKNOWN	einzumachen
+.	$.	.	$.	 .	|	.
+]	$(	]	$(	 ]	|	]
+54.	ADJA	 @ord@	54.
+Andere	ADJA	 ander	Andere
+Arth	NE	 UNKNOWN	Arth
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Man	PIS	 man	Man
+nimmt	VVFIN	 nehmen	nimmt
+Lamm=fleisch	NN	 UNKNOWN	Lamm=fleisch
+</seg>
+<seg type="newline">
+was	PIAT	 was	was
+einem	PIS	 ein	einem
+beliebet	VVFIN	 UNKNOWN	beliebet
+</seg>
+<seg type="newline">
+am	APPRART	 am	am
+besten	ADJA	 gut	besten
+aber	ADV	 aber	aber
+ist	VAFIN	 sein	ist
+das	ART	 d	das
+Vordertheil	NN	 UNKNOWN	Vordertheil
+</seg>
+<seg type="newline">
+putzt	VVFIN	 putzen	putzt
+es	PPER	 es	es
+gebührent	ADJD	 UNKNOWN	gebührent
+ab	PTKVZ	 ab	ab
+in	APPR	 in	in
+gekochten	ADJA	 gekocht	gekochten
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+läst	VVFIN	 UNKNOWN	läst
+es	PPER	 es	es
+darauf	PAV	 darauf	darauf
+in	APPR	 in	in
+Wasser	NN	 Wasser	Wasser
+kochen	VVINF	 kochen	kochen
+</seg>
+<seg type="newline">
+schäumet	VVFIN	 UNKNOWN	schäumet
+es	PPER	 es	es
+wohl	ADV	 wohl	wohl
+</seg>
+<seg type="newline">
+thut	NE	 UNKNOWN	thue
+daran	PAV	 daran	daran
+Nägelein	ADJA	 UNKNOWN	Nägelein
+</seg>
+<seg type="newline">
+Muscaten=blumen	NN	 UNKNOWN	Muscaten=blumen
+</seg>
+<seg type="newline">
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Butter	NN	 Butter	Butter
+und	KON	 und	und
+geriebene	ADJA	 gerieben	geriebene
+Semmel	NN	 Semmel	Semmel
+</seg>
+<seg type="newline">
+dazu	PAV	 dazu	dazu
+kan	ADV	 nun	Nun
+man	PIS	 man	man
+auch	ADV	 auch	auch
+Zucker=Wurtzeln	ADJA	 UNKNOWN	Zucker=Wurtzeln
+thun	NN	 UNKNOWN	thue
+</seg>
+<seg type="newline">
+wenn	KOUS	 wenn	wenn
+man	PIS	 man	man
+sie	PPER	 sie	sie
+haben	VAFIN	 haben	haben
+kan	ADV	 nun	Nun
+</seg>
+<seg type="newline">
+läst	VVFIN	 UNKNOWN	läst
+es	PPER	 es	es
+damit	PAV	 damit	damit
+gar	ADV	 gar	gar
+kochen	VVINF	 kochen	kochen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+richtet	VVFIN	 richten	richtet
+es	PPER	 es	es
+an	PTKVZ	 an	an
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

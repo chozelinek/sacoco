@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Wecker_1679_25" collection="historical" source="Wecker" url="none" year="1679" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Hecht|" method="|Pastete|" ref="[1679:360]">
+<title>
+<seg type="newline">
+Pasteten	NN	 Pastete	Pasteten
+von	APPR	 von	von
+einem	ART	 ein	einem
+Hecht	NN	 Hecht	Hecht
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+ein	ART	 ein	ein
+Hecht	NN	 Hecht	Hecht
+</seg>
+<seg type="newline">
+zerschneid	NN	 UNKNOWN	zerschneid
+jhn	PPER	 er	ihn
+zu	PTKZU	 zu	zu
+stücken	VVINF	 stücken	stücken
+</seg>
+<seg type="newline">
+schab	VVIMP	 schab	schab
+sie	PPER	 sie	sie
+zuvor	ADV	 zuvor	zuvor
+sauber	PTKVZ	 sauber	sauber
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+wasch	VVIMP	 waschen	wasch
+sie	PPER	 sie	sie
+sauber	ADJD	 sauber	sauber
+auß	VMFIN	 müssen	muß
+</seg>
+<seg type="newline">
+saltz	ADJA	 kalt	kalten
+vnd	KON	 und	und
+würtz	VVFIN	 würzen	würzt
+sie	PPER	 sie	sie
+auffs	NE	 UNKNOWN	auffs
+allerbest	ADJD	 UNKNOWN	allerbest
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+ein	PTKVZ	 ein	ein
+weil	KOUS	 weil	weil
+darinn	NN	 UNKNOWN	darinn
+ligen	ADJA	 UNKNOWN	ligen
+</seg>
+<seg type="newline">
+nims	NN	 UNKNOWN	nims
+vnd	KON	 und	und
+legs	VVFIN	 legen	legt
+in	APPR	 in	in
+ein	ART	 ein	ein
+Pfann	NN	 UNKNOWN	Pfann
+</seg>
+<seg type="newline">
+geuß	VVPP	 UNKNOWN	geuß
+guten	ADJA	 gut	guten
+Wein	NN	 Wein	Wein
+vnd	KON	 und	und
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Erbsbrüh	NN	 UNKNOWN	Erbsbrüh
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+schneid	VVFIN	 schneiden	schneiden
+Lemonien	NE	 UNKNOWN	Lemoni
+</seg>
+<seg type="newline">
+legs	VVFIN	 legen	legt
+auch	ADV	 auch	auch
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+sieden	VVINF	 sieden	sieden
+</seg>
+<seg type="newline">
+doch	KON	 doch	doch
+nicht	PTKNEG	 nicht	nicht
+gar	ADV	 gar	gar
+an	APPR	 an	an
+die	ART	 d	die
+statt	APPR	 statt	statt
+</seg>
+<seg type="newline">
+nim	ADJA	 UNKNOWN	nimb
+vier	CARD	 vier	vier
+Eyer	NE	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+schön	ADJD	 schön	schön
+Mäl	NN	 UNKNOWN	Mäl
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Schmaltz	NN	 Schmalz	Schmalz
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+mach	VVIMP	 machen	mach
+den	ART	 d	den
+Teig	NN	 Teig	Teig
+an	APPR	 an	an
+daß	KOUS	 daß	daß
+er	PPER	 er	er
+wol	PWAV	 wo	wo
+vest	ADJD	 UNKNOWN	vest
+sey	VVPP	 UNKNOWN	sey
+</seg>
+<seg type="newline">
+treib	VVIMP	 treiben	treib
+jhn	PPER	 er	ihn
+in	APPR	 in	in
+die	ART	 d	die
+Höhe	NN	 Höhe	Höhe
+auff	PTKVZ	 auf	auf
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+ein	ART	 ein	ein
+Pastetenhafen	NN	 UNKNOWN	Pastetenhafen
+seyn	NE	 UNKNOWN	seyn
+soll	VMFIN	 sollen	soll
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+die	ART	 d	die
+Fisch	NN	 Fisch	Fisch
+mit	APPR	 mit	mit
+sampt	APPR	 samt	samt
+der	ART	 d	der
+Brüh	ADJD	 früh	früh
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+leg	VVIMP	 legen	leg
+Butter	NN	 Butter	Butter
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+mach	VVIMP	 machen	mach
+ein	ART	 ein	ein
+Deckel	NN	 Deckel	Deckel
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+ein	ART	 ein	ein
+Kräntzlein	NN	 UNKNOWN	Kräntzlein
+darumb	VVFIN	 UNKNOWN	darumb
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+bachen	NN	 Kochen	Kochen
+anderthalb	ADJD	 anderthalb	anderthalb
+Stund	VAFIN	 sein	sind
+</seg>
+<seg type="newline">
+gibs	NN	 UNKNOWN	gilbs
+warm	ADJD	 warm	warm
+zu	PTKZU	 zu	zu
+essen	VVINF	 essen	essen
+</seg>
+<seg type="newline">
+also	ADV	 also	also
+ist	VAFIN	 sein	ist
+es	PPER	 es	es
+gerecht	ADJD	 gerecht	gerecht
+vnd	KON	 und	und
+gut	ADJD	 gut	gut
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

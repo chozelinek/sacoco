@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Schuppe_1698_1" collection="historical" source="Schuppe" url="none" year="1698" decade="1690-1700" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Huhn|" method="|Suppe|" ref="[1698:1f.]">
+<title>
+<seg type="newline">
+I.	APPRART	 in	I.
+Suppe	NN	 Suppe	Suppe
+Sante	VVFIN	 UNKNOWN	Sante
+,	$,	,	$,	 ,	|	,
+von	APPR	 von	von
+Hünern	NN	 UNKNOWN	Hünern
+und	KON	 und	und
+Pastinaken	NN	 UNKNOWN	Pastinaken
+garniret	VVFIN	 UNKNOWN	garniret
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+junge	ADJA	 jung	junge
+Hüner	NN	 UNKNOWN	Hünern
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+sie	PPER	 sie	sie
+rein	PTKVZ	 rein	rein
+</seg>
+<seg type="newline">
+und	KON	 und	und
+beuge	VVFIN	 beugen	beuge
+sie	PPER	 sie	sie
+wohl	ADV	 wohl	wohl
+ein	PTKVZ	 ein	ein
+</seg>
+<seg type="newline">
+gib	VVIMP	 geben	gib
+Fleisch=Brühe	NN	 Fleischbrühe	Fleischbrühe
+darauff	PAV	 drauf	drauf
+</seg>
+<seg type="newline">
+wo	PWAV	 wo	wo
+man	PIS	 man	man
+welche	PWAT	 welch	welche
+hat	VAFIN	 haben	hat
+</seg>
+<seg type="newline">
+sonst	ADV	 sonst	sonst
+muß	VMFIN	 müssen	muß
+man	PIS	 man	man
+Wasser	NN	 Wasser	Wasser
+darzu	PAV	 dazu	dazu
+nehmen	VVINF	 nehmen	nehmen
+.	$.	.	$.	 .	|	.
+Wenn	KOUS	 wenn	Wenn
+sie	PPER	 sie	sie
+meist	ADV	 meist	meist
+gar	ADV	 gar	gar
+seynd	VAFIN	 sein	sind
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+thue	NN	 UNKNOWN	thue
+den	ART	 d	den
+Sauerampf	NN	 UNKNOWN	Sauerampf
+dabey	PAV	 dabei	dabei
+hinein	ADV	 hinein	hinein
+</seg>
+<seg type="newline">
+Saltz	NN	 Salz	Salz
+daran	PAV	 daran	daran
+und	KON	 und	und
+ein	ART	 ein	ein
+klein	ADJD	 klein	klein
+wenig	ADV	 wenig	wenig
+Mehl	NN	 Mehl	Mehl
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+ihm	PPER	 er	ihm
+die	ART	 d	die
+Klarigkeit	NN	 UNKNOWN	Flaumigkeit
+vergehet	VVPP	 vergessen	vergessen
+</seg>
+<seg type="newline">
+nimm	VVIMP	 nehmen	nimm
+die	ART	 d	die
+Pastinacken	NN	 UNKNOWN	Pastinaken
+</seg>
+<seg type="newline">
+putze	VVFIN	 putzen	putze
+sie	PPER	 sie	sie
+rein	PTKVZ	 rein	rein
+</seg>
+<seg type="newline">
+brich	VVIMP	 brechen	brich
+den	ART	 d	den
+Kern	NN	 Kern	Kern
+heraus	ADV	 heraus	heraus
+</seg>
+<seg type="newline">
+schneide	VVFIN	 schneiden	schneide
+sie	PPER	 sie	sie
+wie	KOKOM	 wie	wie
+ein	ART	 ein	ein
+Finger	NN	 Finger	Finger
+lang	ADJD	 lang	lang
+</seg>
+<seg type="newline">
+thue	VVFIN	 UNKNOWN	thue
+sie	PPER	 sie	sie
+in	APPR	 in	in
+einen	ART	 ein	einen
+Topff	NN	 Topf	Topf
+oder	KON	 oder	oder
+Kessel	NN	 Kessel	Kessel
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+was	PIAT	 was	was
+man	PIS	 man	man
+hat	VAFIN	 haben	hat
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Butter	NN	 Butter	Butter
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+gieß	VVIMP	 gießen	gieß
+von	APPR	 von	von
+der	ART	 d	der
+Suppe	NN	 Suppe	Suppe
+darauff	PAV	 drauf	drauf
+</seg>
+<seg type="newline">
+und	KON	 und	und
+laß	ADJD	 laß	laß
+sie	PPER	 sie	sie
+gahr	ADV	 gar	gar
+kochen	VVINF	 kochen	kochen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+wann	PWAV	 wann	wann
+du	PPER	 du	du
+wilt	VMFIN	 wollen	will
+Suppen	NN	 Suppe	Suppen
+oder	KON	 oder	oder
+Potage	NN	 Potag	Potage
+anrichten	VVFIN	 anrichten	anrichten
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nimm	VVIMP	 nehmen	nimm
+eine	ART	 ein	eine
+Semmel	NN	 Semmel	Semmel
+</seg>
+<seg type="newline">
+schneide	VVFIN	 schneiden	schneide
+sie	PPER	 sie	sie
+in	APPR	 in	in
+Scheiben	NN	 Scheibe	Scheiben
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+sie	PPER	 sie	sie
+in	APPR	 in	in
+eine	ART	 ein	eine
+Schüssel	NN	 Schüssel	Schüssel
+und	KON	 und	und
+gieß	VVIMP	 gießen	gieß
+von	APPR	 von	von
+der	ART	 d	der
+Suppe	NN	 Suppe	Suppe
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+was	PIAT	 was	was
+man	PIS	 man	man
+sonst	ADV	 sonst	sonst
+hat	VAFIN	 haben	hat
+</seg>
+<seg type="newline">
+darauff	PAV	 drauf	drauf
+</seg>
+<seg type="newline">
+setze	VVFIN	 setzen	setze
+es	PPER	 es	es
+auff	APPR	 auf	auf
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Kohlen	NN	 Kohle	Kohlen
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+es	PPER	 es	es
+kocht	VVFIN	 kochen	kocht
+</seg>
+<seg type="newline">
+richte	VVFIN	 richten	richte
+die	ART	 d	die
+Hüner	NN	 UNKNOWN	Hünern
+darauff	PAV	 drauf	drauf
+an	PTKVZ	 an	an
+</seg>
+<seg type="newline">
+und	KON	 und	und
+garnire	VVFIN	 garnieren	garniert
+auff	APPR	 auf	auf
+den	ART	 d	den
+Rand	NN	 Rand	Rand
+umbher	VVFIN	 UNKNOWN	umbher
+mit	APPR	 mit	mit
+den	ART	 d	den
+Pastinaken	NN	 UNKNOWN	Pastinaken
+oder	KON	 oder	oder
+was	PIAT	 was	was
+man	PIS	 man	man
+sonst	ADV	 sonst	sonst
+hat	VAFIN	 haben	hat
+</seg>
+<seg type="newline">
+und	KON	 und	und
+gieß	VVIMP	 gießen	gieß
+von	APPR	 von	von
+der	ART	 d	der
+Sauerampfer=Suppe	NN	 UNKNOWN	Sauerampfer=Suppe
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+ist	VAFIN	 sein	ist
+es	PPER	 es	es
+fertig	ADJD	 fertig	fertig
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

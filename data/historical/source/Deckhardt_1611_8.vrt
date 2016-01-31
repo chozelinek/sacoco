@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Deckhardt_1611_8" collection="historical" source="Deckhardt" url="none" year="1611" decade="1610-1620" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1611:64]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+ander	ADJA	 UNKNOWN	ander
+Södlein	NN	 UNKNOWN	Södlein
+vber	ADJA	 UNKNOWN	vber
+gebratens	NN	 UNKNOWN	gebratens
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nim	VVFIN	 UNKNOWN	nimb
+einen	ART	 ein	einen
+löffelvol	NN	 UNKNOWN	löffelvol
+schön	ADJD	 schön	schön
+weitzen	ADJA	 UNKNOWN	weitzen
+Mehl	NN	 Mehl	Mehl
+</seg>
+<seg type="newline">
+röste	VVFIN	 UNKNOWN	röste
+es	PPER	 es	es
+in	APPR	 in	in
+einem	ART	 ein	einem
+Schmaltze	NN	 UNKNOWN	Schmaltze
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+warmer	ADJA	 warm	warmer
+Butter	NN	 Butter	Butter
+bis	APPR	 bis	bis
+es	PPER	 es	es
+braun	ADJD	 braun	braun
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+geus	NN	 UNKNOWN	geuß
+den	ART	 d	den
+ein	ART	 ein	ein
+gleselein	ADJA	 UNKNOWN	gleselein
+süssen	ADJA	 süß	süssen
+oder	KON	 oder	oder
+andern	ADJA	 ander	andern
+guten	ADJA	 gut	guten
+Wein	NN	 Wein	Wein
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+thue	NE	 UNKNOWN	thue
+ein	ART	 ein	ein
+gut	ADJD	 gut	gut
+theil	ADJA	 UNKNOWN	theil
+kleine	ADJA	 klein	kleine
+Rosinlein	NN	 UNKNOWN	Rosinlein
+dran	PTKVZ	 dran	dran
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+würtze	VVFIN	 würzen	würzt
+es	PPER	 es	es
+mit	APPR	 mit	mit
+Ingwer	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Zimmet	NN	 Zimt	Zimt
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+vnd	KON	 und	und
+Neglein	NN	 UNKNOWN	Neglein
+</seg>
+<seg type="newline">
+las	VVFIN	 lesen	las
+es	PPER	 es	es
+miteinander	ADV	 miteinander	miteinander
+sieden	VVINF	 sieden	sieden
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+richte	VVFIN	 richten	richte
+es	PPER	 es	es
+den	PDS	 d	den
+an	PTKVZ	 an	an
+</seg>
+<seg type="newline">
+worüber	PWAV	 worüber	worüber
+man	PIS	 man	man
+wil	VVFIN	 UNKNOWN	wil
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Wecker_1679_5" collection="historical" source="Wecker" url="none" year="1679" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:60]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+herrlich	ADJD	 herrlich	herrlich
+Essen	NN	 Essen	Essen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Ich	PPER	 ich	Ich
+habe	VAFIN	 haben	habe
+gesagt	VVPP	 sagen	gesagt
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+dir	PPER	 du	dir
+die	ART	 d	die
+Brüh	ADJD	 früh	früh
+von	APPR	 von	von
+dem	ART	 d	dem
+vorgeschriebenen	ADJA	 vorgeschrieben	vorgeschriebenen
+Zeug	NN	 Zeug	Zeug
+nicht	PTKNEG	 nicht	nicht
+geliebet	VVPP	 UNKNOWN	geliebet
+</seg>
+<seg type="newline">
+welche	PRELS	 welch	welche
+doch	KON	 doch	doch
+vast	ADV	 fast	fast
+herrlich	ADJD	 herrlich	herrlich
+gut	ADJD	 gut	gut
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+brauchs	VVFIN	 UNKNOWN	brauchs
+also	ADV	 also	also
+:	$.	:	$.	 :	|	:
+Seude	NE	 UNKNOWN	Seude
+Eyer	NE	 UNKNOWN	Eyer
+hart	ADJD	 hart	hart
+</seg>
+<seg type="newline">
+schöl	NN	 UNKNOWN	schöl
+sie	PPER	 sie	sie
+</seg>
+<seg type="newline">
+schneide	VVFIN	 schneiden	schneide
+das	ART	 d	das
+weisse	ADJA	 weiß	weisse
+höflich	ADJD	 höflich	höflich
+darvon	PAV	 darin	darin
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+das	ART	 d	das
+gelbe	ADJA	 gelb	gelbe
+gantz	ADV	 ganz	ganz
+bleibe	VVFIN	 bleiben	bleibe
+</seg>
+<seg type="newline">
+nimm	VVIMP	 nehmen	nimm
+einen	ART	 ein	einen
+guten	ADJA	 gut	guten
+Wein	NN	 Wein	Wein
+oder	KON	 oder	oder
+Malvasier	NN	 UNKNOWN	Malvasier
+</seg>
+<seg type="newline">
+hast	VAFIN	 haben	hast
+du	PPER	 du	du
+den	ART	 d	den
+nicht	PTKNEG	 nicht	nicht
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nimm	VVIMP	 nehmen	nimm
+den	ART	 d	den
+besten	ADJA	 gut	besten
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+den	ART	 d	den
+du	PPER	 du	du
+haben	VAFIN	 haben	haben
+kanst	VVPP	 UNKNOWN	kanst
+</seg>
+<seg type="newline">
+brich	VVIMP	 brechen	brich
+jhn	PPER	 er	ihn
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+halben	ADJA	 halb	halben
+Löffel	NN	 Löffel	Löffel
+voll	ADJD	 voll	voll
+Rosenwasser	NN	 Rosenwasser	Rosenwasser
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+zückere	VVFIN	 UNKNOWN	zückere
+jhn	PPER	 er	ihn
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+die	ART	 d	die
+Eyer	NE	 UNKNOWN	Eyer
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+ein	PTKVZ	 ein	ein
+Stund	VAFIN	 sein	sind
+minder	ADJD	 minder	minder
+oder	KON	 oder	oder
+mehr	ADV	 mehr	mehr
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+sie	PPER	 sie	sie
+wol	PWAV	 wo	wo
+durchkriechen	ADJD	 UNKNOWN	durchkriechen
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+der	PDS	 d	der
+Brüh	ADJD	 früh	früh
+nicht	PTKNEG	 nicht	nicht
+zu	APPR	 zu	zu
+viel	PIS	 viel	viel
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+es	PPER	 es	es
+nur	ADV	 nur	nur
+annimmt	VVFIN	 annehmen	annimmt
+</seg>
+<seg type="newline">
+stosse	VVFIN	 stoßen	stosse
+Zimmet	NN	 Zimt	Zimt
+vnd	KON	 und	und
+Nägelein	NN	 UNKNOWN	Nägelein
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+weiche	ADJA	 weich	weiche
+wol	PWAV	 wo	wo
+Weinbeer	NN	 Weizenbier	Weizenbier
+in	APPR	 in	in
+die	ART	 d	die
+Brüh	ADJD	 früh	früh
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+dir	PRF	 du	dir
+von	APPR	 von	von
+dem	ART	 d	dem
+Fleisch	NN	 Fleisch	Fleisch
+blieben	VVFIN	 bleiben	blieben
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+geuß	VVPP	 UNKNOWN	geuß
+über	APPR	 über	über
+die	ART	 d	die
+Eyer	NE	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+auff	APPR	 auf	auf
+einem	ART	 ein	einem
+Kolbecklein	NN	 UNKNOWN	Kolbecklein
+wol	PWAV	 wo	wo
+mit	APPR	 mit	mit
+einander	PRF	 einander	einander
+erwarmen	ADJD	 UNKNOWN	erwarmen
+</seg>
+<seg type="newline">
+bestrewe	VVFIN	 bestreuen	bestreuen
+es	PPER	 es	es
+wol	PWAV	 wo	wo
+mit	APPR	 mit	mit
+Zimmet	NN	 Zimt	Zimt
+</seg>
+<seg type="newline">
+trags	NN	 UNKNOWN	trags
+für	APPR	 für	für
+</seg>
+<seg type="newline">
+wilt	NE	 Wilt	wilt
+du	PPER	 du	du
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+treib	VVIMP	 treiben	treib
+die	ART	 d	die
+Eyer	NE	 UNKNOWN	Eyer
+mit	APPR	 mit	mit
+der	ART	 d	der
+Brüh	ADJD	 früh	früh
+durch	APPR	 durch	durch
+einen	ART	 ein	einen
+Durchschlag	NN	 Durchschlag	Durchschlag
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+in	APPR	 in	in
+einem	ART	 ein	einem
+Tiegel	NN	 Tiegel	Tiegel
+kurtz	NE	 UNKNOWN	kurtz
+kochen	VVFIN	 kochen	kochen
+</seg>
+<seg type="newline">
+es	PPER	 es	es
+ist	VAFIN	 sein	ist
+gut	ADJD	 gut	gut
+vnd	KON	 und	und
+vast	ADV	 fast	fast
+kräfftig	ADJD	 UNKNOWN	kräfftig
+für	APPR	 für	für
+krancke	NE	 UNKNOWN	krancke
+vnd	KON	 und	und
+schwache	ADJA	 schwach	schwache
+Mägen	NN	 Magen	Mägen
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Brot	NN	 Brot	Brot
+mit	APPR	 mit	mit
+durchgetrieben	TRUNC	 UNKNOWN	durchgetrieben
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+wol	PWAV	 wo	wo
+Zimmet	NN	 Zimt	Zimt
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+darauff	PAV	 drauf	drauf
+wol	PWAV	 wo	wo
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+nach	APPR	 nach	nach
+dem	ART	 d	dem
+die	PRELS	 d	die
+Brüh	ADJD	 früh	früh
+süß	ADJD	 süß	süß
+.	$.	.	$.	 .	|	.
+Ich	PPER	 ich	Ich
+hab	VAIMP	 haben	hab
+wol	PWAV	 wo	wo
+eine	ART	 ein	eine
+solche	PIAT	 solch	solche
+Rüstung	NN	 Rüstung	Rüstung
+von	APPR	 von	von
+Fleisch	NN	 Fleisch	Fleisch
+gekocht	VVPP	 kochen	gekocht
+</seg>
+<seg type="newline">
+nur	ADV	 nur	nur
+von	APPR	 von	von
+wegen	APPR	 wegen	wegen
+der	ART	 d	der
+Brüh	ADJD	 früh	früh
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+darein	ADV	 darein	darein
+kommt	VVFIN	 kommen	kommt
+die	ART	 d	die
+beste	ADJA	 gut	beste
+Krafft	NE	 Krafft	Krafft
+von	APPR	 von	von
+dem	ART	 d	dem
+Fleisch	NN	 Fleisch	Fleisch
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+von	APPR	 von	von
+dem	ART	 d	dem
+Gewürtz	NN	 UNKNOWN	Gewürtz
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+habe	VAFIN	 haben	habe
+alßdann	NE	 UNKNOWN	Alsdann
+etwas	ADV	 etwas	etwas
+darein	ADV	 darein	darein
+gelegt	VVPP	 legen	gelegt
+</seg>
+<seg type="newline">
+was	PWS	 was	was
+ich	PPER	 ich	ich
+gedacht	VVPP	 denken|gedenken	gedacht
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+anmühtig	ADJD	 UNKNOWN	anmühtig
+vnd	KON	 und	und
+nutzlich	ADJD	 UNKNOWN	nutzlich
+sey	NE	 UNKNOWN	sey
+:	$.	:	$.	 :	|	:
+In	APPR	 in	In
+allweg	PIS	 alle	alles
+soll	VMFIN	 sollen	soll
+mans	VMFIN	 mögen	mag
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+sie	PPER	 sie	sie
+zu	PTKVZ	 zu	zu
+feißt	VVIMP	 UNKNOWN	feißt
+</seg>
+<seg type="newline">
+abheben	VVFIN	 abheben	abheben
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+Küchlein	NN	 Küchlein	Küchlein
+von	APPR	 von	von
+Vögelein	NN	 UNKNOWN	Negelein
+gebraten	VVPP	 braten	gebraten
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+in	APPR	 in	in
+dem	ART	 d	dem
+Schmaltz	NN	 Schmalz	Schmalz
+gedämpffet	VVFIN	 UNKNOWN	gedämpffet
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

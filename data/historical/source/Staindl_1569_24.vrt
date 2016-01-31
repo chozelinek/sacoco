@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Staindl_1569_24" collection="historical" source="Staindl" url="none" year="1569" decade="1560-1570" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[14v]">
+<title>
+<seg type="newline">
+Von	APPR	 von	Von
+Vischen	NN	 UNKNOWN	Vischen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wer	PWS	 wer	Wer
+in	APPR	 in	in
+der	ART	 d	der
+Fasten	NN	 Fasten	Fasten
+machen	VVINF	 machen	machen
+will	VMFIN	 wollen	will
+ein	ART	 ein	ein
+bratnen	ADJA	 UNKNOWN	bratnen
+Kapponen	NN	 UNKNOWN	Kapponen
+</seg>
+<seg type="newline">
+der	ART	 d	der
+laß	ADJD	 laß	laß
+ein	ART	 ein	ein
+hültzin	NN	 UNKNOWN	hültzin
+Model	NN	 Model	Model
+graben	VVFIN	 graben	graben
+</seg>
+<seg type="newline">
+darinn	NE	 UNKNOWN	darinn
+zwey	CARD	 zwei	zwei
+theil	NN	 UNKNOWN	theil
+gegen	APPR	 gegen	gegen
+einander	PRF	 einander	einander
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+als	KOKOM	 als	als
+ein	ART	 ein	ein
+Kappon	NN	 UNKNOWN	Kappon
+formieret	VVFIN	 UNKNOWN	formieret
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+man	PIS	 man	man
+ein	ART	 ein	ein
+teig	NN	 Teig	teig
+darein	ADV	 darein	darein
+gegen	APPR	 gegen	gegen
+einander	PRF	 einander	einander
+trucket	VVFIN	 UNKNOWN	trucket
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nimb	ADJA	 UNKNOWN	nimb
+Visch	NN	 UNKNOWN	Visch
+</seg>
+<seg type="newline">
+thuo	NE	 UNKNOWN	thue
+die	ART	 d	die
+gredt	ADJD	 UNKNOWN	gredt
+vnnd	KON	 und	und
+die	ART	 d	die
+Schuoppen	NN	 UNKNOWN	Schuoppen
+daruon	VVPP	 UNKNOWN	daruon
+</seg>
+<seg type="newline">
+hack	VVIMP	 hacken	hack
+das	ART	 d	das
+bret	ADJA	 UNKNOWN	bret
+vndereinander	NN	 UNKNOWN	vndereinander
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+gwürtz	NN	 UNKNOWN	Gewürtz
+es	PPER	 es	es
+gar	ADV	 gar	gar
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+schlags	ADJD	 UNKNOWN	schlags
+in	APPR	 in	in
+den	ART	 d	den
+model	VVIMP	 modeln	model
+</seg>
+<seg type="newline">
+darinn	NN	 UNKNOWN	darinn
+seüds	ADJD	 UNKNOWN	seüds
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+es	PPER	 es	es
+bey	NE	 Bey	bey
+einander	PRF	 einander	einander
+bleibt	VVFIN	 bleiben	bleibt
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+brats	ADJA	 UNKNOWN	brats
+</seg>
+<seg type="newline">
+spicks	NN	 Speck	Speck
+mit	APPR	 mit	mit
+Höchten	NN	 UNKNOWN	Höchten
+brät	VVFIN	 braten	brät
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

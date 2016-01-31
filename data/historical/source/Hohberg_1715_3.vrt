@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Hohberg_1715_3" collection="historical" source="Hohberg" url="none" year="1715" decade="1710-1720" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1715:8]">
+<title>
+<seg type="newline">
+Birn=Mues	NE	 UNKNOWN	Birn=Mues
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Schneidet	VVFIN	 schneiden	Schneidet
+ausgeschälete	ADJA	 UNKNOWN	ausgeschälete
+in	APPR	 in	in
+4.	ADJA	 4.	4.
+Theil	NN	 Teil	Teil
+zertheilte	ADJA	 UNKNOWN	zertheilte
+Birn	NN	 UNKNOWN	Birn
+</seg>
+<seg type="newline">
+die	ART	 d	die
+Kern=Häuser	NN	 UNKNOWN	Kern=Häuser
+heraus	ADV	 heraus	heraus
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+röstet	VVFIN	 rösten	röstet
+die	ART	 d	die
+Birn	NN	 UNKNOWN	Birn
+schön	ADJD	 schön	schön
+braun	ADJD	 braun	braun
+in	APPR	 in	in
+Schmaltz	NN	 Schmalz	Schmalz
+</seg>
+<seg type="newline">
+giesset	PDAT	 dies	diese
+Wein	NN	 Wein	Wein
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+lasts	NN	 UNKNOWN	lasts
+weich	ADJD	 weich	weich
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+treibts	NN	 UNKNOWN	treibts
+durch	APPR	 durch	durch
+einen	ART	 ein	einen
+Seyher	NN	 UNKNOWN	Seyher
+</seg>
+<seg type="newline">
+werffet	ADJA	 UNKNOWN	werffet
+Zucker	NN	 Zucker	Zucker
+und	KON	 und	und
+Zimmet	NN	 Zimt	Zimt
+darein	ADV	 darein	darein
+;	$.	;	$.	 ;	|	;
+und	KON	 und	und
+wanns	NE	 UNKNOWN	wanns
+nachmalen	VVFIN	 nachmalen	nachmalen
+aufgesotten	ADJD	 UNKNOWN	aufgesotten
+</seg>
+<seg type="newline">
+richtet	VVFIN	 richten	richtet
+es	PPER	 es	es
+an	PTKVZ	 an	an
+</seg>
+<seg type="newline">
+und	KON	 und	und
+streuet	VVFIN	 UNKNOWN	streuet
+Trisenet	NN	 UNKNOWN	Trisenet
+darauf	PAV	 darauf	darauf
+.	$.	.	$.	 .	|	.
+Oder	KON	 oder	Oder
+brate	VVFIN	 braten	brate
+die	ART	 d	die
+Birn	NN	 UNKNOWN	Birn
+über	APPR	 über	über
+Kohlen	NN	 Kohle	Kohlen
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+wirffs	NN	 UNKNOWN	wirffs
+in	APPR	 in	in
+kalt	ADJD	 kalt	kalt
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+und	KON	 und	und
+ziehe	VVFIN	 zeihen|ziehen	ziehe
+die	ART	 d	die
+Haut	NN	 Haut	Haut
+ab	PTKVZ	 ab	ab
+</seg>
+<seg type="newline">
+siede	VVFIN	 UNKNOWN	siede
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+gebäheten	NN	 UNKNOWN	gebäheten
+weissen	ADJA	 weiß	weissen
+Brod	NN	 Brot	Brot
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+einem	ART	 ein	einem
+Wein	NN	 Wein	Wein
+weich	ADJD	 weich	weich
+</seg>
+<seg type="newline">
+treibs	NN	 Kreis	Kreis
+durch	APPR	 durch	durch
+</seg>
+<seg type="newline">
+zuckers	NN	 Zucker	zuckers
+und	KON	 und	und
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+ferner	ADJD	 fern	ferner
+sieden	VVFIN	 sieden	sieden
+zu	APPR	 zu	zu
+einem	ART	 ein	einem
+Mues	NN	 UNKNOWN	Mues
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

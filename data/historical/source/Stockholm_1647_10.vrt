@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Stockholm_1647_10" collection="historical" source="Stockholm" url="none" year="1647" decade="1640-1650" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1647:131]">
+<body>
+<seg type="newline">
+Will	VMFIN	 wollen	Will
+man	PIS	 man	man
+ein	ART	 ein	ein
+Mühß	NN	 UNKNOWN	Mühß
+davon	PAV	 davon	davon
+haben	VAFIN	 haben	haben
+[	$(	[	$(	 [	|	[
+von	APPR	 von	von
+Hanbutten	NN	 UNKNOWN	Hanbutten
+]	$(	]	$(	 ]	|	]
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+werden	VAFIN	 werden	werden
+sie	PPER	 sie	sie
+nach	APPR	 nach	nach
+dem	ART	 d	dem
+sie	PPER	 sie	sie
+dör	VVFIN	 UNKNOWN	dör
+</seg>
+<seg type="newline">
+gantz	ADV	 ganz	ganz
+Mürb	VVFIN	 UNKNOWN	Mürb
+eingekochet	ADJD	 UNKNOWN	eingekochet
+</seg>
+<seg type="newline">
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+Durchschlag	NN	 Durchschlag	Durchschlag
+gerieben	VVPP	 reiben	gerieben
+</seg>
+<seg type="newline">
+gewürtzet	VVPP	 UNKNOWN	gewürtzet
+vnd	KON	 und	und
+abgesüsset	VVPP	 UNKNOWN	abgesüsset
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

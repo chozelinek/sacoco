@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Wecker_1679_21" collection="historical" source="Wecker" url="none" year="1679" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:300]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+gut	ADJD	 gut	gut
+Pommerantzen	NN	 UNKNOWN	Pommerantzen
+Södlin	NE	 UNKNOWN	Södlin
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Laß	VVIMP	 lassen	Laß
+erstlichen	ADJD	 UNKNOWN	erstlich
+ein	ART	 ein	ein
+Stücklein	NN	 Stücklein	Stücklein
+geschmältzten	ADJA	 UNKNOWN	geschmältzten
+Butter	NN	 Butter	Butter
+in	APPR	 in	in
+einer	ART	 ein	einer
+Pfannen	NN	 Pfanne	Pfannen
+oder	KON	 oder	oder
+Tiegel	NN	 Tiegel	Tiegel
+wol	PWAV	 wo	wo
+heiß	ADJD	 heiß	heiß
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+thu	NE	 Thu	thu
+ein	ART	 ein	ein
+Löffel	NN	 Löffel	Löffel
+voll	ADJD	 voll	voll
+gut	ADJD	 gut	gut
+Weitzenmäl	NN	 UNKNOWN	Weitzenmäl
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+geuß	NN	 UNKNOWN	geuß
+ein	ART	 ein	ein
+gut	ADJD	 gut	gut
+Glaß	NN	 UNKNOWN	Glaß
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+ein	ART	 ein	ein
+halb	ADJD	 halb	halb
+Gläßlein	NN	 UNKNOWN	Gläßlein
+Weinessig	NN	 Weinessig	Weinessig
+daran	PAV	 daran	daran
+.	$.	.	$.	 .	|	.
+Nimm	VVIMP	 nehmen	Nimm
+darnach	PAV	 danach	Danach
+drey	CARD	 drei	drei
+oder	KON	 oder	oder
+vier	CARD	 vier	vier
+Pommerantzen	NN	 UNKNOWN	Pommerantzen
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+mehr	ADV	 mehr	mehr
+oder	KON	 oder	oder
+weniger	ADV	 weniger	weniger
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+man	PIS	 man	man
+es	PPER	 es	es
+gut	ADJD	 gut	gut
+haben	VAFIN	 haben	haben
+wil	NE	 Wil	wil
+</seg>
+<seg type="newline">
+schöle	NN	 UNKNOWN	schöle
+sie	PPER	 sie	sie
+</seg>
+<seg type="newline">
+drucke	VVFIN	 drucken	drucke
+den	ART	 d	den
+Safft	NE	 UNKNOWN	Safft
+gar	ADV	 gar	gar
+rein	ADV	 rein	rein
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+würtze	VVFIN	 würzen	würzt
+es	PPER	 es	es
+mit	APPR	 mit	mit
+Ingwer	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+vnd	KON	 und	und
+Nägelein	NN	 UNKNOWN	Nägelein
+.	$.	.	$.	 .	|	.
+Dann	ADV	 dann	Dann
+nimm	VVIMP	 nehmen	nimm
+andere	ADJA	 ander	andere
+zwo	CARD	 zwo	zwo
+Pommerantzen	NN	 UNKNOWN	Pommerantzen
+</seg>
+<seg type="newline">
+schneide	VVFIN	 schneiden	schneide
+sie	PPER	 sie	sie
+sampt	APPR	 samt	samt
+den	ART	 d	den
+Schalen	NN	 Schale	Schalen
+runde	ADJA	 rund	runde
+Schnitzlein	NN	 UNKNOWN	Schnitzlein
+darvon	PAV	 darin	darin
+</seg>
+<seg type="newline">
+legs	VVFIN	 legen	legt
+in	APPR	 in	in
+das	ART	 d	das
+Södlein	NN	 UNKNOWN	Södlein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+noch	ADV	 noch	noch
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+auffsieden	VVFIN	 UNKNOWN	aufsieden
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+wird	VAFIN	 werden	wird
+es	PPER	 es	es
+gut	ADJD	 gut	gut
+</seg>
+<seg type="newline">
+richte	VVFIN	 richten	richte
+es	PPER	 es	es
+darnach	PAV	 danach	Danach
+an	PTKVZ	 an	an
+</seg>
+<seg type="newline">
+worüber	PWAV	 worüber	worüber
+man	PIS	 man	man
+wil	VVFIN	 UNKNOWN	wil
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

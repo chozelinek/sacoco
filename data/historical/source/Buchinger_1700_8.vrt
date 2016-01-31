@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Buchinger_1700_8" collection="historical" source="Buchinger" url="none" year="1700" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:1f.]">
+<title>
+<seg type="newline">
+711.	ADJA	 @ord@	711.
+Zweschgen	NN	 UNKNOWN	Zweschgen
+</seg>
+</title>
+<body>
+<seg type="newline">
+werden	VAFIN	 werden	werden
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+mit	APPR	 mit	mit
+Wein	NN	 Wein	Wein
+gesotten	VVPP	 sieden	gesotten
+</seg>
+<seg type="newline">
+alsdann	NN	 UNKNOWN	Alsdann
+mit	APPR	 mit	mit
+gebränt	ADJA	 UNKNOWN	gebränt
+Mehl	NN	 Mehl	Mehl
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Honig=Wasser	NN	 UNKNOWN	Honig=Wasser
+</seg>
+<seg type="newline">
+Zimmet	NN	 Zimt	Zimt
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+grieben	ADJA	 UNKNOWN	grieben
+Lebkuchen	NN	 Lebkuchen	Lebkuchen
+außgemacht	ADJD	 UNKNOWN	außgemacht
+.	$.	.	$.	 .	|	.
+Man	PIS	 man	Man
+strewet	VVFIN	 UNKNOWN	strewet
+im	APPRART	 im	im
+Anrichten	NN	 Anrichten	Anrichten
+Zimmet	NN	 Zimt	Zimt
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+darauff	PTKVZ	 drauf	drauf
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

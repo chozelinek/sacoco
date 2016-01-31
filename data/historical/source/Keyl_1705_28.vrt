@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Keyl_1705_28" collection="historical" source="Keyl" url="none" year="1705" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1705:152]">
+<title>
+<seg type="newline">
+Wiren=Kuchen	NN	 UNKNOWN	Wiren=Kuchen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+eine	ART	 ein	eine
+dicke	ADJA	 dick	dicke
+Wire	NN	 UNKNOWN	Wire
+ein	ART	 ein	ein
+Viertel	NN	 Viertel	Viertel
+lang	ADJD	 lang	lang
+</seg>
+<seg type="newline">
+stich	VVIMP	 stechen	stich
+darauff	PAV	 drauf	drauf
+lange	ADJA	 lang	lange
+Rosinen	NN	 Rosine	Rosinen
+</seg>
+<seg type="newline">
+abgeschelte	ADJA	 UNKNOWN	abgeschelte
+Mandeln	NN	 Mandel	Mandeln
+</seg>
+<seg type="newline">
+eins	CARD	 eins	eins
+umbs	NN	 UNKNOWN	umbs
+ander	ADV	 UNKNOWN	ander
+.	$.	.	$.	 .	|	.
+Mache	VVFIN	 machen	Mache
+einen	ART	 ein	einen
+Teig	NN	 Teig	Teig
+von	APPR	 von	von
+Eyer	NE	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+Mehl	NN	 Mehl	Mehl
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+süssen	VVFIN	 süßen	süssen
+Raam	NE	 UNKNOWN	Raam
+</seg>
+<seg type="newline">
+Rosenwasser	NN	 Rosenwasser	Rosenwasser
+so	ADV	 so	so
+dick	ADJD	 dick	dick
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+es	PPER	 es	es
+fein	ADJD	 fein	fein
+auffnimmt	VVFIN	 UNKNOWN	auffnimmt
+</seg>
+<seg type="newline">
+wende	VVFIN	 wenden	wende
+sie	PPER	 sie	sie
+darinn	NN	 UNKNOWN	darinn
+umb	PTKVZ	 um	um
+</seg>
+<seg type="newline">
+und	KON	 und	und
+backe	VVFIN	 backen	backe
+sie	PPER	 sie	sie
+in	APPR	 in	in
+heisse	ADJA	 heiß	heisse
+Butter	NN	 Butter	Butter
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

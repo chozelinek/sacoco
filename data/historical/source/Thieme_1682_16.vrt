@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Thieme_1682_16" collection="historical" source="Thieme" url="none" year="1682" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[917]">
+<body>
+<seg type="newline">
+NB	NE	 NB	NB
+.	$.	.	$.	 .	|	.
+Lässt	VVFIN	 lassen	Lässt
+man	PIS	 man	man
+sie	PPER	 sie	sie
+auch	ADV	 auch	auch
+einen	ART	 ein	einen
+Tag	NN	 Tag	Tag
+liegen	VVFIN	 liegen	liegen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+wird	VAFIN	 werden	wird
+das	ART	 d	das
+Fleisch	NN	 Fleisch	Fleisch
+desto	KON	 desto	desto
+kürzer	ADJD	 kurz	kürzer
+und	KON	 und	und
+mürber	ADJD	 mürbe	mürber
+werden	VAINF	 werden	werden
+;	$.	;	$.	 ;	|	;
+Wann	PWAV	 wann	Wann
+sie	PPER	 sie	sie
+nun	ADV	 nun	nun
+kalt	ADJD	 kalt	kalt
+sind	VAFIN	 sein	sind
+</seg>
+<seg type="newline">
+trucknet	ADJD	 UNKNOWN	trucknet
+man	PIS	 man	man
+sie	PPER	 sie	sie
+wol	PWAV	 wo	wo
+ab	PTKVZ	 ab	ab
+</seg>
+<seg type="newline">
+und	KON	 und	und
+spickt	VVFIN	 spicken	spickt
+sie	PPER	 sie	sie
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+aber	ADV	 aber	aber
+bedecket	VVFIN	 UNKNOWN	bedecket
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+breit=geschnittenem	ADJA	 UNKNOWN	breit=geschnittenem
+Speck	NN	 Speck	Speck
+.	$.	.	$.	 .	|	.
+Wann	PWAV	 wann	Wann
+nun	ADV	 nun	nun
+solcher	PIAT	 solch	solcher
+Speck	NN	 Speck	Speck
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+hölzernen	ADJA	 hölzern	hölzernen
+Spießlein	NN	 UNKNOWN	Spießlein
+in	APPR	 in	in
+die	ART	 d	die
+Länge	NN	 Länge	Länge
+darüber	PAV	 darüber	darüber
+angehefftet	ADJD	 UNKNOWN	angehefftet
+</seg>
+<seg type="newline">
+scheinen	VVFIN	 scheinen	scheinen
+sie	PPER	 sie	sie
+eben	ADV	 eben	eben
+als	KOKOM	 als	als
+Rebhüner	NN	 UNKNOWN	Rebhüner
+</seg>
+<seg type="newline">
+steckt	VVFIN	 stecken	steckt
+man	PIS	 man	man
+solches	PIAT	 solch	solches
+in	APPR	 in	in
+die	ART	 d	die
+zwerg	NN	 Zwerg	zwerg
+</seg>
+<seg type="newline">
+scheinen	VVFIN	 scheinen	scheinen
+sie	PPER	 sie	sie
+als	KOKOM	 als	als
+Wachteln	NN	 Wachtel	Wachteln
+</seg>
+<seg type="newline">
+hernach	ADV	 hernach	hernach
+bindet	VVFIN	 binden	bindet
+man	PIS	 man	man
+auch	ADV	 auch	auch
+Weinblätter	NN	 Weinblatt	Weinblätter
+darauf	PAV	 darauf	darauf
+</seg>
+<seg type="newline">
+und	KON	 und	und
+hefftet	VVFIN	 UNKNOWN	hefftet
+solch	PIAT	 solch	solch
+hölzern	ADJD	 hölzern	hölzern
+Spießlein	NN	 UNKNOWN	Spießlein
+an	APPR	 an	an
+einen	ART	 ein	einen
+grossen	ADJA	 groß	grossen
+eisern	ADJD	 eisern	eisern
+Bratspieß	NN	 UNKNOWN	Bratspieß
+</seg>
+<seg type="newline">
+und	KON	 und	und
+bratet	VVFIN	 UNKNOWN	bratet
+sie	PPER	 sie	sie
+an	APPR	 an	an
+einem	ART	 ein	einem
+schönen	ADJA	 schön	schönen
+hellen	ADJA	 hell	hellen
+Feuer	NN	 Feuer	Feuer
+.	$.	.	$.	 .	|	.
+Dann	ADV	 dann	Dann
+dieses	PDAT	 dies	dieses
+Fleisch	NN	 Fleisch	Fleisch
+ist	VAFIN	 sein	ist
+so	ADV	 so	so
+dünn	PTKVZ	 dünn	dünn
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+wann	PWAV	 wann	wann
+der	ART	 d	der
+Speck	NN	 Speck	Speck
+beginnt	VVFIN	 beginnen	beginnt
+etwas	ADV	 etwas	etwas
+braunlich	ADJD	 UNKNOWN	braunlich
+zu	PTKZU	 zu	zu
+scheinen	VVINF	 scheinen	scheinen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+ist	VAFIN	 sein	ist
+es	PPER	 es	es
+schon	ADV	 schon	schon
+gar	ADV	 gar	gar
+.	$.	.	$.	 .	|	.
+Sollten	VMFIN	 sollen	Sollten
+sie	PPER	 sie	sie
+so	ADV	 so	so
+bloß	ADJD	 bloß	bloß
+angesteckt	VVPP	 anstecken	angesteckt
+werden	VAINF	 werden	werden
+</seg>
+<seg type="newline">
+würden	VAFIN	 werden	würden
+sie	PPER	 sie	sie
+bald	ADV	 bald	bald
+dürr	ADJD	 dürr	dürr
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+und	KON	 und	und
+ihren	PPOSAT	 ihr	ihren
+Geschmack	NN	 Geschmack	Geschmack
+verlieren	VVINF	 verlieren	verlieren
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

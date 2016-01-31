@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Thieme_1682_24" collection="historical" source="Thieme" url="none" year="1682" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[965]">
+<title>
+<seg type="newline">
+Foren	NN	 Forum	Foren
+oder	KON	 oder	oder
+Forellen	NN	 Forelle	Forellen
+auf	APPR	 auf	auf
+mancherley	NE	 UNKNOWN	mancherley
+Art	NN	 Art	Art
+und	KON	 und	und
+Manier	NN	 Manier	Manier
+zu	PTKZU	 zu	zu
+kochen	VVINF	 kochen	kochen
+und	KON	 und	und
+zu	PTKZU	 zu	zu
+bereiten	VVINF	 bereiten	bereiten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Forellen	NN	 Forelle	Forellen
+lebendig	ADJD	 lebendig	lebendig
+ausgenommen	ADJD	 ausgenommen	ausgenommen
+</seg>
+<seg type="newline">
+auf	APPR	 auf	auf
+den	ART	 d	den
+Rücken	NN	 Rücken	Rücken
+geritzet	VVFIN	 UNKNOWN	geritzet
+</seg>
+<seg type="newline">
+aldann	ADJD	 UNKNOWN	aldann
+mit	APPR	 mit	mit
+warmen	ADJA	 warm	warmen
+Wein	NN	 Wein	Wein
+begossen	VVPP	 begießen	begossen
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+die	ART	 d	die
+Pfannen	NN	 Pfanne	Pfannen
+samt	APPR	 samt	samt
+dem	ART	 d	dem
+Wein	NN	 Wein	Wein
+gethan	NN	 UNKNOWN	gethan
+</seg>
+<seg type="newline">
+wol	PWAV	 wo	wo
+gesotten	VVPP	 sieden	gesotten
+</seg>
+<seg type="newline">
+und	KON	 und	und
+das	ART	 d	das
+Salz	NN	 Salz	Salz
+erst	ADV	 erst	erst
+im	APPRART	 im	im
+Sieden	NN	 Sieden	Sieden
+darein	ADV	 darein	darein
+geworffen	ADJD	 UNKNOWN	geworffen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+werden	VAFIN	 werden	werden
+sie	PPER	 sie	sie
+hübsch	ADJD	 hübsch	hübsch
+blau	ADJD	 blau	blau
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

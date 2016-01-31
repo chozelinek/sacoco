@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Hohberg_1715_28" collection="historical" source="Hohberg" url="none" year="1715" decade="1710-1720" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1715:99]">
+<title>
+<seg type="newline">
+Mandel=Kuchen	NN	 UNKNOWN	Mandel=Kuchen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Schlage	NN	 Schlag	Schlage
+16.	ADJA	 16.	16.
+Eyer=Dottern	NN	 UNKNOWN	Eyer=Dottern
+</seg>
+<seg type="newline">
+und	KON	 und	und
+8.	ADJA	 @ord@	8.
+gantze	ADV	 ganz	ganz
+Eyer	NE	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+(	$(	(	$(	 (	|	(
+wann	PWAV	 wann	wann
+vorhero	ADV	 vorher	vorher
+die	ART	 d	die
+weisse	ADJA	 weiß	weisse
+Pitzlein	NN	 UNKNOWN	Pitzlein
+oder	KON	 oder	oder
+Vögelein	NN	 UNKNOWN	Negelein
+sauber	ADJD	 sauber	sauber
+davon	PAV	 davon	davon
+gethan	NN	 UNKNOWN	gethan
+)	$(	)	$(	 )	|	)
+in	APPR	 in	in
+einen	ART	 ein	einen
+Napff	NN	 UNKNOWN	Napff
+</seg>
+<seg type="newline">
+rühre	VVFIN	 rühren	rühre
+solche	PIAT	 solch	solche
+eine	PIS	 ein	eine
+Stund	VAFIN	 sein	sind
+lang	ADJD	 lang	lang
+auf	APPR	 auf	auf
+einer	ART	 ein	einer
+Seiten	NN	 Seite	Seiten
+</seg>
+<seg type="newline">
+ferner	ADJD	 fern	ferner
+ein	ART	 ein	ein
+Pfund	NN	 Pfund	Pfund
+gesiebten	ADJA	 gesiebt	gesiebten
+Zucker	NN	 Zucker	Zucker
+nach	PTKVZ	 nach	nach
+und	KON	 und	und
+nach	ADV	 nach	nach
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+auch	ADV	 auch	auch
+ein	ART	 ein	ein
+Pfund	NN	 Pfund	Pfund
+klein=gestossene	ADJA	 UNKNOWN	klein=gestossene
+Mandeln	NN	 Mandel	Mandeln
+hinein	ADV	 hinein	hinein
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+so	ADV	 so	so
+es	PPER	 es	es
+beliebt	ADJD	 beliebt	beliebt
+</seg>
+<seg type="newline">
+etwas	PIAT	 etwas	etwas
+Zimmet	NN	 Zimt	Zimt
+</seg>
+<seg type="newline">
+rühre	VVFIN	 rühren	rühre
+es	PPER	 es	es
+noch	ADV	 noch	noch
+eine	PIS	 ein	eine
+Stund	VAFIN	 sein	sind
+lang	ADJD	 lang	lang
+</seg>
+<seg type="newline">
+hernach	ADV	 hernach	hernach
+lege	VVFIN	 legen	lege
+einen	ART	 ein	einen
+blechern	ADJD	 blechern	blechern
+Reiff	NN	 UNKNOWN	Reiff
+auf	APPR	 auf	auf
+ein	ART	 ein	ein
+Blech	NN	 Blech	Blech
+</seg>
+<seg type="newline">
+klebe	VVFIN	 kleben	klebe
+solchen	PIS	 solch	solchen
+mit	APPR	 mit	mit
+Taig	NN	 Teig	Teig
+an	APZR	 an	an
+</seg>
+<seg type="newline">
+streiche	VVFIN	 streichen	streiche
+den	ART	 d	den
+Reiff	NN	 UNKNOWN	Reiff
+und	KON	 und	und
+Blech	NN	 Blech	Blech
+innwendig	ADV	 UNKNOWN	einwenig
+dick	ADJD	 dick	dick
+mit	APPR	 mit	mit
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+streue	VVFIN	 streuen	streue
+Semmel=Meel	NN	 UNKNOWN	Semmel=Meel
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+gieß	VVIMP	 gießen	gieß
+bemeldtes	ADJA	 UNKNOWN	bemeldtes
+</seg>
+<seg type="newline">
+gleich	ADJD	 gleich	gleich
+vom	APPRART	 vom	vom
+Rühren	NN	 Rühren	Rühren
+alsobald	NE	 UNKNOWN	alsobald
+hinein	PTKVZ	 hinein	hinein
+</seg>
+<seg type="newline">
+setz	VVIMP	 setzen	setz
+in	APPR	 in	in
+eine	ART	 ein	eine
+Dorten=Pfannen	NN	 UNKNOWN	Dorten=Pfannen
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+oben	ADV	 oben	oben
+mehr	PIAT	 mehr	mehr
+Kohlen	NN	 Kohle	Kohlen
+darauf	PAV	 darauf	darauf
+</seg>
+<seg type="newline">
+als	KOKOM	 als	als
+unten	ADV	 unten	unten
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+eine	PIS	 ein	eine
+Stund	VAFIN	 sein	sind
+bachen	NN	 Kochen	Kochen
+.	$.	.	$.	 .	|	.
+Dann	ADV	 dann	Dann
+trage	VVFIN	 tragen	trage
+den	ART	 d	den
+Kuchen	NN	 Kuchen	Kuchen
+sammt	VVFIN	 UNKNOWN	sammt
+dem	ART	 d	dem
+Blech	NN	 Blech	Blech
+</seg>
+<seg type="newline">
+doch	ADV	 doch	doch
+ohne	APPR	 ohne	ohne
+den	ART	 d	den
+Reiff	NN	 UNKNOWN	Reiff
+</seg>
+<seg type="newline">
+auf	APPR	 auf	auf
+einer	ART	 ein	einer
+Schüssel	NN	 Schüssel	Schüssel
+zu	APPR	 zu	zu
+Tisch	NN	 Tisch	Tisch
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

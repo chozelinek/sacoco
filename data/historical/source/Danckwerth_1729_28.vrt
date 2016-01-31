@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Danckwerth_1729_28" collection="historical" source="Danckwerth" url="none" year="1729" decade="1720-1730" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1729:393f.]">
+<title>
+<seg type="newline">
+Unterricht	NN	 Unterricht	Unterricht
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+man	PIS	 man	man
+schön	ADJD	 schön	schön
+und	KON	 und	und
+zierlich	ADJD	 zierlich	zierlich
+aufgelauffen	ADJA	 UNKNOWN	aufgelauffen
+Zucker=Werck	NN	 UNKNOWN	Zucker=Werck
+bereiten	VVINF	 bereiten	bereiten
+und	KON	 und	und
+backen	VVINF	 backen	backen
+soll	VMFIN	 sollen	soll
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Man	PIS	 man	Man
+nim[-]et	VVFIN	 UNKNOWN	nim[-]et
+einen	ART	 ein	einen
+Löffel	NN	 Löffel	Löffel
+voll	ADJD	 voll	voll
+des	ART	 d	des
+schönsten	ADJA	 schön	schönsten
+und	KON	 und	und
+weissesten	ADJA	 weiß	weissesten
+auserlesenen	ADJA	 auserlesen	auserlesenen
+Tragants	NN	 UNKNOWN	Tragants
+</seg>
+<seg type="newline">
+giesset	PDAT	 dies	diese
+Rosen=Wasser	NN	 Rosenwasser	Rosenwasser
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+nehmet	VVFIN	 nehmen	nehmet
+eine	ART	 ein	eine
+Messer=Spitzen	NN	 UNKNOWN	Messer=Spitzen
+voll	ADJD	 voll	voll
+gepulverten	ADJA	 UNKNOWN	gepulverten
+Bisams	NN	 Bisam	Bisams
+</seg>
+<seg type="newline">
+zwirnet	VVFIN	 UNKNOWN	zwirnet
+ihn	PPER	 er	ihn
+mit	APPR	 mit	mit
+Rosen=Wasser	NN	 Rosenwasser	Rosenwasser
+an	APPR	 an	an
+</seg>
+<seg type="newline">
+giesset	PDAT	 dies	diese
+ihn	PPER	 er	ihn
+an	APPR	 an	an
+den	ART	 d	den
+Tragant	NN	 UNKNOWN	Tragant
+;	$.	;	$.	 ;	|	;
+ihr	PPER	 ihr	ihr
+müsset	VMFIN	 müssen	müsset
+des	ART	 d	des
+Rosen=Wassers	NN	 UNKNOWN	Rosen=Wassers
+so	ADV	 so	so
+viel	ADV	 viel	viel
+dran	PAV	 dran	dran
+giessen	VVFIN	 gießen	giessen
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+der	ART	 d	der
+Tragant	NN	 UNKNOWN	Tragant
+nässer	NN	 UNKNOWN	nässer
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+zum	APPRART	 zum	zum
+durchbrochenen	ADJA	 durchbrochen	durchbrochenen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+lassets	ADJA	 UNKNOWN	lässets
+2.	ADJA	 2.	2.
+Nächt	NN	 UNKNOWN	Nächt
+und	KON	 und	und
+einen	ART	 ein	einen
+Tag	NN	 Tag	Tag
+weichen	ADJA	 weich	weichen
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+rühret	VVFIN	 rühren	rühren
+einen	ART	 ein	einen
+schönen	ADJA	 schön	schönen
+Zucker	NN	 Zucker	Zucker
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+stossets	NN	 UNKNOWN	stossets
+in	APPR	 in	in
+einen	ART	 ein	einen
+Mörsel	NN	 UNKNOWN	Mörsel
+so	ADV	 so	so
+lang	ADJD	 lang	lang
+</seg>
+<seg type="newline">
+bis	APPR	 bis	bis
+er	PPER	 er	er
+sich	PRF	 er|es|sie	sich
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+arbeiten	VVFIN	 arbeiten	arbeiten
+lässet	ADJA	 UNKNOWN	lässet
+</seg>
+<seg type="newline">
+thut	NN	 UNKNOWN	thue
+ihn	PPER	 er	ihn
+aus	APPR	 aus	aus
+dem	ART	 d	dem
+Mörsel	NN	 UNKNOWN	Mörsel
+</seg>
+<seg type="newline">
+würcket	VVFIN	 UNKNOWN	würcket
+noch	ADV	 noch	noch
+mehr	PIAT	 mehr	mehr
+Zucker	NN	 Zucker	Zucker
+darunter	PAV	 darunter	darunter
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+er	PPER	 er	er
+sich	PRF	 er|es|sie	sich
+in	APPR	 in	in
+die	ART	 d	die
+Model	NN	 Model	Model
+drucken	VVFIN	 drucken	drucken
+lässet	ADJA	 UNKNOWN	lässet
+</seg>
+<seg type="newline">
+wälgert	ADJA	 UNKNOWN	wälgert
+etwan	ADJA	 UNKNOWN	etwan
+zwey	CARD	 zwei	zwei
+Messer=Rücken	NN	 UNKNOWN	Messer=Rücken
+dick	ADJD	 dick	dick
+</seg>
+<seg type="newline">
+druckts	ADJD	 UNKNOWN	druckts
+in	APPR	 in	in
+die	ART	 d	die
+Model	NN	 Model	Model
+</seg>
+<seg type="newline">
+schneidets	ADJD	 UNKNOWN	schneidets
+neben	APPR	 neben	neben
+herum	ADV	 herum	herum
+ab	PTKVZ	 ab	ab
+</seg>
+<seg type="newline">
+streuet	VVFIN	 UNKNOWN	streuet
+Krafft=Mehl	NN	 UNKNOWN	Krafft=Mehl
+auf	APPR	 auf	auf
+ein	ART	 ein	ein
+Blech	NN	 Blech	Blech
+</seg>
+<seg type="newline">
+löset	ADJD	 UNKNOWN	löset
+den	ART	 d	den
+Model	NN	 Model	Model
+gar	ADV	 gar	gar
+auf	APPR	 auf	auf
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+er	PPER	 er	er
+nicht	PTKNEG	 nicht	nicht
+anklebet	VVFIN	 UNKNOWN	anklebet
+</seg>
+<seg type="newline">
+setzts	NN	 UNKNOWN	setzts
+in	APPR	 in	in
+ein	ART	 ein	ein
+warm	ADJD	 warm	warm
+Oefelein	ADJA	 UNKNOWN	Oefelein
+</seg>
+<seg type="newline">
+lassets	NN	 UNKNOWN	lässets
+darinnen	VVINF	 darinnen	darinnen
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+es	PPER	 es	es
+aufgehet	VVFIN	 UNKNOWN	aufgehet
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+thuts	VVFIN	 UNKNOWN	thuts
+heraus	ADV	 heraus	heraus
+</seg>
+<seg type="newline">
+lassets	ADJD	 UNKNOWN	lässets
+auf	APPR	 auf	auf
+dem	ART	 d	dem
+Blech	NN	 Blech	Blech
+stehen	VVINF	 stehen	stehen
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+es	PPER	 es	es
+erkühlet	ADJD	 UNKNOWN	erkühlet
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+habt	VAFIN	 haben	habt
+ihr	PPER	 ihr	ihr
+ein	ART	 ein	ein
+weiß	ADJD	 weiß	weiß
+aufgelauffen	ADJA	 UNKNOWN	aufgelauffen
+Zucker=Werck	NE	 UNKNOWN	Zucker=Werck
+.	$.	.	$.	 .	|	.
+Wolt	NN	 UNKNOWN	Wolt
+ihr	PPOSAT	 ihr	ihr
+aber	ADV	 aber	aber
+ein	ART	 ein	ein
+Leibfarbes	NN	 UNKNOWN	Leibfarbes
+haben	VAFIN	 haben	haben
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nehmet	VVFIN	 nehmen	nehmet
+lautern	NN	 UNKNOWN	lautern
+Wein=Nägelein=Safft	NN	 UNKNOWN	Wein=Nägelein=Safft
+</seg>
+<seg type="newline">
+giesset	PDAT	 dies	diese
+ihn	PPER	 er	ihn
+an	APPR	 an	an
+den	ART	 d	den
+Tragant	NN	 UNKNOWN	Tragant
+</seg>
+<seg type="newline">
+an	APZR	 an	an
+statt	APPR	 statt	statt
+des	ART	 d	des
+Rosen=Wassers	NN	 UNKNOWN	Rosen=Wassers
+</seg>
+<seg type="newline">
+nehmet	VVFIN	 nehmen	nehmet
+halb	ADJD	 halb	halb
+Wein=Nägelein=Safft	ADJD	 UNKNOWN	Wein=Nägelein=Safft
+und	KON	 und	und
+halb	ADJD	 halb	halb
+Rosen=Wasser	NN	 Rosenwasser	Rosenwasser
+</seg>
+<seg type="newline">
+und	KON	 und	und
+machets	NN	 UNKNOWN	machets
+wie	KOKOM	 wie	wie
+berichtet	VVPP	 berichten	berichtet
+.	$.	.	$.	 .	|	.
+Blau	ADJD	 blau	Blau
+zu	PTKZU	 zu	zu
+färben	VVINF	 färben	färben
+</seg>
+<seg type="newline">
+nehmet	VVFIN	 nehmen	nehmet
+dürre	ADJA	 dürr	dürre
+und	KON	 und	und
+gepülverte	ADJA	 UNKNOWN	gepülverte
+blaue	ADJA	 blau	blaue
+Violen	NN	 Viole	Violen
+</seg>
+<seg type="newline">
+giesset	PDAT	 dies	diese
+ein	ART	 ein	ein
+Rosen=Wasser	NN	 Rosenwasser	Rosenwasser
+dran	PTKVZ	 dran	dran
+und	KON	 und	und
+brauchets	NN	 UNKNOWN	brauchets
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+oben	ADV	 oben	oben
+stehet	VVFIN	 stehen	stehet
+</seg>
+<seg type="newline">
+zum	APPRART	 zum	zum
+Tragant=Einweichen	NN	 UNKNOWN	Tragant=Einweichen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

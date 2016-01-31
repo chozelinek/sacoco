@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Osnabrueck_1687_16" collection="historical" source="Osnabrueck" url="none" year="1687" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1687:31]">
+<title>
+<seg type="newline">
+Gesaltzenen	ADJA	 UNKNOWN	Gesaltzenen
+Lachs	NN	 Lachs	Lachs
+zu	PTKZU	 zu	zu
+bereiten	VVINF	 bereiten	bereiten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nehmt	VVFIN	 nehmen	Nehmt
+Stück	NN	 Stück	Stück
+eines	ART	 ein	eines
+Fingers	NN	 Finger	Fingers
+dick	ADJD	 dick	dick
+</seg>
+<seg type="newline">
+weicht	VVFIN	 weichen	weicht
+sie	PPER	 sie	sie
+achtzehen	NN	 UNKNOWN	achtzehen
+Stunde	NN	 Stunde	Stunde
+im	APPRART	 im	im
+Regen=Wasser	NN	 UNKNOWN	Regen=Wasser
+</seg>
+<seg type="newline">
+verändert	VVFIN	 verändern	verändert
+in	APPR	 in	in
+zwischen	APPR	 zwischen	zwischen
+einmahl	NN	 UNKNOWN	einmahl
+das	ART	 d	das
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+umb	APPR	 um	um
+mehr	PIAT	 mehr	mehr
+Verfrischung	NN	 UNKNOWN	Verfrischung
+</seg>
+<seg type="newline">
+bringet	VVFIN	 UNKNOWN	bringet
+das	ART	 d	das
+Regen=Wasser	NN	 UNKNOWN	Regen=Wasser
+zu	APPR	 zu	zu
+Feuer	NN	 Feuer	Feuer
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+es	PPER	 es	es
+siedet	VVFIN	 sieden	siedet
+</seg>
+<seg type="newline">
+werfft	ADJD	 UNKNOWN	werfft
+den	ART	 d	den
+Lachs	NN	 Lachs	Lachs
+hinein	ADV	 hinein	hinein
+</seg>
+<seg type="newline">
+schäumet	VVFIN	 UNKNOWN	schäumet
+ihn	PPER	 er	ihn
+wohl	ADV	 wohl	wohl
+ab	PTKVZ	 ab	ab
+</seg>
+<seg type="newline">
+und	KON	 und	und
+last	VVFIN	 lesen	last
+ihn	PPER	 er	ihn
+einmahl	NN	 UNKNOWN	einmahl
+überkochen	VVFIN	 überkochen	überkochen
+</seg>
+<seg type="newline">
+sonsten	ADJD	 UNKNOWN	sonsten
+so	ADV	 so	so
+er	PPER	 er	er
+länger	ADJD	 lang	länger
+kocht	VVFIN	 kochen	kocht
+</seg>
+<seg type="newline">
+verliehret	VVFIN	 UNKNOWN	verliehret
+er	PPER	 er	er
+seine	PPOSAT	 sein	seine
+Fettigkeit	NN	 UNKNOWN	Fettigkeit
+</seg>
+<seg type="newline">
+man	PIS	 man	man
+isset	VVFIN	 UNKNOWN	isset
+ihn	PPER	 er	ihn
+alsdenn	NN	 UNKNOWN	Alsdann
+in	APPR	 in	in
+Essig	NN	 Essig	Essig
+gedunckt	VVPP	 UNKNOWN	gedunckt
+oder	KON	 oder	oder
+mit	APPR	 mit	mit
+Essig	NN	 Essig	Essig
+und	KON	 und	und
+Butter	NN	 Butter	Butter
+durchsotten	VVFIN	 UNKNOWN	durchsotten
+.	$.	.	$.	 .	|	.
+Den	ART	 d	Den
+Rück-Grad	NN	 UNKNOWN	Rück-Grad
+könnet	VMFIN	 können	könnet
+ihr	PPER	 ihr	ihr
+auch	ADV	 auch	auch
+braten	VVINF	 braten	braten
+</seg>
+<seg type="newline">
+und	KON	 und	und
+mit	APPR	 mit	mit
+einer	ART	 ein	einer
+Brühe	NN	 Brühe	Brühe
+von	APPR	 von	von
+frischer	ADJA	 frisch	frischer
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+Essig	NN	 Essig	Essig
+</seg>
+<seg type="newline">
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+und	KON	 und	und
+Mußcatenblüt	NN	 UNKNOWN	Mußcatenblüt
+bestreichen	VVFIN	 bestreichen	bestreichen
+</seg>
+<seg type="newline">
+giesset	PDS	 dies	diese
+hernach	ADV	 hernach	hernach
+solche	PIAT	 solch	solche
+Brühe	NN	 Brühe	Brühe
+im	APPRART	 im	im
+anrichten	VVFIN	 anrichten	anrichten
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+ihr	PPOSAT	 ihr	ihr
+könt	ADJA	 UNKNOWN	könt
+auch	ADV	 auch	auch
+Kappers	NN	 UNKNOWN	Kappers
+drunter	PAV	 drunter	drunter
+thun	NE	 UNKNOWN	thue
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

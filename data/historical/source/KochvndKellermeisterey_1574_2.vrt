@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Koch_vnd_Kellermeisterey_1574_2" collection="historical" source="Koch_vnd_Kellermeisterey" url="none" year="1574" decade="1570-1580" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1574:50r]">
+<title>
+<seg type="newline">
+Gut	ADJD	 gut	Gut
+Lattwergen	NN	 UNKNOWN	Lattwergen
+von	APPR	 von	von
+Leutsbyren	ADJA	 UNKNOWN	Leutsbyren
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+andern	ADJA	 ander	andern
+guten	ADJA	 gut	guten
+Byren	NN	 UNKNOWN	Byren
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Verdempffs	NE	 UNKNOWN	Verdempffs
+inn	VVFIN	 UNKNOWN	inn
+einem	ART	 ein	einem
+Hafen	NN	 Hafen	Hafen
+</seg>
+<seg type="newline">
+knits	NN	 UNKNOWN	knits
+darnach	PAV	 danach	Danach
+wol	PWAV	 wo	wo
+mit	APPR	 mit	mit
+eim	ADJA	 UNKNOWN	nimb
+Löffel	NN	 Löffel	Löffel
+</seg>
+<seg type="newline">
+setzs	NE	 UNKNOWN	setzs
+darnach	PAV	 danach	Danach
+in	APPR	 in	in
+eim	ADJA	 UNKNOWN	nimb
+kleinen	ADJA	 klein	kleinen
+kesselin	NN	 UNKNOWN	kesselin
+auff	APPR	 auf	auf
+eim	ADJA	 UNKNOWN	nimb
+dreifuß	NN	 Dreifuß	dreifuß
+vber	VVFIN	 UNKNOWN	vber
+ein	ART	 ein	ein
+kleines	ADJA	 klein	kleines
+feuwr	NN	 UNKNOWN	feuwr
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+ein	ART	 ein	ein
+gut	ADJD	 gut	gut
+glut	ADJA	 UNKNOWN	glut
+</seg>
+<seg type="newline">
+rürs	NN	 UNKNOWN	rürs
+</seg>
+<seg type="newline">
+thu	NE	 Thu	thu
+honig	ADJD	 UNKNOWN	honig
+vnd	KON	 und	und
+würtz	VVFIN	 würzen	würzt
+drein	ADV	 drein	drein
+</seg>
+<seg type="newline">
+rüre	VVFIN	 UNKNOWN	rüre
+sie	PPER	 sie	sie
+noch	ADV	 noch	noch
+baß	ADJD	 baß	baß
+.	$.	.	$.	 .	|	.
+Negelin	NE	 UNKNOWN	Negelin
+</seg>
+<seg type="newline">
+Imber	NN	 UNKNOWN	Imber
+vnd	KON	 und	und
+Muscat	NN	 UNKNOWN	Muscat
+magst	VMFIN	 mögen	magst
+du	PPER	 du	du
+grob	ADJD	 grob	grob
+gestossen	VVPP	 stoßen	gestossen
+darein	ADV	 darein	darein
+thun	NE	 UNKNOWN	thue
+</seg>
+<seg type="newline">
+rür	VVFIN	 UNKNOWN	rür
+sie	PPER	 sie	sie
+baß	ADJD	 baß	baß
+vnentzeuch	NN	 UNKNOWN	vnentzeuch
+das	ART	 d	das
+feuwr	NE	 UNKNOWN	feuwr
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+die	ART	 d	die
+wurtzen	ADJA	 UNKNOWN	wurtzen
+wol	PWAV	 wo	wo
+erhitzen	VVINF	 erhitzen	erhitzen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+thus	NE	 UNKNOWN	thus
+herab	PTKVZ	 herab	herab
+.	$.	.	$.	 .	|	.
+Schlahe	NN	 UNKNOWN	Schlahe
+sie	PPER	 sie	sie
+auß	VMFIN	 müssen	muß
+auff	APPR	 auf	auf
+einn	ART	 ein	einem
+weiten	ADJA	 weit	weiten
+Teller	NN	 Teller	Teller
+oder	KON	 oder	oder
+Breth	NE	 UNKNOWN	Breth
+</seg>
+<seg type="newline">
+treibs	NN	 Kreis	Kreis
+als	KOKOM	 als	als
+ein	ART	 ein	ein
+krapffen	ADJA	 UNKNOWN	krapffen
+teyg	NE	 UNKNOWN	teyg
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+wol	PWAV	 wo	wo
+erkalten	VVFIN	 erkalten	erkalten
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+schneid	VVFIN	 schneiden	schneiden
+klein	ADJD	 klein	klein
+stücklin	NE	 UNKNOWN	stücklin
+daruon	NE	 UNKNOWN	daruon
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+legs	VVFIN	 legen	legt
+ein	PTKVZ	 ein	ein
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

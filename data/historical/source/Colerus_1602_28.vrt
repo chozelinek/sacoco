@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Colerus_1602_28" collection="historical" source="Colerus" url="none" year="1602" decade="1600-1610" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1602:179]">
+<title>
+<seg type="newline">
+Schöpsen	ADJA	 UNKNOWN	Schöpsen
+Fleisch	NN	 Fleisch	Fleisch
+in	APPR	 in	in
+seinem	PPOSAT	 sein	seinem
+eigenen	ADJA	 eigen	eigenen
+sothe	NE	 UNKNOWN	sothe
+zuzurichten	VVIZU	 zurichten	zuzurichten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Koche	VVFIN	 kochen	Koche
+das	ART	 d	das
+Fleisch	NN	 Fleisch	Fleisch
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+wenn	KOUS	 wenn	wenn
+du	PPER	 du	du
+es	PPER	 es	es
+gekocht	VVPP	 kochen	gekocht
+hast	VAFIN	 haben	hast
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+seige	VVFIN	 UNKNOWN	seige
+der	ART	 d	der
+Suppen	NN	 Suppe	Suppen
+ein	ART	 ein	ein
+theil	ADJA	 UNKNOWN	theil
+daruon	NN	 UNKNOWN	daruon
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+geus	NN	 UNKNOWN	geuß
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Essig	NN	 Essig	Essig
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+nim	ADJA	 UNKNOWN	nimb
+Salbenbletter	NN	 UNKNOWN	Salbenbletter
+</seg>
+<seg type="newline">
+wirff	VVFIN	 UNKNOWN	wirff
+die	ART	 d	die
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+koche	VVFIN	 kochen	koche
+sie	PPER	 sie	sie
+also	ADV	 also	also
+</seg>
+<seg type="newline">
+du	PPER	 du	du
+hast	VAFIN	 haben	hast
+ein	ART	 ein	ein
+gut	ADJD	 gut	gut
+alber	ADJA	 UNKNOWN	alber
+Essen	NN	 Essen	Essen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

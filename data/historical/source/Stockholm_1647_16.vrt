@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Stockholm_1647_16" collection="historical" source="Stockholm" url="none" year="1647" decade="1640-1650" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Hecht|" method="|polnisch|" ref="[1647:199f.]">
+<title>
+<seg type="newline">
+[	$(	[	$(	 [	|	[
+Vierte	ADJA	 viert	Vierte
+Polnische	ADJA	 polnisch	Polnische
+Bruhe	NN	 UNKNOWN	Bruhe
+]	$(	]	$(	 ]	|	]
+</seg>
+</title>
+<body>
+<seg type="newline">
+9	CARD	9	CARD	 9	|	9
+Den	ART	 d	Den
+Hecht	NN	 Hecht	Hecht
+gereiniget	ADJA	 UNKNOWN	gereiniget
+</seg>
+<seg type="newline">
+geschupfet	NN	 UNKNOWN	geschupfet
+</seg>
+<seg type="newline">
+auff	APPR	 auf	auf
+beiden	PIS	 beide	beiden
+seiten	APPR	 seiten	seiten
+klein	ADJD	 klein	klein
+gekärbet	ADJD	 UNKNOWN	gekärbet
+</seg>
+<seg type="newline">
+zu	PTKZU	 zu	zu
+stücken	VVINF	 stücken	stücken
+gemacht	ADJD	 gemacht	gemacht
+</seg>
+<seg type="newline">
+aus	PTKVZ	 aus	aus
+gewaschen	VVPP	 waschen	gewaschen
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Saltz	NN	 Salz	Salz
+besprenget	VVFIN	 UNKNOWN	besprenget
+</seg>
+<seg type="newline">
+vnter	ADJD	 UNKNOWN	vnter
+dessen	PDS	 d	dessen
+diese	PDAT	 dies	diese
+folgende	ADJA	 folgend	folgende
+Brühe	NN	 Brühe	Brühe
+dazu	PAV	 dazu	dazu
+gemacht	VVPP	 machen	gemacht
+.	$.	.	$.	 .	|	.
+10	CARD	 10	10
+Ein	ART	 eine	Ein
+guht	ADJA	 UNKNOWN	guht
+theil	NN	 UNKNOWN	theil
+geschälete	ADJA	 UNKNOWN	geschälete
+Zwiebelen	NN	 UNKNOWN	Zwiebelen
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+par	ADJA	 UNKNOWN	par
+Apfel	NN	 Apfel	Apfel
+vnd	KON	 und	und
+guht	ADJA	 UNKNOWN	guht
+theil	ADJA	 UNKNOWN	theil
+Petersillien	NN	 UNKNOWN	Petersillien
+würtzelen	VVFIN	 UNKNOWN	würtzelen
+</seg>
+<seg type="newline">
+alles	PIS	 alle	alles
+gröblicht	ADJD	 UNKNOWN	gröblicht
+zerschnitten	VVPP	 zerschneiden	zerschnitten
+</seg>
+<seg type="newline">
+im	APPRART	 im	im
+Wasser	NN	 Wasser	Wasser
+erstlich	ADJD	 UNKNOWN	erstlich
+gesotten	VVPP	 sieden	gesotten
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+alles	PIS	 alle	alles
+wol	PWAV	 wo	wo
+weich	ADJD	 weich	weich
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+mit	APPR	 mit	mit
+Wein	NN	 Wein	Wein
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+Sieblein	NN	 UNKNOWN	Sieblein
+</seg>
+<seg type="newline">
+zum	APPRART	 zum	zum
+Mühse	NN	 UNKNOWN	Mühse
+durch	PTKVZ	 durch	durch
+gerieben	VVPP	 reiben	gerieben
+</seg>
+<seg type="newline">
+Dann	ADV	 dann	Dann
+den	ART	 d	den
+Fisch	NN	 Fisch	Fisch
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+einem	ART	 ein	einem
+Verzinneten	NN	 UNKNOWN	Verzinneten
+Kessel	NE	 Kessel	Kessel
+geleget	ADJD	 UNKNOWN	geleget
+</seg>
+<seg type="newline">
+die	ART	 d	die
+zugerichtete	ADJA	 zugerichtet	zugerichtete
+Brühe	NN	 Brühe	Brühe
+darvber	ADJD	 UNKNOWN	darvber
+gegossen	VVPP	 gießen	gegossen
+</seg>
+<seg type="newline">
+Ist	VAFIN	 sein	Ist
+es	PPER	 es	es
+zu	PTKA	 zu	zu
+weinig	ADJD	 weinig	weinig
+</seg>
+<seg type="newline">
+geust	VVPP	 UNKNOWN	geust
+man	PIS	 man	man
+ein	ART	 ein	ein
+weinig	ADJD	 weinig	weinig
+Wein	NN	 Wein	Wein
+vnd	KON	 und	und
+Weinessig	NN	 Weinessig	Weinessig
+nach	APPR	 nach	nach
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+abgewürtzet	VVFIN	 UNKNOWN	abgewürtzet
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Ingber	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Saffran	NN	 Safran	Safran
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+den	ART	 d	den
+Hecht	NN	 Hecht	Hecht
+ohn	VVFIN	 UNKNOWN	ohn
+gefehr	ADJD	 UNKNOWN	gefehr
+1.	ADV	 1.	1.
+halb	ADJD	 halb	halb
+Stund	VAFIN	 sein	sind
+sieden	VVINF	 sieden	sieden
+lassen	VVFIN	 lassen	lassen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+thut	NE	 UNKNOWN	thue
+man	PIS	 man	man
+Zucker	NN	 Zucker	Zucker
+oder	KON	 oder	oder
+Honig	NN	 Honig	Honig
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+mehr	PIAT	 mehr	mehr
+Essig	NN	 Essig	Essig
+Daß	KOUS	 daß	Daß
+Sodlein	NN	 UNKNOWN	Sodlein
+muß	VMFIN	 müssen	muß
+nicht	PTKNEG	 nicht	nicht
+zu	PTKA	 zu	zu
+treuge	ADJD	 UNKNOWN	treuge
+noch	ADV	 noch	noch
+zu	APPR	 zu	zu
+dicke	ADJA	 dick	dicke
+werden	VAINF	 werden	werden
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

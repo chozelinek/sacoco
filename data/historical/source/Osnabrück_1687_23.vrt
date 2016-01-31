@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Osnabrueck_1687_23" collection="historical" source="Osnabrueck" url="none" year="1687" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1687:45]">
+<title>
+<seg type="newline">
+Eyer=Tarte	NN	 UNKNOWN	Eyer=Tarte
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Macht	VVFIN	 machen	Macht
+einen	ART	 ein	einen
+Teig	NN	 Teig	Teig
+von	APPR	 von	von
+feinen	ADJA	 fein	feinen
+Weitzen=Mehl	NN	 UNKNOWN	Weitzen=Mehl
+</seg>
+<seg type="newline">
+Milchraam	NE	 UNKNOWN	Milchraam
+</seg>
+<seg type="newline">
+Eyer	NE	 UNKNOWN	Eyer
+und	KON	 und	und
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+trucknet	VVFIN	 UNKNOWN	trucknet
+selbigen	ADJA	 UNKNOWN	selbigen
+über	APPR	 über	über
+dem	ART	 d	dem
+Feuer	NN	 Feuer	Feuer
+in	APPR	 in	in
+wenig	PIAT	 wenig	wenig
+heisser	ADJA	 heiß	heisser
+Butter	NN	 Butter	Butter
+ab	PTKVZ	 ab	ab
+</seg>
+<seg type="newline">
+macht	VVFIN	 machen	macht
+ihn	PPER	 er	ihn
+ferner	ADJD	 fern	ferner
+mit	APPR	 mit	mit
+mehr	PIAT	 mehr	mehr
+Eyern	TRUNC	 UNKNOWN	Eyern
+und	KON	 und	und
+Milchraam	NE	 UNKNOWN	Milchraam
+dünn	ADJD	 dünn	dünn
+</seg>
+<seg type="newline">
+thut	ADJA	 UNKNOWN	thue
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+Saffran	NN	 Safran	Safran
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+wol	PWAV	 wo	wo
+Rosinen	NN	 Rosine	Rosinen
+</seg>
+<seg type="newline">
+Meertrauben	NN	 UNKNOWN	Meertrauben
+und	KON	 und	und
+Caneel	NN	 Handel	Handel
+drein	PTKVZ	 drein	drein
+</seg>
+<seg type="newline">
+und	KON	 und	und
+setzt	VVFIN	 setzen	setzt
+es	PPER	 es	es
+in	APPR	 in	in
+den	ART	 d	den
+Tarten=Haven	NE	 UNKNOWN	Tarten=Haven
+hierüber	PAV	 hierüber	hierüber
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+auch	ADV	 auch	auch
+über	APPR	 über	über
+Mandel=	TRUNC	 UNKNOWN	Mandel=
+und	KON	 und	und
+Reiß=Tarten	NN	 UNKNOWN	Reiß=Tarten
+pflegt	VVFIN	 pflegen	pflegt
+man	PIS	 man	man
+kleine	ADJA	 klein	kleine
+Deckel	NN	 Deckel	Deckel
+zu	PTKZU	 zu	zu
+machen	VVINF	 machen	machen
+</seg>
+<seg type="newline">
+bestreuet	VVFIN	 bestreuen	bestreuen
+sie	PPER	 sie	sie
+im	APPRART	 im	im
+Aufftragen	NN	 UNKNOWN	Aufftragen
+wohl	ADV	 wohl	wohl
+mit	APPR	 mit	mit
+Zucker	NN	 Zucker	Zucker
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

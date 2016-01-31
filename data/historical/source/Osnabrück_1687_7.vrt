@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Osnabrueck_1687_7" collection="historical" source="Osnabrueck" url="none" year="1687" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1687:13]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+Viertel	NN	 Viertel	Viertel
+vom	APPRART	 vom	vom
+Schaff	NN	 UNKNOWN	Schaff
+mit	APPR	 mit	mit
+einer	ART	 ein	einer
+guten	ADJA	 gut	guten
+Suppe	NN	 Suppe	Suppe
+zu	PTKZU	 zu	zu
+bereiten	VVINF	 bereiten	bereiten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nehmet	VVFIN	 nehmen	Nehmet
+ein	ART	 ein	ein
+gar	ADV	 gar	gar
+gekochtes	ADJA	 gekocht	gekochtes
+hinter	APPR	 hinter	hinter
+Viertel	NN	 Viertel	Viertel
+vom	APPRART	 vom	vom
+Schaffe	NN	 UNKNOWN	Schaffe
+</seg>
+<seg type="newline">
+legt	VVFIN	 legen	legt
+es	PPER	 es	es
+in	APPR	 in	in
+eine	ART	 ein	eine
+Koch=Pfanne	NN	 UNKNOWN	Koch=Pfanne
+</seg>
+<seg type="newline">
+und	KON	 und	und
+thut	NN	 UNKNOWN	thue
+eine	ART	 ein	eine
+Limonie	NN	 UNKNOWN	Limonie
+in	APPR	 in	in
+Scheiben	NN	 Scheibe	Scheiben
+geschnitten	VVPP	 schneiden	geschnitten
+dabey	PAV	 dabei	dabei
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+etwas	PIAT	 etwas	etwas
+Mußcaten=Blumen	NN	 UNKNOWN	Mußcaten=Blumen
+</seg>
+<seg type="newline">
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+Mußcaten=Nüsse	NN	 UNKNOWN	Mußcaten=Nüsse
+</seg>
+<seg type="newline">
+und	KON	 und	und
+gerieben	VVPP	 reiben	gerieben
+weiß	VVFIN	 wissen	weiß
+Brod	NN	 Brot	Brot
+und	KON	 und	und
+Eyerdotter	NN	 UNKNOWN	Eyerdotter
+</seg>
+<seg type="newline">
+einige	PIS	 einige	einige
+nehmen	VVFIN	 nehmen	nehmen
+gehackte	ADJA	 gehackt	gehackte
+Petersilien	NN	 Petersilie	Petersilie
+dazu	PAV	 dazu	dazu
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

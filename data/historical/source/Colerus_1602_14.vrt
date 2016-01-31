@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Colerus_1602_14" collection="historical" source="Colerus" url="none" year="1602" decade="1600-1610" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1602:144]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+ander	ADJA	 UNKNOWN	ander
+Muhs	NN	 UNKNOWN	Muhs
+von	APPR	 von	von
+Wein	NN	 Wein	Wein
+zu	PTKZU	 zu	zu
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nim	ADJA	 UNKNOWN	nimb
+zwey	CARD	 zwei	zwei
+quart	ADJA	 UNKNOWN	quart
+Wein	NN	 Wein	Wein
+in	APPR	 in	in
+einen	ART	 ein	einen
+reinen	ADJA	 rein	reinen
+Topff	NN	 Topf	Topf
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+drey	CARD	 drei	drei
+altbackene	ADJA	 altbacken	altbackene
+Semmeln	NN	 Semmel	Semmeln
+</seg>
+<seg type="newline">
+schneid	VVFIN	 schneiden	schneiden
+die	ART	 d	die
+krüster	ADJA	 UNKNOWN	krüster
+daruon	NN	 UNKNOWN	daruon
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+lege	VVFIN	 legen	lege
+sie	PPER	 sie	sie
+in	APPR	 in	in
+den	ART	 d	den
+kalten	ADJA	 kalt	kalten
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+las	VVFIN	 lesen	las
+sie	PPER	 sie	sie
+darinnen	VVFIN	 darinnen	darinnen
+eine	ART	 ein	eine
+viertel	NN	 Viertel	viertel
+stunde	VVFIN	 stunden	stunde
+ligen	NN	 Liga	ligen
+:	$.	:	$.	 :	|	:
+Darnach	ADV	 UNKNOWN	Darnach
+nim	VVFIN	 UNKNOWN	nimb
+sie	PPER	 sie	sie
+wider	APPR	 wider	wider
+heraus	PTKVZ	 heraus	heraus
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+drucke	VVFIN	 drucken	drucke
+sie	PPER	 sie	sie
+rein	ADV	 rein	rein
+aus	APPR	 aus	aus
+</seg>
+<seg type="newline">
+das	ART	 d	das
+sie	PPER	 sie	sie
+treuge	ADJD	 UNKNOWN	treuge
+werden	VAINF	 werden	werden
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+sie	PPER	 sie	sie
+auff	APPR	 auf	auf
+ein	ART	 ein	ein
+Brett	NN	 Brett	Brett
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+hacke	VVFIN	 hacken	hacke
+sie	PPER	 sie	sie
+klein	ADJD	 klein	klein
+.	$.	.	$.	 .	|	.
+Vnd	KON	 und	und
+nim	ADJA	 UNKNOWN	nimb
+kleine	ADJA	 klein	kleine
+geschnittene	ADJA	 geschnitten	geschnittene
+Mandeln	NN	 Mandel	Mandeln
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+kleine	ADJA	 klein	kleine
+Rosincken	NN	 Rosine	Rosinen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+wirff	VVFIN	 UNKNOWN	wirff
+sie	PPER	 sie	sie
+in	APPR	 in	in
+den	ART	 d	den
+Topff	NN	 Topf	Topf
+zum	APPRART	 zum	zum
+Weine	NN	 Wein	Weine
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+Zucker	NN	 Zucker	Zucker
+oder	KON	 oder	oder
+Honig	NN	 Honig	Honig
+drein	ADV	 drein	drein
+</seg>
+<seg type="newline">
+setze	VVFIN	 setzen	setze
+es	PPER	 es	es
+zum	APPRART	 zum	zum
+Fewer	NN	 Feuer	Feuer
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+las	VVFIN	 lesen	las
+heis	NN	 UNKNOWN	heis
+werden	VAINF	 werden	werden
+.	$.	.	$.	 .	|	.
+Vnd	KON	 und	und
+wenn	KOUS	 wenn	wenn
+du	PPER	 du	du
+die	ART	 d	die
+Semmel	NN	 Semmel	Semmel
+klein	ADJD	 klein	klein
+gehackt	VVPP	 hacken	gehackt
+hast	VAFIN	 haben	hast
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+lege	VVFIN	 legen	lege
+sie	PPER	 sie	sie
+in	APPR	 in	in
+eine	ART	 ein	eine
+Mulde	NN	 Mulde	Mulde
+</seg>
+<seg type="newline">
+schlage	VVFIN	 schlagen	schlage
+zwelff	NE	 UNKNOWN	zwelff
+Eyer	NE	 UNKNOWN	Eyer
+drein	PTKVZ	 drein	drein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+rührs	VVIMP	 UNKNOWN	rührs
+wol	PWAV	 wo	wo
+durcheinander	PTKVZ	 durcheinander	durcheinander
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+thue	VVFIN	 UNKNOWN	thue
+es	PPER	 es	es
+in	APPR	 in	in
+einen	ART	 ein	einen
+heissen	ADJA	 heiß	heissen
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+rühre	VVFIN	 rühren	rühre
+es	PPER	 es	es
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+das	PRELS	 d	das
+es	PPER	 es	es
+nicht	PTKNEG	 nicht	nicht
+zusammen	ADV	 zusammen	zusammen
+leufft	ADJD	 UNKNOWN	leufft
+</seg>
+<seg type="newline">
+würtze	VVFIN	 würzen	würzt
+es	PPER	 es	es
+ab	PTKVZ	 ab	ab
+mit	APPR	 mit	mit
+allerley	ADJA	 UNKNOWN	allerley
+Würtze	NN	 UNKNOWN	Würtze
+ausgenomen	ADJA	 UNKNOWN	ausgenomen
+Nelcken	NN	 UNKNOWN	Nelcken
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+koste	VVFIN	 kosen|kosten	koste
+es	PPER	 es	es
+zu	PTKA	 zu	zu
+rechter	ADJD	 recht	rechter
+masse	VVFIN	 maßen	masse
+</seg>
+<seg type="newline">
+bestrewe	VVFIN	 bestreuen	bestreuen
+es	PPER	 es	es
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Troye	NE	 UNKNOWN	Troye
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+gibs	NN	 UNKNOWN	gilbs
+hin	PTKVZ	 hin	hin
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

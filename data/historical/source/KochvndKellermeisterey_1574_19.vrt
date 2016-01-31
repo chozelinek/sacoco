@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Koch_vnd_Kellermeisterey_1574_19" collection="historical" source="Koch_vnd_Kellermeisterey" url="none" year="1574" decade="1570-1580" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1574:29r]">
+<title>
+<seg type="newline">
+Lungen	NN	 Lunge	Lungen
+Küchlin	NN	 UNKNOWN	Küchlin
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Kalbs	NN	 Kalb	Kalbs
+lungen	NN	 Lunge	lungen
+</seg>
+<seg type="newline">
+miltz	NE	 UNKNOWN	miltz
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+hertz	NE	 UNKNOWN	hertz
+hack	VVIMP	 hacken	hack
+gar	ADV	 gar	gar
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+hüt	NN	 UNKNOWN	hüt
+nur	ADV	 nur	nur
+der	ART	 d	der
+gallen	ADJA	 UNKNOWN	gallen
+</seg>
+<seg type="newline">
+mach	VVIMP	 machen	mach
+also	ADV	 also	also
+küchlin	ADJD	 UNKNOWN	küchlin
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+man	PIS	 man	man
+die	ART	 d	die
+knöpfflin	NN	 UNKNOWN	knöpfflin
+machet	VVFIN	 machen	machet
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+würtzen	ADJA	 UNKNOWN	würtzen
+</seg>
+<seg type="newline">
+alle	PIS	 alle	alle
+gar	ADV	 gar	gar
+schön	ADJD	 schön	schön
+gesotten	VVPP	 sieden	gesotten
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+trucken	VVIMP	 UNKNOWN	trucken
+eingelegt	VVPP	 einlegen	eingelegt
+zu	APPR	 zu	zu
+anderm	PIS	 andere	anderm
+Fleisch	NN	 Fleisch	Fleisch
+</seg>
+<seg type="newline">
+welcherley	NE	 UNKNOWN	welcherley
+fleisch	NN	 Fleisch	fleisch
+es	PPER	 es	es
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+fügen	VVFIN	 fügen	fügen
+sich	PRF	 er|es|sie	sich
+die	ART	 d	die
+lungen	NN	 Lunge	lungen
+küchlin	ADJD	 UNKNOWN	küchlin
+wol	PWAV	 wo	wo
+darzu	PAV	 dazu	dazu
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

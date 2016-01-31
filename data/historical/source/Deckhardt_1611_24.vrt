@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Deckhardt_1611_24" collection="historical" source="Deckhardt" url="none" year="1611" decade="1610-1620" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1611:207]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+gut	ADJD	 gut	gut
+Pirnmuhs	NN	 UNKNOWN	Pirnmuhs
+zumachen	VVFIN	 zumachen	zumachen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nim	ADJA	 UNKNOWN	nimb
+gute	ADJA	 gut	gute
+Pirn	NN	 UNKNOWN	Pirn
+</seg>
+<seg type="newline">
+schele	ADJD	 UNKNOWN	schele
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+schneide	VVFIN	 schneiden	schneide
+sie	PPER	 sie	sie
+</seg>
+<seg type="newline">
+geus	NN	 UNKNOWN	geuß
+einen	ART	 ein	einen
+guten	ADJA	 gut	guten
+Wein	NN	 Wein	Wein
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+sie	PPER	 sie	sie
+sieden	VVINF	 sieden	sieden
+bis	KON	 bis	bis
+sie	PPER	 sie	sie
+weich	ADJD	 weich	weich
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+treibe	VVFIN	 treiben	treibe
+sie	PPER	 sie	sie
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+Sieblein	NN	 UNKNOWN	Sieblein
+oder	KON	 oder	oder
+Durchschlag	NN	 Durchschlag	Durchschlag
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+eiuen	ADJA	 UNKNOWN	eiuen
+guten	ADJA	 gut	guten
+Löffeluoll	NN	 UNKNOWN	Löffeluoll
+Zucker	NN	 Zucker	Zucker
+oder	KON	 oder	oder
+Honig	NN	 Honig	Honig
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+würtze	VVFIN	 würzen	würzt
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+Ingwer	NN	 Ingwer	Ingwer
+vnd	KON	 und	und
+viel	PIAT	 viel	viel
+Zimmet	NN	 Zimt	Zimt
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+ein	ART	 ein	ein
+Schmaltz	NN	 Schmalz	Schmalz
+zergehen	VVINF	 zergehen	zergehen
+</seg>
+<seg type="newline">
+schütte	VVFIN	 schütten	schütte
+die	ART	 d	die
+Pirn	NN	 UNKNOWN	Pirn
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+sie	PPER	 sie	sie
+mehr	ADV	 mehr	mehr
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+So	ADV	 so	So
+werden	VAFIN	 werden	werden
+sie	PPER	 sie	sie
+recht	ADJD	 recht	recht
+vnd	KON	 und	und
+gut	ADJD	 gut	gut
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

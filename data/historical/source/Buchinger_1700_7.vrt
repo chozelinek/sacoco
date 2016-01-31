@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Buchinger_1700_7" collection="historical" source="Buchinger" url="none" year="1700" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:1f.]">
+<title>
+<seg type="newline">
+Fülle	NN	 Fülle	Fülle
+.	$.	.	$.	 .	|	.
+745.	ADJA	 @ord@	745.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Man	PIS	 man	Man
+mags	NN	 Lage	Lage
+auch	ADV	 auch	auch
+geschehlt	VVFIN	 UNKNOWN	geschehlt
+und	KON	 und	und
+gehackt	VVPP	 hacken	gehackt
+under	ADJA	 UNKNOWN	under
+Fülle	NN	 Fülle	Fülle
+thun	NE	 UNKNOWN	thue
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+Castanien	NN	 UNKNOWN	Castanien
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Zusatz	NN	 Zusatz	Zusatz
+Gewürtz	NN	 UNKNOWN	Gewürtz
+</seg>
+<seg type="newline">
+Rosinlin	NN	 UNKNOWN	Rosinlin
+oder	KON	 oder	oder
+Meertrauben	NN	 UNKNOWN	Meertrauben
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

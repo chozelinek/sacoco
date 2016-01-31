@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Staindl_1569_26" collection="historical" source="Staindl" url="none" year="1569" decade="1560-1570" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[11v]">
+<title>
+<seg type="newline">
+Schüssel	NN	 Schüssel	Schüssel
+muoß	NN	 UNKNOWN	muoß
+zu	PTKZU	 zu	zu
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+So	ADV	 so	So
+nymauff	NN	 UNKNOWN	nymauff
+ein	PTKVZ	 ein	ein
+tisch	VVIMP	 tischen	tisch
+fünff	CARD	 fünf	fünf
+ayer	ADJA	 UNKNOWN	ayer
+</seg>
+<seg type="newline">
+zerschlags	NN	 UNKNOWN	zerschlags
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+nimb	ADJA	 UNKNOWN	nimb
+wol	PWAV	 wo	wo
+zwier	ADJA	 UNKNOWN	zwier
+souil	NE	 UNKNOWN	souil
+guotesüssen	ADJA	 UNKNOWN	guotesüssen
+milchraum	NN	 UNKNOWN	milchraum
+</seg>
+<seg type="newline">
+thu	NE	 Thu	thu
+ein	PTKVZ	 ein	ein
+zucker	VVIMP	 zuckern	zucker
+drein	ADV	 drein	drein
+</seg>
+<seg type="newline">
+saltz	ADJA	 kalt	kalten
+zumassen	VVFIN	 abmessen	abmessen
+</seg>
+<seg type="newline">
+vnnetz	NN	 UNKNOWN	vnnetz
+ein	ART	 ein	ein
+schüssel	NN	 Schüssel	schüssel
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+eim	ADJA	 UNKNOWN	nimb
+zerlaßneschmaltz	NN	 UNKNOWN	zerlaßneschmaltz
+geüß	ADJD	 UNKNOWN	geüß
+die	ART	 d	die
+kalten	ADJA	 kalt	kalten
+ayer	ADJA	 UNKNOWN	ayer
+vnd	KON	 und	und
+raum	ADJD	 raum	raum
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+nimb	ADJD	 UNKNOWN	nimb
+in	APPR	 in	in
+ein	ART	 ein	ein
+hafen	NN	 Hafen	hafen
+ein	PTKVZ	 ein	ein
+wasser	VVIMP	 wassern	wasser
+</seg>
+<seg type="newline">
+setzt	VVFIN	 setzen	setzt
+die	ART	 d	die
+schüssel	NN	 Schüssel	schüssel
+verdeckt	VVFIN	 verdecken	verdeckt
+auff	APPR	 auf	auf
+den	ART	 d	den
+hafen	NN	 Hafen	hafen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+wirdt	VVFIN	 UNKNOWN	wirdt
+es	PPER	 es	es
+fein	ADJD	 fein	fein
+vest	VVFIN	 UNKNOWN	vest
+</seg>
+<seg type="newline">
+auff	APPR	 auf	auf
+den	ART	 d	den
+seyten	NN	 UNKNOWN	seyten
+des	ART	 d	des
+hafens	NN	 Hafen	hafens
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+es	PPER	 es	es
+fein	ADJD	 fein	fein
+vest	ADJA	 UNKNOWN	vest
+wirt	NN	 Wirt	wirt
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+ein	ART	 ein	ein
+sultz	NN	 UNKNOWN	sultz
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+hat	VAFIN	 haben	hat
+es	PPER	 es	es
+fein	ADJD	 fein	fein
+genuog	VVFIN	 UNKNOWN	genuog
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+ist	VAFIN	 sein	ist
+ein	ART	 ein	ein
+guot	ADJD	 gut	gut
+linds	NN	 UNKNOWN	linds
+essen	VVINF	 essen	essen
+.	$.	.	$.	 .	|	.
+Man	PIS	 man	Man
+macht	VVFIN	 machen	macht
+das	ART	 d	das
+schüsselmuoß	NN	 UNKNOWN	schüsselmuoß
+auff	APPR	 auf	auf
+den	ART	 d	den
+form	VVIMP	 formen	form
+</seg>
+<seg type="newline">
+also	ADV	 also	also
+nimb	ADJA	 UNKNOWN	nimb
+ayr	NN	 UNKNOWN	ayr
+vnd	KON	 und	und
+raum	ADJD	 raum	raum
+</seg>
+<seg type="newline">
+brenn	VVIMP	 brennen	brenn
+zumassen	VVFIN	 abmessen	abmessen
+ein	ART	 ein	ein
+meel	ADJA	 UNKNOWN	meel
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+geüß	ADJD	 UNKNOWN	geüß
+in	APPR	 in	in
+die	ART	 d	die
+schüssel	NN	 Schüssel	schüssel
+</seg>
+<seg type="newline">
+setz	VVIMP	 setzen	setz
+auff	APPR	 auf	auf
+ein	ART	 ein	ein
+Trifuoß	NN	 UNKNOWN	Trifuoß
+oder	KON	 oder	oder
+Rost	NE	 Rost	Rost
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+thuo	NE	 UNKNOWN	thue
+ein	ART	 ein	ein
+Hafendeck	NN	 UNKNOWN	Hafendeck
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+zim[-]lichen	ADJA	 UNKNOWN	zim[-]lichen
+glütlein	NN	 UNKNOWN	glütlein
+darauff	PAV	 drauf	drauf
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+bächts	VVFIN	 UNKNOWN	bächts
+es	PPER	 es	es
+sich	PRF	 er|es|sie	sich
+fein	ADJD	 fein	fein
+</seg>
+<seg type="newline">
+thuo	NN	 UNKNOWN	thue
+der	ART	 d	der
+schüssel	NN	 Schüssel	schüssel
+nit	VVFIN	 UNKNOWN	nimb
+zu	APPR	 zu	zu
+heiß	ADJD	 heiß	heiß
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+es	PPER	 es	es
+rösch	VVFIN	 UNKNOWN	rösch
+wirdt	NE	 UNKNOWN	wirdt
+</seg>
+<seg type="newline">
+hat	VAFIN	 haben	hat
+es	PPER	 es	es
+sein	PPOSAT	 sein	sein
+genuog+	ADJA	 UNKNOWN	genuog+
+</seg>
+</body>
+</text>

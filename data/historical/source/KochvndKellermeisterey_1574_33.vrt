@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Koch_vnd_Kellermeisterey_1574_33" collection="historical" source="Koch_vnd_Kellermeisterey" url="none" year="1574" decade="1570-1580" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1574:7rf.]">
+<title>
+<seg type="newline">
+Galrad	NN	 UNKNOWN	Galrad
+zu	APPR	 zu	zu
+den	ART	 d	den
+eingemachten	ADJA	 eingemacht	eingemachten
+Krebsen	NN	 Krebs	Krebsen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Seud	NE	 UNKNOWN	Sud
+Krebs	NE	 Krebs	Krebs
+ab	PTKVZ	 ab	ab
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+vil	ADV	 viel	viel
+du	PPER	 du	du
+wilt	NE	 Wilt	wilt
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+wein	VVIMP	 weinen	wein
+vnnd	KON	 und	und
+Eßig	NN	 UNKNOWN	Eßig
+</seg>
+<seg type="newline">
+schel	VVFIN	 UNKNOWN	schel
+sie	PPER	 sie	sie
+</seg>
+<seg type="newline">
+thu	NN	 UNKNOWN	thu
+das	PDS	 d	das
+bitter	ADJD	 bitter	bitter
+auß	VMFIN	 müssen	muß
+den	ART	 d	den
+köpffen	ADJA	 UNKNOWN	köpffen
+</seg>
+<seg type="newline">
+schel	NN	 UNKNOWN	schel
+die	PDS	 d	die
+scheren	VVINF	 scheren	scheren
+vnnd	KON	 und	und
+die	ART	 d	die
+bäuch	NN	 UNKNOWN	bäuch
+</seg>
+<seg type="newline">
+thu	VVFIN	 UNKNOWN	thue
+sie	PPER	 sie	sie
+in	APPR	 in	in
+ein	ART	 ein	ein
+Mörser	NN	 Mörser	Mörser
+</seg>
+<seg type="newline">
+Mandeln	NN	 Mandel	Mandeln
+</seg>
+<seg type="newline">
+vnein	VVFIN	 UNKNOWN	vnein
+brosamlin	NE	 UNKNOWN	brosamlin
+weißbrod	NE	 UNKNOWN	weißbrod
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+stoß	VVIMP	 stoßen	stoß
+wol	PWAV	 wo	wo
+mit	APPR	 mit	mit
+gutem	ADJA	 gut	gutem
+wein	VVIMP	 weinen	wein
+</seg>
+<seg type="newline">
+treibees	NN	 UNKNOWN	treibees
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+tuch	NN	 Tuch	tuch
+</seg>
+<seg type="newline">
+thu	VVFIN	 UNKNOWN	thue
+es	PPER	 es	es
+in	APPR	 in	in
+ein	ART	 ein	ein
+Pfanvnd	NE	 UNKNOWN	Pfanvnd
+buttern	VVFIN	 buttern	buttern
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+machs	NN	 UNKNOWN	machs
+ab	PTKVZ	 ab	ab
+mit	APPR	 mit	mit
+würtzen	ADJA	 UNKNOWN	würtzen
+vnd	KON	 und	und
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+versuchs	NN	 Versuch	versuchs
+</seg>
+<seg type="newline">
+wer	PWS	 wer	wer
+es	PPER	 es	es
+dann	ADV	 dann	dann
+zustarck	NE	 UNKNOWN	zustarck
+</seg>
+<seg type="newline">
+temperiers	NE	 UNKNOWN	temperiers
+mit	PTKVZ	 mit	mit
+wasser	VVIMP	 wassern	wasser
+</seg>
+<seg type="newline">
+also	ADV	 also	also
+daß	KOUS	 daß	daß
+Eßig	NN	 UNKNOWN	Eßig
+</seg>
+<seg type="newline">
+wein	VVIMP	 weinen	wein
+vnnd	KON	 und	und
+würtz	VVFIN	 würzen	würzt
+recht	ADJD	 recht	recht
+maß	PTKVZ	 maß	maß
+haben	VAFIN	 haben	haben
+</seg>
+<seg type="newline">
+Setz	NN	 UNKNOWN	Setz
+sie	PPER	 sie	sie
+für	APPR	 für	für
+</seg>
+<seg type="newline">
+kalt	ADJD	 kalt	kalt
+oder	KON	 oder	oder
+warm	ADJD	 warm	warm
+</seg>
+<seg type="newline">
+bestreuw	VVFIN	 UNKNOWN	bestreuw
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+welschen	ADJA	 welsch	welschen
+weinbeern	ADJA	 UNKNOWN	weinbeern
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+frischem	ADJA	 frisch	frischem
+Jmber	NN	 UNKNOWN	Jmber
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+du	PPER	 du	du
+sie	PPER	 sie	sie
+warm	ADJD	 warm	warm
+gibest	ADJD	 UNKNOWN	gibest
+</seg>
+<seg type="newline">
+wilt	VMFIN	 wollen	will
+du	PPER	 du	du
+sie	PPER	 sie	sie
+kalt	ADJD	 kalt	kalt
+geben	VVINF	 geben	geben
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+es	PPER	 es	es
+gestanden	VVFIN	 gestehen	gestanden
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+besteck	VVIMP	 bestecken	besteck
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+Mandlen	NN	 UNKNOWN	Mandlen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

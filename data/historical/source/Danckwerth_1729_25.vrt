@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Danckwerth_1729_25" collection="historical" source="Danckwerth" url="none" year="1729" decade="1720-1730" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1729:350f.]">
+<title>
+<seg type="newline">
+Wie	KOUS	 wie	Wie
+man	PIS	 man	man
+trocken	ADJD	 trocken	trocken
+Obst	NN	 Obst	Obst
+mit	APPR	 mit	mit
+Zucker	NN	 Zucker	Zucker
+machen	VVINF	 machen	machen
+soll	VMFIN	 sollen	soll
+</seg>
+<seg type="newline">
+als	KOKOM	 als	als
+Pflaumen	NN	 Pflaume|Pflaumen	Pflaumen
+</seg>
+<seg type="newline">
+Pfirsingen	ADJA	 UNKNOWN	Pfirsingen
+</seg>
+<seg type="newline">
+Birn	NN	 UNKNOWN	Birn
+</seg>
+<seg type="newline">
+Aepffel	NN	 UNKNOWN	Aepffel
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nehmet	VVFIN	 nehmen	Nehmet
+ein	ART	 ein	ein
+Pfund	NN	 Pfund	Pfund
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+giesset	PDAT	 dies	diese
+darauf	PAV	 darauf	darauf
+ein	ART	 ein	ein
+Quart	ADJA	 UNKNOWN	Quart
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+und	KON	 und	und
+läutert	VVFIN	 läutern	läutert
+ihn	PPER	 er	ihn
+wohl	ADV	 wohl	wohl
+</seg>
+<seg type="newline">
+lasset	VVFIN	 lassen	lasset
+ihn	PPER	 er	ihn
+so	ADV	 so	so
+lange	ADV	 lange	lange
+sieden	VVINF	 sieden	sieden
+</seg>
+<seg type="newline">
+bis	KON	 bis	bis
+er	PPER	 er	er
+ihn	PPER	 er	ihn
+wohl	ADV	 wohl	wohl
+einfliesset	VVFIN	 UNKNOWN	einfliesset
+;	$.	;	$.	 ;	|	;
+Darnach	ADV	 UNKNOWN	Darnach
+die	ART	 d	die
+Pfirsingen	NN	 UNKNOWN	Pfirsingen
+(	$(	(	$(	 (	|	(
+oder	KON	 oder	oder
+was	PRELS	 was	was
+ihr	PPER	 ihr	ihr
+wolt	ADJD	 UNKNOWN	wolt
+)	$(	)	$(	 )	|	)
+zerschnitten	VVFIN	 zerschneiden	zerschnitten
+</seg>
+<seg type="newline">
+gantz	ADJD	 ganz	ganz
+oder	KON	 oder	oder
+halb	ADJD	 halb	halb
+in	APPR	 in	in
+den	ART	 d	den
+Zucker	NN	 Zucker	Zucker
+gethan	NE	 UNKNOWN	gethan
+</seg>
+<seg type="newline">
+einmahl	NN	 UNKNOWN	einmahl
+oder	KON	 oder	oder
+fünff	CARD	 fünf	fünf
+auffsieden	NN	 UNKNOWN	aufsieden
+lassen	VVINF	 lassen	lassen
+.	$.	.	$.	 .	|	.
+Hernach	ADV	 hernach	Hernach
+die	ART	 d	die
+Pfirsingen	NN	 UNKNOWN	Pfirsingen
+herausgethan	NE	 UNKNOWN	herausgethan
+</seg>
+<seg type="newline">
+und	KON	 und	und
+in	APPR	 in	in
+einer	ART	 ein	einer
+Schüssel	NN	 Schüssel	Schüssel
+auf	APPR	 auf	auf
+Höltzlein	NN	 UNKNOWN	Höltzlein
+geleget	ADJA	 UNKNOWN	geleget
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+der	ART	 d	der
+Zucker	NN	 Zucker	Zucker
+ablauffe	VVFIN	 UNKNOWN	ablauffe
+.	$.	.	$.	 .	|	.
+Dann	ADV	 dann	Dann
+in	APPR	 in	in
+einen	ART	 ein	einen
+Syrup	NE	 UNKNOWN	Syrup
+auf	APPR	 auf	auf
+ein	ART	 ein	ein
+Tag	NN	 Tag	Tag
+oder	KON	 oder	oder
+Nacht	NN	 Nacht	Nacht
+auf	APPR	 auf	auf
+einen	ART	 ein	einen
+warmen	ADJA	 warm	warmen
+Ofen	NN	 Ofen	Ofen
+stehen	VVINF	 stehen	stehen
+lassen	VVFIN	 lassen	lassen
+</seg>
+<seg type="newline">
+nachdem	KOUS	 nachdem	nachdem
+wieder	ADV	 wieder	wieder
+herunter	ADV	 herunter	herunter
+genommen	VVPP	 nehmen	genommen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+an	APPR	 an	an
+einen	ART	 ein	einen
+warmen	ADJA	 warm	warmen
+Ort	NN	 Ort	Ort
+gestellet	VVFIN	 UNKNOWN	gestellet
+</seg>
+<seg type="newline">
+die	ART	 d	die
+Pfirsingen	NN	 UNKNOWN	Pfirsingen
+alle	PIAT	 alle	alle
+Tage	NN	 Tag	Tage
+umgewendet	VVFIN	 UNKNOWN	umgewendet
+</seg>
+<seg type="newline">
+und	KON	 und	und
+überall	ADV	 überall	überall
+mit	APPR	 mit	mit
+Zucker	NN	 Zucker	Zucker
+bestreuet	VVFIN	 bestreuen	bestreuen
+</seg>
+<seg type="newline">
+solches	PIS	 solch	solches
+etwann	ADV	 UNKNOWN	etwann
+einen	ART	 ein	einen
+Tag	NN	 Tag	Tag
+oder	KON	 oder	oder
+fünff	CARD	 fünf	fünf
+gethan	NN	 UNKNOWN	gethan
+</seg>
+<seg type="newline">
+bis	KON	 bis	bis
+man	PIS	 man	man
+siehet	VVFIN	 UNKNOWN	siehet
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+sie	PPER	 sie	sie
+ziemlich	ADV	 ziemlich	ziemlich
+trocken	ADJD	 trocken	trocken
+</seg>
+<seg type="newline">
+seyd	NE	 UNKNOWN	seyd
+</seg>
+<seg type="newline">
+hernach	ADV	 hernach	hernach
+also	ADV	 also	also
+stehen	VVINF	 stehen	stehen
+lassen	VVINF	 lassen	lassen
+</seg>
+<seg type="newline">
+bis	KON	 bis	bis
+sie	PPER	 sie	sie
+recht	ADJD	 recht	recht
+trocken	ADJD	 trocken	trocken
+werden	VAINF	 werden	werden
+.	$.	.	$.	 .	|	.
+Sind	VAFIN	 sein	Sind
+also	ADV	 also	also
+gut	ADJD	 gut	gut
+aus	APPR	 aus	aus
+der	ART	 d	der
+Hand	NN	 Hand	Hand
+oder	KON	 oder	oder
+bey	NE	 Bey	bey
+dem	ART	 d	dem
+Trunck	NE	 UNKNOWN	Trunck
+zu	PTKZU	 zu	zu
+essen	VVINF	 essen	essen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

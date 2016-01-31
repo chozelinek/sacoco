@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Koch_vnd_Kellermeisterey_1574_17" collection="historical" source="Koch_vnd_Kellermeisterey" url="none" year="1574" decade="1570-1580" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1574:32r]">
+<title>
+<seg type="newline">
+Hirschen	NN	 Hirsch	Hirschen
+Lüm[-]elbraten	NN	 UNKNOWN	Lüm[-]elbraten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimden	ADJA	 UNKNOWN	Nimden
+schweyß	ADJA	 UNKNOWN	schweyß
+</seg>
+<seg type="newline">
+reib	ADJA	 UNKNOWN	reib
+Lebkuchen	NN	 Lebkuchen	Lebkuchen
+drein	ADV	 drein	drein
+</seg>
+<seg type="newline">
+treibs	NN	 Kreis	Kreis
+durch	APPR	 durch	durch
+einn	ART	 ein	einem
+tuch	NN	 Tuch	tuch
+in	APPR	 in	in
+ein	ART	 ein	ein
+Hafen	NN	 Hafen	Hafen
+</seg>
+<seg type="newline">
+thu	NE	 Thu	thu
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Essig	NN	 Essig	Essig
+darein	ADV	 darein	darein
+.	$.	.	$.	 .	|	.
+Wil	NE	 Wil	Wil
+der	ART	 d	der
+Schweyß	NN	 UNKNOWN	Schweyß
+nicht	PTKNEG	 nicht	nicht
+gern	ADV	 gern	gern
+durchgehn	ADJA	 UNKNOWN	durchgehn
+</seg>
+<seg type="newline">
+geuß	NN	 UNKNOWN	geuß
+Wein	NN	 Wein	Wein
+oder	KON	 oder	oder
+Fleischbrühe	NN	 Fleischbrühe	Fleischbrühe
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+treib	VVIMP	 treiben	treib
+den	ART	 d	den
+lebkuchen	NN	 Lebkuchen	lebkuchen
+vnd	KON	 und	und
+schweyß	VVFIN	 UNKNOWN	schweyß
+durch	APPR	 durch	durch
+die	ART	 d	die
+nieren	TRUNC	 UNKNOWN	nieren
+vnd	KON	 und	und
+Schaffbrätlin	NN	 UNKNOWN	Schaffbrätlin
+</seg>
+<seg type="newline">
+wol	PWAV	 wo	wo
+gewäschen	ADJA	 UNKNOWN	gewäschen
+</seg>
+<seg type="newline">
+schneids	VVINF	 schneiden	schneiden
+würflet	VVFIN	 UNKNOWN	würflet
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+sieden	VVINF	 sieden	sieden
+</seg>
+<seg type="newline">
+meng	VVIMP	 mengen	meng
+es	PPER	 es	es
+mit	APPR	 mit	mit
+saltz	ADJA	 kalt	kalten
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+schwartz	NN	 UNKNOWN	schwartz
+würtz	VVFIN	 würzen	würzt
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

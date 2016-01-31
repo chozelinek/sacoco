@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Colerus_1602_25" collection="historical" source="Colerus" url="none" year="1602" decade="1600-1610" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1602:172]">
+<title>
+<seg type="newline">
+Eine	ART	 ein	Eine
+gute	ADJA	 gut	gute
+Kesche	NN	 UNKNOWN	Kesche
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+gut	ADJD	 gut	gut
+Muhss	NN	 UNKNOWN	Muhss
+</seg>
+<seg type="newline">
+von	APPR	 von	von
+Tschwetzken	ADJA	 UNKNOWN	Tschwetzken
+</seg>
+<seg type="newline">
+Kirschen	NN	 Kirsche	Kirschen
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Weichseln	VVINF	 wechseln	wechseln
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nim	VVFIN	 UNKNOWN	nimb
+der	ART	 d	der
+Tschwetzken	NN	 UNKNOWN	Tschwetzken
+oder	KON	 oder	oder
+Weichseln	VVFIN	 wechseln	wechseln
+einen	ART	 ein	einen
+Kessel	NN	 Kessel	Kessel
+voll	ADJD	 voll	voll
+oder	KON	 oder	oder
+viere	VVFIN	 UNKNOWN	viere
+</seg>
+<seg type="newline">
+röhste	ADJA	 UNKNOWN	röhste
+eine	PIS	 ein	eine
+schnitte	VVFIN	 schneiden	schnitte
+Weißbrod	NN	 Weißbrot	Weißbrot
+oder	KON	 oder	oder
+drey	CARD	 drei	drei
+</seg>
+<seg type="newline">
+thue	NN	 UNKNOWN	thue
+das	ART	 d	das
+also	ADV	 also	also
+in	APPR	 in	in
+einen	ART	 ein	einen
+Wein	NN	 Wein	Wein
+oder	KON	 oder	oder
+Essig	NN	 Essig	Essig
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+wenn	KOUS	 wenn	wenn
+die	PDS	 d	die
+schnitten	VVFIN	 schneiden	schnitten
+wol	PWAV	 wo	wo
+weich	ADJD	 weich	weich
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+treib	VVIMP	 treiben	treib
+das	PDS	 d	das
+also	ADV	 also	also
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+Tuch	NN	 Tuch	Tuch
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Durchschlag	NN	 Durchschlag	Durchschlag
+</seg>
+<seg type="newline">
+der	ART	 d	der
+nicht	PTKNEG	 nicht	nicht
+weitlöcherig	ADJD	 UNKNOWN	weitlöcherig
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+daran	PAV	 daran	daran
+Honig	NN	 Honig	Honig
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+einen	ART	 ein	einen
+Leffel	NN	 UNKNOWN	Leffel
+voll	ADJD	 voll	voll
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+schütte	VVFIN	 schütten	schütte
+daran	PAV	 daran	daran
+Annerkörner	NE	 UNKNOWN	Annerkörner
+</seg>
+<seg type="newline">
+Kirschkörner	NN	 UNKNOWN	Kirschkörner
+</seg>
+<seg type="newline">
+Würtze	NN	 UNKNOWN	Würtze
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Nelcken	NE	 UNKNOWN	Nelcken
+</seg>
+<seg type="newline">
+geliebt	VVPP	 lieben	geliebt
+dirs	NN	 UNKNOWN	dirs
+</seg>
+<seg type="newline">
+wenn	KOUS	 wenn	wenn
+du	PPER	 du	du
+die	ART	 d	die
+Kesche	NN	 UNKNOWN	Kesche
+auff	APPR	 auf	auf
+die	ART	 d	die
+Schüssel	NN	 Schüssel	Schüssel
+gibst	VVFIN	 geben	gibst
+</seg>
+<seg type="newline">
+beschütte	VVFIN	 UNKNOWN	beschütte
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+zuschnittenen	ADJA	 UNKNOWN	zuschnittenen
+Mandelkernen	NN	 UNKNOWN	Mandelkernen
+vnd	KON	 und	und
+Rosincken	NN	 Rosine	Rosinen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

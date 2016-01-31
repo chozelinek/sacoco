@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Hohberg_1715_1" collection="historical" source="Hohberg" url="none" year="1715" decade="1710-1720" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1715:1f.]">
+<title>
+<seg type="newline">
+Frantzösische	ADJA	 UNKNOWN	Frantzösische
+Suppen	NN	 Suppe	Suppen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Man	PIS	 man	Man
+nimmt	VVFIN	 nehmen	nimmt
+Käß=	NN	 UNKNOWN	Käß=
+oder	KON	 oder	oder
+Blumen=Köhl	NN	 UNKNOWN	Blumen=Köhl
+</seg>
+<seg type="newline">
+nur	ADV	 nur	nur
+die	ART	 d	die
+obern	ADJA	 UNKNOWN	obern
+Plätzlein	NN	 UNKNOWN	Plätzlein
+von	APPR	 von	von
+Köhl=Ruben	NN	 UNKNOWN	Köhl=Ruben
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+etwas	ADV	 etwas	etwas
+wenigen	PIAT	 wenig	wenigen
+grünen	ADJA	 grün	grünen
+</seg>
+<seg type="newline">
+ausgekörndte	ADJA	 UNKNOWN	ausgekörndte
+oder	KON	 oder	oder
+grüne	ADJA	 grün	grüne
+Küff=Erbsen	NN	 UNKNOWN	Küff=Erbsen
+</seg>
+<seg type="newline">
+Spargel	NN	 Spargel	Spargel
+</seg>
+<seg type="newline">
+dürr=	ADJA	 UNKNOWN	dürr=
+oder	KON	 oder	oder
+frische	ADJA	 frisch	frische
+Artischocken=Kern	NN	 UNKNOWN	Artischocken=Kern
+</seg>
+<seg type="newline">
+Spitz=	NN	 UNKNOWN	Spitz=
+und	KON	 und	und
+Stock=Morgeln	NN	 UNKNOWN	Stock=Morgeln
+</seg>
+<seg type="newline">
+von	APPR	 von	von
+den	ART	 d	den
+kleinen	ADJA	 klein	kleinen
+Schwämmen	NN	 Schwamm	Schwämmen
+</seg>
+<seg type="newline">
+Negelein=Pfiffer	NN	 UNKNOWN	Negelein=Pfiffer
+genandt	NE	 UNKNOWN	genandt
+</seg>
+<seg type="newline">
+geschabte	ADJA	 UNKNOWN	geschabte
+Scorconern	NN	 UNKNOWN	Scorconern
+Stücklein=weiß	NN	 UNKNOWN	Stücklein=weiß
+geschnitten	VVPP	 schneiden	geschnitten
+</seg>
+<seg type="newline">
+brühet	ADJA	 grün	grünen
+jedes	PIAT	 jed	jedes
+besonder	ADJA	 UNKNOWN	besonder
+in	APPR	 in	in
+Wasser	NN	 Wasser	Wasser
+ab	ADV	 ab	ab
+</seg>
+<seg type="newline">
+jedoch	ADV	 jedoch	jedoch
+also	ADV	 also	also
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+es	PPER	 es	es
+nicht	PTKNEG	 nicht	nicht
+zu	PTKA	 zu	zu
+weich	ADJD	 weich	weich
+werde	VAFIN	 werden	werde
+</seg>
+<seg type="newline">
+lasset	VVFIN	 lassen	lasset
+zuvor	ADV	 zuvor	zuvor
+aus	APPR	 aus	aus
+ihren	PPOSAT	 ihr	ihren
+Häußlein	NN	 UNKNOWN	Häußlein
+gereinigte	ADJA	 gereinigt	gereinigte
+Schnecken	NN	 Schnecke	Schnecken
+und	KON	 und	und
+Hüner	NN	 UNKNOWN	Hünern
+Mägenlein	NN	 UNKNOWN	Mägenlein
+in	APPR	 in	in
+Fleisch=Brühe	NN	 Fleischbrühe	Fleischbrühe
+weich	ADJD	 weich	weich
+sieden	VVINF	 sieden	sieden
+;	$.	;	$.	 ;	|	;
+Ingleichem	NE	 UNKNOWN	Ingleichem
+werden	VAFIN	 werden	werden
+Kalbs=Brüß	NN	 UNKNOWN	Kalbs=Brüß
+in	APPR	 in	in
+Fleisch=Brühe	NN	 Fleischbrühe	Fleischbrühe
+über	PTKVZ	 über	über
+sotten	VVFIN	 sieden	sotten
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+Plätzlein=weiß	NN	 UNKNOWN	Plätzlein=weiß
+geschnitten	VVPP	 schneiden	geschnitten
+;	$.	;	$.	 ;	|	;
+machet	VVFIN	 machen	machet
+von	APPR	 von	von
+gehackten	ADJA	 gehackt	gehackten
+Hüner=	NN	 UNKNOWN	Hüner=
+oder	KON	 oder	oder
+Kalb=Fleisch	NN	 UNKNOWN	Kalb=Fleisch
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+Schmaltz	NN	 Schmalz	Schmalz
+gerösten	ADJA	 UNKNOWN	gerösten
+Semmel=Mehl	NN	 UNKNOWN	Semmel=Mehl
+</seg>
+<seg type="newline">
+Muscaten=Blühe	VVFIN	 UNKNOWN	Muscaten=Blühe
+</seg>
+<seg type="newline">
+Cardamomen	NN	 Kardamom	Kardamom
+</seg>
+<seg type="newline">
+Ingber	NN	 Ingwer	Ingwer
+und	KON	 und	und
+Eyern	ADJA	 UNKNOWN	Eyern
+kleine	ADJA	 klein	kleine
+Knötlein	NN	 UNKNOWN	Knötlein
+oder	KON	 oder	oder
+Klößlein	NN	 UNKNOWN	Klößlein
+</seg>
+<seg type="newline">
+ohngefähr	VVFIN	 UNKNOWN	ohngefähr
+wie	KOKOM	 wie	wie
+ein	ART	 ein	ein
+Schusser	NN	 UNKNOWN	Schusser
+</seg>
+<seg type="newline">
+übersiedets	NN	 UNKNOWN	übersiedets
+auch	ADV	 auch	auch
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+in	APPR	 in	in
+Fleisch=Brühe	NN	 Fleischbrühe	Fleischbrühe
+</seg>
+<seg type="newline">
+thut	NE	 UNKNOWN	thue
+alles	PIS	 alle	alles
+erwehnte	VVFIN	 UNKNOWN	erwehnte
+</seg>
+<seg type="newline">
+nebst	APPR	 nebst	nebst
+ausgeschelten	ADJA	 UNKNOWN	ausgeschelten
+Krebs=Schwäntzen	NN	 UNKNOWN	Krebs=Schwäntzen
+und	KON	 und	und
+Scheren	NN	 Schere|Scheren	Scheren
+</seg>
+<seg type="newline">
+woran	PWAV	 woran	woran
+unten	ADV	 unten	unten
+die	ART	 d	die
+rothen	NN	 UNKNOWN	rothen
+Spitzlein	NN	 UNKNOWN	Spitzlein
+von	APPR	 von	von
+Schalen	NN	 Schale	Schalen
+gelassen	VVPP	 lassen	gelassen
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+einen	ART	 ein	einen
+grossen	ADJA	 groß	grossen
+Stollichten	ADJA	 UNKNOWN	Stollichten
+Hafen	NN	 Hafen	Hafen
+</seg>
+<seg type="newline">
+verfertiget	VVFIN	 UNKNOWN	verfertiget
+eine	ART	 ein	eine
+Krebs=Brüh	NN	 UNKNOWN	Krebs=Brüh
+</seg>
+<seg type="newline">
+und	KON	 und	und
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+nemlich	ADJD	 UNKNOWN	nemlich
+</seg>
+<seg type="newline">
+stosset	VVFIN	 UNKNOWN	stosset
+die	ART	 d	die
+Krebsschalen	NN	 Krebsschale	Krebsschalen
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+röstet	VVFIN	 rösten	röstet
+sie	PPER	 sie	sie
+in	APPR	 in	in
+ein	ART	 ein	ein
+gut	ADJD	 gut	gut
+Theil	NN	 Teil	Teil
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+zwingts	VVFIN	 UNKNOWN	zwingts
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+Tuch	NN	 Tuch	Tuch
+</seg>
+<seg type="newline">
+giesset	PDAT	 dies	diese
+an	APPR	 an	an
+die	ART	 d	die
+durchgezwungenen	ADJA	 UNKNOWN	durchgezwungenen
+Schalen	NN	 Schale	Schalen
+Fleisch=Brüh	NN	 UNKNOWN	Fleisch=Brüh
+</seg>
+<seg type="newline">
+lassets	ADJA	 UNKNOWN	lässets
+darinn	NN	 UNKNOWN	darinn
+wohl	ADV	 wohl	wohl
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+zwingts	NN	 UNKNOWN	zwingts
+nachmalen	VVFIN	 nachmalen	nachmalen
+</seg>
+<seg type="newline">
+jedoch	ADV	 jedoch	jedoch
+besonders	ADV	 besonders	besonders
+</seg>
+<seg type="newline">
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+Tuch	NN	 Tuch	Tuch
+;	$.	;	$.	 ;	|	;
+giesset	PDAT	 dies	diese
+diese	PDAT	 dies	diese
+Brüh	ADJD	 früh	früh
+folgends	ADJA	 folgend	folgenden
+über	APPR	 über	über
+die	ART	 d	die
+Sachen	NN	 Sache	Sachen
+in	APPR	 in	in
+Stollen=Hafen	NN	 UNKNOWN	Stollen=Hafen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+lasset	VVFIN	 lassen	lasset
+es	PPER	 es	es
+zusammen	ADV	 zusammen	zusammen
+aufsieden	VVFIN	 UNKNOWN	aufsieden
+</seg>
+<seg type="newline">
+thut	NE	 UNKNOWN	thue
+auf	APPR	 auf	auf
+die	ART	 d	die
+letzt	ADJD	 letzt	letzt
+</seg>
+<seg type="newline">
+beym	ADJA	 UNKNOWN	beym
+Anrichten	NN	 Anrichten	Anrichten
+</seg>
+<seg type="newline">
+die	ART	 d	die
+verfertigte	ADJA	 verfertigt	verfertigte
+Krebs=Butter	NN	 UNKNOWN	Kressebutter
+auch	ADV	 auch	auch
+darein	ADV	 darein	darein
+;	$.	;	$.	 ;	|	;
+Indessen	NN	 UNKNOWN	Indessen
+machet	VVFIN	 machen	machet
+von	APPR	 von	von
+Hüner=Leberlein	NN	 UNKNOWN	Hüner=Leberlein
+</seg>
+<seg type="newline">
+gehackten	ADJA	 gehackt	gehackten
+Petersillien=Kraut	NN	 UNKNOWN	Petersillien=Kraut
+</seg>
+<seg type="newline">
+Semmel=Mehl	NN	 UNKNOWN	Semmel=Mehl
+</seg>
+<seg type="newline">
+gutem	ADJA	 gut	gutem
+Gewürtz	NN	 UNKNOWN	Gewürtz
+und	KON	 und	und
+Eyern	VVFIN	 UNKNOWN	Eyern
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+vorerwehnter	ADJA	 UNKNOWN	vorerwehnter
+Grösse	NN	 Größe	Grösse
+</seg>
+<seg type="newline">
+Knötlein	NN	 UNKNOWN	Knötlein
+</seg>
+<seg type="newline">
+backets	NN	 UNKNOWN	backets
+schön	ADJD	 schön	schön
+lichtbraun	ADJD	 UNKNOWN	lichtbraun
+aus	APPR	 aus	aus
+Schmaltz	NN	 Schmalz	Schmalz
+</seg>
+<seg type="newline">
+hacket	VVFIN	 UNKNOWN	hacket
+einen	ART	 ein	einen
+Kälbern	NN	 Kalb	Kälbern
+Nieren	NN	 Niere	Nieren
+</seg>
+<seg type="newline">
+sammt	VVFIN	 UNKNOWN	sammt
+seinem	PPOSAT	 sein	seinem
+Fett	NN	 Fett	Fett
+</seg>
+<seg type="newline">
+mischet	VVFIN	 UNKNOWN	mischet
+gehackte	ADJA	 gehackt	gehackte
+abgezogene	ADJA	 abgezogen	abgezogene
+Mandeln	NN	 Mandel	Mandeln
+</seg>
+<seg type="newline">
+gewaschene	ADJA	 gewaschen	gewaschene
+Weinbeer	NN	 Weizenbier	Weizenbier
+</seg>
+<seg type="newline">
+Muscatenblüh	NN	 UNKNOWN	Muscatenblüh
+</seg>
+<seg type="newline">
+Cardomomen	NN	 UNKNOWN	Cardomomen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+Schmaltz	NN	 Schmalz	Schmalz
+geröstes	ADJA	 UNKNOWN	geröstes
+Eyern=Brod	NE	 UNKNOWN	Eyern=Brod
+</seg>
+<seg type="newline">
+und	KON	 und	und
+Eyer	NE	 UNKNOWN	Eyer
+darunter	PAV	 darunter	darunter
+</seg>
+<seg type="newline">
+machet	VVFIN	 machen	machet
+Eyerwammen=Plätzlein	NN	 UNKNOWN	Eyerwammen=Plätzlein
+</seg>
+<seg type="newline">
+wickelt	VVFIN	 wickeln	wickelt
+von	APPR	 von	von
+den	ART	 d	den
+Gehäck	NN	 UNKNOWN	Gehäck
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+formirts	NN	 UNKNOWN	formirts
+länglicht	ADJA	 UNKNOWN	länglicht
+</seg>
+<seg type="newline">
+bindets	NN	 UNKNOWN	bindets
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Faden	NN	 Faden	Faden
+</seg>
+<seg type="newline">
+und	KON	 und	und
+bratets	NN	 UNKNOWN	brats
+in	APPR	 in	in
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+nehmet	VVFIN	 nehmen	nehmet
+den	ART	 d	den
+Faden	NN	 Faden	Faden
+wieder	ADV	 wieder	wieder
+davon	PAV	 davon	davon
+</seg>
+<seg type="newline">
+besteckt	VVFIN	 bestecken	besteckt
+es	PPER	 es	es
+mit	APPR	 mit	mit
+länglicht	ADJA	 UNKNOWN	länglicht
+geschnittenen	ADJA	 geschnitten	geschnittenen
+Mandeln	NN	 Mandel	Mandeln
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+leget	ADJA	 UNKNOWN	leget
+Pistacien	TRUNC	 UNKNOWN	Pistacien
+und	KON	 und	und
+Pinen=Nüßlein	NN	 UNKNOWN	Pinen=Nüßlein
+über	APPR	 über	über
+Nacht	NN	 Nacht	Nacht
+in	APPR	 in	in
+frisches	ADJA	 frisch	frisches
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+schneidet	VVFIN	 schneiden	schneidet
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+subtilen	ADJA	 subtil	subtilen
+Messerlein	NN	 UNKNOWN	Messerlein
+in	APPR	 in	in
+der	ART	 d	der
+Mitten	NN	 Mitte	Mitten
+</seg>
+<seg type="newline">
+der	ART	 d	der
+Länge	NN	 Länge	Länge
+nach	APPR	 nach	nach
+</seg>
+<seg type="newline">
+hinein	ADV	 hinein	hinein
+</seg>
+<seg type="newline">
+nehmet	VVFIN	 nehmen	nehmet
+den	ART	 d	den
+Kern	NN	 Kern	Kern
+</seg>
+<seg type="newline">
+unverletzt	ADJD	 unverletzt	unverletzt
+heraus	ADV	 heraus	heraus
+</seg>
+<seg type="newline">
+leget	ADJD	 UNKNOWN	leget
+solche	PIS	 solch	solche
+abermal	ADV	 UNKNOWN	abermal
+in	APPR	 in	in
+frisch	ADJD	 frisch	frisch
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+gehen	VVFIN	 gehen	gehen
+die	ART	 d	die
+Blümlein	NN	 Blümlein	Blümlein
+auf	PTKVZ	 auf	auf
+</seg>
+<seg type="newline">
+womit	PWAV	 womit	womit
+man	PIS	 man	man
+alsdann	NN	 UNKNOWN	Alsdann
+die	ART	 d	die
+Würstlein	NN	 UNKNOWN	Würstlein
+bestecken	VVFIN	 UNKNOWN	bestecken
+kan	ADV	 nun	Nun
+;	$.	;	$.	 ;	|	;
+Machet	NN	 UNKNOWN	Machet
+von	APPR	 von	von
+Meel	NN	 UNKNOWN	Meel
+</seg>
+<seg type="newline">
+einem	ART	 ein	einem
+Ey	NE	 Ey	Ey
+</seg>
+<seg type="newline">
+Saltz	NN	 Salz	Salz
+und	KON	 und	und
+warmen	ADJA	 warm	warmen
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+worauf	PWAV	 worauf	worauf
+ein	ART	 ein	ein
+Stück	NN	 Stück	Stück
+Butter	NN	 Butter	Butter
+zergangen	VVFIN	 UNKNOWN	zergangen
+</seg>
+<seg type="newline">
+einen	ART	 ein	einen
+Taig	NN	 Teig	Teig
+</seg>
+<seg type="newline">
+wälchert	VVFIN	 UNKNOWN	wälchert
+solchen	PIS	 solch	solchen
+aus	APPR	 aus	aus
+</seg>
+<seg type="newline">
+trucket	NN	 UNKNOWN	trucket
+</seg>
+<seg type="newline">
+vermittelst	VVFIN	 vermitteln	vermittelst
+einem	ART	 ein	einem
+Trinck=Glaß	NN	 UNKNOWN	Trinck=Glaß
+</seg>
+<seg type="newline">
+runde	ADJA	 rund	runde
+Plätzlein	NN	 UNKNOWN	Plätzlein
+</seg>
+<seg type="newline">
+und	KON	 und	und
+formiret	ADJA	 UNKNOWN	formiret
+Pastetlein	NN	 UNKNOWN	Pastetlein
+daraus	PAV	 daraus	daraus
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+der	ART	 d	der
+Grösse	NN	 Größe	Grösse
+wie	KOKOM	 wie	wie
+ein	ART	 ein	ein
+halben	ADJA	 halb	halben
+Reichs=Thaler	NN	 UNKNOWN	Reichs=Thaler
+</seg>
+<seg type="newline">
+mischet	VVFIN	 UNKNOWN	mischet
+gehackte	ADJA	 gehackt	gehackte
+Krebse	NN	 Krebs	Krebse
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+eingerühretes	ADJA	 UNKNOWN	eingerühretes
+Ey	NE	 Ey	Ey
+in	APPR	 in	in
+Schmaltz	NN	 Schmalz	Schmalz
+</seg>
+<seg type="newline">
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+Muscatenblühe	VVFIN	 UNKNOWN	Muscatenblühe
+</seg>
+<seg type="newline">
+Cardomomen	NE	 UNKNOWN	Cardomomen
+</seg>
+<seg type="newline">
+Ingber	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+und	KON	 und	und
+Pfeffer	NN	 Pfeffer	Pfeffer
+darunter	PAV	 darunter	darunter
+</seg>
+<seg type="newline">
+füllet	VVFIN	 füllen	füllet
+es	PPER	 es	es
+in	APPR	 in	in
+die	ART	 d	die
+Pastetlein	NN	 UNKNOWN	Pastetlein
+</seg>
+<seg type="newline">
+leget	ADJD	 UNKNOWN	leget
+in	APPR	 in	in
+jedwedes	PIAT	 jedwed	jedwedes
+ein	ART	 ein	ein
+Stücklein	NN	 Stücklein	Stücklein
+Butter	NN	 Butter	Butter
+oben	ADV	 oben	oben
+darauf	PAV	 darauf	darauf
+</seg>
+<seg type="newline">
+machet	VVFIN	 machen	machet
+Deckelein	NN	 UNKNOWN	Deckelein
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+bestreichets	NN	 UNKNOWN	bestreichets
+mit	APPR	 mit	mit
+zerklopfften	ADJA	 UNKNOWN	zerklopfften
+Eyer=Dottern	NN	 UNKNOWN	Eyer=Dottern
+</seg>
+<seg type="newline">
+und	KON	 und	und
+backets	NN	 UNKNOWN	backets
+in	APPR	 in	in
+einem	ART	 ein	einem
+Oefelein	NN	 UNKNOWN	Oefelein
+</seg>
+<seg type="newline">
+schählet	ADJA	 UNKNOWN	schählet
+frische	ADJA	 frisch	frische
+Kümmerling	NN	 UNKNOWN	Kümmerling
+</seg>
+<seg type="newline">
+schneidet	VVFIN	 schneiden	schneidet
+sie	PPER	 sie	sie
+halb	ADJD	 halb	halb
+der	ART	 d	der
+Länge	NN	 Länge	Länge
+nach	APPR	 nach	nach
+</seg>
+<seg type="newline">
+entzwey	NE	 UNKNOWN	entzwey
+</seg>
+<seg type="newline">
+nehmet	VVFIN	 nehmen	nehmet
+das	ART	 d	das
+inwendige	ADJA	 inwendig	inwendige
+Marck	NE	 UNKNOWN	Marck
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+silbernen	ADJA	 silbern	silbernen
+Löffel	NN	 Löffel	Löffel
+heraus	ADV	 heraus	heraus
+</seg>
+<seg type="newline">
+vermenget	VVFIN	 UNKNOWN	vermenget
+übersotten=gehacktes	ADJA	 UNKNOWN	übersotten=gehacktes
+Kalbs=Hirn	NN	 UNKNOWN	Kalbs=Hirn
+</seg>
+<seg type="newline">
+geröstes	ADJA	 UNKNOWN	geröstes
+Semmel=Meel	NN	 UNKNOWN	Semmel=Meel
+</seg>
+<seg type="newline">
+gehacktes	ADJA	 gehackt	gehacktes
+in	APPR	 in	in
+Schmaltz	NN	 Schmalz	Schmalz
+geröstes	ADJA	 UNKNOWN	geröstes
+Petersillien=Kraut	NN	 UNKNOWN	Petersillien=Kraut
+</seg>
+<seg type="newline">
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+gut	ADJD	 gut	gut
+Gewürtz	NN	 UNKNOWN	Gewürtz
+und	KON	 und	und
+Eyer	NE	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+brühet	ADJA	 grün	grünen
+die	ART	 d	die
+ausgehohlten	ADJA	 UNKNOWN	ausgehohlten
+Kümmerling	NN	 UNKNOWN	Kümmerling
+mit	APPR	 mit	mit
+siedend	ADJD	 siedend	siedend
+Wasser	NN	 Wasser	Wasser
+an	APPR	 an	an
+</seg>
+<seg type="newline">
+hernach	ADV	 hernach	hernach
+wann	PWAV	 wann	wann
+sie	PPER	 sie	sie
+verseihet	VVFIN	 UNKNOWN	verseihet
+</seg>
+<seg type="newline">
+streichet	ADJD	 UNKNOWN	streichet
+diese	PDAT	 dies	diese
+Füll	VVIMP	 füllen	Füll
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+und	KON	 und	und
+lassets	NN	 UNKNOWN	lässets
+in	APPR	 in	in
+einer	ART	 ein	einer
+Schüssel	NN	 Schüssel	Schüssel
+über	APPR	 über	über
+Kohlen	NN	 Kohle	Kohlen
+in	APPR	 in	in
+Fleisch=Brühe	NN	 Fleischbrühe	Fleischbrühe
+aufsieden	VVFIN	 UNKNOWN	aufsieden
+</seg>
+<seg type="newline">
+alsdann	NE	 UNKNOWN	Alsdann
+leget	ADJD	 UNKNOWN	leget
+in	APPR	 in	in
+eine	ART	 ein	eine
+etwas	ADV	 etwas	etwas
+grosse	ADJA	 groß	grosse
+flache	ADJA	 flach	flache
+Schüssel	NN	 Schüssel	Schüssel
+etliche	PIS	 etlich	etliche
+in	APPR	 in	in
+Schmaltz	NN	 Schmalz	Schmalz
+geröstete	ADJA	 geröstet	geröstete
+Semmel=Schnidte	NN	 UNKNOWN	Semmel=Schnidte
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+gebähete	ADJA	 UNKNOWN	gebähete
+obere	ADJA	 ober	obere
+Rinden	NN	 Rinde	Rinden
+von	APPR	 von	von
+Semmeln	NN	 Semmel	Semmeln
+oder	KON	 oder	oder
+Weck	NN	 Weck	Weck
+</seg>
+<seg type="newline">
+richtet	VVFIN	 richten	richtet
+die	ART	 d	die
+vorhero	ADV	 vorher	vorher
+beschriebene	ADJA	 beschrieben	beschriebene
+gesottene	ADJA	 gesiedet	Gesottenes
+Sachen	NN	 Sache	Sachen
+</seg>
+<seg type="newline">
+sammt	VVFIN	 UNKNOWN	sammt
+der	ART	 d	der
+Brühe	NN	 Brühe	Brühe
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+die	ART	 d	die
+Mitten	NN	 Mitte	Mitten
+darauf	PAV	 darauf	darauf
+an	APZR	 an	an
+</seg>
+<seg type="newline">
+bestreuet	VVFIN	 bestreuen	bestreuen
+den	ART	 d	den
+Rand	NN	 Rand	Rand
+der	ART	 d	der
+Schüssel	NN	 Schüssel	Schüssel
+mit	APPR	 mit	mit
+zuvor	ADV	 zuvor	zuvor
+verfertigten	ADJA	 verfertigt	verfertigten
+Eyer=Wammen	NN	 UNKNOWN	Eyer=Wammen
+</seg>
+<seg type="newline">
+gantz	ADV	 ganz	ganz
+klein	ADJD	 klein	klein
+wie	KOKOM	 wie	wie
+ein	ART	 ein	ein
+Kraut=Salat	NN	 UNKNOWN	Kraut=Salat
+geschnitten	VVPP	 schneiden	geschnitten
+;	$.	;	$.	 ;	|	;
+leget	ADJA	 UNKNOWN	leget
+ferners	NN	 UNKNOWN	ferners
+die	PDS	 d	die
+gebraten	VVPP	 braten	gebraten
+und	KON	 und	und
+gebackene	ADJA	 gebacken	gebackene
+Sachen	NN	 Sache	Sachen
+</seg>
+<seg type="newline">
+nebst	APPR	 nebst	nebst
+den	ART	 d	den
+Köhl=Ruben=Plätzlein	NN	 UNKNOWN	Köhl=Ruben=Plätzlein
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+auch	ADV	 auch	auch
+abgesottenen	ADJA	 UNKNOWN	abgesottenen
+gantzen	ADV	 ganz	ganz
+Krebsen	NN	 Krebs	Krebsen
+</seg>
+<seg type="newline">
+welchen	PIAT	 welch	welchen
+nur	ADV	 nur	nur
+die	ART	 d	die
+Nasen	NN	 Nase	Nasen
+etwas	ADV	 etwas	etwas
+zurück	PTKVZ	 zurück	zurück
+in	APPR	 in	in
+die	ART	 d	die
+Höhe	NN	 Höhe	Höhe
+gezogen	VVPP	 ziehen	gezogen
+</seg>
+<seg type="newline">
+der	ART	 d	der
+Schwantz	NN	 UNKNOWN	Schwantz
+biß	VVFIN	 beißen	biß
+vornen	ADJD	 UNKNOWN	vornen
+auf	APPR	 auf	auf
+ein	ART	 ein	ein
+weniges	PIS	 wenig	weniges
+</seg>
+<seg type="newline">
+ingleichem	ADJA	 UNKNOWN	ingleichem
+die	ART	 d	die
+Scheeren	NN	 Schnee	Schnee
+</seg>
+<seg type="newline">
+etwas	ADV	 etwas	etwas
+von	APPR	 von	von
+den	ART	 d	den
+Schalen	NN	 Schale	Schalen
+entblöst	VVFIN	 UNKNOWN	entblöst
+</seg>
+<seg type="newline">
+auf	APPR	 auf	auf
+das	ART	 d	das
+zierlichste	ADJA	 zierlich	zierlichste
+darauf	PAV	 darauf	darauf
+herum	PTKVZ	 herum	herum
+</seg>
+<seg type="newline">
+und	KON	 und	und
+streuet	VVFIN	 UNKNOWN	streuet
+über	APPR	 über	über
+das	ART	 d	das
+Gesottene	NN	 UNKNOWN	Gesottene
+in	APPR	 in	in
+der	ART	 d	der
+Mitte	NN	 Mitte	Mitte
+Muscatenblüh	NN	 UNKNOWN	Muscatenblüh
+und	KON	 und	und
+Cardamomen	NN	 Kardamom	Kardamom
+;	$.	;	$.	 ;	|	;
+Wann	PWAV	 wann	Wann
+es	PPER	 es	es
+beliebt	VVFIN	 belieben	beliebt
+</seg>
+<seg type="newline">
+kan	ADV	 nun	Nun
+man	PIS	 man	man
+auch	ADV	 auch	auch
+auf	APPR	 auf	auf
+bekandte	ADJA	 UNKNOWN	bekandte
+Art	NN	 Art	Art
+</seg>
+<seg type="newline">
+gefüllte	ADJA	 gefüllt	gefüllte
+und	KON	 und	und
+gesottene	ADJA	 gesiedet	Gesottenes
+Hüner	NN	 UNKNOWN	Hünern
+oder	KON	 oder	oder
+Tauben	NN	 Taube	Tauben
+annoch	VVFIN	 UNKNOWN	annoch
+in	APPR	 in	in
+die	ART	 d	die
+Mitten	NN	 Mitte	Mitten
+der	ART	 d	der
+Suppen	NN	 Suppe	Suppen
+legen	VVINF	 legen	legen
+;	$.	;	$.	 ;	|	;
+Oder	KON	 oder	Oder
+</seg>
+<seg type="newline">
+siedet	VVFIN	 sieden	siedet
+die	ART	 d	die
+Hüner	NN	 UNKNOWN	Hünern
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+sie	PPER	 sie	sie
+schön	ADJD	 schön	schön
+weis	PTKVZ	 weis	weis
+bleiben	VVFIN	 bleiben	bleiben
+</seg>
+<seg type="newline">
+löset	ADJD	 UNKNOWN	löset
+dann	ADV	 dann	dann
+die	ART	 d	die
+hintern	APPRART	 hintern	hintern
+Viertel	NN	 Viertel	Viertel
+samt	APPR	 samt	samt
+den	ART	 d	den
+Stößl	NN	 UNKNOWN	Stößl
+darvon	PAV	 darin	darin
+hinweg	ADV	 hinweg	hinweg
+</seg>
+<seg type="newline">
+die	ART	 d	die
+vördern	NN	 UNKNOWN	vördern
+Viertel	NN	 Viertel	Viertel
+aber	KON	 aber	aber
+</seg>
+<seg type="newline">
+Gämper	NN	 UNKNOWN	Gämper
+und	KON	 und	und
+Kopff	NN	 UNKNOWN	Kopff
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+alles	PIS	 alle	alles
+an	PTKVZ	 an	an
+einander	PRF	 einander	einander
+gelassen	ADJD	 gelassen	gelassen
+</seg>
+<seg type="newline">
+stellet	VVFIN	 UNKNOWN	stellet
+also	ADV	 also	also
+gantz	ADV	 ganz	ganz
+auf	APPR	 auf	auf
+den	ART	 d	den
+Schüssel=Rand	NN	 UNKNOWN	Schüssel=Rand
+</seg>
+<seg type="newline">
+zwischen	APPR	 zwischen	zwischen
+die	ART	 d	die
+andern	ADJA	 ander	andern
+Sachen	NN	 Sache	Sachen
+.	$.	.	$.	 .	|	.
+Will	VMFIN	 wollen	Will
+man	PIS	 man	man
+diese	PDAT	 dies	diese
+Suppen	NN	 Suppe	Suppen
+annoch	ADJD	 UNKNOWN	annoch
+vermehren	VVFIN	 vermehren	vermehren
+mit	APPR	 mit	mit
+gebackenen	ADJA	 gebacken	gebackenen
+Grundeln	NN	 UNKNOWN	Grundeln
+</seg>
+<seg type="newline">
+gebratenen	ADJA	 gebraten	gebratenen
+Vögeln	NN	 Vogel	Vögeln
+</seg>
+<seg type="newline">
+gebrat=	ADJA	 UNKNOWN	gebrat=
+und	KON	 und	und
+gespickten	ADJA	 gespickt	gespickten
+Lamms=Nierenlein	NN	 UNKNOWN	Lamms=Nierenlein
+</seg>
+<seg type="newline">
+kleinen	ADJA	 klein	kleinen
+Bratwürsten	NN	 Bratwurst	Bratwürsten
+</seg>
+<seg type="newline">
+gebachenen	ADJA	 UNKNOWN	gebachenen
+Rafiolen	NN	 UNKNOWN	Rafiolen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+anders	ADV	 anders	anders
+mehr	ADV	 mehr	mehr
+</seg>
+<seg type="newline">
+stehet	VVFIN	 stehen	stehet
+es	PPER	 es	es
+zu	APPR	 zu	zu
+eines	ART	 ein	eines
+Jedem	PIAT	 jed	Jedem
+Belieben	NN	 Belieben	Belieben
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

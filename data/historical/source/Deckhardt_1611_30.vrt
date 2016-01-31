@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Deckhardt_1611_30" collection="historical" source="Deckhardt" url="none" year="1611" decade="1610-1620" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1611:261]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+ander	NE	 UNKNOWN	ander
+Marcipan	NE	 UNKNOWN	Marcipan
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wil	NE	 Wil	Wil
+man	PIS	 man	man
+einen	ART	 ein	einen
+guten	ADJA	 gut	guten
+Marcipan	NE	 UNKNOWN	Marcipan
+machen	VVFIN	 machen	machen
+</seg>
+<seg type="newline">
+So	ADV	 so	So
+nim	VVFIN	 UNKNOWN	nimb
+ein	ART	 ein	ein
+gut	ADJD	 gut	gut
+theil	ADJA	 UNKNOWN	theil
+Mandeln	NN	 Mandel	Mandeln
+</seg>
+<seg type="newline">
+stosse	VVFIN	 stoßen	stosse
+vnd	KON	 und	und
+reibe	VVFIN	 reiben	reibe
+sie	PPER	 sie	sie
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+menge	VVFIN	 mengen	menge
+oder	KON	 oder	oder
+reibe	VVFIN	 reiben	reibe
+viel	PIAT	 viel	viel
+Zucker	NN	 Zucker	Zucker
+darunter	PTKVZ	 darunter	darunter
+.	$.	.	$.	 .	|	.
+Darnach	ADV	 UNKNOWN	Darnach
+mache	VVFIN	 machen	mache
+Ablatbletter	NN	 UNKNOWN	Ablatbletter
+mit	APPR	 mit	mit
+Eyesweis	NN	 UNKNOWN	Eyesweis
+zusammen	ADV	 zusammen	zusammen
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+es	PPER	 es	es
+auff	APPR	 auf	auf
+ein	ART	 ein	ein
+Papier	NN	 Papier	Papier
+</seg>
+<seg type="newline">
+streich	VVIMP	 streichen	streich
+die	ART	 d	die
+Mandeln	NN	 Mandel	Mandeln
+eines	ART	 ein	eines
+Fingers	NN	 Finger	Fingers
+dick	ADJD	 dick	dick
+drauff	PAV	 drauf	drauf
+</seg>
+<seg type="newline">
+bestrewe	VVFIN	 bestreuen	bestreuen
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+drucke	VVFIN	 drucken	drucke
+eine	ART	 ein	eine
+geschnittene	ADJA	 geschnitten	geschnittene
+Form	NN	 Form	Form
+drauff	PAV	 drauf	drauf
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+laß	ADJD	 laß	laß
+sie	PPER	 sie	sie
+also	ADV	 also	also
+.	$.	.	$.	 .	|	.
+Setze	VVFIN	 setzen	Setze
+sie	PPER	 sie	sie
+dann	ADV	 dann	dann
+also	ADV	 also	also
+mit	APPR	 mit	mit
+dem	ART	 d	dem
+Papier	NN	 Papier	Papier
+in	APPR	 in	in
+ein	ART	 ein	ein
+Ofen	NN	 Ofen	Ofen
+</seg>
+<seg type="newline">
+Basteten	NN	 UNKNOWN	Basteten
+herd	NN	 Herd	herd
+</seg>
+<seg type="newline">
+Tortenpfanne	NN	 UNKNOWN	Tortenpfanne
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+in	APPR	 in	in
+eine	ART	 ein	eine
+Stube	NN	 Stube	Stube
+an	APPR	 an	an
+die	ART	 d	die
+hitze	NN	 Hitze	hitze
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+laß	ADJD	 laß	laß
+sie	PPER	 sie	sie
+wol	PWAV	 wo	wo
+trocken	ADJD	 trocken	trocken
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+sie	PPER	 sie	sie
+weis	PTKVZ	 weis	weis
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+So	ADV	 so	So
+ist	VAFIN	 sein	ist
+sie	PPER	 sie	sie
+recht	ADJD	 recht	recht
+vnd	KON	 und	und
+gut	ADJD	 gut	gut
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

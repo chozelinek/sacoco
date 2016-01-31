@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Keyl_1705_30" collection="historical" source="Keyl" url="none" year="1705" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1705:157]">
+<title>
+<seg type="newline">
+Brunellen	NN	 UNKNOWN	Brunellen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Leg	VVIMP	 legen	Leg
+sie	PPER	 sie	sie
+ein	ART	 ein	ein
+paar	PIAT	 paar	paar
+Stunden	NN	 Stunde|Stunden	Stunden
+in	APPR	 in	in
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+einen	ART	 ein	einen
+Teig	NN	 Teig	Teig
+von	APPR	 von	von
+Eyer	NE	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+Mehl	NN	 Mehl	Mehl
+</seg>
+<seg type="newline">
+süssen	VVFIN	 süßen	süssen
+Raam	NE	 UNKNOWN	Raam
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+Rosen=wasser	NN	 UNKNOWN	Rosen=wasser
+</seg>
+<seg type="newline">
+wende	VVFIN	 wenden	wende
+sie	PPER	 sie	sie
+darinn	NN	 UNKNOWN	darinn
+umb	PTKVZ	 um	um
+</seg>
+<seg type="newline">
+und	KON	 und	und
+backe	VVFIN	 backen	backe
+sie	PPER	 sie	sie
+in	APPR	 in	in
+Butter	NN	 Butter	Butter
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Osnabrueck_1687_4" collection="historical" source="Osnabrueck" url="none" year="1687" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1687:7]">
+<title>
+<seg type="newline">
+[	$(	[	$(	 [	|	[
+Artischocken	NN	 Artischocke	Artischocken
+zu	APPR	 zu	zu
+stoven	NN	 UNKNOWN	stoven
+]	$(	]	$(	 ]	|	]
+Noch	ADV	 noch	Noch
+eine	ART	 ein	eine
+andere	ADJA	 ander	andere
+Manier	NN	 Manier	Manier
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Man	PIS	 man	Man
+siedet	VVFIN	 sieden	siedet
+die	ART	 d	die
+Artischocken	NN	 Artischocke	Artischocken
+auch	ADV	 auch	auch
+wol	PWAV	 wo	wo
+durch	APPR	 durch	durch
+mit	APPR	 mit	mit
+gebackenen	ADJA	 gebacken	gebackenen
+Weißbrod	NN	 Weißbrot	Weißbrot
+Krumen	NN	 Krume	Krumen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+in	APPR	 in	in
+rothem	ADJA	 UNKNOWN	rothem
+Wein	NN	 Wein	Wein
+geweicht	ADJA	 gereicht	gereichten
+</seg>
+<seg type="newline">
+und	KON	 und	und
+klein	ADJD	 klein	klein
+gerieben	VVPP	 reiben	gerieben
+sind	VAFIN	 sein	sind
+</seg>
+<seg type="newline">
+nimbt	TRUNC	 UNKNOWN	nimbt
+dazu	PAV	 dazu	dazu
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Essig	NN	 Essig	Essig
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+wol	PWAV	 wo	wo
+etwas	PIAT	 etwas	etwas
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+Mußcaten	NN	 UNKNOWN	Mußcaten
+Nüsse	NN	 Nuß	Nüsse
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+und	KON	 und	und
+Butter	NN	 Butter	Butter
+.	$.	.	$.	 .	|	.
+So	ADV	 so	So
+isset	VVFIN	 UNKNOWN	isset
+man	PIS	 man	man
+sie	PPER	 sie	sie
+auch	ADV	 auch	auch
+wohl	PTKVZ	 wohl	wohl
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+sie	PPER	 sie	sie
+gar	ADV	 gar	gar
+gekocht	VVPP	 kochen	gekocht
+seyn	NE	 UNKNOWN	seyn
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+einer	ART	 ein	einer
+Suppe	NN	 Suppe	Suppe
+von	APPR	 von	von
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+Essig	NN	 Essig	Essig
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+und	KON	 und	und
+Saltz	NN	 Salz	Salz
+;	$.	;	$.	 ;	|	;
+oder	KON	 oder	oder
+mit	APPR	 mit	mit
+Baumöhl	NN	 UNKNOWN	Baumöhl
+</seg>
+<seg type="newline">
+Essig	NN	 Essig	Essig
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+und	KON	 und	und
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+als	KOKOM	 als	als
+einen	ART	 ein	einen
+Sallat	NE	 UNKNOWN	Sallat
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

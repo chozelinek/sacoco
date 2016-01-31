@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Stockholm_1647_24" collection="historical" source="Stockholm" url="none" year="1647" decade="1640-1650" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1647:258]">
+<body>
+<seg type="newline">
+Hirsch	NN	 Hirsch	Hirsch
+</seg>
+<seg type="newline">
+Oder	KON	 oder	Oder
+Ochsen	NN	 Ochse|Ochsen	Ochsen
+zungen	ADJA	 UNKNOWN	zungen
+Postett	NN	 UNKNOWN	Postett
+verquellet	VVFIN	 UNKNOWN	verquellet
+in	APPR	 in	in
+4.	ADJA	 4.	4.
+theil	NN	 UNKNOWN	theil
+</seg>
+<seg type="newline">
+läulich	ADJD	 UNKNOWN	läulich
+durchgeschnitten	VVPP	 durchschneiden	durchgeschnitten
+</seg>
+<seg type="newline">
+klein	ADJD	 klein	klein
+gespicket	VVPP	 UNKNOWN	gespicket
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Mußcatenblumen	NN	 UNKNOWN	Mußcatenblumen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+Butter	NN	 Butter	Butter
+eingeleget	VVPP	 UNKNOWN	eingeleget
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

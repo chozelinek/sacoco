@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Colerus_1602_19" collection="historical" source="Colerus" url="none" year="1602" decade="1600-1610" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1602:157]">
+<title>
+<seg type="newline">
+Grosse	ADJA	 groß	Grosse
+oder	KON	 oder	oder
+kleine	ADJA	 klein	kleine
+Vogel	NN	 Vogel	Vogel
+in	APPR	 in	in
+Zwippeln	NN	 Zwiebel	Zwiebel
+anzurichten	VVIZU	 anrichten	anzurichten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wiltu	NE	 UNKNOWN	Wiltu
+kleine	ADJA	 klein	kleine
+oder	KON	 oder	oder
+grosse	ADJA	 groß	grosse
+Vogel	NN	 Vogel	Vogel
+in	APPR	 in	in
+Zwippeln	NN	 Zwiebel	Zwiebel
+machen	VVFIN	 machen	machen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+setze	VVFIN	 setzen	setze
+die	ART	 d	die
+Vogel	NN	 Vogel	Vogel
+zu	PTKVZ	 zu	zu
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+laß	ADJD	 laß	laß
+sie	PPER	 sie	sie
+wol	PWAV	 wo	wo
+sieden	VVINF	 sieden	sieden
+</seg>
+<seg type="newline">
+nim	VVFIN	 UNKNOWN	nimb
+geschelte	ADJD	 gescheit	gescheit
+Zwippeln	NN	 Zwiebel	Zwiebel
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+hacke	VVFIN	 hacken	hacke
+sie	PPER	 sie	sie
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+thue	VVFIN	 UNKNOWN	thue
+sie	PPER	 sie	sie
+in	APPR	 in	in
+eine	ART	 ein	eine
+pfanne	NN	 Pfanne	pfanne
+oder	KON	 oder	oder
+in	APPR	 in	in
+einen	ART	 ein	einen
+Tiegel	NN	 Tiegel	Tiegel
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+darein	ADV	 darein	darein
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+schweinen	NN	 Schwein	schweinen
+schmaltz	NE	 UNKNOWN	schmaltz
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+eine	ART	 ein	eine
+Rinderne	ADJA	 silbern	silberne
+Suppe	NN	 Suppe	Suppe
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+setze	VVFIN	 setzen	setze
+es	PPER	 es	es
+vber	ADJD	 UNKNOWN	vber
+das	ART	 d	das
+Fewer	NN	 Feuer	Feuer
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+wol	PWAV	 wo	wo
+sieden	VVINF	 sieden	sieden
+</seg>
+<seg type="newline">
+schlage	VVFIN	 schlagen	schlage
+das	ART	 d	das
+Wasser	NN	 Wasser	Wasser
+von	APPR	 von	von
+Vogeln	NN	 UNKNOWN	Vogeln
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+schütte	VVFIN	 schütten	schütte
+sie	PPER	 sie	sie
+in	APPR	 in	in
+die	ART	 d	die
+Zwippeln	NN	 Zwiebel	Zwiebel
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+laß	ADJD	 laß	laß
+sie	PPER	 sie	sie
+wol	PWAV	 wo	wo
+kreischen	VVINF	 kreischen	kreischen
+</seg>
+<seg type="newline">
+würtze	VVFIN	 würzen	würzt
+sie	PPER	 sie	sie
+wol	PWAV	 wo	wo
+ab	PTKVZ	 ab	ab
+mit	APPR	 mit	mit
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Ingber	NN	 Ingwer	Ingwer
+vnd	KON	 und	und
+Saffran	NN	 Safran	Safran
+.	$.	.	$.	 .	|	.
+Wenn	KOUS	 wenn	Wenn
+sie	PPER	 sie	sie
+nun	ADV	 nun	nun
+wol	PWAV	 wo	wo
+gekreischet	ADJA	 UNKNOWN	gekreischet
+</seg>
+<seg type="newline">
+das	PRELS	 d	das
+sie	PPER	 sie	sie
+nicht	PTKNEG	 nicht	nicht
+zu	APPR	 zu	zu
+feuchte	ADJA	 feucht	feuchte
+noch	ADV	 noch	noch
+zu	PTKA	 zu	zu
+treuge	ADJD	 UNKNOWN	treuge
+sein	VAINF	 sein	sein
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+richte	VVFIN	 richten	richte
+sie	PPER	 sie	sie
+an	PTKVZ	 an	an
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+gib	VVIMP	 geben	gib
+es	PPER	 es	es
+hin	PTKVZ	 hin	hin
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

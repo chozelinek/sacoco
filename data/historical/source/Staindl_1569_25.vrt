@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Staindl_1569_25" collection="historical" source="Staindl" url="none" year="1569" decade="1560-1570" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[12v]">
+<title>
+<seg type="newline">
+Buotter	ADJA	 UNKNOWN	Buotter
+muoß	NN	 UNKNOWN	muoß
+mach	VVIMP	 machen	mach
+also	ADV	 also	also
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Mach	VVIMP	 machen	Mach
+von	APPR	 von	von
+zehen	NN	 Zeh|Zehe	zehen
+Ayren	NE	 UNKNOWN	Ayren
+ein	ART	 ein	ein
+Vogelspeiß	NN	 UNKNOWN	Vogelspeiß
+</seg>
+<seg type="newline">
+thuos	ADJD	 UNKNOWN	thuos
+in	APPR	 in	in
+ein	ART	 ein	ein
+seichte	ADJA	 seicht	seichte
+pfann	ADJA	 UNKNOWN	pfann
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+reiterlin	ADJD	 UNKNOWN	reiterlin
+</seg>
+<seg type="newline">
+das	ART	 d	das
+fein	ADJD	 fein	fein
+trucken	ADJA	 UNKNOWN	trucken
+außgeseicht	ADJA	 UNKNOWN	außgeseicht
+</seg>
+<seg type="newline">
+nimdann	NN	 UNKNOWN	nimdann
+halb	ADJD	 halb	halb
+souil	NE	 UNKNOWN	souil
+süssen	ADJA	 süß	süssen
+guoten	NN	 UNKNOWN	guoten
+butter	VVIMP	 buttern	butter
+</seg>
+<seg type="newline">
+stoß	VVIMP	 stoßen	stoß
+</seg>
+<seg type="newline">
+vnthuo	NN	 UNKNOWN	vnthuo
+vogelspeiß	ADJD	 UNKNOWN	vogelspeiß
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+treibs	NN	 Kreis	Kreis
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+seichtpfann	ADJA	 UNKNOWN	seichtpfann
+</seg>
+<seg type="newline">
+gewirmlet	ADJA	 UNKNOWN	gewirmlet
+auff	APPR	 auf	auf
+die	ART	 d	die
+höch	ADJA	 UNKNOWN	höch
+</seg>
+<seg type="newline">
+zuckers	NN	 Zucker	zuckers
+gar	ADV	 gar	gar
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+gibs	NN	 UNKNOWN	gilbs
+auff	APPR	 auf	auf
+die	ART	 d	die
+letst	ADJA	 UNKNOWN	letst
+für	APPR	 für	für
+ein	ART	 ein	ein
+gericht	NN	 Gericht	gericht
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

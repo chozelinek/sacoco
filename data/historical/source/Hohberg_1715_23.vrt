@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Hohberg_1715_23" collection="historical" source="Hohberg" url="none" year="1715" decade="1710-1720" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1715:82]">
+<title>
+<seg type="newline">
+Brätling	NN	 UNKNOWN	Brätling
+und	KON	 und	und
+Herbstling	NN	 UNKNOWN	Herbstling
+zu	PTKZU	 zu	zu
+zurichten	VVINF	 zurichten	zurichten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Schneidet	VVFIN	 schneiden	Schneidet
+von	APPR	 von	von
+Brätlingen	NN	 UNKNOWN	Brätlingen
+die	ART	 d	die
+Stiel	NN	 Stiel	Stiel
+herab	ADV	 herab	herab
+</seg>
+<seg type="newline">
+putzet	VVFIN	 UNKNOWN	putzet
+das	ART	 d	das
+Innwendige	NN	 UNKNOWN	Innwendige
+heraus	ADV	 heraus	heraus
+</seg>
+<seg type="newline">
+schneidets	ADJA	 UNKNOWN	schneidets
+</seg>
+<seg type="newline">
+wanns	NN	 UNKNOWN	wanns
+groß	ADJD	 groß	groß
+</seg>
+<seg type="newline">
+ein	PTKVZ	 ein	ein
+oder	KON	 oder	oder
+2.	ADV	 2.	2.
+mal	ADV	 mal	mal
+von	APPR	 von	von
+einander	PRF	 einander	einander
+</seg>
+<seg type="newline">
+die	ART	 d	die
+Stiel	NN	 Stiel	Stiel
+schabet	NN	 UNKNOWN	schabet
+</seg>
+<seg type="newline">
+und	KON	 und	und
+schneidets	ADJA	 UNKNOWN	schneidets
+Plätzlein=weiß	NN	 UNKNOWN	Plätzlein=weiß
+</seg>
+<seg type="newline">
+waschets	ADJA	 UNKNOWN	waschets
+</seg>
+<seg type="newline">
+bestreuts	NN	 UNKNOWN	bestreuts
+mit	APPR	 mit	mit
+Saltz	NN	 Salz	Salz
+und	KON	 und	und
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+röstets	NN	 UNKNOWN	rösts
+im	APPRART	 im	im
+Schmaltz	NN	 Schmalz	Schmalz
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+wol	PWAV	 wo	wo
+weich	ADJD	 weich	weich
+werden	VAINF	 werden	werden
+</seg>
+<seg type="newline">
+giest	VVFIN	 geben	gibt
+das	ART	 d	das
+Schmaltz	NN	 Schmalz	Schmalz
+und	KON	 und	und
+die	ART	 d	die
+Brüh	ADJD	 früh	früh
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+die	ART	 d	die
+Brätling	NN	 UNKNOWN	Brätling
+geben	VVFIN	 geben	geben
+</seg>
+<seg type="newline">
+herunter	ADV	 herunter	herunter
+</seg>
+<seg type="newline">
+werfft	VVFIN	 UNKNOWN	werfft
+hingegen	ADV	 hingegen	hingegen
+ein	ART	 ein	ein
+Stuck	NN	 Stuck	Stuck
+Butter	NN	 Butter	Butter
+dazu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+lasts	NN	 UNKNOWN	lasts
+noch	ADV	 noch	noch
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+rösten	VVFIN	 rösten	rösten
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+richts	PTKNEG	 nicht	nicht
+mit	APPR	 mit	mit
+einander	PRF	 einander	einander
+an	PTKVZ	 an	an
+.	$.	.	$.	 .	|	.
+Will	VMFIN	 wollen	Will
+man	PIS	 man	man
+eine	ART	 ein	eine
+Brüh	ADJD	 früh	früh
+darüber	PAV	 darüber	darüber
+haben	VAFIN	 haben	haben
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+giesset	PDAT	 dies	diese
+</seg>
+<seg type="newline">
+wansie	NN	 UNKNOWN	wansie
+geröstet	VVPP	 rösten	geröstet
+</seg>
+<seg type="newline">
+Fleischbrüh	NN	 Fleischbrühe	Fleischbrühe
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+lasts	NN	 UNKNOWN	lasts
+mit	APPR	 mit	mit
+Muscaten=Nuß	NN	 UNKNOWN	Muscaten=Nuß
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+geröstem	ADJA	 UNKNOWN	geröstem
+Meel	NN	 UNKNOWN	Meel
+</seg>
+<seg type="newline">
+und	KON	 und	und
+zu	APPR	 zu	zu
+letzt	ADJD	 letzt	letzt
+einem	ART	 ein	einem
+Stück	NN	 Stück	Stück
+Butter	NN	 Butter	Butter
+aufsieden	VVINF	 UNKNOWN	aufsieden
+.	$.	.	$.	 .	|	.
+An	APPR	 an	An
+statt	APPR	 statt	statt
+der	ART	 d	der
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+kan	ADV	 nun	Nun
+man	PIS	 man	man
+nach	APPR	 nach	nach
+Belieben	NN	 Belieben	Belieben
+</seg>
+<seg type="newline">
+sich	PRF	 er|es|sie	sich
+Baum=Oels	NN	 UNKNOWN	Baum=Oels
+bedienen	VVFIN	 bedienen	bedienen
+.	$.	.	$.	 .	|	.
+Manche	PIS	 manche	Manche
+pflegen	VVFIN	 pflegen	pflegen
+sie	PPER	 sie	sie
+auch	ADV	 auch	auch
+ungeröst	ADJD	 UNKNOWN	ungeröst
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Fleischbrüh	NN	 Fleischbrühe	Fleischbrühe
+</seg>
+<seg type="newline">
+Muscatenblüh	NN	 UNKNOWN	Muscatenblüh
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+gehacktem	ADJA	 gehackt	gehacktem
+Petersilien=Kraut	NN	 UNKNOWN	Petersilien=Kraut
+</seg>
+<seg type="newline">
+und	KON	 und	und
+einem	ART	 ein	einem
+Stück	NN	 Stück	Stück
+Butter	NN	 Butter	Butter
+zu	PTKZU	 zu	zu
+zurichten	VVINF	 zurichten	zurichten
+.	$.	.	$.	 .	|	.
+Oder	KON	 oder	Oder
+saltzt	ADJD	 UNKNOWN	saltzt
+und	KON	 und	und
+pfeffert	VVFIN	 pfeffern	pfeffert
+geputzte	ADJA	 geputzt	geputzte
+Brätling	NN	 UNKNOWN	Brätling
+</seg>
+<seg type="newline">
+jedoch	ADV	 jedoch	jedoch
+daß	KOUS	 daß	daß
+sie	PPER	 sie	sie
+gantz	ADV	 ganz	ganz
+bleiben	VVFIN	 bleiben	bleiben
+</seg>
+<seg type="newline">
+nur	ADV	 nur	nur
+die	ART	 d	die
+Stiel	NN	 Stiel	Stiel
+abgeschnitten	VVPP	 abschneiden	abgeschnitten
+</seg>
+<seg type="newline">
+betupffts	NN	 UNKNOWN	betupffts
+wol	PWAV	 wo	wo
+mit	APPR	 mit	mit
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+brats	VVFIN	 UNKNOWN	brats
+auf	APPR	 auf	auf
+einem	ART	 ein	einem
+Rost	NN	 Rost	Rost
+</seg>
+<seg type="newline">
+auf	APPR	 auf	auf
+beeden	ADJA	 UNKNOWN	beeden
+Seiten	NN	 Seite	Seiten
+braun	ADJD	 braun	braun
+</seg>
+<seg type="newline">
+lasset	VVFIN	 lassen	lasset
+eine	ART	 ein	eine
+Butter	NN	 Butter	Butter
+zerschleichen	NN	 UNKNOWN	zerschleichen
+</seg>
+<seg type="newline">
+schüttet	VVFIN	 schütten	schüttet
+solche	PIS	 solch	solche
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+und	KON	 und	und
+tragts	NN	 UNKNOWN	tragts
+damit	PAV	 damit	damit
+zu	APPR	 zu	zu
+Tisch	NN	 Tisch	Tisch
+.	$.	.	$.	 .	|	.
+Die	ART	 d	Die
+Herbstlinge	NN	 UNKNOWN	Herbstlinge
+werden	VAFIN	 werden	werden
+innwendig	ADV	 UNKNOWN	einwenig
+ausgeschabt	VVPP	 ausgeschabt	ausgeschabt
+wie	KOKOM	 wie	wie
+Brätling	NN	 UNKNOWN	Brätling
+</seg>
+<seg type="newline">
+gesaltzen	VVFIN	 UNKNOWN	gesaltzen
+und	KON	 und	und
+gepfeffert	VVPP	 pfeffern	gepfeffert
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+Meel	NN	 UNKNOWN	Meel
+geschwungen	VVPP	 schwingen	geschwungen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+aus	APPR	 aus	aus
+Schmaltz	NN	 Schmalz	Schmalz
+gebachen	VVPP	 UNKNOWN	gebachen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

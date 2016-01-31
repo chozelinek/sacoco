@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Osnabrueck_1687_10" collection="historical" source="Osnabrueck" url="none" year="1687" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1687:19]">
+<title>
+<seg type="newline">
+Eine	ART	 ein	Eine
+Suppe	NN	 Suppe	Suppe
+auff	APPR	 auf	auf
+gebratene	ADJA	 gebraten	gebratene
+Caninchen	NN	 UNKNOWN	Caninchen
+zu	PTKZU	 zu	zu
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nehmt	VVFIN	 nehmen	Nehmt
+wohl	ADV	 wohl	wohl
+geröstert	ADJD	 UNKNOWN	geröstert
+weiß	VVFIN	 wissen	weiß
+Brod	NN	 Brot	Brot
+</seg>
+<seg type="newline">
+weichet	VVFIN	 UNKNOWN	weichet
+es	PPER	 es	es
+in	APPR	 in	in
+rohten	ADJA	 UNKNOWN	rohten
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+etwas	PIAT	 etwas	etwas
+Wein=Essig	NN	 UNKNOWN	Wein=Essig
+</seg>
+<seg type="newline">
+schlagt	VVFIN	 schlagen	schlagt
+es	PPER	 es	es
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+Sieb	NN	 Sieb	Sieb
+</seg>
+<seg type="newline">
+thut	NE	 UNKNOWN	thue
+Zucker	NN	 Zucker	Zucker
+und	KON	 und	und
+Butter	NN	 Butter	Butter
+aus	APPR	 aus	aus
+der	ART	 d	der
+Brat=Pfannen	NN	 UNKNOWN	Brat=Pfannen
+dabey	PAV	 dabei	dabei
+</seg>
+<seg type="newline">
+last	VVFIN	 lesen	last
+es	PPER	 es	es
+zusammen	ADV	 zusammen	zusammen
+auffkochen	VVFIN	 aufkochen	aufkochen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+wird	VAFIN	 werden	wird
+die	ART	 d	die
+Suppe	NN	 Suppe	Suppe
+gut	ADJD	 gut	gut
+seyn	ADJD	 UNKNOWN	seyn
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

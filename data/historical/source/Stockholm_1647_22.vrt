@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Stockholm_1647_22" collection="historical" source="Stockholm" url="none" year="1647" decade="1640-1650" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1647:233]">
+<body>
+<seg type="newline">
+Postete	NN	 UNKNOWN	Postete
+die	PDS	 d	die
+haut	VVFIN	 hauen	haut
+abe	PAV	 dabei	dabei
+zu	PTKZU	 zu	zu
+stucken	VVINF	 stocken	stocken
+zerhowen	VVFIN	 UNKNOWN	zerhowen
+die	ART	 d	die
+knochen	ADJA	 UNKNOWN	knochen
+darin	PAV	 darin	darin
+</seg>
+<seg type="newline">
+eine	PIS	 ein	eine
+nacht	PTKVZ	 nacht	nacht
+in	APPR	 in	in
+Essig	NN	 Essig	Essig
+geleget	ADJD	 UNKNOWN	geleget
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+negelen	NN	 UNKNOWN	negelen
+Speckt	NN	 UNKNOWN	Speckt
+mit	APPR	 mit	mit
+Saltz	NN	 Salz	Salz
+Pfeffer	NN	 Pfeffer	Pfeffer
+Muskatenblumen	NN	 UNKNOWN	Muskatenblumen
+zerstossen	VVFIN	 zerstoßen	zerstossen
+Ingber	NN	 Ingwer	Ingwer
+in	APPR	 in	in
+den	ART	 d	den
+teich	NN	 Teich	teich
+geschlagen	VVPP	 schlagen	geschlagen
+1.	ADJA	 1.	1.
+fierdehalbe	NN	 UNKNOWN	fierdehalbe
+stunde	VVFIN	 stunden	stunde
+gebacken	VVPP	 backen	gebacken
+</seg>
+</body>
+</text>

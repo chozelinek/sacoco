@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Colerus_1602_8" collection="historical" source="Colerus" url="none" year="1602" decade="1600-1610" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1602:129]">
+<title>
+<seg type="newline">
+Behemische	ADJA	 UNKNOWN	Behemische
+Erbsen	NN	 Erbse	Erbsen
+zu	PTKZU	 zu	zu
+kochen	VVINF	 kochen	kochen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Reibe	VVFIN	 reiben	Reibe
+sie	PPER	 sie	sie
+ab	PTKVZ	 ab	ab
+</seg>
+<seg type="newline">
+als	KOKOM	 als	als
+vor	PTKVZ	 vor	vor
+geschrieben	VVPP	 schreiben	geschrieben
+stehet	VVFIN	 stehen	stehet
+</seg>
+<seg type="newline">
+Cap.	NE	 UNKNOWN	Cap.
+35.	ADJA	 @ord@	35.
+vnd	KON	 und	und
+las	VVFIN	 lesen	las
+sie	PPER	 sie	sie
+hübsch	ADJD	 hübsch	hübsch
+treuge	ADJD	 UNKNOWN	treuge
+werden	VAINF	 werden	werden
+.	$.	.	$.	 .	|	.
+Darnach	ADV	 UNKNOWN	Darnach
+nim	VVFIN	 UNKNOWN	nimb
+ein	ART	 ein	ein
+Schweinen	NN	 Schwein	Schweinen
+fleisch	ADJD	 UNKNOWN	fleisch
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+da	ADV	 da	da
+hübsch	ADJD	 hübsch	hübsch
+vnterwachsen	ADJD	 UNKNOWN	vnterwachsen
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+seud	NE	 UNKNOWN	seud
+das	ART	 d	das
+Fleisch	NN	 Fleisch	Fleisch
+in	APPR	 in	in
+einem	ART	 ein	einem
+reinen	ADJA	 rein	reinen
+Topff	NN	 Topf	Topf
+weich	ADJD	 weich	weich
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+wenn	KOUS	 wenn	wenn
+es	PPER	 es	es
+denn	ADV	 denn	denn
+gesotten	VVPP	 sieden	gesotten
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+schneid	VVFIN	 schneiden	schneiden
+es	PPER	 es	es
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+fein	ADJD	 fein	fein
+würfflicht	ADJA	 UNKNOWN	würfflicht
+</seg>
+<seg type="newline">
+thue	NN	 UNKNOWN	thue
+es	PPER	 es	es
+in	APPR	 in	in
+einen	ART	 ein	einen
+Thänen	VVFIN	 hängen	hängen
+Tiegel	NN	 Tiegel	Tiegel
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+nim	VVFIN	 UNKNOWN	nimb
+darzu	PAV	 dazu	dazu
+ein	ART	 ein	ein
+Schmaltz	NN	 Schmalz	Schmalz
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+schütte	VVFIN	 schütten	schütte
+darzu	PAV	 dazu	dazu
+die	ART	 d	die
+Erbsen	NN	 Erbse	Erbsen
+also	ADV	 also	also
+gantz	ADV	 ganz	ganz
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+saltze	ADJA	 kalt	kalten
+sie	PPER	 sie	sie
+hübsch	ADJD	 hübsch	hübsch
+zu	PTKZU	 zu	zu
+massen	VVINF	 maßen	massen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+setze	VVFIN	 setzen	setze
+sie	PPER	 sie	sie
+vber	ADJD	 UNKNOWN	vber
+das	ART	 d	das
+Fewer	NN	 Feuer	Feuer
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+las	VVFIN	 lesen	las
+sie	PPER	 sie	sie
+fein	ADJD	 fein	fein
+braun	ADJD	 braun	braun
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+richte	VVFIN	 richten	richte
+sie	PPER	 sie	sie
+an	PTKVZ	 an	an
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

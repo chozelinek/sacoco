@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Colerus_1602_26" collection="historical" source="Colerus" url="none" year="1602" decade="1600-1610" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1602:174]">
+<title>
+<seg type="newline">
+Endten	NN	 UNKNOWN	Endten
+oder	KON	 oder	oder
+Birckhüner	VVFIN	 UNKNOWN	Birckhüner
+in	APPR	 in	in
+einer	ART	 ein	einer
+geylen	NN	 UNKNOWN	geylen
+Brühe	NN	 Brühe	Brühe
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Du	PPER	 du	Du
+darffst	VVFIN	 UNKNOWN	darffst
+sie	PPER	 sie	sie
+nicht	PTKNEG	 nicht	nicht
+braten	VVINF	 braten	braten
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+sie	PPER	 sie	sie
+rein	PTKVZ	 rein	rein
+vnd	KON	 und	und
+hacke	VVFIN	 hacken	hacke
+jnen	ADJD	 UNKNOWN	jnen
+die	ART	 d	die
+Flügel	NN	 Flügel	Flügel
+abe	PAV	 dabei	dabei
+</seg>
+<seg type="newline">
+brate	VVFIN	 braten	brate
+sie	PPER	 sie	sie
+auff	APPR	 auf	auf
+einem	ART	 ein	einem
+rohste	ADJA	 UNKNOWN	rohste
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+röhste	ADJA	 UNKNOWN	röhste
+eine	PIS	 ein	eine
+schnitte	VVFIN	 schneiden	schnitte
+Weis	PTKVZ	 weis	Weis
+Brod	NN	 Brot	Brot
+oder	KON	 oder	oder
+zwo	CARD	 zwo	zwo
+</seg>
+<seg type="newline">
+thue	NN	 UNKNOWN	thue
+das	ART	 d	das
+also	ADV	 also	also
+mit	APPR	 mit	mit
+einander	PRF	 einander	einander
+in	APPR	 in	in
+einen	ART	 ein	einen
+Mörsel	NN	 UNKNOWN	Mörsel
+</seg>
+<seg type="newline">
+zustoß	VVFIN	 UNKNOWN	zustoß
+das	ART	 d	das
+auffs	NN	 UNKNOWN	auffs
+kleineste	VVFIN	 UNKNOWN	kleineste
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+es	PPER	 es	es
+werde	VAFIN	 werden	werde
+wie	KOKOM	 wie	wie
+ein	ART	 ein	ein
+Kese	NN	 UNKNOWN	Kese
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+koche	VVFIN	 kochen	koche
+die	ART	 d	die
+Endten	NN	 UNKNOWN	Endten
+oder	KON	 oder	oder
+Birckhüner	VVFIN	 UNKNOWN	Birckhüner
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+sie	PPER	 sie	sie
+gahr	ADV	 gar	gar
+werden	VAINF	 werden	werden
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+nim	VVFIN	 UNKNOWN	nimb
+eine	ART	 ein	eine
+suppen	NN	 Suppe	suppen
+vom	APPRART	 vom	vom
+Rindfleisch	NN	 Rindfleisch	Rindfleisch
+</seg>
+<seg type="newline">
+die	ART	 d	die
+nicht	PTKNEG	 nicht	nicht
+allzu	PTKA	 allzu	allzu
+sehr	ADV	 sehr	sehr
+gesaltzen	ADJD	 UNKNOWN	gesaltzen
+</seg>
+<seg type="newline">
+zulasse	VVFIN	 zulassen	zulasse
+das	ART	 d	das
+gestossene	ADJA	 gestoßen	gestossene
+im	APPRART	 im	im
+Mörsel	TRUNC	 UNKNOWN	Mörsel
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+treib	VVIMP	 treiben	treib
+es	PPER	 es	es
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+Tuch	NN	 Tuch	Tuch
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+lege	VVFIN	 legen	lege
+die	ART	 d	die
+gekochte	ADJA	 gekocht	gekochte
+Birckhüner	NN	 UNKNOWN	Birckhüner
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+würtze	VVFIN	 würzen	würzt
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Saffran	NN	 Safran	Safran
+</seg>
+<seg type="newline">
+Muscatenblumen	NN	 UNKNOWN	Muscatenblumen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+thue	NN	 UNKNOWN	thue
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+schmaltz	NN	 UNKNOWN	schmaltz
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+schneide	VVFIN	 schneiden	schneide
+das	ART	 d	das
+viereckicht	NN	 UNKNOWN	viereckicht
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+lege	VVFIN	 legen	lege
+das	PDS	 d	das
+auff	APPR	 auf	auf
+die	ART	 d	die
+Birckhüner	NN	 UNKNOWN	Birckhüner
+</seg>
+<seg type="newline">
+bestrewe	VVFIN	 bestreuen	bestreuen
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+Ingber	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Zimmetrinde	NN	 UNKNOWN	Zimmetrinde
+</seg>
+<seg type="newline">
+was	PRELS	 was	was
+dir	PPER	 du	dir
+geliebet	VVFIN	 UNKNOWN	geliebet
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

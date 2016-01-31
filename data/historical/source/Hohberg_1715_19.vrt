@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Hohberg_1715_19" collection="historical" source="Hohberg" url="none" year="1715" decade="1710-1720" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1715:68]">
+<title>
+<seg type="newline">
+Grieß=Schnitten	NE	 UNKNOWN	Grieß=Schnitten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Rühre	VVFIN	 rühren	Rühre
+4.	ADJA	 4.	4.
+Loth	NE	 Loth	Loth
+frisch	ADJD	 frisch	frisch
+Schmaltz	NN	 Schmalz	Schmalz
+in	APPR	 in	in
+einer	ART	 ein	einer
+Schüssel	NN	 Schüssel	Schüssel
+wol	PWAV	 wo	wo
+ab	APPR	 ab	ab
+</seg>
+<seg type="newline">
+schlaget	ADJA	 UNKNOWN	schlaget
+4.	ADJA	 4.	4.
+Eyer	NE	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+zuvor	ADV	 zuvor	zuvor
+im	APPRART	 im	im
+warmen	ADJA	 warm	warmen
+Wasser	NN	 Wasser	Wasser
+gelegen	VVPP	 liegen	gelegen
+</seg>
+<seg type="newline">
+nacheinander	ADV	 nacheinander	nacheinander
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+gieß	VVIMP	 gießen	gieß
+vier	CARD	 vier	vier
+Löffel	NN	 Löffel	Löffel
+voll	ADJD	 voll	voll
+Rosen=	NN	 UNKNOWN	Rosen=
+oder	KON	 oder	oder
+nur	ADV	 nur	nur
+gemein	ADJD	 gemein	gemein
+Wasser	NN	 Wasser	Wasser
+dazu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+auch	ADV	 auch	auch
+Zucker	NN	 Zucker	Zucker
+und	KON	 und	und
+Zimmet	NN	 Zimt	Zimt
+2.	ADJA	 2.	2.
+Loth	NE	 Loth	Loth
+</seg>
+<seg type="newline">
+abgestossene	ADJA	 abgestoßen	abgestossene
+Mandeln	NN	 Mandel	Mandeln
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Semmel=Meel	NN	 UNKNOWN	Semmel=Meel
+</seg>
+<seg type="newline">
+und	KON	 und	und
+vier	CARD	 vier	vier
+Händlein	NN	 UNKNOWN	Händlein
+voll	ADJD	 voll	voll
+Griß	VVFIN	 UNKNOWN	Griß
+</seg>
+<seg type="newline">
+hernach	ADV	 hernach	hernach
+schütts	NN	 UNKNOWN	schütts
+in	APPR	 in	in
+eine	ART	 ein	eine
+mit	APPR	 mit	mit
+Butter	NN	 Butter	Butter
+geschmirte	NN	 UNKNOWN	geschmirte
+kupfferne	ADJA	 UNKNOWN	kupfferne
+Schüssel	NN	 Schüssel	Schüssel
+</seg>
+<seg type="newline">
+gieb	VVFIN	 UNKNOWN	gieb
+ihm	PPER	 er	ihm
+oben	ADV	 oben	oben
+mehr	PIAT	 mehr	mehr
+Kohlen	NN	 Kohle	Kohlen
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+unten	ADV	 unten	unten
+</seg>
+<seg type="newline">
+damit	KOUS	 damit	damit
+es	PPER	 es	es
+sich	PRF	 er|es|sie	sich
+in	APPR	 in	in
+die	ART	 d	die
+Höhe	NN	 Höhe	Höhe
+ziehet	VVFIN	 zeihen|ziehen	ziehet
+</seg>
+<seg type="newline">
+und	KON	 und	und
+wans	NE	 UNKNOWN	wans
+schön	ADJD	 schön	schön
+braun	ADJD	 braun	braun
+</seg>
+<seg type="newline">
+schneide	VVFIN	 schneiden	schneide
+Schnitten	NN	 Schnitt|Schnitte	Schnitten
+daraus	PAV	 daraus	daraus
+</seg>
+<seg type="newline">
+gieß	VVIMP	 gießen	gieß
+gezuckerten	ADJA	 gezuckert	gezuckerten
+Kern	NN	 Kern	Kern
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+süssen	ADJA	 süß	süssen
+Ram	NE	 Ram	Ram
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+und	KON	 und	und
+laß	ADJD	 laß	laß
+in	APPR	 in	in
+der	ART	 d	der
+Schüßel	NN	 UNKNOWN	Schüßel
+aufsieden	VVFIN	 UNKNOWN	aufsieden
+</seg>
+<seg type="newline">
+bestreus	NE	 UNKNOWN	bestreus
+bey	NE	 Bey	bey
+dem	ART	 d	dem
+Auftragen	NN	 Auftragen	Auftragen
+mit	APPR	 mit	mit
+Zucker	NN	 Zucker	Zucker
+und	KON	 und	und
+Zimmet	NN	 Zimt	Zimt
+.	$.	.	$.	 .	|	.
+Es	PPER	 es	Es
+kan	ADV	 nun	Nun
+auch	ADV	 auch	auch
+an	APPR	 an	an
+statt	APPR	 statt	statt
+des	ART	 d	des
+Kerns	NN	 Kern	Kerns
+eine	ART	 ein	eine
+vom	APPRART	 vom	vom
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+Weinbeer	NN	 Weizenbier	Weizenbier
+</seg>
+<seg type="newline">
+und	KON	 und	und
+länglicht	ADJA	 UNKNOWN	länglicht
+geschnittenen	ADJA	 geschnitten	geschnittenen
+Mandeln	NN	 Mandel	Mandeln
+verfertigte	VVFIN	 verfertigen	verfertigte
+Brüh	ADJD	 früh	früh
+darüber	PAV	 darüber	darüber
+gemacht	VVPP	 machen	gemacht
+werden	VAINF	 werden	werden
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

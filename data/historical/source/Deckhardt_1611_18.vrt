@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Deckhardt_1611_18" collection="historical" source="Deckhardt" url="none" year="1611" decade="1610-1620" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1611:153f.]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+Eyter	NN	 UNKNOWN	Eyter
+von	APPR	 von	von
+Krebssen	NN	 UNKNOWN	Krebssen
+zumachen	VVFIN	 zumachen	zumachen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nim	ADJD	 UNKNOWN	nimb
+ein	PTKVZ	 ein	ein
+gut	ADJD	 gut	gut
+teil	PTKVZ	 teil	teil
+rohe	ADJA	 roh	rohe
+Krebsse	NN	 UNKNOWN	Krebsse
+</seg>
+<seg type="newline">
+schneide	VVFIN	 schneiden	schneide
+forne	ADJD	 UNKNOWN	forne
+die	ART	 d	die
+Köpffe	NN	 UNKNOWN	Köpffe
+dauon	NE	 UNKNOWN	dauon
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+thue	NE	 UNKNOWN	thue
+das	ART	 d	das
+bittre	ADJA	 bitter	bittre
+herausser	NN	 UNKNOWN	herausser
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+hinten	ADV	 hinten	hinten
+am	APPRART	 am	am
+schwantze	NN	 UNKNOWN	schwantze
+das	ART	 d	das
+äderlein	NN	 UNKNOWN	äderlein
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+stosse	VVFIN	 stoßen	stosse
+sie	PPER	 sie	sie
+den	ART	 d	den
+in	APPR	 in	in
+einem	ART	 ein	einem
+Mörsel	NN	 UNKNOWN	Mörsel
+</seg>
+<seg type="newline">
+sambt	VVFIN	 UNKNOWN	sambt
+den	ART	 d	den
+schalen	ADJA	 schal	schalen
+wol	PWAV	 wo	wo
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+geus	NN	 UNKNOWN	geuß
+eine	ART	 ein	eine
+reine	ADJA	 rein	reine
+dicke	ADJA	 dick	dicke
+milch	NN	 Milch	milch
+dran	PTKVZ	 dran	dran
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+treibe	VVFIN	 treiben	treibe
+sie	PPER	 sie	sie
+darmit	NN	 UNKNOWN	darmit
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+enge	ADJA	 eng	enge
+sieblein	NN	 UNKNOWN	sieblein
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+nim	VVFIN	 UNKNOWN	nimb
+eine	ART	 ein	eine
+andere	ADJA	 ander	andere
+newe	NN	 UNKNOWN	newe
+gemelckne	VVFIN	 UNKNOWN	gemelckne
+milch	NN	 Milch	milch
+</seg>
+<seg type="newline">
+setze	VVFIN	 setzen	setze
+sie	PPER	 sie	sie
+zum	APPRART	 zum	zum
+Fewer	NN	 Feuer	Feuer
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+las	VVFIN	 lesen	las
+sie	PPER	 sie	sie
+warm	ADJD	 warm	warm
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+geus	NN	 UNKNOWN	geuß
+die	ART	 d	die
+durch	APPR	 durch	durch
+getriebnen	ADJA	 UNKNOWN	getriebnen
+Krebse	NN	 Krebs	Krebse
+sambt	VVFIN	 UNKNOWN	sambt
+der	ART	 d	der
+brüe	NE	 UNKNOWN	brüe
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+las	VVFIN	 lesen	las
+sieden	VVFIN	 sieden	sieden
+das	PDS	 d	das
+es	PPER	 es	es
+zusammen	ADV	 zusammen	zusammen
+leufft	VVFIN	 UNKNOWN	leufft
+</seg>
+<seg type="newline">
+aber	ADV	 aber	aber
+nicht	PTKNEG	 nicht	nicht
+gar	ADV	 gar	gar
+zu	PTKA	 zu	zu
+lange	ADV	 lange	lange
+</seg>
+<seg type="newline">
+damit	KOUS	 damit	damit
+es	PPER	 es	es
+nicht	PTKNEG	 nicht	nicht
+zehe	NN	 Zehe	zehe
+werde	VAFIN	 werden	werde
+</seg>
+<seg type="newline">
+denn	ADV	 denn	denn
+so	ADV	 so	so
+stürtze	VVFIN	 UNKNOWN	stürtze
+es	PPER	 es	es
+mit	APPR	 mit	mit
+einander	PRF	 einander	einander
+auff	APPR	 auf	auf
+ein	ART	 ein	ein
+Tuch	NN	 Tuch	Tuch
+</seg>
+<seg type="newline">
+drücke	VVFIN	 drücken	drücke
+es	PPER	 es	es
+zusammen	PTKVZ	 zusammen	zusammen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+beschwere	VVFIN	 beschweren	beschwere
+es	PPER	 es	es
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Deckel	NN	 Deckel	Deckel
+vnd	KON	 und	und
+Stein	NN	 Stein	Stein
+drauff	PAV	 drauf	drauf
+</seg>
+<seg type="newline">
+wenn	KOUS	 wenn	wenn
+es	PPER	 es	es
+wol	PWAV	 wo	wo
+nun	ADV	 nun	nun
+versiegen	VVINF	 versiegen	versiegen
+vnd	KON	 und	und
+gebrest	NN	 UNKNOWN	gebrest
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+So	ADV	 so	So
+thue	NN	 UNKNOWN	thue
+das	ART	 d	das
+Tuch	NN	 Tuch	Tuch
+dauon	NE	 UNKNOWN	dauon
+</seg>
+<seg type="newline">
+schneide	VVFIN	 schneiden	schneide
+feine	ADJA	 fein	feine
+breite	ADJA	 breit	breite
+vnd	KON	 und	und
+lenglichte	ADJA	 UNKNOWN	lenglichte
+Schnitten	NN	 Schnitt|Schnitte	Schnitten
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+von	APPR	 von	von
+einem	ART	 ein	einem
+Küheuter	NN	 UNKNOWN	Küheuter
+</seg>
+<seg type="newline">
+besprenge	VVFIN	 UNKNOWN	besprenge
+es	PPER	 es	es
+mit	APPR	 mit	mit
+Ingwer	NN	 Ingwer	Ingwer
+vnnd	KON	 und	und
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+betreuffs	NE	 UNKNOWN	betreuffs
+mit	APPR	 mit	mit
+warmer	ADJA	 warm	warmer
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+es	PPER	 es	es
+auff	APPR	 auf	auf
+einen	ART	 ein	einen
+Rost	NN	 Rost	Rost
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+braten	VVINF	 braten	braten
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+backe	VVFIN	 backen	backe
+es	PPER	 es	es
+in	APPR	 in	in
+einem	ART	 ein	einem
+schmaltze	NN	 UNKNOWN	schmaltze
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+aber	ADV	 aber	aber
+schneide	VVFIN	 schneiden	schneide
+viereckigte	ADJD	 UNKNOWN	viereckigte
+stücklein	ADJD	 UNKNOWN	stückig
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+mache	VVFIN	 machen	mache
+eine	ART	 ein	eine
+gelbe	ADJA	 gelb	gelbe
+mandel	NN	 Mandel	mandel
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Weinbrüe	NE	 UNKNOWN	Weinbrüe
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+gieb	VVFIN	 UNKNOWN	gieb
+sie	PPER	 sie	sie
+in	APPR	 in	in
+einer	ART	 ein	einer
+braunen	ADJA	 braun	braunen
+Kirschbrüe	NN	 UNKNOWN	Kirschbrüe
+oder	KON	 oder	oder
+Södlein	NN	 UNKNOWN	Södlein
+</seg>
+<seg type="newline">
+Man	PIS	 man	Man
+kan	ADV	 nun	Nun
+es	PPER	 es	es
+auch	ADV	 auch	auch
+in	APPR	 in	in
+einem	ART	 ein	einem
+warmen	ADJA	 warm	warmen
+Pastetlein	NN	 UNKNOWN	Pastetlein
+geben	VVINF	 geben	geben
+</seg>
+<seg type="newline">
+bestraw	VVFIN	 UNKNOWN	bestraw
+es	PPER	 es	es
+mit	APPR	 mit	mit
+Ingwer	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Zimmet	NN	 Zimt	Zimt
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+geuß	NN	 UNKNOWN	geuß
+ein	ART	 ein	ein
+Glaß	NN	 UNKNOWN	Glaß
+Wein	NN	 Wein	Wein
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+laß	ADJD	 laß	laß
+in	APPR	 in	in
+einem	ART	 ein	einem
+Backofen	NN	 Backofen	Backofen
+oder	KON	 oder	oder
+Pasteten	NN	 Pastete	Pasteten
+hert	VVFIN	 UNKNOWN	hert
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+backen	VVFIN	 backen	backen
+</seg>
+<seg type="newline">
+So	ADV	 so	So
+ist	VAFIN	 sein	ist
+es	PPER	 es	es
+auch	ADV	 auch	auch
+recht	ADJD	 recht	recht
+vnd	KON	 und	und
+gut	ADJD	 gut	gut
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

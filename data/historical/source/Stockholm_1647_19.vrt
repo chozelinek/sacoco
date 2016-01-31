@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Stockholm_1647_19" collection="historical" source="Stockholm" url="none" year="1647" decade="1640-1650" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Hecht|" method="|none|" ref="[1647:214]">
+<body>
+<seg type="newline">
+Mit	APPR	 mit	Mit
+saur	ADJA	 UNKNOWN	saur
+kohl	VVIMP	 kohlen	kohl
+1.	ADJA	 1.	1.
+Saur	ADJA	 UNKNOWN	Saur
+kohl	VVIMP	 kohlen	kohl
+mit	APPR	 mit	mit
+Wasser	NN	 Wasser	Wasser
+halb	ADJD	 halb	halb
+gar	ADV	 gar	gar
+gesotten	VVPP	 sieden	gesotten
+</seg>
+<seg type="newline">
+das	ART	 d	das
+Wasser	NN	 Wasser	Wasser
+abgeseyet	NE	 UNKNOWN	abgeseyet
+</seg>
+<seg type="newline">
+2.	ADJA	 2.	2.
+Eeinen	NN	 UNKNOWN	Eeinen
+frschen	ADJA	 UNKNOWN	frschen
+Hecht	NN	 Hecht	Hecht
+aus	APPR	 aus	aus
+dem	ART	 d	dem
+Saltz	NN	 Salz	Salz
+abkochet	VVFIN	 UNKNOWN	abkochet
+.	$.	.	$.	 .	|	.
+3.	ADJA	 3.	3.
+Solches	NN	 UNKNOWN	Solches
+abschupfet	ADJA	 UNKNOWN	abschupfet
+</seg>
+<seg type="newline">
+abgegratet	ADJA	 UNKNOWN	abgegratet
+</seg>
+<seg type="newline">
+geplucket	NN	 UNKNOWN	geplucket
+zu	APPR	 zu	zu
+kleine	ADJA	 klein	kleine
+stucke	ADJA	 UNKNOWN	stucke
+</seg>
+<seg type="newline">
+4.	ADJA	 4.	4.
+In	APPR	 in	In
+ein	ART	 ein	ein
+Silbern	NN	 UNKNOWN	Silbern
+oder	KON	 oder	oder
+pfanne	NN	 Pfanne	pfanne
+s.	ADJA	 UNKNOWN	s.
+s.	ADJA	 UNKNOWN	s.
+s.	NN	 S.	s.
+gemacht	VVPP	 machen	gemacht
+</seg>
+<seg type="newline">
+Butter	NN	 Butter	Butter
+Pfeffer	NN	 Pfeffer	Pfeffer
+saur	ADJA	 UNKNOWN	saur
+khol	NN	 UNKNOWN	khol
+</seg>
+<seg type="newline">
+Hecht	NN	 Hecht	Hecht
+</seg>
+<seg type="newline">
+5.	ADJA	 5.	5.
+oben	ADV	 oben	oben
+auff	APPR	 auf	auf
+Butter	NN	 Butter	Butter
+vnd	KON	 und	und
+Milchsamen	NN	 UNKNOWN	Milchsamen
+</seg>
+<seg type="newline">
+zugedeckt	VVPP	 zudecken	zugedeckt
+.	$.	.	$.	 .	|	.
+6.	ADJA	 6.	6.
+Auff	NN	 UNKNOWN	Auff
+Kolfewer	NN	 UNKNOWN	Kolfewer
+getemperiet	VVFIN	 UNKNOWN	getemperiet
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

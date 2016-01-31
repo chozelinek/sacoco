@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Schuppe_1698_12" collection="historical" source="Schuppe" url="none" year="1698" decade="1690-1700" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1698:56]">
+<title>
+<seg type="newline">
+CI	NE	 UNKNOWN	CI
+.	$.	.	$.	 .	|	.
+Eine	ART	 ein	Eine
+Schaaffs=Keule	NN	 UNKNOWN	Schaaffs=Keule
+weiß	ADJD	 weiß	weiß
+gekocht	VVPP	 kochen	gekocht
+aus	APPR	 aus	aus
+dem	ART	 d	dem
+Saltze	NN	 Salz	Salz
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+die	ART	 d	die
+Keule	NN	 Keule	Keule
+</seg>
+<seg type="newline">
+wasche	VVFIN	 waschen	wasche
+sie	PPER	 sie	sie
+ab	PTKVZ	 ab	ab
+</seg>
+<seg type="newline">
+setze	VVFIN	 setzen	setze
+sie	PPER	 sie	sie
+bey	NE	 Bey	bey
+das	ART	 d	das
+Feuer	NN	 Feuer	Feuer
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+kochen	VVFIN	 kochen	kochen
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+gantze	ADV	 ganz	ganz
+Nägelein	NN	 UNKNOWN	Nägelein
+</seg>
+<seg type="newline">
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+Timian	NE	 UNKNOWN	Timian
+</seg>
+<seg type="newline">
+Petersillien	NE	 UNKNOWN	Petersillien
+</seg>
+<seg type="newline">
+Muscaten=blumen	NN	 UNKNOWN	Muscaten=blumen
+daran	PAV	 daran	daran
+;	$.	;	$.	 ;	|	;
+wann	PWAV	 wann	wann
+es	PPER	 es	es
+gahr	ADV	 gar	gar
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+richte	VVFIN	 richten	richte
+an	PTKVZ	 an	an
+</seg>
+<seg type="newline">
+und	KON	 und	und
+streue	VVFIN	 streuen	streue
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Petersillien	NN	 UNKNOWN	Petersillien
+drüm	NN	 UNKNOWN	drüm
+her	APZR	 her	her
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+ist	VAFIN	 sein	ist
+es	PPER	 es	es
+fertig	ADJD	 fertig	fertig
+.	$.	.	$.	 .	|	.
+NB	NE	 NB	NB
+.	$.	.	$.	 .	|	.
+Die	ART	 d	Die
+Keule	NN	 Keule	Keule
+auf	APPR	 auf	auf
+diese	PDAT	 dies	diese
+Manier	NN	 Manier	Manier
+gekocht	VVPP	 kochen	gekocht
+</seg>
+<seg type="newline">
+bestreuet	VVFIN	 bestreuen	bestreuen
+man	PIS	 man	man
+auch	ADV	 auch	auch
+mit	APPR	 mit	mit
+geriebenem	ADJA	 gerieben	geriebenem
+Brodt	NN	 UNKNOWN	Brodt
+</seg>
+<seg type="newline">
+Caneel	NN	 Handel	Handel
+und	KON	 und	und
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+setzet	VVFIN	 setzen	setzet
+sie	PPER	 sie	sie
+danin	ADJD	 UNKNOWN	danin
+den	ART	 d	den
+Back=Ofen	NN	 UNKNOWN	Back=Ofen
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+sie	PPER	 sie	sie
+darinn	NN	 UNKNOWN	darinn
+braun	ADJD	 braun	braun
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+das	ART	 d	das
+Brodt	NN	 UNKNOWN	Brodt
+muß	VMFIN	 müssen	muß
+aber	ADV	 aber	aber
+als	KOKOM	 als	als
+ein	ART	 ein	ein
+Finger	NN	 Finger	Finger
+dick	ADJD	 dick	dick
+darauff	PAV	 drauf	drauf
+liegen	VVFIN	 liegen	liegen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+mit	APPR	 mit	mit
+Butter	NN	 Butter	Butter
+begossen	VVPP	 begießen	begossen
+werden	VAINF	 werden	werden
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

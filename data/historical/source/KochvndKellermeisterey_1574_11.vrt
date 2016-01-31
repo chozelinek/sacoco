@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Koch_vnd_Kellermeisterey_1574_11" collection="historical" source="Koch_vnd_Kellermeisterey" url="none" year="1574" decade="1570-1580" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1574:41r]">
+<title>
+<seg type="newline">
+Fleysch	ADJA	 UNKNOWN	Fleysch
+Turten	NN	 UNKNOWN	Turten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Den	ART	 d	Den
+teyg	ADJA	 UNKNOWN	teyg
+mach	VVIMP	 machen	mach
+wie	KOKOM	 wie	wie
+vor	APPR	 vor	vor
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+als	KOKOM	 als	als
+die	ART	 d	die
+Läppisch	NN	 UNKNOWN	Läppisch
+teyg	NE	 UNKNOWN	teyg
+vor	PTKVZ	 vor	vor
+gelehrt	VVPP	 lehren	gelehrt
+</seg>
+<seg type="newline">
+mach	VVIMP	 machen	mach
+die	PDS	 d	die
+füll	VVIMP	 füllen	füll
+nicht	PTKNEG	 nicht	nicht
+zu	APPR	 zu	zu
+starck	NE	 UNKNOWN	starck
+</seg>
+<seg type="newline">
+von	NE	 von	von
+Eyern	VVFIN	 UNKNOWN	Eyern
+vnnd	KON	 und	und
+wein	VVIMP	 weinen	wein
+</seg>
+<seg type="newline">
+milch	ADJD	 UNKNOWN	milch
+oder	KON	 oder	oder
+Hünerbrü	NE	 UNKNOWN	Hünerbrü
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+gut	ADJD	 gut	gut
+fleyschbrühe	NN	 UNKNOWN	fleyschbrühe
+</seg>
+<seg type="newline">
+nit	VVFIN	 UNKNOWN	nimb
+vil	ADV	 viel	viel
+</seg>
+<seg type="newline">
+klopff	VVFIN	 UNKNOWN	klopff
+die	ART	 d	die
+Eyer	NE	 UNKNOWN	Eyer
+vnButter	NN	 UNKNOWN	vnButter
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+saltz	ADJA	 kalt	kalten
+vnnd	KON	 und	und
+würtzs	ADJA	 UNKNOWN	würtzs
+</seg>
+<seg type="newline">
+setz	VVIMP	 setzen	setz
+die	ART	 d	die
+teygpfann	NN	 UNKNOWN	teygpfann
+in	APPR	 in	in
+die	ART	 d	die
+pfanmit	NN	 UNKNOWN	pfanmit
+buttern	VVINF	 buttern	buttern
+</seg>
+<seg type="newline">
+als	KOKOM	 als	als
+vor	PTKVZ	 vor	vor
+.	$.	.	$.	 .	|	.
+Thu	NE	 Thu	Thu
+die	ART	 d	die
+füll	VVIMP	 füllen	füll
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+was	PIAT	 was	was
+fleisch	NN	 Fleisch	fleisch
+du	PPER	 du	du
+hast	VAFIN	 haben	hast
+zu	APPR	 zu	zu
+der	ART	 d	der
+füll	VVIMP	 füllen	füll
+</seg>
+<seg type="newline">
+mach	VVIMP	 machen	mach
+ein	ART	 ein	ein
+Teygdeck	NN	 UNKNOWN	Teygdeck
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+verrenff	VVFIN	 UNKNOWN	verrenff
+es	PPER	 es	es
+</seg>
+<seg type="newline">
+geuß	NN	 UNKNOWN	geuß
+buttern	VVFIN	 buttern	buttern
+darauff	PAV	 drauf	drauf
+</seg>
+<seg type="newline">
+wart	VAFIN	 sein	wart
+sein	PPOSAT	 sein	sein
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+einer	ART	 ein	einer
+Pasteten	NN	 Pastete	Pasteten
+</seg>
+<seg type="newline">
+wir	PPER	 wir	wir
+vor	PTKVZ	 vor	vor
+gelehrt	VVPP	 lehren	gelehrt
+vnd	KON	 und	und
+gesagt	VVPP	 sagen	gesagt
+ist	VAFIN	 sein	ist
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

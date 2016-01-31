@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Osnabrueck_1687_6" collection="historical" source="Osnabrueck" url="none" year="1687" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Huhn|" method="|Fricassee|" ref="[1687:11]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+jung	ADJD	 jung	jung
+Huhn	NN	 Huhn	Huhn
+auff	APPR	 auf	auf
+eine	ART	 ein	eine
+andere	ADJA	 ander	andere
+Manier	NN	 Manier	Manier
+zu	APPR	 zu	zu
+stofen	NN	 UNKNOWN	stofen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nehmt	VVFIN	 nehmen	Nehmt
+ein	ART	 ein	ein
+jung	ADJD	 jung	jung
+Huhn	NN	 Huhn	Huhn
+(	$(	(	$(	 (	|	(
+etzliche	NN	 UNKNOWN	Etliche
+ziehen	VVFIN	 zeihen|ziehen	ziehen
+ihm	PPER	 er	ihm
+das	ART	 d	das
+Fell	NN	 Fell	Fell
+ab	PTKVZ	 ab	ab
+)	$(	)	$(	 )	|	)
+waschet	VVINF	 waschen	waschen
+und	KON	 und	und
+sauberts	ADJA	 sauber	sauberen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+hauets	NN	 UNKNOWN	hauets
+in	APPR	 in	in
+kleine	ADJA	 klein	kleine
+Stücken	NN	 Stück	Stücken
+als	KOKOM	 als	als
+einen	ART	 ein	einen
+halben	ADJA	 halb	halben
+Finger	NN	 Finger	Finger
+groß	ADJD	 groß	groß
+</seg>
+<seg type="newline">
+thut	VVFIN	 UNKNOWN	thue
+es	PPER	 es	es
+in	APPR	 in	in
+einen	ART	 ein	einen
+biß	VVFIN	 beißen	biß
+zur	APPRART	 zur	zur
+helffte	NN	 UNKNOWN	helffte
+mit	APPR	 mit	mit
+Wasser	NN	 Wasser	Wasser
+gefüllten	ADJA	 gefüllt	gefüllten
+Topff	NN	 Topf	Topf
+</seg>
+<seg type="newline">
+schäumets	VVFIN	 schäumen	schäumt
+wohl	ADV	 wohl	wohl
+ab	APPR	 ab	ab
+</seg>
+<seg type="newline">
+thut	NE	 UNKNOWN	thue
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Saltz	NN	 Salz	Salz
+und	KON	 und	und
+gantzen	ADV	 ganz	ganz
+Pfeffer	NN	 Pfeffer	Pfeffer
+dazu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+kochets	ADJD	 kochend	kochend
+denn	KON	 denn	denn
+vollends	ADV	 vollends	vollends
+gar	ADV	 gar	gar
+</seg>
+<seg type="newline">
+giesset	PDS	 dies	diese
+die	ART	 d	die
+Brühe	NN	 Brühe	Brühe
+mehrentheils	ADV	 UNKNOWN	mehrentheils
+davon	PAV	 davon	davon
+</seg>
+<seg type="newline">
+und	KON	 und	und
+verwahrt	VVFIN	 verwahren	verwahrt
+sie	PPER	 sie	sie
+</seg>
+<seg type="newline">
+thut	NE	 UNKNOWN	thue
+daran	PAV	 daran	daran
+viel	PIAT	 viel	viel
+Butter	NN	 Butter	Butter
+und	KON	 und	und
+gescherbte	ADJD	 gescheit	gescheit
+Petersilien	NN	 Petersilie	Petersilie
+</seg>
+<seg type="newline">
+gestossene	ADJA	 gestoßen	gestossene
+Mußcaten=Blumen	NN	 UNKNOWN	Mußcaten=Blumen
+und	KON	 und	und
+Nüsse	NN	 Nuß	Nüsse
+</seg>
+<seg type="newline">
+und	KON	 und	und
+last	VVFIN	 lesen	last
+es	PPER	 es	es
+zusammen	ADV	 zusammen	zusammen
+durchsieden	VVINF	 durchkneten	durchkneten
+und	KON	 und	und
+rührt	VVFIN	 rühren	rührt
+es	PPER	 es	es
+öffters	ADV	 öfters	öfters
+umb	PTKVZ	 um	um
+</seg>
+<seg type="newline">
+nehmet	VVFIN	 nehmen	nehmet
+denn	KON	 denn	denn
+Limonien=Safft	NN	 UNKNOWN	Limonien=Safft
+</seg>
+<seg type="newline">
+vier	CARD	 vier	vier
+</seg>
+<seg type="newline">
+fünff	CARD	 fünf	fünf
+oder	KON	 oder	oder
+sechs	CARD	 sechs	sechs
+Eyer=Dotter	NN	 UNKNOWN	Eyer=Dotter
+klein	ADJD	 klein	klein
+geschlagen	VVPP	 schlagen	geschlagen
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+etwas	ADV	 etwas	etwas
+von	APPR	 von	von
+der	ART	 d	der
+Suppe	NN	 Suppe	Suppe
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+ihr	PPOSAT	 ihr	ihr
+zuvor	ADV	 zuvor	zuvor
+abgegossen	VVPP	 abgießen	abgegossen
+habet	VAFIN	 haben	habet
+</seg>
+<seg type="newline">
+rühret	VVFIN	 rühren	rühren
+es	PPER	 es	es
+durch	APPR	 durch	durch
+einander	PRF	 einander	einander
+und	KON	 und	und
+giest	VVFIN	 geben	gibt
+es	PPER	 es	es
+zusammen	ADV	 zusammen	zusammen
+auff	APPR	 auf	auf
+das	ART	 d	das
+Huhn	NN	 Huhn	Huhn
+</seg>
+<seg type="newline">
+und	KON	 und	und
+last	VVFIN	 lesen	last
+es	PPER	 es	es
+so	ADV	 so	so
+stets	ADV	 stets	stets
+umbgerührt	VVPP	 umrühren	umgerührt
+durchkochen	VVINF	 durchkochen	durchkochen
+</seg>
+<seg type="newline">
+richtet	VVFIN	 richten	richtet
+es	PPER	 es	es
+alsdenn	NN	 UNKNOWN	Alsdann
+an	PTKVZ	 an	an
+</seg>
+<seg type="newline">
+und	KON	 und	und
+bestreuet	VVFIN	 bestreuen	bestreuen
+den	ART	 d	den
+Rand	NN	 Rand	Rand
+der	ART	 d	der
+Schüssel	NN	 Schüssel	Schüssel
+mit	APPR	 mit	mit
+gehackter	ADJA	 gehackter	gehackter
+Petersilien	NN	 Petersilie	Petersilie
+;	$.	;	$.	 ;	|	;
+Dieses	PDS	 dies	Dieses
+wird	VAFIN	 werden	wird
+eine	ART	 ein	eine
+Poelet	NN	 UNKNOWN	Poelet
+fricassè	ADJD	 UNKNOWN	fricassè
+genannt	VVPP	 nennen	genannt
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

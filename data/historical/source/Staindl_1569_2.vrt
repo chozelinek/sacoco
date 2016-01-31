@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Staindl_1569_2" collection="historical" source="Staindl" url="none" year="1569" decade="1560-1570" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[47v]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+dünstel	NN	 UNKNOWN	dünstel
+suppen	NN	 Rispe	Rispen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Schneid	NN	 Schneid	Schneid
+Semel	NN	 UNKNOWN	Semel
+zu	APPR	 zu	zu
+stücklin	NE	 UNKNOWN	stücklin
+</seg>
+<seg type="newline">
+stürtz	NE	 UNKNOWN	stürtz
+vber	VVFIN	 UNKNOWN	vber
+ein	ART	 ein	ein
+hafen	ADJA	 UNKNOWN	hafen
+</seg>
+<seg type="newline">
+darinn	NN	 UNKNOWN	darinn
+ein	ART	 ein	ein
+kraut	NN	 Kraut	kraut
+seüdt	VVFIN	 UNKNOWN	seüdt
+</seg>
+<seg type="newline">
+die	ART	 d	die
+häfen	NN	 Hafen	häfen
+vermacht	VVFIN	 vermachen	vermacht
+mit	APPR	 mit	mit
+spähnen	NN	 UNKNOWN	spähnen
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+also	ADV	 also	also
+dünsten	VVFIN	 dünsten	dünsten
+</seg>
+<seg type="newline">
+thuos	ADJD	 UNKNOWN	thuos
+auff	APPR	 auf	auf
+ein	ART	 ein	ein
+schüssel	NN	 Schüssel	schüssel
+</seg>
+<seg type="newline">
+vn	NE	 UNKNOWN	vn
+geüß	ADJD	 UNKNOWN	geüß
+ein	ART	 ein	ein
+krautsuppen	NN	 UNKNOWN	krautsuppen
+darauff	PAV	 drauf	drauf
+</seg>
+<seg type="newline">
+das	ART	 d	das
+naß	ADJD	 naß	naß
+wirdt	ADJA	 UNKNOWN	wirdt
+</seg>
+<seg type="newline">
+brenn	VVIMP	 brennen	brenn
+ein	ART	 ein	ein
+schmaltz	NN	 UNKNOWN	schmaltz
+darauff	PAV	 drauf	drauf
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+wöll	VVFIN	 UNKNOWN	wöll
+ein	ART	 ein	ein
+raum	ADJD	 raum	raum
+darauff	PAV	 drauf	drauf
+.	$.	.	$.	 .	|	.
+Krautsuppen	NN	 UNKNOWN	Krautsuppen
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+brot	NN	 Brot	Brot
+auffgeschnitten	ADJD	 UNKNOWN	auffgeschnitten
+</seg>
+<seg type="newline">
+macht	VVFIN	 machen	macht
+man	PIS	 man	man
+auch	ADV	 auch	auch
+also	ADV	 also	also
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

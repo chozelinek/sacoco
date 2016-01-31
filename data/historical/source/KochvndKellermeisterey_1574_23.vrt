@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Koch_vnd_Kellermeisterey_1574_23" collection="historical" source="Koch_vnd_Kellermeisterey" url="none" year="1574" decade="1570-1580" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1574:23r]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+Mehl	NN	 Mehl	Mehl
+Pfefferlin	NE	 UNKNOWN	Pfefferlin
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Brenn	VVIMP	 brennen	Brenn
+mehl	NN	 Mehl	mehl
+in	APPR	 in	in
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+nicht	PTKNEG	 nicht	nicht
+zusehr	ADJA	 UNKNOWN	zusehr
+</seg>
+<seg type="newline">
+temperiers	NN	 UNKNOWN	temperiers
+mit	PTKVZ	 mit	mit
+wein	VVIMP	 weinen	wein
+</seg>
+<seg type="newline">
+gilb	VVFIN	 UNKNOWN	gilb
+vnnd	KON	 und	und
+würtz	VVFIN	 würzen	würzt
+es	PPER	 es	es
+ab	APPR	 ab	ab
+</seg>
+<seg type="newline">
+bach	NE	 Bach	bach
+Erbßküchlin	NN	 UNKNOWN	Erbßküchlin
+</seg>
+<seg type="newline">
+vorgelehrt	VVPP	 UNKNOWN	vorgelehrt
+</seg>
+<seg type="newline">
+schütt	NN	 UNKNOWN	schütt
+den	ART	 d	den
+Pfeffer	NN	 Pfeffer	Pfeffer
+darüber	PAV	 darüber	darüber
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

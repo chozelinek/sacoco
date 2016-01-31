@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Danckwerth_1729_19" collection="historical" source="Danckwerth" url="none" year="1729" decade="1720-1730" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1729:265]">
+<title>
+<seg type="newline">
+12.	ADJA	 12.	12.
+Saurampffer	NN	 UNKNOWN	Saurampffer
+mit	APPR	 mit	mit
+Wein	NN	 Wein	Wein
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Man	PIS	 man	Man
+thut	VVFIN	 UNKNOWN	thue
+den	ART	 d	den
+Saurampffer	NN	 UNKNOWN	Saurampffer
+in	APPR	 in	in
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+legt	VVFIN	 legen	legt
+ihn	PPER	 er	ihn
+in	APPR	 in	in
+einen	ART	 ein	einen
+Durchschlag	NN	 Durchschlag	Durchschlag
+</seg>
+<seg type="newline">
+und	KON	 und	und
+truckt	VVFIN	 UNKNOWN	truckt
+das	ART	 d	das
+Wasser	NN	 Wasser	Wasser
+sauber	ADJD	 sauber	sauber
+aus	PTKVZ	 aus	aus
+</seg>
+<seg type="newline">
+zerschneidet	VVFIN	 zerschneiden	zerschneidet
+ihn	PPER	 er	ihn
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+</seg>
+<seg type="newline">
+thut	NN	 UNKNOWN	thue
+drauf	PAV	 drauf	drauf
+etwas	PIAT	 etwas	etwas
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+Corinthen	NN	 Korinthe	Korinthen
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+Canehls=puder	NN	 UNKNOWN	Canehls=puder
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Muscaten=blumen	NN	 UNKNOWN	Muscaten=blumen
+</seg>
+<seg type="newline">
+frische	ADJA	 frisch	frische
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+läst	VVFIN	 UNKNOWN	läst
+es	PPER	 es	es
+zusammen	ADV	 zusammen	zusammen
+durchkochen	VVFIN	 durchkochen	durchkochen
+</seg>
+<seg type="newline">
+richtets	NN	 UNKNOWN	richtets
+an	PTKVZ	 an	an
+</seg>
+<seg type="newline">
+und	KON	 und	und
+streuet	VVFIN	 UNKNOWN	streuet
+Zucker	NN	 Zucker	Zucker
+und	KON	 und	und
+Canehl	NN	 UNKNOWN	Canehl
+drüber	PTKVZ	 drüber	drüber
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Thieme_1682_30" collection="historical" source="Thieme" url="none" year="1682" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1016]">
+<title>
+<seg type="newline">
+Auf	APPR	 auf	Auf
+ein	ART	 ein	ein
+andre	ADJA	 UNKNOWN	andre
+Art.	NN	 Art.	Art.
+[	$(	[	$(	 [	|	[
+Gebrühete	ADJA	 UNKNOWN	Gebrühete
+Küchlein	NN	 Küchlein	Küchlein
+]	$(	]	$(	 ]	|	]
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nehmet	NE	 Nehmet	Nehmet
+schön	ADJD	 schön	schön
+Meel	ADJA	 UNKNOWN	Meel
+</seg>
+<seg type="newline">
+verrührts	NN	 UNKNOWN	verrührts
+mit	APPR	 mit	mit
+Milch	NN	 Milch	Milch
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+ein	ART	 ein	ein
+Sträublein=Taig	NN	 UNKNOWN	Sträublein=Taig
+</seg>
+<seg type="newline">
+trucknet	VVFIN	 UNKNOWN	trucknet
+selbigen	ADJA	 UNKNOWN	selbigen
+in	APPR	 in	in
+einer	ART	 ein	einer
+Pfanne	NN	 Pfanne	Pfanne
+in	APPR	 in	in
+heisser	ADJA	 heiß	heisser
+Butter	NN	 Butter	Butter
+ab	PTKVZ	 ab	ab
+</seg>
+<seg type="newline">
+machet	VVFIN	 machen	machet
+ihn	PPER	 er	ihn
+mit	APPR	 mit	mit
+Eyern	NE	 UNKNOWN	Eyern
+wiederum	ADV	 wiederum	wiederum
+dünne	ADJA	 dünn	dünne
+</seg>
+<seg type="newline">
+salzet	VVFIN	 UNKNOWN	salzet
+ihn	PPER	 er	ihn
+</seg>
+<seg type="newline">
+und	KON	 und	und
+nachdeme	VVFIN	 UNKNOWN	nachdeme
+solcher	PIS	 solch	solcher
+wol	PWAV	 wo	wo
+gewürket	VVFIN	 UNKNOWN	gewürket
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+macht	VVFIN	 machen	macht
+man	PIS	 man	man
+kleine	ADJA	 klein	kleine
+Kügelein	NN	 UNKNOWN	Kügelein
+daraus	PAV	 daraus	daraus
+</seg>
+<seg type="newline">
+und	KON	 und	und
+bächts	NN	 UNKNOWN	bächts
+in	APPR	 in	in
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nicht	PTKNEG	 nicht	nicht
+zu	PTKA	 zu	zu
+heiß	ADJD	 heiß	heiß
+</seg>
+<seg type="newline">
+und	KON	 und	und
+soll	VMFIN	 sollen	soll
+man	PIS	 man	man
+die	ART	 d	die
+Pfanne	NN	 Pfanne	Pfanne
+allzeit	ADV	 allzeit	allzeit
+rütteln	VVFIN	 rütteln	rütteln
+</seg>
+<seg type="newline">
+damit	PAV	 damit	damit
+sie	PPER	 sie	sie
+aufgehen	VVFIN	 aufgehen	aufgehen
+</seg>
+<seg type="newline">
+also	ADV	 also	also
+auch	ADV	 auch	auch
+bey	NE	 Bey	bey
+andern	PIS	 ander	andern
+gebachens	VVPP	 UNKNOWN	gebachens
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+man	PIS	 man	man
+sie	PPER	 sie	sie
+aufgiebt	VVFIN	 UNKNOWN	aufgiebt
+</seg>
+<seg type="newline">
+werdens	NN	 Werden	werdens
+mit	APPR	 mit	mit
+Ingber	NN	 Ingwer	Ingwer
+bestreuet	VVINF	 bestreuen	bestreuen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Danckwerth_1729_24" collection="historical" source="Danckwerth" url="none" year="1729" decade="1720-1730" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1729:334]">
+<title>
+<seg type="newline">
+Frische	ADJA	 frisch	Frische
+Citronen=	NN	 UNKNOWN	Citronen=
+oder	KON	 oder	oder
+Pomerantzen=Blühte	NN	 UNKNOWN	Pomerantzen=Blühte
+einzumachen	VVIZU	 UNKNOWN	einzumachen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nehmet	NE	 Nehmet	Nehmet
+anderthalb	ADJA	 anderthalb	anderthalb
+Pfund	NN	 Pfund	Pfund
+Zucker	NN	 Zucker	Zucker
+in	APPR	 in	in
+einen	ART	 ein	einen
+Tiegel	NN	 Tiegel	Tiegel
+</seg>
+<seg type="newline">
+giesset	PDAT	 dies	diese
+ein	ART	 ein	ein
+Maaß	NN	 UNKNOWN	Maaß
+Aepffel=Safft	VVFIN	 UNKNOWN	Aepffel=Safft
+hinein	ADV	 hinein	hinein
+</seg>
+<seg type="newline">
+lasset	VVFIN	 lassen	lasset
+ihn	PPER	 er	ihn
+aufsieden	ADJD	 UNKNOWN	aufsieden
+</seg>
+<seg type="newline">
+hernach	ADV	 hernach	hernach
+thut	NE	 UNKNOWN	thue
+Citronen=	NN	 UNKNOWN	Citronen=
+oder	KON	 oder	oder
+Pomerantzen=Blühten	NN	 UNKNOWN	Pomerantzen=Blühten
+hinein	ADV	 hinein	hinein
+</seg>
+<seg type="newline">
+lasset	VVFIN	 lassen	lasset
+sie	PPER	 sie	sie
+so	ADV	 so	so
+lange	ADV	 lange	lange
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+bis	APPR	 bis	bis
+der	ART	 d	der
+Zucker	NN	 Zucker	Zucker
+so	ADV	 so	so
+dicke	ADJA	 dick	dicke
+wird	VAFIN	 werden	wird
+wie	KOKOM	 wie	wie
+Syrup	NE	 UNKNOWN	Syrup
+:	$.	:	$.	 :	|	:
+Ist	VAFIN	 sein	Ist
+solches	PIS	 solch	solches
+geschehen	VVPP	 geschehen	geschehen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+thut	VVFIN	 UNKNOWN	thue
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+dem	ART	 d	dem
+Safft	NE	 UNKNOWN	Safft
+in	APPR	 in	in
+ein	ART	 ein	ein
+Gefäß	NN	 Gefäß	Gefäß
+</seg>
+<seg type="newline">
+und	KON	 und	und
+verwahret	VVFIN	 UNKNOWN	verwahret
+sie	PPER	 sie	sie
+wohl	ADV	 wohl	wohl
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

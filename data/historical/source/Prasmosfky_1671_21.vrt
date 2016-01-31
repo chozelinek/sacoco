@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Prasmosfky_1671_21" collection="historical" source="Prasmosfky" url="none" year="1671" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Hecht|" method="|Limonie|" ref="[1671:80]">
+<title>
+<seg type="newline">
+[	$(	[	$(	 [	|	[
+241.	ADJA	 @ord@	241.
+Hecht	NN	 Hecht	Hecht
+in	APPR	 in	in
+Lemonien	NE	 UNKNOWN	Lemoni
+]	$(	]	$(	 ]	|	]
+Oder	KON	 oder	Oder
+:	$.	:	$.	 :	|	:
+</seg>
+</title>
+<body>
+<seg type="newline">
+Richte	VVFIN	 richten	Richte
+den	ART	 d	den
+Hecht	NN	 Hecht	Hecht
+zu	APPR	 zu	zu
+</seg>
+<seg type="newline">
+schneid	NN	 Schneid	schneid
+ihn	PPER	 er	ihn
+in	APPR	 in	in
+Stücke	NN	 Stück	Stücke
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+viel	ADV	 viel	viel
+du	PPER	 du	du
+wilt	VMFIN	 wollen	will
+</seg>
+<seg type="newline">
+wasch	VVIMP	 waschen	wasch
+sauber	ADJD	 sauber	sauber
+</seg>
+<seg type="newline">
+legs	VVFIN	 legen	legt
+ins	APPRART	 ins	ins
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+ein	PTKVZ	 ein	ein
+Weil	KON	 weil	Weil
+darinnen	VVFIN	 darinnen	darinnen
+ligen	ADJA	 UNKNOWN	ligen
+</seg>
+<seg type="newline">
+thue	NN	 UNKNOWN	thue
+ihn	PPER	 er	ihn
+hernach	ADV	 hernach	hernach
+in	APPR	 in	in
+eine	ART	 ein	eine
+Pfannen	NN	 Pfanne	Pfannen
+mit	APPR	 mit	mit
+Wein	NN	 Wein	Wein
+und	KON	 und	und
+Erbesbrühe	NN	 UNKNOWN	Erbesbrühe
+</seg>
+<seg type="newline">
+würtz	VVFIN	 würzen	würzt
+</seg>
+<seg type="newline">
+zuckers	NE	 UNKNOWN	zuckers
+</seg>
+<seg type="newline">
+machs	NE	 UNKNOWN	machs
+gelb	ADJD	 gelb	gelb
+</seg>
+<seg type="newline">
+und	KON	 und	und
+schneid	VVFIN	 schneiden	schneiden
+Lemonien	NE	 UNKNOWN	Lemoni
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+sieden	VVINF	 sieden	sieden
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

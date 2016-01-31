@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Danckwerth_1729_6" collection="historical" source="Danckwerth" url="none" year="1729" decade="1720-1730" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1729:81]">
+<title>
+<seg type="newline">
+38.	ADJA	 @ord@	38.
+Aale	NN	 Aal	Aale
+zu	PTKZU	 zu	zu
+braten	VVINF	 braten	braten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wenn	KOUS	 wenn	Wenn
+dem	ART	 d	dem
+Aale	NN	 Aal	Aale
+die	ART	 d	die
+Haut	NN	 Haut	Haut
+abgezogen	VVPP	 abziehen	abgezogen
+</seg>
+<seg type="newline">
+schneidet	VVFIN	 schneiden	schneidet
+man	PIS	 man	man
+ihn	PPER	 er	ihn
+in	APPR	 in	in
+Stücken	NN	 Stück	Stücken
+etwan	ADJA	 UNKNOWN	etwan
+Fingers=Länge	NN	 UNKNOWN	Fingers=Länge
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+ziehet	VVFIN	 zeihen|ziehen	ziehet
+man	PIS	 man	man
+Salveyen	NE	 UNKNOWN	Salveyen
+herdurch	ADV	 UNKNOWN	herdurch
+mit	APPR	 mit	mit
+einer	ART	 ein	einer
+Spicknadel	NN	 UNKNOWN	Spicknadel
+</seg>
+<seg type="newline">
+leget	ADJD	 UNKNOWN	leget
+ihn	PPER	 er	ihn
+auf	APPR	 auf	auf
+den	ART	 d	den
+Rost	NN	 Rost	Rost
+</seg>
+<seg type="newline">
+und	KON	 und	und
+läst	VVFIN	 UNKNOWN	läst
+ihn	PPER	 er	ihn
+mit	APPR	 mit	mit
+Saltz	NN	 Salz	Salz
+und	KON	 und	und
+Butter	NN	 Butter	Butter
+gahr	ADV	 gar	gar
+braten	VVINF	 braten	braten
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

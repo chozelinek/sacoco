@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Prasmosfky_1671_30" collection="historical" source="Prasmosfky" url="none" year="1671" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1671:183] [Buch einfach irgendwo aufgeschlagen]">
+<title>
+<seg type="newline">
+555.	ADJA	 @ord@	555.
+Reiß	ADJD	 heiß	heiß
+bachen	NN	 Kochen	Kochen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+ein	ART	 ein	ein
+wohlgekochten	ADJA	 UNKNOWN	wohlgekochten
+Reiß	ADJD	 heiß	heiß
+</seg>
+<seg type="newline">
+wolgeklopffte	ADJA	 UNKNOWN	wolgeklopffte
+Eyer	NE	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+und	KON	 und	und
+so	ADV	 so	so
+viel	PIAT	 viel	viel
+guter	ADJA	 gut	guter
+Milch	NN	 Milch	Milch
+</seg>
+<seg type="newline">
+rühr	VVIMP	 rühren	rühr
+den	PDS	 d	den
+Reiß	ADJD	 heiß	heiß
+damit	PAV	 damit	damit
+wohl	ADV	 wohl	wohl
+ab	PTKVZ	 ab	ab
+</seg>
+<seg type="newline">
+mach	VVIMP	 machen	mach
+ihn	PPER	 er	ihn
+wie	KOKOM	 wie	wie
+ein	ART	 ein	ein
+dicken	ADJA	 dick	dicken
+Strauben=Täig	NN	 UNKNOWN	Strauben=Täig
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+solchen	PIAT	 solch	solchen
+in	APPR	 in	in
+ein	ART	 ein	ein
+Tiegel	NN	 Tiegel	Tiegel
+</seg>
+<seg type="newline">
+gieß	VVIMP	 gießen	gieß
+heiß	ADJD	 heiß	heiß
+Schmaltz	NN	 Schmalz	Schmalz
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+ihn	PPER	 er	ihn
+also	ADV	 also	also
+bache	VVFIN	 UNKNOWN	bache
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

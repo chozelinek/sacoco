@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Buchinger_1700_12" collection="historical" source="Buchinger" url="none" year="1700" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:1f.]">
+<title>
+<seg type="newline">
+592.	ADJA	 @ord@	592.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Oder	KON	 oder	Oder
+man	PIS	 man	man
+kan	ADV	 nun	Nun
+solche	PIAT	 solch	solche
+Nudlen	NN	 UNKNOWN	Nudlen
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+sie	PPER	 sie	sie
+gesotten	VVPP	 sieden	gesotten
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+Schmaltz	NN	 Schmalz	Schmalz
+rösten	VVFIN	 rösten	rösten
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+guter	ADJA	 gut	guter
+frischer	ADJA	 frisch	frischer
+milch	NN	 Milch	milch
+kochen	VVINF	 kochen	kochen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+würtzen	ADJD	 UNKNOWN	würtzen
+mit	APPR	 mit	mit
+Saffran	NN	 Safran	Safran
+und	KON	 und	und
+Zimmet	NN	 Zimt	Zimt
+.	$.	.	$.	 .	|	.
+Man	PIS	 man	Man
+mag	VMFIN	 mögen	mag
+auch	ADV	 auch	auch
+Kuttelfleck	NN	 UNKNOWN	Kuttelfleck
+darauß	NN	 UNKNOWN	herauß
+machen	VVFIN	 machen	machen
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+gelben	ADJA	 gelb	gelben
+saurlechten	ADJA	 UNKNOWN	saurlechten
+Zwibel	NN	 UNKNOWN	Zwibel
+und	KON	 und	und
+mattenkümichbrühlin	ADJD	 UNKNOWN	mattenkümichbrühlin
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

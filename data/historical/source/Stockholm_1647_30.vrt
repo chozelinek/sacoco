@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Stockholm_1647_30" collection="historical" source="Stockholm" url="none" year="1647" decade="1640-1650" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1647:280]">
+<title>
+<seg type="newline">
+Schlickräppen	ADJA	 UNKNOWN	Schlickräppen
+Teig	NN	 Teig	Teig
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+In	APPR	 in	In
+Hüner	NN	 UNKNOWN	Hünern
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Rindtfleisch	NN	 UNKNOWN	Rindtfleisch
+Supfen	NN	 UNKNOWN	Supfen
+gekochet	ADJA	 UNKNOWN	gekochet
+</seg>
+<seg type="newline">
+wird	VAFIN	 werden	wird
+verfertiget	ADJD	 UNKNOWN	verfertiget
+von	APPR	 von	von
+Meel	NE	 UNKNOWN	Meel
+</seg>
+<seg type="newline">
+Eyer	NE	 UNKNOWN	Eyer
+vnd	KON	 und	und
+Saltz	NN	 Salz	Salz
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

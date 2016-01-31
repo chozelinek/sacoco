@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Osnabrueck_1687_3" collection="historical" source="Osnabrueck" url="none" year="1687" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1687:5]">
+<title>
+<seg type="newline">
+Allerhand	ADJD	 allerhand	Allerhand
+grün	ADJD	 grün	grün
+Kraut	NN	 Kraut	Kraut
+und	KON	 und	und
+Müsingen	NN	 UNKNOWN	Müsingen
+zu	PTKZU	 zu	zu
+bereiten	VVINF	 bereiten	bereiten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nehmet	VVFIN	 nehmen	Nehmet
+schön	ADJD	 schön	schön
+Brunnen=Wasser	NN	 UNKNOWN	Brunnen=Wasser
+</seg>
+<seg type="newline">
+etwas	ADV	 etwas	etwas
+altgebacken	ADJA	 UNKNOWN	altgebacken
+Weiß=Brod	NN	 UNKNOWN	Weiß=Brod
+</seg>
+<seg type="newline">
+hänget	VVFIN	 hängen	hänget
+es	PPER	 es	es
+übers	APPRART	 übers	übers
+Feuer	NN	 Feuer	Feuer
+</seg>
+<seg type="newline">
+und	KON	 und	und
+scherbt	VVFIN	 UNKNOWN	scherbt
+unterdessen	ADV	 unterdessen	unterdessen
+das	ART	 d	das
+grüne	ADJA	 grün	grüne
+Kraut	NN	 Kraut	Kraut
+</seg>
+<seg type="newline">
+als	KOKOM	 als	als
+Kerffel	NN	 UNKNOWN	Kerffel
+</seg>
+<seg type="newline">
+Bethe	NE	 UNKNOWN	Bethe
+</seg>
+<seg type="newline">
+Ochsen=Zung	NN	 UNKNOWN	Ochsen=Zung
+</seg>
+<seg type="newline">
+Borrage	NN	 UNKNOWN	Borrage
+</seg>
+<seg type="newline">
+die	ART	 d	die
+jungen	ADJA	 jung	jungen
+Blätter	NN	 Blatt	Blätter
+von	APPR	 von	von
+schwartzen	ADJA	 UNKNOWN	schwartzen
+Johannis=Beeren	NN	 UNKNOWN	Johannis=Beeren
+</seg>
+<seg type="newline">
+und	KON	 und	und
+Gold=Blumen=Blätter	NN	 UNKNOWN	Gold=Blumen=Blätter
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+Lauch	NN	 Lauch	Lauch
+</seg>
+<seg type="newline">
+Katzen-Nept	NN	 UNKNOWN	Katzen-Nept
+</seg>
+<seg type="newline">
+(	$(	(	$(	 (	|	(
+Nepta	NN	 UNKNOWN	Nepta
+)	$(	)	$(	 )	|	)
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Spinat	NN	 Spinat	Spinat
+und	KON	 und	und
+Sauerampff	NN	 UNKNOWN	Sauerampff
+</seg>
+<seg type="newline">
+wenn	KOUS	 wenn	wenn
+nun	ADV	 nun	nun
+das	ART	 d	das
+Wasser	NN	 Wasser	Wasser
+und	KON	 und	und
+Weiß=Brod	NN	 UNKNOWN	Weiß=Brod
+eine	ART	 ein	eine
+zeitlang	ADJD	 zeitlang	zeitlang
+gekocht	VVPP	 kochen	gekocht
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+daß	KOUS	 daß	daß
+das	ART	 d	das
+Brod	NN	 Brot	Brot
+zergangen	VVFIN	 UNKNOWN	zergangen
+</seg>
+<seg type="newline">
+thut	NE	 UNKNOWN	thue
+was	PIS	 was	was
+ihr	PPOSAT	 ihr	ihr
+von	APPR	 von	von
+gemeldten	ADJA	 UNKNOWN	gemeldten
+Kräutern	NN	 Kraut	Kräutern
+habt	VAFIN	 haben	habt
+mit	APPR	 mit	mit
+Butter	NN	 Butter	Butter
+und	KON	 und	und
+Saltz	NN	 Salz	Salz
+hinzu	PTKVZ	 hinzu	hinzu
+</seg>
+<seg type="newline">
+und	KON	 und	und
+last	VVFIN	 lesen	last
+es	PPER	 es	es
+gar	ADV	 gar	gar
+kochen	VVINF	 kochen	kochen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

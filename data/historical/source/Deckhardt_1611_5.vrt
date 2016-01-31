@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Deckhardt_1611_5" collection="historical" source="Deckhardt" url="none" year="1611" decade="1610-1620" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1611:37f.]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+gut	ADJD	 gut	gut
+gebratens	NN	 UNKNOWN	gebratens
+von	APPR	 von	von
+einem	ART	 ein	einem
+Rinde	NN	 Rinde	Rinde
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Ochsen	NN	 Ochse|Ochsen	Ochsen
+zumachen	VVFIN	 zumachen	zumachen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nim	VVFIN	 UNKNOWN	nimb
+den	ART	 d	den
+Lendbraten	NN	 UNKNOWN	Lendbraten
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+vier	CARD	 vier	vier
+Rieben	NN	 UNKNOWN	Rieben
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+aber	ADV	 aber	aber
+aus	APPR	 aus	aus
+der	ART	 d	der
+Keulen	NN	 Keule	Keulen
+</seg>
+<seg type="newline">
+wasche	VVFIN	 waschen	wasche
+es	PPER	 es	es
+erstlich	ADJD	 UNKNOWN	erstlich
+aus	APPR	 aus	aus
+einem	ART	 ein	einem
+wasser	VVIMP	 wassern	wasser
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+las	VVFIN	 lesen	las
+es	PPER	 es	es
+wol	PWAV	 wo	wo
+abseigen	ADJA	 UNKNOWN	abseigen
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+reibe	VVFIN	 reiben	reibe
+jhn	PPER	 er	ihn
+wol	PWAV	 wo	wo
+mit	APPR	 mit	mit
+saltze	ADJA	 kalt	kalten
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+lege	VVFIN	 legen	lege
+jhn	PPER	 er	ihn
+in	APPR	 in	in
+einen	ART	 ein	einen
+guten	ADJA	 gut	guten
+essig	NN	 Essig	essig
+</seg>
+<seg type="newline">
+setze	VVFIN	 setzen	setze
+jhn	PPER	 er	ihn
+an	APPR	 an	an
+einen	ART	 ein	einen
+külen	ADJA	 UNKNOWN	külen
+ort	ADJA	 UNKNOWN	ort
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+laß	ADJD	 laß	laß
+jhn	PPER	 er	ihn
+7	CARD	7	CARD	 7	|	7
+oder	KON	 oder	oder
+8	CARD	8	CARD	 8	|	8
+tage	VVFIN	 tagen	tage
+im	APPRART	 im	im
+Essige	NN	 UNKNOWN	Essige
+liegen	VVINF	 liegen	liegen
+</seg>
+<seg type="newline">
+wende	VVFIN	 wenden	wende
+jhn	PPER	 er	ihn
+aber	ADV	 aber	aber
+alle	PIS	 alle	alle
+tage	VVFIN	 tagen	tage
+einmal	ADV	 einmal	einmal
+vmb	ADJD	 UNKNOWN	vmb
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+stecke	VVFIN	 stecken	stecke
+jhn	PPER	 er	ihn
+an	APPR	 an	an
+einen	ART	 ein	einen
+Spieß	NN	 Spieß	Spieß
+</seg>
+<seg type="newline">
+betreuffe	VVFIN	 UNKNOWN	betrauffe
+jhn	PPER	 er	ihn
+offte	ADJD	 UNKNOWN	offte
+mit	APPR	 mit	mit
+warmer	ADJA	 warm	warmer
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+brate	VVFIN	 braten	brate
+jhn	PPER	 er	ihn
+langsam	ADJD	 langsam	langsam
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+wird	VAFIN	 werden	wird
+er	PPER	 er	er
+mürbe	ADJD	 mürbe	mürbe
+vnd	KON	 und	und
+gut	ADJD	 gut	gut
+</seg>
+<seg type="newline">
+besser	ADJD	 gut	besser
+als	KOKOM	 als	als
+ein	ART	 ein	ein
+Wiltpraten	NN	 UNKNOWN	Wiltpraten
+</seg>
+<seg type="newline">
+Man	PIS	 man	Man
+kan	ADV	 nun	Nun
+jhn	PPER	 er	ihn
+auch	ADV	 auch	auch
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+spicken	VVFIN	 spicken	spicken
+</seg>
+<seg type="newline">
+als	KOKOM	 als	als
+einen	ART	 ein	einen
+Wiltpraten	NN	 UNKNOWN	Wiltpraten
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+man	PIS	 man	man
+wil	VVFIN	 UNKNOWN	wil
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

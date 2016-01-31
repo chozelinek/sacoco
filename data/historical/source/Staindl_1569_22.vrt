@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Staindl_1569_22" collection="historical" source="Staindl" url="none" year="1569" decade="1560-1570" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[17v]">
+<title>
+<seg type="newline">
+Den	ART	 d	Den
+grad	NN	 Grad	grad
+von	APPR	 von	von
+einem	ART	 ein	einem
+Huochen	NN	 UNKNOWN	Huochen
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+sonst	ADV	 sonst	sonst
+ein	ART	 ein	ein
+grossen	ADJA	 groß	grossen
+Visch	NN	 UNKNOWN	Visch
+einzumachen	VVIZU	 UNKNOWN	einzumachen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+So	ADV	 so	So
+nimb	VVFIN	 UNKNOWN	nimb
+ein	ART	 ein	ein
+guoten	ADJA	 UNKNOWN	guoten
+wein	VVIMP	 weinen	wein
+</seg>
+<seg type="newline">
+halb	ADJD	 halb	halb
+süß	ADJD	 süß	süß
+</seg>
+<seg type="newline">
+hast	VAFIN	 haben	hast
+du	PPER	 du	du
+nicht	PTKNEG	 nicht	nicht
+süssen	ADJA	 süß	süssen
+wein	VVIMP	 weinen	wein
+so	ADV	 so	so
+nimb	ADJA	 UNKNOWN	nimb
+zucker	VVIMP	 zuckern	zucker
+</seg>
+<seg type="newline">
+gilbs	NN	 UNKNOWN	gilbs
+gar	ADV	 gar	gar
+wol	PWAV	 wo	wo
+hack	VVIMP	 hacken	hack
+etlich	NN	 Rettich	Rettich
+zwiffel	NN	 UNKNOWN	zwiffel
+</seg>
+<seg type="newline">
+vnein	ADJD	 UNKNOWN	vnein
+oder	KON	 oder	oder
+zwen	VVFIN	 UNKNOWN	zwen
+geschelte	ADJD	 gescheit	gescheit
+öpffel	NN	 UNKNOWN	öpffel
+auch	ADV	 auch	auch
+gar	ADV	 gar	gar
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+wirffs	NN	 UNKNOWN	wirffs
+in	APPR	 in	in
+das	ART	 d	das
+gilbt	ADJA	 UNKNOWN	gilbt
+süpplin	NN	 UNKNOWN	süpplin
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+also	ADV	 also	also
+lang	ADJD	 lang	lang
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+thuo	NE	 UNKNOWN	thue
+Muscatblü	NN	 UNKNOWN	Muscatenblüh
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+guots	ADJA	 UNKNOWN	guots
+gewürtz	NN	 UNKNOWN	Gewürtz
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+der	ART	 d	der
+visch	ADJD	 UNKNOWN	visch
+schier	ADJD	 schier	schier
+an	APPR	 an	an
+die	ART	 d	die
+stat	NN	 UNKNOWN	stat
+gesotten	VVPP	 sieden	gesotten
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+laß	ADJD	 laß	laß
+jhn	PPER	 er	ihn
+auch	ADV	 auch	auch
+ein	ART	 ein	ein
+sudt	NE	 UNKNOWN	sudt
+im	APPRART	 im	im
+süpplin	ADJA	 UNKNOWN	süpplin
+thuon	NN	 UNKNOWN	thuon
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Keyl_1705_1" collection="historical" source="Keyl" url="none" year="1705" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1705:85]">
+<title>
+<seg type="newline">
+Eine	ART	 ein	Eine
+Wasser=Suppe	NN	 UNKNOWN	Wasser=Suppe
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Das	ART	 d	Das
+Wasser	NN	 Wasser	Wasser
+läst	VVFIN	 UNKNOWN	läst
+man	PIS	 man	man
+zuvor	ADV	 zuvor	zuvor
+aufkochen	VVFIN	 aufkochen	aufkochen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+lang	ADJD	 lang	lang
+als	KOKOM	 als	als
+man	PIS	 man	man
+haben	VAINF	 haben	haben
+will	VMFIN	 wollen	will
+</seg>
+<seg type="newline">
+einen	ART	 ein	einen
+sechs=Pfennig=Topff	ADJA	 UNKNOWN	sechs=Pfennig=Topff
+voll	ADJD	 voll	voll
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+Ey	NE	 Ey	Ey
+oder	KON	 oder	oder
+drey	CARD	 drei	drei
+</seg>
+<seg type="newline">
+schlage	VVFIN	 schlagen	schlage
+man	PIS	 man	man
+klein	ADJD	 klein	klein
+mit	APPR	 mit	mit
+Muscaten=Blumen	NN	 UNKNOWN	Muscaten=Blumen
+</seg>
+<seg type="newline">
+frischer	ADJA	 frisch	frischer
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+Petrosilien	NN	 UNKNOWN	Petrosilien
+darein	ADV	 darein	darein
+gehacket	VVFIN	 UNKNOWN	gehacket
+</seg>
+<seg type="newline">
+geuß	NN	 UNKNOWN	geuß
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+kalt	ADJD	 kalt	kalt
+Wasser	NN	 Wasser	Wasser
+zu	APPR	 zu	zu
+den	ART	 d	den
+Eyern	NN	 UNKNOWN	Eyern
+ein	PTKVZ	 ein	ein
+</seg>
+<seg type="newline">
+schlage	VVFIN	 schlagen	schlage
+sie	PPER	 sie	sie
+damit	PAV	 damit	damit
+durch	PTKVZ	 durch	durch
+</seg>
+<seg type="newline">
+rühre	VVFIN	 rühren	rühre
+es	PPER	 es	es
+denn	ADV	 denn	denn
+in	APPR	 in	in
+das	ART	 d	das
+gekochte	ADJA	 gekocht	gekochte
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+und	KON	 und	und
+Semmel	NN	 Semmel	Semmel
+darein	ADV	 darein	darein
+geschnitten	VVPP	 schneiden	geschnitten
+.	$.	.	$.	 .	|	.
+NB	NE	 NB	NB
+.	$.	.	$.	 .	|	.
+Man	PIS	 man	Man
+kan	ADV	 nun	Nun
+auch	ADV	 auch	auch
+in	APPR	 in	in
+Suppen	NN	 Suppe	Suppen
+verlohren	VVFIN	 UNKNOWN	verlohren
+Eyer	NE	 UNKNOWN	Eyer
+machen	VVFIN	 machen	machen
+also	ADV	 also	also
+:	$.	:	$.	 :	|	:
+Schlage	NN	 Schlag	Schlage
+die	ART	 d	die
+Eyer=Dotter	NN	 UNKNOWN	Eyer=Dotter
+in	APPR	 in	in
+ein	ART	 ein	ein
+langsam	ADJD	 langsam	langsam
+siedendes	ADJA	 siedend	siedendem
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+nimm	VVIMP	 nehmen	nimm
+sie	PPER	 sie	sie
+(	$(	(	$(	 (	|	(
+wenn	KOUS	 wenn	wenn
+sie	PPER	 sie	sie
+gar	ADV	 gar	gar
+seyn	ADJD	 UNKNOWN	seyn
+)	$(	)	$(	 )	|	)
+heraus	ADV	 heraus	heraus
+</seg>
+<seg type="newline">
+setze	VVFIN	 setzen	setze
+auf	APPR	 auf	auf
+ein	ART	 ein	ein
+iedes	NN	 UNKNOWN	iedes
+gebratenes	ADJA	 gebraten	gebratenes
+Stück=Brod	NN	 UNKNOWN	Stück=Brod
+ein	ART	 ein	ein
+Ey	NE	 Ey	Ey
+</seg>
+<seg type="newline">
+und	KON	 und	und
+geuß	NN	 UNKNOWN	geuß
+denn	KON	 denn	denn
+vorgedachte	ADJA	 vorgedacht	vorgedachte
+Suppe	NN	 Suppe	Suppe
+drüber	PTKVZ	 drüber	drüber
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

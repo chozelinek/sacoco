@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Staindl_1569_30" collection="historical" source="Staindl" url="none" year="1569" decade="1560-1570" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[2[5]v]">
+<title>
+<seg type="newline">
+Mandel	NN	 Mandel	Mandel
+formmacht	VVFIN	 UNKNOWN	formmacht
+man	PIS	 man	man
+also	ADV	 also	also
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Die	ART	 d	Die
+mandel	ADJA	 UNKNOWN	mandel
+form	VVIMP	 formen	form
+</seg>
+<seg type="newline">
+es	PPER	 es	es
+sey	NE	 UNKNOWN	sey
+was	PIS	 was	was
+wöll	VVFIN	 UNKNOWN	wöll
+</seg>
+<seg type="newline">
+die	ART	 d	die
+macht	VVFIN	 machen	macht
+man	PIS	 man	man
+also+	ADJD	 UNKNOWN	also+
+Die	ART	 d	Die
+Mandel	NN	 Mandel	Mandel
+vberstoß	VVFIN	 UNKNOWN	vberstoß
+</seg>
+<seg type="newline">
+aber	KON	 aber	aber
+stoß	VVIMP	 stoßen	stoß
+in	APPR	 in	in
+eim	ADJA	 UNKNOWN	nimb
+Mörser	NN	 Mörser	Mörser
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+so	ADV	 so	so
+nims	NN	 UNKNOWN	nims
+in	APPR	 in	in
+ein	ART	 ein	ein
+reibscherbe	NN	 UNKNOWN	reibscherbe
+</seg>
+<seg type="newline">
+dz	NE	 UNKNOWN	dz
+gantz	ADV	 ganz	ganz
+wie	KOKOM	 wie	wie
+ein	ART	 ein	ein
+dicker	ADJA	 dick	dicker
+teig	ADJA	 UNKNOWN	teig
+wirt	NN	 Wirt	wirt
+</seg>
+<seg type="newline">
+muoß	VVFIN	 UNKNOWN	muoß
+jmmer	ADV	 immer	immer
+ein	PTKVZ	 ein	ein
+wasser	VVIMP	 wassern	wasser
+zu	PTKZU	 zu	zu
+tröpflen	VVINF	 UNKNOWN	tröpflen
+</seg>
+<seg type="newline">
+reibs	VVFIN	 reiben	reiben
+so	ADV	 so	so
+lang	ADJD	 lang	lang
+biß	VVFIN	 beißen	biß
+es	PPER	 es	es
+sich	PRF	 er|es|sie	sich
+zusamen	ADJA	 UNKNOWN	zusamen
+last	VVFIN	 lesen	last
+pallen	ADJD	 UNKNOWN	pallen
+</seg>
+<seg type="newline">
+solch	PIAT	 solch	solch
+pallen	NN	 UNKNOWN	pallen
+magst	VMFIN	 mögen	magst
+acht	CARD	 acht	acht
+tag	VVIMP	 tagen	tag
+behalten	VVFIN	 behalten	behalten
+zu	APPR	 zu	zu
+mandelsuppen	NN	 UNKNOWN	mandelsuppen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nimb	ADJA	 UNKNOWN	nimb
+dieselbigen	ADJA	 UNKNOWN	dieselbigen
+getriben	ADJA	 UNKNOWN	getriben
+mandel	ADJA	 UNKNOWN	mandel
+</seg>
+<seg type="newline">
+treibs	NN	 Kreis	Kreis
+mit	PTKVZ	 mit	mit
+wasser	VVIMP	 wassern	wasser
+ab	PTKVZ	 ab	ab
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+seüchs	NN	 UNKNOWN	seüchs
+</seg>
+<seg type="newline">
+mach	VVIMP	 machen	mach
+also	ADV	 also	also
+ein	ART	 ein	ein
+milch	NN	 Milch	milch
+</seg>
+<seg type="newline">
+Aber	KON	 aber	Aber
+so	ADV	 so	so
+die	ART	 d	die
+Mandelmilch	NN	 Mandelmilch	Mandelmilch
+zu	APPR	 zu	zu
+einem	ART	 ein	einem
+formwilt	NE	 UNKNOWN	formwilt
+machen	VVINF	 machen	machen
+</seg>
+<seg type="newline">
+treib	VVIMP	 treiben	treib
+es	PPER	 es	es
+mit	PTKVZ	 mit	mit
+wasser	VVIMP	 wassern	wasser
+</seg>
+<seg type="newline">
+darinn	ADJA	 UNKNOWN	darinn
+Hausenblater	NN	 UNKNOWN	Hausenblater
+gesotten	VVPP	 sieden	gesotten
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+streichs	NE	 UNKNOWN	streichs
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+tuoch	ADJA	 UNKNOWN	tuoch
+</seg>
+<seg type="newline">
+manmuoß	NN	 UNKNOWN	manmuoß
+auff	APPR	 auf	auf
+ein	ART	 ein	ein
+halb	ADJD	 halb	halb
+pfund	ADJA	 UNKNOWN	pfund
+mandel	NN	 Mandel	mandel
+</seg>
+<seg type="newline">
+vier	CARD	 vier	vier
+lot	NN	 Lot	lot
+Hausenblatern	NN	 UNKNOWN	Hausenblatern
+nemen	VVINF	 UNKNOWN	nemen
+.	$.	.	$.	 .	|	.
+Danso	ADV	 UNKNOWN	Danso
+du	PPER	 du	du
+es	PPER	 es	es
+gestrichen	ADJD	 gestrichen	gestrichen
+hast	VAFIN	 haben	hast
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+geüß	ADJD	 UNKNOWN	geüß
+das	ART	 d	das
+Hausenblater	NN	 UNKNOWN	Hausenblater
+wasser	VVIMP	 wassern	wasser
+in	APPR	 in	in
+die	ART	 d	die
+mandelmilch	NN	 Mandelmilch	mandelmilch
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+seüds	VVFIN	 UNKNOWN	seüds
+lang	ADJD	 lang	lang
+</seg>
+<seg type="newline">
+muost	VVFIN	 UNKNOWN	muost
+vil	PIS	 viel	viel
+zucker	VVIMP	 zuckern	zucker
+darinversieden	ADJD	 UNKNOWN	darinversieden
+</seg>
+<seg type="newline">
+man	PIS	 man	man
+muoß	VVFIN	 UNKNOWN	muoß
+lang	ADJD	 lang	lang
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+So	ADV	 so	So
+es	PPER	 es	es
+gesotten	VVPP	 sieden	gesotten
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+thuos	ADJD	 UNKNOWN	thuos
+in	APPR	 in	in
+ein	ART	 ein	ein
+kessel	VVIMP	 kesseln	kessel
+herdan	NE	 UNKNOWN	herdan
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+wol	PWAV	 wo	wo
+vberkülen	VVPP	 UNKNOWN	vberkülen
+</seg>
+<seg type="newline">
+hab	VAIMP	 haben	hab
+ich	PPER	 ich	ich
+gesehen	VVPP	 sehen	gesehen
+</seg>
+<seg type="newline">
+Danso	ADV	 UNKNOWN	Danso
+sihe	VVFIN	 UNKNOWN	sihe
+du	PPER	 du	du
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+du	PPER	 du	du
+ein	PTKVZ	 ein	ein
+model	VVIMP	 modeln	model
+habst	VVFIN	 UNKNOWN	habst
+</seg>
+<seg type="newline">
+von	APPR	 von	von
+wachs	VVIMP	 wachsen	wachs
+abgetruckt	VVPP	 UNKNOWN	abgetruckt
+</seg>
+<seg type="newline">
+müssen	VMFIN	 müssen	müssen
+zwey	CARD	 zwei	zwei
+theil	NN	 UNKNOWN	theil
+sein	VAINF	 sein	sein
+</seg>
+<seg type="newline">
+die	ART	 d	die
+salb	NN	 UNKNOWN	salb
+mit	APPR	 mit	mit
+Mandelöl	NN	 Mandelöl	Mandelöl
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+bind	VAFIN	 sein	sind
+die	ART	 d	die
+selbigen	ADJA	 UNKNOWN	selbigen
+zwey	CARD	 zwei	zwei
+theil	NN	 UNKNOWN	theil
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Spaga	NN	 UNKNOWN	Spaga
+zusamen	ADJA	 UNKNOWN	zusamen
+</seg>
+<seg type="newline">
+kere	NN	 UNKNOWN	kere
+das	ART	 d	das
+obertheil	ADJA	 UNKNOWN	obertheil
+vndersich	NN	 UNKNOWN	vndersich
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+muost	VVFIN	 UNKNOWN	muost
+ein	ART	 ein	ein
+plechene	ADJA	 UNKNOWN	plechene
+scheyben	NN	 UNKNOWN	scheyben
+haben	VAFIN	 haben	haben
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+in	APPR	 in	in
+der	ART	 d	der
+mitte	NN	 Mitte	mitte
+ein	ART	 ein	ein
+rörlein	NN	 UNKNOWN	rörlein
+hat	VAFIN	 haben	hat
+</seg>
+<seg type="newline">
+So	ADV	 so	So
+du	PPER	 du	du
+nun	ADV	 nun	nun
+die	ART	 d	die
+Mandel	NN	 Mandel	Mandel
+in	APPR	 in	in
+die	ART	 d	die
+formgeüßt	ADJD	 UNKNOWN	formgeüßt
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+steck	VVIMP	 stecken	steck
+das	ART	 d	das
+rörlin	NE	 UNKNOWN	rörlin
+in	APPR	 in	in
+die	ART	 d	die
+form	VVIMP	 formen	form
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+nur	ADV	 nur	nur
+souil	NE	 UNKNOWN	souil
+als	KOKOM	 als	als
+Visch	ADJD	 UNKNOWN	Visch
+weiß	ADJD	 weiß	weiß
+gestehe	VVFIN	 gestehen	gestehe
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+du	PPER	 du	du
+es	PPER	 es	es
+in	APPR	 in	in
+die	ART	 d	die
+scheiben	NN	 Scheibe	Scheiben
+steckest	VVFIN	 UNKNOWN	steckest
+</seg>
+<seg type="newline">
+es	PPER	 es	es
+fiel	VVFIN	 fallen	fiel
+sonst	ADV	 sonst	sonst
+auß	VMFIN	 müssen	muß
+der	ART	 d	der
+schüssel	NN	 Schüssel	schüssel
+vmb	VVFIN	 UNKNOWN	vmb
+.	$.	.	$.	 .	|	.
+So	ADV	 so	So
+es	PPER	 es	es
+nur	ADV	 nur	nur
+gestanden	VVPP	 gestehen|stehen	gestanden
+st	VVFIN	 UNKNOWN	st
+in	APPR	 in	in
+dem	ART	 d	dem
+wächsin	ADJA	 UNKNOWN	wächsin
+model	VVIMP	 modeln	model
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+laß	ADJD	 laß	laß
+den	ART	 d	den
+Spaga	NN	 UNKNOWN	Spaga
+auff	PTKVZ	 auf	auf
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+hebs	NN	 UNKNOWN	hebs
+in	APPR	 in	in
+ein	ART	 ein	ein
+warm	ADJD	 warm	warm
+wasser	VVIMP	 wassern	wasser
+</seg>
+<seg type="newline">
+ob	KOUS	 ob	ob
+es	PPER	 es	es
+sonst	ADV	 sonst	sonst
+nit	VVFIN	 UNKNOWN	nimb
+gern	ADV	 gern	gern
+gehn	ADJA	 UNKNOWN	gehn
+wolt	ADJA	 UNKNOWN	wolt
+</seg>
+<seg type="newline">
+setz	VVIMP	 setzen	setz
+danauff	NN	 UNKNOWN	danauff
+ein	ART	 ein	ein
+schüssel	NN	 Schüssel	schüssel
+</seg>
+<seg type="newline">
+man	PIS	 man	man
+mags	NN	 Lage	Lage
+vergulden	NN	 UNKNOWN	vergulden
+</seg>
+<seg type="newline">
+setz	VVIMP	 setzen	setz
+in	APPR	 in	in
+ein	ART	 ein	ein
+küle	VVFIN	 füllen	füllen
+stat	NN	 UNKNOWN	stat
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+nicht	PTKNEG	 nicht	nicht
+zugehe	VVFIN	 zugehen	zugehe
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+mans	VMFIN	 mögen	mag
+auff	APPR	 auf	auf
+den	ART	 d	den
+Tisch	NN	 Tisch	Tisch
+will	VMFIN	 wollen	will
+geben	VVFIN	 geben	geben
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+muost	VVFIN	 UNKNOWN	muost
+ein	ART	 ein	ein
+kalte	ADJA	 kalt	kalte
+Mandelmilch	NN	 Mandelmilch	Mandelmilch
+(	$(	(	$(	 (	|	(
+darff	ADJA	 UNKNOWN	darff
+nit	NN	 UNKNOWN	nimb
+mit	APPR	 mit	mit
+Hausenblatern	NN	 UNKNOWN	Hausenblatern
+gesotten	VVPP	 sieden	gesotten
+werden	VAINF	 werden	werden
+)	$(	)	$(	 )	|	)
+in	APPR	 in	in
+die	ART	 d	die
+schüssel	NN	 Schüssel	schüssel
+</seg>
+<seg type="newline">
+darinn	NN	 UNKNOWN	darinn
+die	ART	 d	die
+mandelmodel	NN	 UNKNOWN	mandelmodel
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+giessen	VVFIN	 gießen	giessen
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+der	ART	 d	der
+mandel	NN	 Mandel	mandel
+aller	PIAT	 alle	aller
+auß	VMFIN	 müssen	muß
+geht	VVFIN	 gehen	geht
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+ist	VAFIN	 sein	ist
+ein	ART	 ein	ein
+höflich	ADJD	 höflich	höflich
+essen	VVINF	 essen	essen
+</seg>
+<seg type="newline">
+heissen	VVINF	 heißen	heissen
+beschawessen	VVINF	 UNKNOWN	beschawessen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

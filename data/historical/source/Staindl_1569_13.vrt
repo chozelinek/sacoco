@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Staindl_1569_13" collection="historical" source="Staindl" url="none" year="1569" decade="1560-1570" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[30v]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+guots	NN	 UNKNOWN	guots
+essen	VVFIN	 essen	essen
+von	APPR	 von	von
+Kapponen	NN	 UNKNOWN	Kapponen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimb	VVFIN	 UNKNOWN	nimb
+ein	ART	 ein	ein
+Kappon	NN	 UNKNOWN	Kappon
+</seg>
+<seg type="newline">
+vberbrü	NE	 UNKNOWN	vberbrü
+jn	NE	 UNKNOWN	jn
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+saltz	ADJA	 kalt	kalten
+jn	NE	 UNKNOWN	jn
+</seg>
+<seg type="newline">
+steck	VVIMP	 stecken	steck
+jn	NE	 UNKNOWN	jn
+an	APPR	 an	an
+ein	ART	 ein	ein
+spieß	VVIMP	 spießen	spieß
+</seg>
+<seg type="newline">
+brat	VVFIN	 UNKNOWN	brat
+jhn	PPER	 er	ihn
+</seg>
+<seg type="newline">
+nimb	ADJD	 UNKNOWN	nimb
+dann	ADV	 dann	dann
+ein	ART	 ein	ein
+halb	ADJD	 halb	halb
+pfund	ADJA	 UNKNOWN	pfund
+Mandelkern	NN	 Mandelkern	Mandelkern
+</seg>
+<seg type="newline">
+stoß	VVIMP	 stoßen	stoß
+sie	PPER	 sie	sie
+auch	ADV	 auch	auch
+</seg>
+<seg type="newline">
+mach	VVIMP	 machen	mach
+ein	ART	 ein	ein
+dick	ADJD	 dick	dick
+milch	ADJA	 UNKNOWN	milch
+darauf	PAV	 darauf	darauf
+</seg>
+<seg type="newline">
+nimb	VVFIN	 UNKNOWN	nimb
+den	ART	 d	den
+Kapponen	NN	 UNKNOWN	Kapponen
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+das	PDS	 d	das
+brät	VVFIN	 braten	brät
+gar	ADV	 gar	gar
+daruon	ADJA	 UNKNOWN	daruon
+thuon	NN	 UNKNOWN	thuon
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+die	PDS	 d	die
+haut	VVFIN	 hauen	haut
+nicht	PTKNEG	 nicht	nicht
+darbey	PAV	 dabei	dabei
+sey	NE	 UNKNOWN	sey
+</seg>
+<seg type="newline">
+zerreiß	ADJD	 UNKNOWN	zerreiß
+das	PDS	 d	das
+brät	VVFIN	 braten	brät
+gar	ADV	 gar	gar
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+nicht	PTKNEG	 nicht	nicht
+zulang	VVINF	 UNKNOWN	zulang
+</seg>
+<seg type="newline">
+nimb	VVFIN	 UNKNOWN	nimb
+ein	ART	 ein	ein
+reißmeel	ADJA	 UNKNOWN	reißmeel
+</seg>
+<seg type="newline">
+thuo	NN	 UNKNOWN	thue
+es	PPER	 es	es
+vnter	ADJD	 UNKNOWN	vnter
+das	PDS	 d	das
+brät	VVFIN	 braten	brät
+</seg>
+<seg type="newline">
+machs	NE	 UNKNOWN	machs
+ab	PTKVZ	 ab	ab
+mit	APPR	 mit	mit
+gewürtz	NN	 UNKNOWN	Gewürtz
+vnnd	KON	 und	und
+zucker	VVIMP	 zuckern	zucker
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+in	APPR	 in	in
+der	ART	 d	der
+Mandelmilch	NN	 Mandelmilch	Mandelmilch
+sieden	VVINF	 sieden	sieden
+biß	VVFIN	 beißen	biß
+trucken	ADJA	 UNKNOWN	trucken
+wirt	NN	 Wirt	wirt
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+wider	APPR	 wider	wider
+schmaltz	NE	 UNKNOWN	schmaltz
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+ist	VAFIN	 sein	ist
+es	PPER	 es	es
+bereyt	ADV	 bereits	bereits
+.	$.	.	$.	 .	|	.
+Man	PIS	 man	Man
+nimpt	VVFIN	 UNKNOWN	nimpt
+sonst	ADV	 sonst	sonst
+ein	ART	 ein	ein
+weiß	ADJD	 weiß	weiß
+brät	VVFIN	 braten	brät
+von	APPR	 von	von
+Kapponen	NN	 UNKNOWN	Kapponen
+die	PDS	 d	die
+gebraten	VVPP	 braten	gebraten
+seind	VAFIN	 sein	sind
+</seg>
+<seg type="newline">
+schneids	VVFIN	 schneiden	schneiden
+gewürflet	ADJD	 UNKNOWN	gewürflet
+</seg>
+<seg type="newline">
+nur	ADV	 nur	nur
+das	ART	 d	das
+weiß	ADJD	 weiß	weiß
+</seg>
+<seg type="newline">
+nimb	ADJA	 UNKNOWN	nimb
+</seg>
+<seg type="newline">
+stoß	VVIMP	 stoßen	stoß
+dann	ADV	 dann	dann
+in	APPR	 in	in
+eim	NE	 UNKNOWN	nimb
+mörser	VVFIN	 UNKNOWN	mörser
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+stoß	VVIMP	 stoßen	stoß
+ein	ART	 ein	ein
+Reiß	ADJD	 heiß	heiß
+zu	APPR	 zu	zu
+meel	ADJA	 UNKNOWN	meel
+</seg>
+<seg type="newline">
+nimb	NN	 UNKNOWN	nimb
+ein	ART	 ein	ein
+guote	ADJA	 UNKNOWN	guote
+dicke	ADJA	 dick	dicke
+Mandelmilch	NN	 Mandelmilch	Mandelmilch
+</seg>
+<seg type="newline">
+nimb	ADJD	 UNKNOWN	nimb
+das	PDS	 d	das
+gestossen	VVPP	 stoßen	gestossen
+brät	VVFIN	 braten	brät
+</seg>
+<seg type="newline">
+thuo	NE	 UNKNOWN	thue
+es	PPER	 es	es
+in	APPR	 in	in
+die	ART	 d	die
+Mandelmilch	NN	 Mandelmilch	Mandelmilch
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+machs	NN	 UNKNOWN	machs
+dünn	ADJD	 dünn	dünn
+</seg>
+<seg type="newline">
+nimb	VVFIN	 UNKNOWN	nimb
+ein	ART	 ein	ein
+Reißmeel	ADJA	 UNKNOWN	Reißmeel
+</seg>
+<seg type="newline">
+kochs	NN	 Koch	kochs
+auch	ADV	 auch	auch
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+zuckers	NN	 Zucker	zuckers
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+sieden	VVFIN	 sieden	sieden
+als	KOKOM	 als	als
+lang	ADJD	 lang	lang
+als	KOKOM	 als	als
+dich	PPER	 du	dich
+zimpt	ADJD	 UNKNOWN	zimpt
+es	PPER	 es	es
+sey	NE	 UNKNOWN	sey
+genuog	VVFIN	 UNKNOWN	genuog
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+gibs	NN	 UNKNOWN	gilbs
+für	APPR	 für	für
+ein	ART	 ein	ein
+gemüß	ADJA	 UNKNOWN	gemüß
+</seg>
+<seg type="newline">
+thuo	NN	 UNKNOWN	thue
+ein	PTKVZ	 ein	ein
+Trieget	VVINF	 kriegen	kriegen
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+ein	ART	 ein	ein
+guots	ADJA	 UNKNOWN	guots
+linds	NN	 UNKNOWN	linds
+süpplin	ADJD	 UNKNOWN	süpplin
+darauff	PAV	 drauf	drauf
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

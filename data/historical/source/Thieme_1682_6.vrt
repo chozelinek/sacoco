@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Thieme_1682_6" collection="historical" source="Thieme" url="none" year="1682" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[857]">
+<title>
+<seg type="newline">
+Prieslein	NN	 UNKNOWN	Prieslein
+aus	APPR	 aus	aus
+Kalbfleisch	NN	 Kalbfleisch	Kalbfleisch
+zu	PTKZU	 zu	zu
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nehmet	NE	 Nehmet	Nehmet
+Kalbsfleisch	NN	 Kalbfleisch	Kalbfleisch
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+fein	ADJD	 fein	fein
+brätig	ADJD	 UNKNOWN	brätig
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+schneidets	NN	 UNKNOWN	schneidets
+zu	APPR	 zu	zu
+Stücklein	NN	 Stücklein	Stücklein
+gleich	APPR	 gleich	gleich
+einer	ART	 ein	einer
+Wurst	NN	 Wurst	Wurst
+ohngefehr	ADJA	 UNKNOWN	ohngefehr
+</seg>
+<seg type="newline">
+schlagets	NN	 UNKNOWN	schlagets
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+breiten	ADJA	 breit	breiten
+Messer	NN	 Messer	Messer
+wol	PWAV	 wo	wo
+an	APPR	 an	an
+beyden	ADJA	 UNKNOWN	beyden
+Seiten	NN	 Seite	Seiten
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+es	PPER	 es	es
+fein	ADJD	 fein	fein
+mürb	ADJD	 mürb	mürb
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+daranach	NE	 UNKNOWN	daranach
+thut	NE	 UNKNOWN	thue
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Ingber	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Salbey	NE	 UNKNOWN	Salbey
+und	KON	 und	und
+Majoran	NN	 Majoran	Majoran
+darauf	PAV	 darauf	darauf
+;	$.	;	$.	 ;	|	;
+ferner	ADJD	 fern	ferner
+nehmet	VVFIN	 nehmen	nehmet
+Ochsen=Fett	NN	 UNKNOWN	Ochsen=Fett
+</seg>
+<seg type="newline">
+schneidets	ADJD	 UNKNOWN	schneidets
+lang	ADJD	 lang	lang
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+Speck	NN	 Speck	Speck
+</seg>
+<seg type="newline">
+legts	VVFIN	 legen	legt
+darauf	PAV	 darauf	darauf
+</seg>
+<seg type="newline">
+steckets	NN	 UNKNOWN	steckets
+an	APPR	 an	an
+ein	ART	 ein	ein
+Spieslein	NN	 UNKNOWN	Spieslein
+</seg>
+<seg type="newline">
+lassets	ADJD	 UNKNOWN	lässets
+eine	PIS	 ein	eine
+weile	VVFIN	 weilen	weile
+braten	VVFIN	 braten	braten
+</seg>
+<seg type="newline">
+betreiffts	NN	 UNKNOWN	betreiffts
+mit	APPR	 mit	mit
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+ihrs	PPOSS	 ihr	ihrs
+wollt	VMFIN	 wollen	wollt
+anrichten	VVFIN	 anrichten	anrichten
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+giesset	PDS	 dies	diese
+das	ART	 d	das
+Abgetropffte	NN	 UNKNOWN	Abgetropffte
+darüber	PAV	 darüber	darüber
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

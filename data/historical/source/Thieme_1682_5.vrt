@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Thieme_1682_5" collection="historical" source="Thieme" url="none" year="1682" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[851]">
+<title>
+<seg type="newline">
+Prieslein	NN	 UNKNOWN	Prieslein
+zu	APPR	 zu	zu
+bachen	NN	 Kochen	Kochen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Siedet	VVFIN	 sieden	Siedet
+die	ART	 d	die
+Prieslein	NN	 UNKNOWN	Prieslein
+</seg>
+<seg type="newline">
+wanns	NE	 UNKNOWN	wanns
+gesotten	VVPP	 sieden	gesotten
+</seg>
+<seg type="newline">
+schneidet	VVFIN	 schneiden	schneidet
+Blätzlein	NN	 UNKNOWN	Blätzlein
+daraus	PAV	 daraus	daraus
+</seg>
+<seg type="newline">
+röstets	NN	 UNKNOWN	rösts
+im	APPRART	 im	im
+Schmalz	NN	 Schmalz	Schmalz
+</seg>
+<seg type="newline">
+und	KON	 und	und
+legts	VVFIN	 legen	legt
+in	APPR	 in	in
+eine	ART	 ein	eine
+Schüssel	NN	 Schüssel	Schüssel
+</seg>
+<seg type="newline">
+hernach	ADV	 hernach	hernach
+thut	NE	 UNKNOWN	thue
+Wein=Essig	NN	 UNKNOWN	Wein=Essig
+</seg>
+<seg type="newline">
+Fleischbrühe	NN	 Fleischbrühe	Fleischbrühe
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Muscaten=Blühe	VVFIN	 UNKNOWN	Muscaten=Blühe
+</seg>
+<seg type="newline">
+Rosmarin	NN	 Rosmarin	Rosmarin
+</seg>
+<seg type="newline">
+Majoran	NN	 Majoran	Majoran
+</seg>
+<seg type="newline">
+und	KON	 und	und
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Saffran	NN	 Safran	Safran
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+setzts	VVFIN	 UNKNOWN	setzts
+auf	APPR	 auf	auf
+ein	ART	 ein	ein
+Kohl=Feuer	NN	 UNKNOWN	Kohl=Feuer
+</seg>
+<seg type="newline">
+lassets	VVFIN	 UNKNOWN	lässets
+also	ADV	 also	also
+einpregeln	VVFIN	 UNKNOWN	einpregeln
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+sie	PPER	 sie	sie
+gar	ADV	 gar	gar
+werden	VAINF	 werden	werden
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

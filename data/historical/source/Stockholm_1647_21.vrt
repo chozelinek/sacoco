@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Stockholm_1647_21" collection="historical" source="Stockholm" url="none" year="1647" decade="1640-1650" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1647:229] [kein Verb]">
+<body>
+<seg type="newline">
+Mancho	NE	 UNKNOWN	Mancho
+,	$,	,	$,	 ,	|	,
+Blancho	NE	 UNKNOWN	Blancho
+,	$,	,	$,	 ,	|	,
+auch	ADV	 auch	auch
+zu	APPR	 zu	zu
+Tortten	NN	 UNKNOWN	Tortten
+</seg>
+<seg type="newline">
+gleich	ADJD	 gleich	gleich
+wie	KOKOM	 wie	wie
+vom	APPRART	 vom	vom
+Hechte	NN	 Hecht	Hechte
+</seg>
+<seg type="newline">
+No.	ADJA	 UNKNOWN	No.
+50.	ADJA	 @ord@	50.
+</seg>
+</body>
+</text>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Osnabrueck_1687_22" collection="historical" source="Osnabrueck" url="none" year="1687" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1687:45 [43]]">
+<title>
+<seg type="newline">
+Eine	ART	 ein	Eine
+Kirsch=Tarte	NN	 UNKNOWN	Kirsch=Tarte
+zu	PTKZU	 zu	zu
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wenn	KOUS	 wenn	Wenn
+ihr	PPER	 ihr	ihr
+zuvor	ADV	 zuvor	zuvor
+mit	APPR	 mit	mit
+eurem	PPOSAT	 euer	eurem
+Teige	NN	 Teig	Teige
+die	ART	 d	die
+Tarten=Pfanne	NN	 UNKNOWN	Tarten=Pfanne
+beleget	ADJD	 UNKNOWN	beleget
+habet	VAFIN	 haben	habet
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nehmet	VVFIN	 nehmen	nehmet
+die	ART	 d	die
+besten	ADJA	 gut	besten
+Kirschen	NN	 Kirsche	Kirschen
+</seg>
+<seg type="newline">
+bedeckt	VVFIN	 bedecken	bedeckt
+den	ART	 d	den
+Boden	NN	 Boden	Boden
+mit	APPR	 mit	mit
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+leget	ADJD	 UNKNOWN	leget
+das	ART	 d	das
+über	APPR	 über	über
+eine	ART	 ein	eine
+Lage	NN	 Lage	Lage
+Kirschen	NN	 Kirsche	Kirschen
+</seg>
+<seg type="newline">
+denn	KON	 denn	denn
+wieder	ADV	 wieder	wieder
+Zucker	NN	 Zucker	Zucker
+und	KON	 und	und
+so	ADV	 so	so
+ein	ART	 ein	ein
+umbs	NN	 UNKNOWN	umbs
+ander	ADV	 UNKNOWN	ander
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+die	ART	 d	die
+Pfanne	NN	 Pfanne	Pfanne
+voll	ADJD	 voll	voll
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+vergest	ADJA	 UNKNOWN	vergest
+deß	NN	 UNKNOWN	deß
+Caneels	NN	 UNKNOWN	Caneels
+dabey	PAV	 dabei	dabei
+nicht	PTKNEG	 nicht	nicht
+</seg>
+<seg type="newline">
+deckt	VVFIN	 decken	deckt
+sie	PPER	 sie	sie
+denn	ADV	 denn	denn
+und	KON	 und	und
+lasst	VVFIN	 lassen	lasst
+sie	PPER	 sie	sie
+gar	ADV	 gar	gar
+backen	VVINF	 backen	backen
+.	$.	.	$.	 .	|	.
+Auff	NN	 UNKNOWN	Auff
+diese	PDAT	 dies	diese
+Manier	NN	 Manier	Manier
+können	VMFIN	 können	können
+auch	ADV	 auch	auch
+Tarten	NN	 UNKNOWN	Tarten
+von	APPR	 von	von
+Stich=	ADJA	 UNKNOWN	Stich=
+Johannis=	NN	 UNKNOWN	Johannis=
+und	KON	 und	und
+Erdbeeren	NN	 Erdbeere	Erdbeeren
+</seg>
+<seg type="newline">
+Barbarissen	ADJA	 UNKNOWN	Barbarissen
+</seg>
+<seg type="newline">
+Pflaumen	NN	 Pflaume|Pflaumen	Pflaumen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+von	APPR	 von	von
+allen	PIAT	 alle	allen
+andern	ADJA	 ander	andern
+weichen	ADJA	 weich	weichen
+Früchten	NN	 Frucht	Früchten
+bereitet	VVPP	 bereiten	bereitet
+werden	VAINF	 werden	werden
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

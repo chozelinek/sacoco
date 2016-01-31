@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Colerus_1602_23" collection="historical" source="Colerus" url="none" year="1602" decade="1600-1610" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1602:167]">
+<title>
+<seg type="newline">
+Höfliche	ADJA	 höflich	Höfliche
+Streubel	NN	 UNKNOWN	Streubel
+zu	PTKZU	 zu	zu
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wiltu	NE	 UNKNOWN	Wiltu
+machen	VVFIN	 machen	machen
+höfliche	ADJA	 höflich	höfliche
+Streubel	NN	 UNKNOWN	Streubel
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+mache	VVFIN	 machen	mache
+einen	ART	 ein	einen
+dürren	ADJA	 dürr	dürren
+Teig	NN	 Teig	Teig
+von	APPR	 von	von
+Mehl	NN	 Mehl	Mehl
+vnd	KON	 und	und
+Eyern	VVFIN	 UNKNOWN	Eyern
+</seg>
+<seg type="newline">
+nicht	PTKNEG	 nicht	nicht
+zu	APPR	 zu	zu
+dicke	ADJA	 dick	dicke
+noch	ADV	 noch	noch
+zu	APPR	 zu	zu
+dünne	ADJA	 dünn	dünne
+</seg>
+<seg type="newline">
+wiltu	NN	 UNKNOWN	wiltu
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+mache	VVFIN	 machen	mache
+jhn	PPER	 er	ihn
+gehl	VVIMP	 UNKNOWN	gehl
+oder	KON	 oder	oder
+weis	VVIMP	 weisen	weis
+</seg>
+<seg type="newline">
+schütte	VVFIN	 schütten	schütte
+darein	ADV	 darein	darein
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+geus	NN	 UNKNOWN	geuß
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+weis	PTKVZ	 weis	weis
+Bier	NN	 Bier	Bier
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+klopffe	VVFIN	 UNKNOWN	klopffe
+den	ART	 d	den
+Teig	NN	 Teig	Teig
+nicht	PTKNEG	 nicht	nicht
+allzu	PTKA	 allzu	allzu
+lange	ADV	 lange	lange
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+er	PPER	 er	er
+nicht	PTKNEG	 nicht	nicht
+zehe	NN	 Zehe	zehe
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+bore	NE	 UNKNOWN	bore
+zwey	CARD	 zwei	zwei
+oder	KON	 oder	oder
+fünff	CARD	 fünf	fünf
+löchlein	NN	 Löchlein	löchlein
+in	APPR	 in	in
+ein	ART	 ein	ein
+Töpfflein	NN	 UNKNOWN	Töpfflein
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+viel	ADV	 viel	viel
+du	PPER	 du	du
+wilt	NE	 Wilt	wilt
+</seg>
+<seg type="newline">
+die	ART	 d	die
+da	ADV	 da	da
+hübsch	ADJD	 hübsch	hübsch
+scheiblich	ADJD	 UNKNOWN	scheiblich
+sein	VAINF	 sein	sein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+thue	NE	 UNKNOWN	thue
+den	ART	 d	den
+Teig	NN	 Teig	Teig
+in	APPR	 in	in
+das	ART	 d	das
+Töpfflein	NN	 UNKNOWN	Töpfflein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+las	VVFIN	 lesen	las
+es	PPER	 es	es
+hübsch	ADJD	 hübsch	hübsch
+lauffen	NN	 Raute	Rauten
+in	APPR	 in	in
+die	ART	 d	die
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+las	VVFIN	 lesen	las
+es	PPER	 es	es
+hübsch	ADJD	 hübsch	hübsch
+backen	VVINF	 backen	backen
+</seg>
+<seg type="newline">
+drehe	VVFIN	 drehen	drehe
+die	ART	 d	die
+öberste	NN	 UNKNOWN	öberste
+seiten	APPR	 seiten	seiten
+hernider	ADJA	 UNKNOWN	hernider
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+wens	NN	 UNKNOWN	wens
+gebacken	VVPP	 backen	gebacken
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+lege	VVFIN	 legen	lege
+es	PPER	 es	es
+in	APPR	 in	in
+eine	ART	 ein	eine
+Schüssel	NN	 Schüssel	Schüssel
+</seg>
+<seg type="newline">
+bestrewe	VVFIN	 bestreuen	bestreuen
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+gib	VVIMP	 geben	gib
+sie	PPER	 sie	sie
+hin	PTKVZ	 hin	hin
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

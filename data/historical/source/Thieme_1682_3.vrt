@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Thieme_1682_3" collection="historical" source="Thieme" url="none" year="1682" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[839]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+köstlicher	ADJA	 köstlich	köstlicher
+Rindbraten	NN	 UNKNOWN	Rindbraten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Stosset	NN	 UNKNOWN	Stosset
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Wachholder=Beer	NN	 UNKNOWN	Wachholder=Beer
+und	KON	 und	und
+Feld=Kümmel	NN	 UNKNOWN	Feld=Kümmel
+</seg>
+<seg type="newline">
+thuts	VVFIN	 UNKNOWN	thuts
+in	APPR	 in	in
+Essig	NN	 Essig	Essig
+mit	APPR	 mit	mit
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+und	KON	 und	und
+beitzet	VVFIN	 UNKNOWN	beitzet
+den	ART	 d	den
+Braten	NN	 Braten	Braten
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+lasset	VVFIN	 lassen	lasset
+ihn	PPER	 er	ihn
+über	APPR	 über	über
+Nacht	NN	 Nacht	Nacht
+darinnen	VVFIN	 darinnen	darinnen
+ligen	ADJA	 UNKNOWN	ligen
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+ihr	PPOSAT	 ihr	ihr
+ihn	PPER	 er	ihn
+nun	ADV	 nun	nun
+wollet	VMFIN	 wollen	wollet
+braten	VVFIN	 braten	braten
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+stecket	VVFIN	 UNKNOWN	stecket
+ihn	PPER	 er	ihn
+an	PTKVZ	 an	an
+</seg>
+<seg type="newline">
+bratet	VVFIN	 UNKNOWN	bratet
+ihn	PPER	 er	ihn
+fein	ADJD	 fein	fein
+gemach	ADV	 gemach	gemach
+ab	ADV	 ab	ab
+</seg>
+<seg type="newline">
+damit	KOUS	 damit	damit
+er	PPER	 er	er
+durchaus	ADV	 durchaus	durchaus
+gar	ADV	 gar	gar
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+er	PPER	 er	er
+gebraten	VVPP	 braten	gebraten
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+richtet	VVFIN	 richten	richtet
+ihn	PPER	 er	ihn
+auf	APPR	 auf	auf
+die	ART	 d	die
+Schüssel	NN	 Schüssel	Schüssel
+</seg>
+<seg type="newline">
+giesset	PDAT	 dies	diese
+etwas	PIAT	 etwas	etwas
+Fleischbrüh	NN	 Fleischbrühe	Fleischbrühe
+darüber	PAV	 darüber	darüber
+und	KON	 und	und
+bestreuets	NN	 UNKNOWN	bestreuets
+mit	APPR	 mit	mit
+Zimmet	NN	 Zimt	Zimt
+.	$.	.	$.	 .	|	.
+Also	ADV	 also	Also
+essens	ADJD	 UNKNOWN	essens
+die	ART	 d	die
+Pohlen	NN	 UNKNOWN	Pohlen
+</seg>
+<seg type="newline">
+Ungern	NN	 UNKNOWN	Ungern
+und	KON	 und	und
+Teutschen	NN	 UNKNOWN	Teutschen
+gern	ADV	 gern	gern
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

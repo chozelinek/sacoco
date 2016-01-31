@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Colerus_1602_29" collection="historical" source="Colerus" url="none" year="1602" decade="1600-1610" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1602:182]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+Hirschen	NN	 Hirsch	Hirschen
+Wildprat	NN	 UNKNOWN	Wildprat
+aus	APPR	 aus	aus
+Rindfleisch	NN	 Rindfleisch	Rindfleisch
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nim	ADJA	 UNKNOWN	nimb
+Rindfleisch	NN	 Rindfleisch	Rindfleisch
+das	PDS	 d	das
+mager	ADJD	 mager	mager
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+es	PPER	 es	es
+in	APPR	 in	in
+einen	ART	 ein	einen
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+gemischt	ADJD	 gemischt	gemischt
+mit	APPR	 mit	mit
+Hünerblut	NN	 UNKNOWN	Hünerblut
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+das	PDS	 d	das
+eine	ART	 ein	eine
+gute	ADJA	 gut	gute
+weile	VVFIN	 weilen	weile
+darinne	NN	 UNKNOWN	darinne
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+koche	VVFIN	 kochen	koche
+es	PPER	 es	es
+</seg>
+<seg type="newline">
+aber	ADV	 aber	aber
+nicht	PTKNEG	 nicht	nicht
+allzu	PTKA	 allzu	allzu
+sehr	ADV	 sehr	sehr
+in	APPR	 in	in
+den	ART	 d	den
+Weine	NN	 Wein	Weine
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+darzu	PAV	 dazu	dazu
+wol	PWAV	 wo	wo
+geröhst	VVFIN	 UNKNOWN	geröhst
+weis	PTKVZ	 weis	weis
+Brod	NN	 Brot	Brot
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+treib	VVIMP	 treiben	treib
+das	ART	 d	das
+also	ADV	 also	also
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+Tuch	NN	 Tuch	Tuch
+</seg>
+<seg type="newline">
+würtze	VVFIN	 würzen	würzt
+es	PPER	 es	es
+mit	APPR	 mit	mit
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Nelcken	NE	 UNKNOWN	Nelcken
+</seg>
+<seg type="newline">
+Saffran	NN	 Safran	Safran
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+röhste	ADJA	 UNKNOWN	röhste
+Epffel	NN	 Apfel	Apfel
+</seg>
+<seg type="newline">
+zureibe	VVFIN	 UNKNOWN	zureibe
+die	ART	 d	die
+kleine	ADJA	 klein	kleine
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+sie	PPER	 sie	sie
+gehle	NN	 UNKNOWN	gehle
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+sie	PPER	 sie	sie
+in	APPR	 in	in
+das	ART	 d	das
+Soth	NN	 UNKNOWN	Soth
+</seg>
+<seg type="newline">
+zuhacke	VVFIN	 UNKNOWN	zuhacke
+das	ART	 d	das
+Fleisch	NN	 Fleisch	Fleisch
+zu	PTKZU	 zu	zu
+stücken	VVINF	 stücken	stücken
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+es	PPER	 es	es
+in	APPR	 in	in
+das	ART	 d	das
+Soth	NN	 UNKNOWN	Soth
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+kochen	VVINF	 kochen	kochen
+</seg>
+<seg type="newline">
+bis	KON	 bis	bis
+es	PPER	 es	es
+gar	ADV	 gar	gar
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+es	PPER	 es	es
+auff	APPR	 auf	auf
+die	ART	 d	die
+Schüssel	NN	 Schüssel	Schüssel
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

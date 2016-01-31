@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Buchinger_1700_2" collection="historical" source="Buchinger" url="none" year="1700" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:1f.]">
+<title>
+<seg type="newline">
+949.	ADJA	 @ord@	949.
+Rosenzucker	NN	 UNKNOWN	Rosenzucker
+oder	KON	 oder	oder
+Conserven	NN	 UNKNOWN	Conserven
+</seg>
+</title>
+<body>
+<seg type="newline">
+wird	VAFIN	 werden	wird
+gemacht	VVPP	 machen	gemacht
+von	APPR	 von	von
+gehackten	ADJA	 gehackt	gehackten
+frischen	ADJA	 frisch	frischen
+</seg>
+<seg type="newline">
+hüpschen	ADJA	 UNKNOWN	hüpschen
+Rosenblätteren	NN	 UNKNOWN	Rosenblätteren
+</seg>
+<seg type="newline">
+die	ART	 d	die
+thut	NN	 UNKNOWN	thue
+man	PIS	 man	man
+in	APPR	 in	in
+ein	ART	 ein	ein
+sauber	ADJD	 sauber	sauber
+weit	ADJD	 weit	weit
+Glas	NN	 Glas	Glas
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Zusatz	NN	 Zusatz	Zusatz
+halb	ADJD	 halb	halb
+so	ADV	 so	so
+viel	PIAT	 viel	viel
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+stellts	NN	 UNKNOWN	stellts
+an	APPR	 an	an
+die	ART	 d	die
+Sonnen	NN	 Sonne	Sonnen
+</seg>
+<seg type="newline">
+rührts	VVFIN	 UNKNOWN	rührts
+offt	ADV	 oft	oft
+</seg>
+<seg type="newline">
+und	KON	 und	und
+laßts	NN	 UNKNOWN	laßts
+also	ADV	 also	also
+under	ADJD	 UNKNOWN	under
+einander	PRF	 einander	einander
+distillieren	VVINF	 UNKNOWN	distillieren
+.	$.	.	$.	 .	|	.
+Etliche	PIS	 etlich	Etliche
+sieden	VVFIN	 sieden	sieden
+solche	PIAT	 solch	solche
+gehackte	ADJA	 gehackt	gehackte
+Rosenblätter	NN	 Rosenblatt	Rosenblätter
+in	APPR	 in	in
+zerrührtem	ADJA	 UNKNOWN	zerrührtem
+Zucker	NN	 Zucker	Zucker
+wie	KOKOM	 wie	wie
+ein	ART	 ein	ein
+Syrup	NE	 UNKNOWN	Syrup
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

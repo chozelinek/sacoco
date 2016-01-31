@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Wecker_1679_24" collection="historical" source="Wecker" url="none" year="1679" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Huhn|" method="|Pastete|" ref="[1679:345f.]">
+<title>
+<seg type="newline">
+[	$(	[	$(	 [	|	[
+verschiedene	ADJA	 verschieden	verschiedene
+Formen	NN	 Form	Formen
+von	APPR	 von	von
+Hühnerpasteten	NN	 UNKNOWN	Hühnerpasteten
+]	$(	]	$(	 ]	|	]
+Auff	NN	 UNKNOWN	Auff
+ein	ART	 ein	ein
+andere	ADJA	 ander	andere
+Form.	NE	 UNKNOWN	Form.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Bereite	NN	 Bereite	Bereite
+die	ART	 d	die
+Hüner	NN	 UNKNOWN	Hünern
+oder	KON	 oder	oder
+Dauben	NN	 Raute	Rauten
+</seg>
+<seg type="newline">
+allerdings	ADV	 allerdings	allerdings
+wie	KOKOM	 wie	wie
+oben	ADV	 oben	oben
+gelehrt	VVPP	 lehren	gelehrt
+</seg>
+<seg type="newline">
+allein	ADV	 allein	allein
+wasche	VVFIN	 waschen	wasche
+den	ART	 d	den
+Schweiß	NN	 Schweiß	Schweiß
+auß	VMFIN	 müssen	muß
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+bereite	VVFIN	 bereiten	bereite
+es	PPER	 es	es
+allerdings	ADV	 allerdings	allerdings
+in	APPR	 in	in
+den	ART	 d	den
+Pastetenhafen	NN	 UNKNOWN	Pastetenhafen
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+zuvor	ADV	 zuvor	zuvor
+</seg>
+<seg type="newline">
+nimm	VVIMP	 nehmen	nimm
+dann	ADV	 dann	dann
+ein	ART	 ein	ein
+hand	NN	 Hand	hand
+voll	ADJD	 voll	voll
+oder	KON	 oder	oder
+zwo	CARD	 zwo	zwo
+gut	ADJD	 gut	gut
+grün	ADJD	 grün	grün
+Kraut	NN	 Kraut	Kraut
+</seg>
+<seg type="newline">
+Binetsch	NN	 UNKNOWN	Binetsch
+oder	KON	 oder	oder
+Mangold	NN	 Mangold	Mangold
+</seg>
+<seg type="newline">
+Winterszeit	NN	 Winterszeit	Winterszeit
+Wersig	NN	 Wirsing	Wirsing
+</seg>
+<seg type="newline">
+waschs	VVINF	 waschen	waschen
+</seg>
+<seg type="newline">
+schneids	VVINF	 schneiden	schneiden
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+thu	VVFIN	 UNKNOWN	thue
+es	PPER	 es	es
+an	APPR	 an	an
+den	ART	 d	den
+Boden	NN	 Boden	Boden
+</seg>
+<seg type="newline">
+zwischen	APPR	 zwischen	zwischen
+die	ART	 d	die
+Hüner	NN	 UNKNOWN	Hünern
+oder	KON	 oder	oder
+Dauben	NN	 Raute	Rauten
+</seg>
+<seg type="newline">
+bestrewe	VVFIN	 bestreuen	bestreuen
+es	PPER	 es	es
+wol	PWAV	 wo	wo
+mit	APPR	 mit	mit
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+wol	PWAV	 wo	wo
+Rindernmarck	NN	 UNKNOWN	Rinderhack
+oder	KON	 oder	oder
+frischem	ADJA	 frisch	frischem
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+der	ART	 d	der
+vast	ADV	 fast	fast
+gut	ADJD	 gut	gut
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+lege	VVFIN	 legen	lege
+den	ART	 d	den
+Butter	NN	 Butter	Butter
+zuvor	ADV	 zuvor	zuvor
+in	APPR	 in	in
+ein	ART	 ein	ein
+frisches	ADJA	 frisch	frisches
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+zeuchts	VVFIN	 feuchten	feuchten
+das	ART	 d	das
+Saltz	NN	 Salz	Salz
+herauß	NN	 UNKNOWN	herauß
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+das	ART	 d	das
+merck	NE	 UNKNOWN	merck
+an	APPR	 an	an
+andern	ADJA	 ander	andern
+sachen	NN	 Kochen	Kochen
+mehr	ADV	 mehr	mehr
+.	$.	.	$.	 .	|	.
+Nun	ADV	 nun	Nun
+vermachs	ADV	 hernach	hernach
+</seg>
+<seg type="newline">
+bachs	NN	 Bach	bachs
+ein	ART	 ein	ein
+stund	NN	 Stand	Stand
+oder	KON	 oder	oder
+zwo	CARD	 zwo	zwo
+nach	APPR	 nach	nach
+gelegenheit	NN	 Gelegenheit	gelegenheit
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+zuvor	ADV	 zuvor	zuvor
+</seg>
+<seg type="newline">
+es	PPER	 es	es
+gibt	VVFIN	 geben	gibt
+Brüh	ADJD	 früh	früh
+genug	ADV	 genug	genug
+</seg>
+<seg type="newline">
+du	PPER	 du	du
+magsts	NN	 UNKNOWN	magsts
+beyde	PIAT	 jed	jedes
+weg	ADV	 weg	weg
+in	APPR	 in	in
+einem	ART	 ein	einem
+jrdenen	ADJA	 UNKNOWN	jrdenen
+Pastetenhafen	NN	 UNKNOWN	Pastetenhafen
+machen	VVINF	 machen	machen
+</seg>
+<seg type="newline">
+aber	KON	 aber	aber
+da	ADV	 da	da
+muß	VMFIN	 müssen	muß
+man	PIS	 man	man
+Brüh	ADJD	 früh	früh
+daran	PAV	 daran	daran
+thun	NN	 UNKNOWN	thue
+</seg>
+<seg type="newline">
+es	PPER	 es	es
+gibt	VVFIN	 geben	gibt
+nicht	PTKNEG	 nicht	nicht
+selber	ADV	 selber	selber
+</seg>
+<seg type="newline">
+da	ADV	 da	da
+ist	VAFIN	 sein	ist
+dann	ADV	 dann	dann
+Feißte	NN	 UNKNOWN	Feißte
+vnd	KON	 und	und
+Butter	NN	 Butter	Butter
+am	APPRART	 am	am
+besten	ADJA	 gut	besten
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+auff	APPR	 auf	auf
+dem	ART	 d	dem
+Rost	NN	 Rost	Rost
+fein	ADJD	 fein	fein
+kochen	VVINF	 kochen	kochen
+lassen	VVINF	 lassen	lassen
+.	$.	.	$.	 .	|	.
+Alte	ADJA	 alt	Alte
+Hüner	NN	 UNKNOWN	Hünern
+</seg>
+<seg type="newline">
+bereite	VVFIN	 bereiten	bereite
+wie	KOUS	 wie	wie
+du	PPER	 du	du
+von	APPR	 von	von
+den	ART	 d	den
+Zungen	NN	 Zunge	Zungen
+vnd	KON	 und	und
+Gänsen	NN	 Gans	Gänsen
+hast	VAFIN	 haben	hast
+.	$.	.	$.	 .	|	.
+Du	PPER	 du	Du
+magst	VMFIN	 mögen	magst
+auch	ADV	 auch	auch
+Dauben	NN	 Raute	Rauten
+vnd	KON	 und	und
+junge	ADJA	 jung	junge
+Hüner	NN	 UNKNOWN	Hünern
+also	ADV	 also	also
+bereiten	VVFIN	 bereiten	bereiten
+</seg>
+<seg type="newline">
+allein	ADV	 allein	allein
+du	PPER	 du	du
+solt	PWAV	 wo	wo
+sie	PPER	 sie	sie
+nicht	PTKNEG	 nicht	nicht
+zuvor	ADV	 zuvor	zuvor
+sieden	VVFIN	 sieden	sieden
+wie	KOKOM	 wie	wie
+die	ART	 d	die
+Zung	NN	 UNKNOWN	ung
+.	$.	.	$.	 .	|	.
+Also	ADV	 also	Also
+bereit	ADJD	 bereit	bereit
+auch	ADV	 auch	auch
+die	ART	 d	die
+Vögel	NN	 Vogel	Vögel
+in	APPR	 in	in
+allweg	PIS	 alle	alles
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+wasch	VVIMP	 waschen	wasch
+sie	PPER	 sie	sie
+sauber	ADJD	 sauber	sauber
+auß	VMFIN	 müssen	muß
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+sie	PPER	 sie	sie
+sind	VAFIN	 sein	sind
+gemeinlich	ADJD	 UNKNOWN	gemeinlich
+von	APPR	 von	von
+der	ART	 d	der
+Leber	NN	 Leber	Leber
+bitter	ADJD	 bitter	bitter
+.	$.	.	$.	 .	|	.
+Die	ART	 d	Die
+gar	ADV	 gar	gar
+kleinen	ADJA	 klein	kleinen
+Vögelein	NN	 UNKNOWN	Negelein
+bereit	ADJD	 bereit	bereit
+mit	APPR	 mit	mit
+süssem	ADJA	 süß	süssem
+Gewürtz	NN	 UNKNOWN	Gewürtz
+</seg>
+<seg type="newline">
+Saffran	NN	 Safran	Safran
+</seg>
+<seg type="newline">
+Zimmet	NN	 Zimt	Zimt
+</seg>
+<seg type="newline">
+Weinbeer	NN	 Weizenbier	Weizenbier
+vnd	KON	 und	und
+des	ART	 d	des
+Zeugs	NN	 Zeug	Zeugs
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+geuß	NN	 UNKNOWN	geuß
+ein	ART	 ein	ein
+guten	ADJA	 gut	guten
+Wein	NN	 Wein	Wein
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+bald	ADV	 bald	bald
+der	ART	 d	der
+Hafen	NN	 Hafen	Hafen
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+hart	ADJD	 hart	hart
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+jhn	PPER	 er	ihn
+auch	ADV	 auch	auch
+versieden	VVFIN	 verzieren	verzieren
+mit	APPR	 mit	mit
+wenig	PIAT	 wenig	wenig
+Zucker	NN	 Zucker	Zucker
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

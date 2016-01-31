@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Colerus_1602_5" collection="historical" source="Colerus" url="none" year="1602" decade="1600-1610" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1602:122]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+Rehemus	NN	 UNKNOWN	Rehemus
+von	APPR	 von	von
+Fischen	NN	 Fisch|Fischen	Fischen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wiltu	NE	 UNKNOWN	Wiltu
+machen	VVFIN	 machen	machen
+ein	ART	 ein	ein
+Rehemuß	NN	 UNKNOWN	Rehemuß
+von	APPR	 von	von
+Fischen	NN	 Fisch|Fischen	Fischen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nim	ADJA	 UNKNOWN	nimb
+Karpen	NN	 UNKNOWN	Karpen
+vnd	KON	 und	und
+schuppe	NN	 Schuppe	schuppe
+sie	PPER	 sie	sie
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+wenn	KOUS	 wenn	wenn
+sie	PPER	 sie	sie
+geschüpt	VVFIN	 UNKNOWN	geschüpt
+sein	PPOSAT	 sein	sein
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+reiß	VVIMP	 reißen	reiß
+sie	PPER	 sie	sie
+von	APPR	 von	von
+einander	PRF	 einander	einander
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+lege	VVFIN	 legen	lege
+sie	PPER	 sie	sie
+in	APPR	 in	in
+eine	ART	 ein	eine
+Pfanne	NN	 Pfanne	Pfanne
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+reinen	ADJA	 rein	reinen
+Kessel	NN	 Kessel	Kessel
+</seg>
+<seg type="newline">
+geus	VVPP	 UNKNOWN	geuß
+darauff	PAV	 drauf	drauf
+ein	ART	 ein	ein
+rein	ADV	 rein	rein
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+setze	VVFIN	 setzen	setze
+es	PPER	 es	es
+auff	APPR	 auf	auf
+das	ART	 d	das
+Fewer	NN	 Feuer	Feuer
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+las	VVFIN	 lesen	las
+wol	PWAV	 wo	wo
+sieden	VVINF	 sieden	sieden
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+saltze	ADJA	 kalt	kalten
+sie	PPER	 sie	sie
+zu	PTKZU	 zu	zu
+massen	VVINF	 maßen	massen
+.	$.	.	$.	 .	|	.
+Wenn	KOUS	 wenn	Wenn
+sie	PPER	 sie	sie
+gesotten	VVPP	 sieden	gesotten
+sein	VAINF	 sein	sein
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nim	VVFIN	 UNKNOWN	nimb
+sie	PPER	 sie	sie
+aus	APPR	 aus	aus
+dem	ART	 d	dem
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+liß	NN	 UNKNOWN	liß
+aus	APPR	 aus	aus
+die	ART	 d	die
+Gredten	NN	 UNKNOWN	Gredten
+</seg>
+<seg type="newline">
+hacke	VVFIN	 hacken	hacke
+sie	PPER	 sie	sie
+hübsch	ADJD	 hübsch	hübsch
+kleine	ADJA	 klein	kleine
+</seg>
+<seg type="newline">
+nim	NN	 UNKNOWN	nimb
+weis	PTKVZ	 weis	weis
+Brod	NN	 Brot	Brot
+drunter	PAV	 drunter	drunter
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+thu	VVFIN	 UNKNOWN	thue
+es	PPER	 es	es
+in	APPR	 in	in
+einen	ART	 ein	einen
+Tiegel	NN	 Tiegel	Tiegel
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+thue	NN	 UNKNOWN	thue
+darein	ADV	 darein	darein
+Rosincken	NN	 Rosine	Rosinen
+</seg>
+<seg type="newline">
+klein	ADJD	 klein	klein
+geschnittene	ADJA	 geschnitten	geschnittene
+Mandel	NN	 Mandel	Mandel
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+thue	NN	 UNKNOWN	thue
+darein	ADV	 darein	darein
+Baumöhl	NN	 UNKNOWN	Baumöhl
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+nim	VVFIN	 UNKNOWN	nimb
+darein	ADV	 darein	darein
+Blut	NN	 Blut	Blut
+von	APPR	 von	von
+Karpen	NN	 UNKNOWN	Karpen
+oder	KON	 oder	oder
+andern	ADJA	 ander	andern
+Fischen	NN	 Fisch|Fischen	Fischen
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+es	PPER	 es	es
+schwartz	ADJD	 UNKNOWN	schwartz
+wird	VAFIN	 werden	wird
+:	$.	:	$.	 :	|	:
+Thue	NE	 UNKNOWN	thue
+darein	ADV	 darein	darein
+Zucker	NN	 Zucker	Zucker
+oder	KON	 oder	oder
+Honig	NN	 Honig	Honig
+</seg>
+<seg type="newline">
+geus	NN	 UNKNOWN	geuß
+darein	ADV	 darein	darein
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+starcken	VVFIN	 stocken	stocken
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+würtze	VVFIN	 würzen	würzt
+es	PPER	 es	es
+abe	PAV	 dabei	dabei
+mit	APPR	 mit	mit
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Ingber	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Nelcken	NE	 UNKNOWN	Nelcken
+</seg>
+<seg type="newline">
+Muscaten	NN	 UNKNOWN	Muscaten
+</seg>
+<seg type="newline">
+Muscatenblumen	NN	 UNKNOWN	Muscatenblumen
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+das	ART	 d	das
+flucks	NN	 UNKNOWN	flucks
+durch	APPR	 durch	durch
+einander	PRF	 einander	einander
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+es	PPER	 es	es
+hübsch	ADJD	 hübsch	hübsch
+dicke	ADJA	 dick	dicke
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+kosts	ADJD	 UNKNOWN	kosts
+darnach	PAV	 danach	Danach
+zu	APPR	 zu	zu
+rechter	ADJD	 recht	rechter
+maß	PTKVZ	 maß	maß
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+wenn	KOUS	 wenn	wenn
+du	PPER	 du	du
+es	PPER	 es	es
+auffgibst	VVFIN	 UNKNOWN	auffgibst
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+bestrewe	VVFIN	 bestreuen	bestreuen
+es	PPER	 es	es
+mit	APPR	 mit	mit
+einer	ART	 ein	einer
+Troy	NE	 Troy	Troy
+</seg>
+<seg type="newline">
+die	ART	 d	die
+da	ADV	 da	da
+gemenget	ADJA	 UNKNOWN	gemenget
+ist	VAFIN	 sein	ist
+mit	APPR	 mit	mit
+Cinamey	NE	 UNKNOWN	Cinamey
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

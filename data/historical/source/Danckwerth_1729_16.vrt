@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Danckwerth_1729_16" collection="historical" source="Danckwerth" url="none" year="1729" decade="1720-1730" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1729:223]">
+<title>
+<seg type="newline">
+25.	ADJA	 25.	25.
+Tarte	NN	 Torte	Torte
+von	APPR	 von	von
+Spinat	NN	 Spinat	Spinat
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Man	PIS	 man	Man
+verliest	VVFIN	 verlesen	verliest
+den	ART	 d	den
+Spinat	NN	 Spinat	Spinat
+sauber	ADJD	 sauber	sauber
+</seg>
+<seg type="newline">
+kocht	VVFIN	 kochen	kocht
+ihn	PPER	 er	ihn
+in	APPR	 in	in
+Wasser	NN	 Wasser	Wasser
+gahr	ADV	 gar	gar
+</seg>
+<seg type="newline">
+thut	VVFIN	 UNKNOWN	thue
+ihn	PPER	 er	ihn
+so	ADV	 so	so
+dann	ADV	 dann	dann
+in	APPR	 in	in
+einen	ART	 ein	einen
+Durchschlag	NN	 Durchschlag	Durchschlag
+</seg>
+<seg type="newline">
+und	KON	 und	und
+druckt	VVFIN	 drucken	druckt
+das	ART	 d	das
+Wasser	NN	 Wasser	Wasser
+heraus	ADV	 heraus	heraus
+</seg>
+<seg type="newline">
+hackt	VVFIN	 hacken	hackt
+ihn	PPER	 er	ihn
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+thut	VVFIN	 UNKNOWN	thue
+ihn	PPER	 er	ihn
+darauf	PAV	 darauf	darauf
+in	APPR	 in	in
+eine	ART	 ein	eine
+Castrol=Pfanne	NN	 UNKNOWN	Castrol=Pfanne
+oder	KON	 oder	oder
+Topff	NN	 Topf	Topf
+</seg>
+<seg type="newline">
+thut	NE	 UNKNOWN	thue
+dazu	PAV	 dazu	dazu
+frische	ADJA	 frisch	frische
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+Corinthen	NN	 Korinthe	Korinthen
+</seg>
+<seg type="newline">
+Citronad	NN	 UNKNOWN	Citronad
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Muscaten=blumen	NN	 UNKNOWN	Muscaten=blumen
+</seg>
+<seg type="newline">
+läst	VVFIN	 UNKNOWN	läst
+es	PPER	 es	es
+hiemit	NE	 UNKNOWN	hiemit
+wieder	ADV	 wieder	wieder
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+kochen	VVINF	 kochen	kochen
+</seg>
+<seg type="newline">
+machet	VVFIN	 machen	machet
+den	ART	 d	den
+einen	ADJA	 einen	einen
+guten	ADJA	 gut	guten
+Butter=Teig	NN	 UNKNOWN	Butter=Teig
+</seg>
+<seg type="newline">
+leget	ADJD	 UNKNOWN	leget
+einen	ART	 ein	einen
+Boden	NN	 Boden	Boden
+davon	PAV	 davon	davon
+in	APPR	 in	in
+eine	ART	 ein	eine
+Tarten=Pfanne	NN	 UNKNOWN	Tarten=Pfanne
+</seg>
+<seg type="newline">
+läst	VVFIN	 UNKNOWN	läst
+den	ART	 d	den
+Spinat	NN	 Spinat	Spinat
+kalt	ADJD	 kalt	kalt
+werden	VAFIN	 werden	werden
+und	KON	 und	und
+thut	VVFIN	 UNKNOWN	thue
+ihn	PPER	 er	ihn
+also	ADV	 also	also
+hinein	ADV	 hinein	hinein
+</seg>
+<seg type="newline">
+schneidet	VVFIN	 schneiden	schneidet
+kleine	ADJA	 klein	kleine
+Striemen	NN	 Strieme|Striemen	Striemen
+von	APPR	 von	von
+den	ART	 d	den
+Butter=Teig	NN	 UNKNOWN	Butter=Teig
+</seg>
+<seg type="newline">
+leget	ADJD	 UNKNOWN	leget
+sie	PPER	 sie	sie
+drüber	PTKVZ	 drüber	drüber
+und	KON	 und	und
+backets	NN	 UNKNOWN	backets
+gahr	ADV	 gar	gar
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

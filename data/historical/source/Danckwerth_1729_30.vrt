@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Danckwerth_1729_30" collection="historical" source="Danckwerth" url="none" year="1729" decade="1720-1730" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1729:421]">
+<title>
+<seg type="newline">
+Präservir=Zucker	NN	 UNKNOWN	Präservir=Zucker
+in	APPR	 in	in
+Contagion=	NN	 UNKNOWN	Contagion=
+und	KON	 und	und
+Pest=Zeiten	NN	 UNKNOWN	Pest=Zeiten
+nützlich	ADJD	 nützlich	nützlich
+zu	PTKZU	 zu	zu
+gebrauchen	VVINF	 gebrauchen	gebrauchen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Schneidet	VVFIN	 schneiden	Schneidet
+und	KON	 und	und
+hacket	VVFIN	 UNKNOWN	hacket
+Angelic	NE	 UNKNOWN	Angelic
+Liebstöckel=Wurtzel	NE	 UNKNOWN	Liebstöckel=Wurtzel
+</seg>
+<seg type="newline">
+Gundel=Reben	NE	 UNKNOWN	Gundel=Reben
+</seg>
+<seg type="newline">
+Cardobenedicten	NE	 UNKNOWN	Cardobenedicten
+</seg>
+<seg type="newline">
+Weinrauten	NN	 UNKNOWN	Weinrauten
+und	KON	 und	und
+Alantwurtz	NN	 UNKNOWN	Alantwurtz
+</seg>
+<seg type="newline">
+jedes	PIAT	 jed	jedes
+ein	ART	 ein	ein
+Loth	NE	 Loth	Loth
+</seg>
+<seg type="newline">
+alles	PIS	 alle	alles
+auf	APPR	 auf	auf
+das	ART	 d	das
+kleineste	NN	 UNKNOWN	kleineste
+</seg>
+<seg type="newline">
+mischet	VVFIN	 UNKNOWN	mischet
+drey	CARD	 drei	drei
+Vierling	NN	 UNKNOWN	Vierling
+Zucker	NN	 Zucker	Zucker
+darunter	PTKVZ	 darunter	darunter
+.	$.	.	$.	 .	|	.
+Wann	PWAV	 wann	Wann
+eine	ART	 ein	eine
+Pestilentz	NN	 UNKNOWN	Pestilentz
+oder	KON	 oder	oder
+gifftige	ADJA	 UNKNOWN	gifftige
+Seuche	NN	 Seuche	Seuche
+regieret	VVFIN	 UNKNOWN	regieret
+</seg>
+<seg type="newline">
+möget	VMFIN	 mögen	möget
+ihr	PPER	 ihr	ihr
+alle	PIAT	 alle	alle
+Morgen	NN	 Morgen	Morgen
+frühe	ADJA	 früh	frühe
+nüchtern	ADJD	 nüchtern	nüchtern
+davon	PAV	 davon	davon
+einnehmen	VVFIN	 einnehmen	einnehmen
+</seg>
+<seg type="newline">
+ihr	PPER	 ihr	ihr
+möget	VMFIN	 mögen	möget
+auch	ADV	 auch	auch
+Baldrian	NN	 Baldrian	Baldrian
+</seg>
+<seg type="newline">
+Liebstöckel=Angelic=	NN	 UNKNOWN	Liebstöckel=Angelic=
+und	KON	 und	und
+Pelentz=Wurtzeln	VVFIN	 UNKNOWN	Pelentz=Wurtzeln
+klein	ADJD	 klein	klein
+schneiden	VVINF	 schneiden	schneiden
+</seg>
+<seg type="newline">
+und	KON	 und	und
+in	APPR	 in	in
+einem	ART	 ein	einem
+Säcklein	NN	 Säcklein	Säcklein
+an	APPR	 an	an
+den	ART	 d	den
+Hals	NN	 Hals	Hals
+hängen	VVFIN	 hängen	hängen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+seyd	NE	 UNKNOWN	seyd
+ihr	PPOSAT	 ihr	ihr
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+der	ART	 d	der
+Hülff	NE	 UNKNOWN	Hülff
+Gottes	NN	 Gott	Gottes
+wohl	ADV	 wohl	wohl
+verwahret	VVFIN	 UNKNOWN	verwahret
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

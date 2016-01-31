@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Danckwerth_1729_27" collection="historical" source="Danckwerth" url="none" year="1729" decade="1720-1730" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1729:379]">
+<title>
+<seg type="newline">
+Rosen=Morschellen	NN	 UNKNOWN	Rosen=Morschellen
+oder	KON	 oder	oder
+Conserven	NN	 UNKNOWN	Conserven
+zu	PTKZU	 zu	zu
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Thut	NE	 UNKNOWN	Thut
+Zucker	NN	 Zucker	Zucker
+in	APPR	 in	in
+einen	ART	 ein	einen
+Tiegel	NN	 Tiegel	Tiegel
+</seg>
+<seg type="newline">
+giesset	PDAT	 dies	diese
+etwas	PIAT	 etwas	etwas
+Rosen=Wasser	NN	 Rosenwasser	Rosenwasser
+darauf	PAV	 darauf	darauf
+</seg>
+<seg type="newline">
+als	KOKOM	 als	als
+ihr	PPOSAT	 ihr	ihr
+sonsten	ADJA	 UNKNOWN	sonsten
+pfleget	ADJA	 UNKNOWN	pfleget
+Wasser	NN	 Wasser	Wasser
+zu	PTKZU	 zu	zu
+nehmen	VVINF	 nehmen	nehmen
+</seg>
+<seg type="newline">
+setzet	VVFIN	 setzen	setzet
+ihn	PPER	 er	ihn
+aufs	APPRART	 aufs	aufs
+Feuer	NN	 Feuer	Feuer
+</seg>
+<seg type="newline">
+und	KON	 und	und
+lasset	VVFIN	 lassen	lasset
+ihn	PPER	 er	ihn
+fein	ADJD	 fein	fein
+starck	NE	 UNKNOWN	starck
+sieden	VVINF	 sieden	sieden
+.	$.	.	$.	 .	|	.
+Wann	PWAV	 wann	Wann
+solches	PIS	 solch	solches
+geschehen	VVFIN	 geschehen	geschehen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nehmet	VVFIN	 nehmen	nehmet
+ihn	PPER	 er	ihn
+vom	APPRART	 vom	vom
+Feuer	NN	 Feuer	Feuer
+</seg>
+<seg type="newline">
+und	KON	 und	und
+lasset	VVFIN	 lassen	lasset
+ihn	PPER	 er	ihn
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+verkühlen	VVFIN	 verkühlen	verkühlen
+</seg>
+<seg type="newline">
+alsdann	NN	 UNKNOWN	Alsdann
+giesset	PDAT	 dies	diese
+noch	ADV	 noch	noch
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Rosen=Wasser	NN	 Rosenwasser	Rosenwasser
+hinein	ADV	 hinein	hinein
+</seg>
+<seg type="newline">
+rührets	ADJD	 UNKNOWN	rührets
+wohl	ADV	 wohl	wohl
+umb	PTKVZ	 um	um
+und	KON	 und	und
+kleckets	VVFIN	 UNKNOWN	kleckets
+auf	APPR	 auf	auf
+ein	ART	 ein	ein
+Kupffer	NN	 UNKNOWN	Kupffer
+oder	KON	 oder	oder
+Papier	NN	 Papier	Papier
+fein	ADJD	 fein	fein
+rund	ADV	 rund	rund
+</seg>
+<seg type="newline">
+lösets	ADJD	 UNKNOWN	lösets
+dann	ADV	 dann	dann
+ab	ADV	 ab	ab
+</seg>
+<seg type="newline">
+wenn	KOUS	 wenn	wenn
+es	PPER	 es	es
+nemlich	ADJD	 UNKNOWN	nemlich
+kalt	ADJD	 kalt	kalt
+worden	VAPP	 werden	worden
+</seg>
+<seg type="newline">
+und	KON	 und	und
+verwahrets	NN	 UNKNOWN	verwahrets
+wohl	PTKVZ	 wohl	wohl
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

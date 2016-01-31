@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Buchinger_1700_20" collection="historical" source="Buchinger" url="none" year="1700" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:1f.]">
+<title>
+<seg type="newline">
+337.	ADJA	 @ord@	337.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Im	APPRART	 im	Im
+Nohtfall	NN	 UNKNOWN	Nohtfall
+kan	ADV	 nun	Nun
+man	PIS	 man	man
+auch	ADV	 auch	auch
+Pasteten	NN	 Pastete	Pasteten
+machen	VVFIN	 machen	machen
+von	APPR	 von	von
+Rindfleisch	NN	 Rindfleisch	Rindfleisch
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+Wildprät	NN	 UNKNOWN	Wildprät
+</seg>
+<seg type="newline">
+zuvor	ADV	 zuvor	zuvor
+etlich	NN	 Rettich	Rettich
+Tag	NN	 Tag	Tag
+in	APPR	 in	in
+Essig	NN	 Essig	Essig
+</seg>
+<seg type="newline">
+Saltz	NN	 Salz	Salz
+und	KON	 und	und
+Wachholderbeer	NN	 UNKNOWN	Wachholderbeer
+gebeitztr	ADJA	 UNKNOWN	gebeitztr
+Num	NN	 UNKNOWN	Num
+4.	ADJA	 4.	4.
+</seg>
+</body>
+</text>

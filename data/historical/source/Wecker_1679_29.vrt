@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Wecker_1679_29" collection="historical" source="Wecker" url="none" year="1679" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:420]">
+<title>
+<seg type="newline">
+Noch	ADV	 noch	Noch
+ein	ART	 ein	ein
+Gattung	NN	 Gattung	Gattung
+von	APPR	 von	von
+Pirendarten	NN	 UNKNOWN	Pirendarten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+gute	ADJA	 gut	gute
+safftige	ADJA	 UNKNOWN	safftige
+Piren	NN	 UNKNOWN	Piren
+</seg>
+<seg type="newline">
+schöle	VVFIN	 UNKNOWN	schöle
+sie	PPER	 sie	sie
+zu	APPR	 zu	zu
+dünnen	ADJA	 dünn	dünnen
+Schnitzen	NN	 Schnitzen	Schnitzen
+</seg>
+<seg type="newline">
+wäsche	NN	 Wäsche	wäsche
+sie	PPER	 sie	sie
+</seg>
+<seg type="newline">
+thue	VVFIN	 UNKNOWN	thue
+sie	PPER	 sie	sie
+in	APPR	 in	in
+eine	ART	 ein	eine
+Kachel	NN	 Kachel	Kachel
+wol	PWAV	 wo	wo
+gedeckt	ADJD	 gedeckt	gedeckt
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+sie	PPER	 sie	sie
+dämpffen	VVFIN	 UNKNOWN	dämpffen
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+sie	PPER	 sie	sie
+wol	PWAV	 wo	wo
+lind	ADJD	 lind	lind
+seynd	VAFIN	 sein	sind
+</seg>
+<seg type="newline">
+treib	VVIMP	 treiben	treib
+es	PPER	 es	es
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+Durchschlag	NN	 Durchschlag	Durchschlag
+oder	KON	 oder	oder
+Seigpfann	NN	 UNKNOWN	Seigpfann
+.	$.	.	$.	 .	|	.
+Etliche	PIS	 etlich	Etliche
+zermischen	VVFIN	 UNKNOWN	zermischen
+sich	PRF	 er|es|sie	sich
+selbst	ADV	 selbst	selbst
+</seg>
+<seg type="newline">
+sie	PPER	 sie	sie
+bedörffen	VVFIN	 UNKNOWN	bedörffen
+nicht	PTKNEG	 nicht	nicht
+viel	PIAT	 viel	viel
+durchtreibens	NN	 UNKNOWN	durchtreibens
+.	$.	.	$.	 .	|	.
+Nun	ADV	 nun	Nun
+wie	KOUS	 wie	wie
+es	PPER	 es	es
+von	APPR	 von	von
+nöhten	NE	 UNKNOWN	nöhten
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+reib	ADJD	 UNKNOWN	reib
+schön	ADJD	 schön	schön
+hart	ADJD	 hart	hart
+Brot	NN	 Brot	Brot
+auff	APPR	 auf	auf
+einem	ART	 ein	einem
+Reibeisen	NN	 Reibeisen	Reibeisen
+</seg>
+<seg type="newline">
+beutels	NN	 Beutel	beutels
+daß	KOUS	 daß	daß
+es	PPER	 es	es
+gar	ADV	 gar	gar
+rein	ADV	 rein	rein
+sey	NE	 UNKNOWN	sey
+</seg>
+<seg type="newline">
+rühre	VVFIN	 rühren	rühre
+es	PPER	 es	es
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+es	PPER	 es	es
+recht	ADJD	 recht	recht
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+es	PPER	 es	es
+wol	PWAV	 wo	wo
+trocken	PTKVZ	 trocken	trocken
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+nicht	PTKNEG	 nicht	nicht
+zu	PTKA	 zu	zu
+vest	ADJD	 UNKNOWN	vest
+werde	VAFIN	 werden	werde
+</seg>
+<seg type="newline">
+thu	NE	 Thu	thu
+es	PPER	 es	es
+wieder	ADV	 wieder	wieder
+in	APPR	 in	in
+ein	ART	 ein	ein
+Kachel	NN	 Kachel	Kachel
+sampt	APPR	 samt	samt
+einem	ART	 ein	einem
+heissen	ADJA	 heiß	heissen
+Schmaltz	NN	 Schmalz	Schmalz
+</seg>
+<seg type="newline">
+wanns	NE	 UNKNOWN	wanns
+recht	ADJD	 recht	recht
+gekocht	VVPP	 kochen	gekocht
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+klopffe	VVFIN	 UNKNOWN	klopffe
+vier	CARD	 vier	vier
+Eyer	NE	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+minder	ADJD	 minder	minder
+oder	KON	 oder	oder
+mehr	ADV	 mehr	mehr
+</seg>
+<seg type="newline">
+nach	APPR	 nach	nach
+dem	ART	 d	dem
+des	ART	 d	des
+Zeugs	NN	 Zeug	Zeugs
+viel	ADV	 viel	viel
+oder	KON	 oder	oder
+wenig	PIS	 wenig	wenig
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+gelb	ADJD	 gelb	gelb
+ist	VAFIN	 sein	ist
+am	APPRART	 am	am
+besten	ADJA	 gut	besten
+</seg>
+<seg type="newline">
+wanns	NN	 UNKNOWN	wanns
+nicht	PTKNEG	 nicht	nicht
+wol	PWAV	 wo	wo
+geklopfft	ADJA	 UNKNOWN	geklopfft
+sind	VAFIN	 sein	sind
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+wird	VAFIN	 werden	wird
+das	ART	 d	das
+weisse	ADJA	 weiß	weisse
+lang	ADJD	 lang	lang
+</seg>
+<seg type="newline">
+es	PPER	 es	es
+sihet	VVFIN	 UNKNOWN	sihet
+gar	ADV	 gar	gar
+häßlich	ADJD	 häßlich	häßlich
+.	$.	.	$.	 .	|	.
+Wann	PWAV	 wann	Wann
+du	PPER	 du	du
+es	PPER	 es	es
+dann	ADV	 dann	dann
+also	ADV	 also	also
+für	APPR	 für	für
+ein	ART	 ein	ein
+Gemüß	NN	 UNKNOWN	Gemüß
+geben	VVFIN	 geben	geben
+wilt	NE	 Wilt	wilt
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+rühre	VVFIN	 rühren	rühre
+Eyer	NE	 UNKNOWN	Eyer
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+würtze	VVFIN	 würzen	würzt
+es	PPER	 es	es
+mit	APPR	 mit	mit
+Ingwer	NN	 Ingwer	Ingwer
+vnd	KON	 und	und
+Muscatnuß	NN	 UNKNOWN	Muscatnuß
+wol	PWAV	 wo	wo
+.	$.	.	$.	 .	|	.
+Wilt	NE	 Wilt	Wilt
+du	PPER	 du	du
+es	PPER	 es	es
+aber	ADV	 aber	aber
+in	APPR	 in	in
+ein	ART	 ein	ein
+Dartenhafen	NN	 UNKNOWN	Dartenhafen
+haben	VAFIN	 haben	haben
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+laß	ADJD	 laß	laß
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+überschlagen	VVFIN	 überschlagen	überschlagen
+</seg>
+<seg type="newline">
+dan	NE	 Dan	dan
+bereits	ADV	 bereits	bereits
+auß	VMFIN	 müssen	muß
+wie	KOKOM	 wie	wie
+vor	APPR	 vor	vor
+oben	ADV	 oben	oben
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+leg	VVIMP	 legen	leg
+in	APPR	 in	in
+die	ART	 d	die
+Darten	NN	 UNKNOWN	Darten
+am	APPRART	 am	am
+ersten	ADJA	 erst	ersten
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Schmaltz	NN	 Schmalz	Schmalz
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+dann	ADV	 dann	dann
+den	ART	 d	den
+Zeug	NN	 Zeug	Zeug
+darauff	PAV	 drauf	drauf
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+so	ADV	 so	so
+sie	PPER	 sie	sie
+schier	ADJD	 schier	schier
+gebachen	VVPP	 UNKNOWN	gebachen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+obenher	ADV	 UNKNOWN	obenher
+schmutzig	ADJD	 schmutzig	schmutzig
+</seg>
+<seg type="newline">
+(	$(	(	$(	 (	|	(
+dann	ADV	 dann	dann
+das	ART	 d	das
+Schmaltz	NN	 Schmalz	Schmalz
+kocht	VVFIN	 kochen	kocht
+fein	ADJD	 fein	fein
+dadurch	PAV	 dadurch	dadurch
+)	$(	)	$(	 )	|	)
+so	ADV	 so	so
+bestrewe	VVFIN	 bestreuen	bestreuen
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+Ingwer	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Zimmet	NN	 Zimt	Zimt
+vnd	KON	 und	und
+Zucker	NN	 Zucker	Zucker
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+bachs	NN	 Bach	bachs
+rösch	VVFIN	 UNKNOWN	rösch
+.	$.	.	$.	 .	|	.
+Wilt	NE	 Wilt	Wilt
+du	PPER	 du	du
+sie	PPER	 sie	sie
+dann	ADV	 dann	dann
+im	APPRART	 im	im
+Mörsel	NN	 UNKNOWN	Mörsel
+bachen	NN	 Kochen	Kochen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+mache	VVFIN	 machen	mache
+des	ART	 d	des
+Brots	NN	 Brot	Brots
+vnd	KON	 und	und
+Piren	NN	 UNKNOWN	Piren
+</seg>
+<seg type="newline">
+eines	ART	 ein	eines
+so	ADV	 so	so
+viel	ADV	 viel	viel
+als	KOKOM	 als	als
+des	ART	 d	des
+andern	PIS	 ander	andern
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+nimm	VVIMP	 nehmen	nimm
+mehr	ADV	 mehr	mehr
+Eyer	NE	 UNKNOWN	Eyer
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

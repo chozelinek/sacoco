@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Stockholm_1647_18" collection="historical" source="Stockholm" url="none" year="1647" decade="1640-1650" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Hecht|" method="|none|" ref="[1647:210]">
+<body>
+<seg type="newline">
+Hecht	NN	 Hecht	Hecht
+Magen	NN	 Magen	Magen
+gefüllet	ADJD	 UNKNOWN	gefüllet
+mit	APPR	 mit	mit
+gekochtem	ADJA	 gekocht	gekochtem
+geklabetem	ADJA	 UNKNOWN	geklabetem
+Hecht	NN	 Hecht	Hecht
+von	APPR	 von	von
+den	ART	 d	den
+graten	NN	 Grat	graten
+</seg>
+<seg type="newline">
+gehacket	VVFIN	 UNKNOWN	gehacket
+in	APPR	 in	in
+Eyerdotter	ADJA	 UNKNOWN	Eyerdotter
+</seg>
+<seg type="newline">
+gewicht	NN	 Gewicht	gewicht
+Semmel	NN	 Semmel	Semmel
+Ingber	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+gahr	ADV	 gar	gar
+gesotten	VVPP	 sieden	gesotten
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

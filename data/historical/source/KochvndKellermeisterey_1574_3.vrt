@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Koch_vnd_Kellermeisterey_1574_3" collection="historical" source="Koch_vnd_Kellermeisterey" url="none" year="1574" decade="1570-1580" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[48rf.]">
+<title>
+<seg type="newline">
+Senff	NN	 UNKNOWN	Senff
+zumachen	VVFIN	 zumachen	zumachen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Süssen	ADJA	 süß	Süssen
+Senff	NN	 UNKNOWN	Senff
+mal	ADV	 mal	mal
+mit	APPR	 mit	mit
+der	ART	 d	der
+wurtz	NN	 UNKNOWN	wurtz
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+wann	PWAV	 wann	wann
+er	PPER	 er	er
+wol	PWAV	 wo	wo
+gemalen	ADJA	 UNKNOWN	gemalen
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+gib	VVIMP	 geben	gib
+jhm	PPER	 er	ihn
+ein	PTKVZ	 ein	ein
+wall	VVIMP	 wallen	wall
+in	APPR	 in	in
+einer	ART	 ein	einer
+pfannen	NN	 Pfanne	Pfanne
+auff	APPR	 auf	auf
+einem	ART	 ein	einem
+feuwr	NE	 UNKNOWN	feuwr
+</seg>
+<seg type="newline">
+rüre	VVFIN	 UNKNOWN	rüre
+jhn	PPER	 er	ihn
+wol	PWAV	 wo	wo
+mit	APPR	 mit	mit
+wenig	PIAT	 wenig	wenig
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+behalt	NN	 Inhalt	Inhalt
+jhn	PPER	 er	ihn
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+mehr	ADV	 mehr	mehr
+jhn	PPER	 er	ihn
+mit	APPR	 mit	mit
+deren	PDAT	 d	deren
+würtzen	ADJD	 UNKNOWN	würtzen
+gesotten	VVPP	 sieden	gesotten
+</seg>
+<seg type="newline">
+vermach	VVFIN	 UNKNOWN	vermach
+jhn	PPER	 er	ihn
+gar	ADV	 gar	gar
+wol	PWAV	 wo	wo
+.	$.	.	$.	 .	|	.
+Wiltu	NN	 UNKNOWN	Wiltu
+den	ART	 d	den
+zu	PTKZU	 zu	zu
+essen	VVINF	 essen	essen
+machen	VVFIN	 machen	machen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+seud	NE	 UNKNOWN	seud
+einen	ART	 ein	einen
+guten	ADJA	 gut	guten
+Honigwein	NN	 Honigwein	Honigwein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+temperier	NN	 UNKNOWN	temperier
+den	ART	 d	den
+damit	PAV	 damit	damit
+</seg>
+<seg type="newline">
+saltz	ADJA	 kalt	kalten
+jhn	PPER	 er	ihn
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+würtz	VVFIN	 würzen	würzt
+jn	NE	 UNKNOWN	jn
+</seg>
+<seg type="newline">
+kaum	ADV	 kaum	kaum
+zu	PTKA	 zu	zu
+prüffen	ADJD	 UNKNOWN	prüffen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+ist	VAFIN	 sein	ist
+er	PPER	 er	er
+gut	ADJD	 gut	gut
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

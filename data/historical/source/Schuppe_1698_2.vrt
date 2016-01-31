@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Schuppe_1698_2" collection="historical" source="Schuppe" url="none" year="1698" decade="1690-1700" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1698:6]">
+<title>
+<seg type="newline">
+VIII.	NN	 UNKNOWN	VIII.
+Eine	ART	 ein	Eine
+Suppe	NN	 Suppe	Suppe
+von	APPR	 von	von
+trucknen	ADJA	 UNKNOWN	trucknen
+Erbsen	NN	 Erbse	Erbsen
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Schweine=Fleisch	NN	 UNKNOWN	Schweine=Fleisch
+oder	KON	 oder	oder
+eingemachten	ADJA	 eingemacht	eingemachten
+Gänse=Keulen	NN	 UNKNOWN	Gänse=Keulen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+truckene	ADJA	 UNKNOWN	truckene
+Erbsen	NN	 Erbse	Erbsen
+</seg>
+<seg type="newline">
+setze	VVFIN	 setzen	setze
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+Wasser	NN	 Wasser	Wasser
+bey	NE	 Bey	bey
+das	ART	 d	das
+Feuer	NN	 Feuer	Feuer
+</seg>
+<seg type="newline">
+und	KON	 und	und
+laß	ADJD	 laß	laß
+sie	PPER	 sie	sie
+kochen	VVFIN	 kochen	kochen
+</seg>
+<seg type="newline">
+es	PPER	 es	es
+muß	VMFIN	 müssen	muß
+aber	ADV	 aber	aber
+viel	PIAT	 viel	viel
+Wasser	NN	 Wasser	Wasser
+darauff	PAV	 drauf	drauf
+seyn	ADJD	 UNKNOWN	seyn
+</seg>
+<seg type="newline">
+nimm	VVIMP	 nehmen	nimm
+den	ART	 d	den
+Carbonat	NN	 UNKNOWN	Carbonat
+vom	APPRART	 vom	vom
+Schweine	NN	 Schwein	Schweine
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+Saltz	NN	 Salz	Salz
+dabey	PAV	 dabei	dabei
+</seg>
+<seg type="newline">
+und	KON	 und	und
+koche	VVFIN	 kochen	koche
+ihn	PPER	 er	ihn
+gahr	ADV	 gar	gar
+</seg>
+<seg type="newline">
+wenn	KOUS	 wenn	wenn
+die	ART	 d	die
+Erbsen	NN	 Erbse	Erbsen
+gahr	ADV	 gar	gar
+sind	VAFIN	 sein	sind
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+streiche	VVFIN	 streichen	streiche
+sie	PPER	 sie	sie
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+Durchschlag	NN	 Durchschlag	Durchschlag
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+es	PPER	 es	es
+wird	VAFIN	 werden	wird
+als	KOKOM	 als	als
+eine	ART	 ein	eine
+Erbsen=Suppe	NN	 UNKNOWN	Erbsen=Suppe
+</seg>
+<seg type="newline">
+und	KON	 und	und
+wenn	KOUS	 wenn	wenn
+es	PPER	 es	es
+zusammen	ADV	 zusammen	zusammen
+gahr	ADV	 gar	gar
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+schneide	VVFIN	 schneiden	schneide
+Semmel	NN	 Semmel	Semmel
+in	APPR	 in	in
+die	ART	 d	die
+Schüssel	NN	 Schüssel	Schüssel
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+von	APPR	 von	von
+der	ART	 d	der
+Erbsen=Suppe	NN	 UNKNOWN	Erbsen=Suppe
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+darauff	PAV	 drauf	drauf
+</seg>
+<seg type="newline">
+setze	VVFIN	 setzen	setze
+es	PPER	 es	es
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+auff	APPR	 auf	auf
+Kohlen	NN	 Kohle	Kohlen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+richte	VVFIN	 richten	richte
+denn	KON	 denn	denn
+den	ART	 d	den
+Carbonat	NN	 UNKNOWN	Carbonat
+vom	APPRART	 vom	vom
+Schweine	NN	 Schwein	Schweine
+oder	KON	 oder	oder
+die	ART	 d	die
+eingemachten	ADJA	 eingemacht	eingemachten
+Gänße=Keulen	NN	 UNKNOWN	Gänße=Keulen
+auff	APPR	 auf	auf
+der	ART	 d	der
+Schüssel	NN	 Schüssel	Schüssel
+an	APPR	 an	an
+</seg>
+<seg type="newline">
+die	ART	 d	die
+Gänße=Keulen	NN	 UNKNOWN	Gänße=Keulen
+müssen	VMFIN	 müssen	müssen
+aber	ADV	 aber	aber
+warm	ADJD	 warm	warm
+gemachet	VVFIN	 UNKNOWN	gemachet
+werden	VAFIN	 werden	werden
+in	APPR	 in	in
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+und	KON	 und	und
+wenn	KOUS	 wenn	wenn
+es	PPER	 es	es
+angerichtet	VVPP	 anrichten	angerichtet
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+gieß	VVIMP	 gießen	gieß
+von	APPR	 von	von
+der	ART	 d	der
+Erbsen=Bullion	NN	 UNKNOWN	Erbsen=Bullion
+darauff	PAV	 drauf	drauf
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+ist	VAFIN	 sein	ist
+es	PPER	 es	es
+fertig	ADJD	 fertig	fertig
+.	$.	.	$.	 .	|	.
+Wenn	KOUS	 wenn	Wenn
+die	ART	 d	die
+Erbsen	NN	 Erbse	Erbsen
+auffkochen	VVFIN	 aufkochen	aufkochen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+muß	VMFIN	 müssen	muß
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Petersillien	NN	 UNKNOWN	Petersillien
+</seg>
+<seg type="newline">
+Timian	NE	 UNKNOWN	Timian
+und	KON	 und	und
+Zipollen	NE	 UNKNOWN	Zipollen
+in	APPR	 in	in
+brauner	ADJA	 braun	brauner
+Butter	NN	 Butter	Butter
+daran	PAV	 daran	daran
+gebraten	VVPP	 braten	gebraten
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+und	KON	 und	und
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Pfeffer	NN	 Pfeffer	Pfeffer
+und	KON	 und	und
+Saltz	NN	 Salz	Salz
+.	$.	.	$.	 .	|	.
+Auff	NN	 UNKNOWN	Auff
+die	ART	 d	die
+Art	NN	 Art	Art
+kan	ADV	 nun	Nun
+auch	ADV	 auch	auch
+eine	ART	 ein	eine
+Erbsen=Suppe	NN	 UNKNOWN	Erbsen=Suppe
+gemacht	VVPP	 machen	gemacht
+werden	VAFIN	 werden	werden
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

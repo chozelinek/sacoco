@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Hohberg_1715_27" collection="historical" source="Hohberg" url="none" year="1715" decade="1710-1720" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1715:95]">
+<title>
+<seg type="newline">
+Einen	ART	 ein	Einen
+Oster=Fladen	NN	 UNKNOWN	Oster=Fladen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Verfertiget	NN	 UNKNOWN	Verfertiget
+einen	ART	 ein	einen
+Eyer=Käß	NN	 UNKNOWN	Eyer=Käß
+</seg>
+<seg type="newline">
+auf	APPR	 auf	auf
+die	ART	 d	die
+bekandte	ADJA	 UNKNOWN	bekandte
+Art	NN	 Art	Art
+</seg>
+<seg type="newline">
+schüttet	VVFIN	 schütten	schüttet
+solchen	PIS	 solch	solchen
+in	APPR	 in	in
+einen	ART	 ein	einen
+Seiher	NN	 Seite	Seiten
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+das	ART	 d	das
+dünne	ADJA	 dünn	dünne
+oder	KON	 oder	oder
+die	ART	 d	die
+Milch	NN	 Milch	Milch
+</seg>
+<seg type="newline">
+auf	APPR	 auf	auf
+das	ART	 d	das
+genaueste	ADJA	 genau	genaueste
+davon	PAV	 davon	davon
+komme	VVFIN	 kommen	komme
+.	$.	.	$.	 .	|	.
+Dann	ADV	 dann	Dann
+rühret	VVFIN	 rühren	rühren
+Semmel=Mehl	NN	 UNKNOWN	Semmel=Mehl
+</seg>
+<seg type="newline">
+Weinbeer	NN	 Weizenbier	Weizenbier
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Corinthen	NN	 Korinthe	Korinthen
+</seg>
+<seg type="newline">
+ausgekörnte	ADJA	 UNKNOWN	ausgekörnte
+Rosinen	NN	 Rosine	Rosinen
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+Zimmet	NN	 Zimt	Zimt
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+zerlassene	VVFIN	 zerlassen	zerlassen
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+nach	APPR	 nach	nach
+Belieben	NN	 Belieben	Belieben
+</seg>
+<seg type="newline">
+klein=geschnittene	ADJA	 UNKNOWN	klein=geschnittene
+Mandeln	NN	 Mandel	Mandeln
+darunter	PAV	 darunter	darunter
+</seg>
+<seg type="newline">
+schlaget	VVFIN	 UNKNOWN	schlaget
+so	ADV	 so	so
+viel	ADV	 viel	viel
+Eyer	NE	 UNKNOWN	Eyer
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+es	PPER	 es	es
+eine	ART	 ein	eine
+mittelmäßige	ADJA	 mittelmäßig	mittelmäßige
+Dicken	NN	 Dicke	Dicken
+bekommt	VVFIN	 bekommen	bekommt
+</seg>
+<seg type="newline">
+bereitet	VVFIN	 bereiten	bereitet
+in	APPR	 in	in
+einem	ART	 ein	einem
+Dorten=Schart	NN	 UNKNOWN	Dorten=Schart
+einen	ART	 ein	einen
+Butter=Teig	NN	 UNKNOWN	Butter=Teig
+</seg>
+<seg type="newline">
+giesset	PDAT	 dies	diese
+das	PDS	 d	das
+Angerührte	VVFIN	 UNKNOWN	Angerührte
+hinein	ADV	 hinein	hinein
+</seg>
+<seg type="newline">
+bestreuets	NN	 UNKNOWN	bestreuets
+oben	ADV	 oben	oben
+mit	APPR	 mit	mit
+Zucker	NN	 Zucker	Zucker
+und	KON	 und	und
+Zimmet	NN	 Zimt	Zimt
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+belegts	NN	 UNKNOWN	belegts
+mit	APPR	 mit	mit
+zierlich=ausgeschnittenem	ADJA	 UNKNOWN	zierlich=ausgeschnittenem
+Taig	NN	 Teig	Teig
+</seg>
+<seg type="newline">
+und	KON	 und	und
+bachets	NN	 UNKNOWN	bachets
+in	APPR	 in	in
+einem	ART	 ein	einem
+Ofen	NN	 Ofen	Ofen
+.	$.	.	$.	 .	|	.
+Oder	KON	 oder	Oder
+rühret	VVFIN	 rühren	rühren
+unter	APPR	 unter	unter
+besagtem	ADJA	 besagt	besagtem
+Eyer=Käß	NN	 UNKNOWN	Eyer=Käß
+so	ADV	 so	so
+viel	PIAT	 viel	viel
+klein=gestossene	ADJA	 UNKNOWN	klein=gestossene
+Mandeln	NN	 Mandel	Mandeln
+</seg>
+<seg type="newline">
+Zimmet	NN	 Zimt	Zimt
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+Weinbeer	NN	 Weizenbier	Weizenbier
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Malvasier	NN	 UNKNOWN	Malvasier
+</seg>
+<seg type="newline">
+und	KON	 und	und
+bachets	NN	 UNKNOWN	bachets
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+erst	ADV	 erst	erst
+erwähnt	VVPP	 erwähnen	erwähnt
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

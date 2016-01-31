@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Staindl_1569_3" collection="historical" source="Staindl" url="none" year="1569" decade="1560-1570" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[45v]">
+<title>
+<seg type="newline">
+Weinbeer	NN	 Weizenbier	Weizenbier
+Salssen	NN	 UNKNOWN	Salssen
+zu	PTKZU	 zu	zu
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Von	APPR	 von	Von
+den	ART	 d	den
+kleinen	ADJA	 klein	kleinen
+schwartzen	ADJA	 UNKNOWN	schwartzen
+Weinbeerlin	NN	 UNKNOWN	Weinbeerlin
+</seg>
+<seg type="newline">
+wasch	VVIMP	 waschen	wasch
+die	ART	 d	die
+Weinbeerlin	NE	 UNKNOWN	Weinbeerlin
+sauber	ADJD	 sauber	sauber
+</seg>
+<seg type="newline">
+hacks	NN	 UNKNOWN	hacks
+gar	ADV	 gar	gar
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+stoß	VVIMP	 stoßen	stoß
+darnach	PAV	 danach	Danach
+in	APPR	 in	in
+einem	ART	 ein	einem
+Mörser	NN	 Mörser	Mörser
+</seg>
+<seg type="newline">
+weich	ADJD	 weich	weich
+ein	ART	 ein	ein
+gebäwte	ADJA	 UNKNOWN	gebäwte
+semel	NN	 UNKNOWN	semel
+in	APPR	 in	in
+ein	ART	 ein	ein
+Reinfel	NN	 UNKNOWN	Reinfel
+</seg>
+<seg type="newline">
+stoß	VVIMP	 stoßen	stoß
+darunder	ADJA	 UNKNOWN	darunder
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+schlags	ADJD	 UNKNOWN	schlags
+durch	APPR	 durch	durch
+mit	APPR	 mit	mit
+Reinfel	NN	 UNKNOWN	Reinfel
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+du	PPER	 du	du
+zwey	CARD	 zwei	zwei
+pfund	ADJA	 UNKNOWN	pfund
+Weinbeerlein	NN	 UNKNOWN	Weinbeerlein
+nimbst	VVFIN	 UNKNOWN	nimbst
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nimb	VVFIN	 UNKNOWN	nimb
+auch	ADV	 auch	auch
+ein	ART	 ein	ein
+halb	ADJD	 halb	halb
+pfund	ADJA	 UNKNOWN	pfund
+zucker	VVIMP	 zuckern	zucker
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+ist	VAFIN	 sein	ist
+er	PPER	 er	er
+schön	ADJD	 schön	schön
+weiß	VVFIN	 wissen	weiß
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+darffst	VVFIN	 UNKNOWN	darffst
+du	PPER	 du	du
+jn	NE	 UNKNOWN	jn
+nicht	PTKNEG	 nicht	nicht
+leütern	NN	 UNKNOWN	leütern
+</seg>
+<seg type="newline">
+stoß	VVIMP	 stoßen	stoß
+jn	NE	 UNKNOWN	jn
+nur	ADV	 nur	nur
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+thuo	NE	 UNKNOWN	thue
+jn	NE	 UNKNOWN	jn
+hinein	PTKVZ	 hinein	hinein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+ein	ART	 ein	ein
+viertheil	ADJA	 UNKNOWN	viertheil
+Reinfel	NN	 UNKNOWN	Reinfel
+</seg>
+<seg type="newline">
+vn	NE	 UNKNOWN	vn
+ein	PTKVZ	 ein	ein
+oder	KON	 oder	oder
+vier	CARD	 vier	vier
+schnitten	VVFIN	 schneiden	schnitten
+Semel	NN	 UNKNOWN	Semel
+bäwt	VVFIN	 UNKNOWN	bäwt
+</seg>
+<seg type="newline">
+ab	APPR	 ab	ab
+einer	ART	 ein	einer
+pfenning	ADJA	 UNKNOWN	pfenning
+Semel	NN	 UNKNOWN	Semel
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+also	ADV	 also	also
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+thuo	NE	 UNKNOWN	thue
+es	PPER	 es	es
+anrüren	VVFIN	 UNKNOWN	anrüren
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+schier	ADJD	 schier	schier
+halb	ADJD	 halb	halb
+einseüdt	VVFIN	 UNKNOWN	einseüdt
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+so	ADV	 so	so
+thuo	NE	 UNKNOWN	thue
+herdan	NE	 UNKNOWN	herdan
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+gewürtz	NN	 UNKNOWN	Gewürtz
+mit	APPR	 mit	mit
+Ingber	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Zimmetrörn	NN	 UNKNOWN	Zimmetrörn
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+Muscatblü	NN	 UNKNOWN	Muscatenblüh
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+laß	ADJD	 laß	laß
+vngefährlich	ADJD	 UNKNOWN	vngefährlich
+als	KOKOM	 als	als
+lang	ADJD	 lang	lang
+sieden	VVINF	 sieden	sieden
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+das	PDS	 d	das
+es	PPER	 es	es
+dick	ADJD	 dick	dick
+wirdt	ADJD	 UNKNOWN	wirdt
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+mans	VMFIN	 mögen	mag
+auff	APPR	 auf	auf
+ein	ART	 ein	ein
+schüssel	NN	 Schüssel	schüssel
+geüßt	VVPP	 UNKNOWN	geüßt
+zum	APPRART	 zum	zum
+braten	VVINF	 braten	braten
+.	$.	.	$.	 .	|	.
+Solliche	ADJA	 UNKNOWN	Solliche
+Salssen	NN	 UNKNOWN	Salssen
+dürffen	ADJD	 UNKNOWN	dürffen
+die	ART	 d	die
+Kindtbetterin	NN	 UNKNOWN	Kindtbetterin
+essen	VVFIN	 essen	essen
+zum	APPRART	 zum	zum
+Braten	NN	 Braten	Braten
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

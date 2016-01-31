@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Stockholm_1647_17" collection="historical" source="Stockholm" url="none" year="1647" decade="1640-1650" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Hecht|" method="|none|" ref="[1647:205]">
+<body>
+<seg type="newline">
+Hecht	NN	 Hecht	Hecht
+mit	APPR	 mit	mit
+Klöschen	NN	 UNKNOWN	Klöschen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+Petersilien	NN	 Petersilie	Petersilie
+würtzel	ADJD	 UNKNOWN	würtzel
+in	APPR	 in	in
+Butter	NN	 Butter	Butter
+Sooht	NE	 UNKNOWN	Sooht
+</seg>
+<seg type="newline">
+Die	ART	 d	Die
+Klöschen	NN	 UNKNOWN	Klöschen
+von	APPR	 von	von
+Hechtfleisch	NN	 UNKNOWN	Hechtfleisch
+</seg>
+<seg type="newline">
+Eyern	ADJA	 UNKNOWN	Eyern
+Brot	NN	 Brot	Brot
+</seg>
+<seg type="newline">
+Gewürtz	NN	 UNKNOWN	Gewürtz
+an	APZR	 an	an
+gemacht	VVPP	 machen	gemacht
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

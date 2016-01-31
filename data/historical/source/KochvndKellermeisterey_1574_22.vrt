@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Koch_vnd_Kellermeisterey_1574_22" collection="historical" source="Koch_vnd_Kellermeisterey" url="none" year="1574" decade="1570-1580" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1574:24r]">
+<title>
+<seg type="newline">
+Fleysch	NN	 UNKNOWN	Fleysch
+das	ART	 d	das
+man	PIS	 man	man
+stossen	VVINF	 stoßen	stossen
+muß	VMFIN	 müssen	muß
+</seg>
+<seg type="newline">
+als	KOKOM	 als	als
+die	ART	 d	die
+alten	ADJA	 alt	alten
+krancken	ADJA	 UNKNOWN	krancken
+leuten	NN	 Leute	leuten
+</seg>
+<seg type="newline">
+die	ART	 d	die
+nicht	PTKNEG	 nicht	nicht
+keuwen	VVINF	 UNKNOWN	keuwen
+mögen	VMINF	 mögen	mögen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+NimWildpret	NN	 UNKNOWN	NimWildpret
+</seg>
+<seg type="newline">
+Kalbfleisch	NN	 Kalbfleisch	Kalbfleisch
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+ander	ADV	 UNKNOWN	ander
+fleisch	ADJD	 UNKNOWN	fleisch
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+da	ADV	 da	da
+frisch	ADJD	 frisch	frisch
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+seud	NE	 UNKNOWN	seud
+es	PPER	 es	es
+on	ADJA	 UNKNOWN	on
+saltz	ADJA	 kalt	kalten
+</seg>
+<seg type="newline">
+schäume	VVFIN	 schäumen	schäume
+es	PPER	 es	es
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+seihe	PPOSAT	 sein	seine
+die	PRELS	 d	die
+brüh	ADJD	 früh	früh
+lauter	ADJD	 laut	lauter
+ab	PTKVZ	 ab	ab
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+behalt	NN	 Inhalt	Inhalt
+sie	PPER	 sie	sie
+</seg>
+<seg type="newline">
+stoß	VVIMP	 stoßen	stoß
+das	ART	 d	das
+Fleysch	NN	 UNKNOWN	Fleysch
+in	APPR	 in	in
+eim	ADJA	 UNKNOWN	nimb
+Mörsel	TRUNC	 UNKNOWN	Mörsel
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Semelbrodt	NN	 UNKNOWN	Semelbrodt
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+streich	VVIMP	 streichen	streich
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+thuch	NN	 UNKNOWN	thuch
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+der	ART	 d	der
+vorbehaltenen	ADJA	 vorbehalten	vorbehaltenen
+brühe	VVFIN	 brühen	brühe
+</seg>
+<seg type="newline">
+vermisch	ADJD	 UNKNOWN	vermisch
+die	ART	 d	die
+mit	APPR	 mit	mit
+Wein	NN	 Wein	Wein
+vnnd	KON	 und	und
+Essig	NN	 Essig	Essig
+</seg>
+<seg type="newline">
+wilt	VMFIN	 wollen	will
+du	PPER	 du	du
+es	PPER	 es	es
+dickhaben	ADJD	 UNKNOWN	dickhaben
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+klopff	ADJA	 UNKNOWN	klopff
+Eyer	NE	 UNKNOWN	Eyer
+dotter	ADJD	 UNKNOWN	dotter
+mit	APPR	 mit	mit
+derselbigen	ADJA	 UNKNOWN	derselbigen
+durchgetriben	NN	 UNKNOWN	durchgetriben
+brühe	VVFIN	 brühen	brühe
+</seg>
+<seg type="newline">
+Wilt	NE	 Wilt	Wilt
+du	PPER	 du	du
+es	PPER	 es	es
+dünn	ADJD	 dünn	dünn
+haben	VAFIN	 haben	haben
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+ohn	VVFIN	 UNKNOWN	ohn
+Eyer	NE	 UNKNOWN	Eyer
+bleiben	VVINF	 bleiben	bleiben
+</seg>
+<seg type="newline">
+aber	KON	 aber	aber
+mit	APPR	 mit	mit
+Würtz	NE	 UNKNOWN	Würtz
+</seg>
+<seg type="newline">
+Saltz	NN	 Salz	Salz
+vnnd	KON	 und	und
+Buttern	NN	 UNKNOWN	Buttern
+.	$.	.	$.	 .	|	.
+Wilt	NE	 Wilt	Wilt
+du	PPER	 du	du
+es	PPER	 es	es
+dünn	ADJD	 dünn	dünn
+geben	VVFIN	 geben	geben
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+mach	VVIMP	 machen	mach
+Gebähets	NN	 UNKNOWN	Gebähets
+Brodt	NE	 UNKNOWN	Brodt
+</seg>
+<seg type="newline">
+gibs	NN	 UNKNOWN	gilbs
+für	APPR	 für	für
+ein	ART	 ein	ein
+Suppen	NN	 Suppe	Suppen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

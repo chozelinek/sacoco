@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Colerus_1602_7" collection="historical" source="Colerus" url="none" year="1602" decade="1600-1610" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1602:127]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+Muhs	NN	 UNKNOWN	Muhs
+von	APPR	 von	von
+Quitten	NN	 Quitte	Quitten
+</seg>
+<seg type="newline">
+damit	PAV	 damit	damit
+man	PIS	 man	man
+auch	ADV	 auch	auch
+ein	ART	 ein	ein
+Gebackens	NN	 UNKNOWN	Gebackens
+füllen	VVINF	 füllen	füllen
+mag	VMFIN	 mögen	mag
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wiltu	NN	 UNKNOWN	Wiltu
+ein	ART	 ein	ein
+Muhs	NN	 UNKNOWN	Muhs
+oder	KON	 oder	oder
+Confect	NN	 UNKNOWN	Confect
+machen	VVFIN	 machen	machen
+von	APPR	 von	von
+Quitten	NN	 Quitte	Quitten
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+spalte	VVFIN	 spalten	spalte
+sie	PPER	 sie	sie
+auff	APPR	 auf	auf
+in	APPR	 in	in
+vier	CARD	 vier	vier
+theil	NN	 UNKNOWN	theil
+</seg>
+<seg type="newline">
+schneide	VVFIN	 schneiden	schneide
+die	ART	 d	die
+Kernen	NN	 Kern	Kernen
+heraus	PTKVZ	 heraus	heraus
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+hacke	VVFIN	 hacken	hacke
+sie	PPER	 sie	sie
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+thue	VVFIN	 UNKNOWN	thue
+sie	PPER	 sie	sie
+in	APPR	 in	in
+einen	ART	 ein	einen
+Honig	NN	 Honig	Honig
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+röhste	VVFIN	 UNKNOWN	röhste
+sie	PPER	 sie	sie
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+das	PRELS	 d	das
+sie	PPER	 sie	sie
+gantz	ADV	 ganz	ganz
+weich	ADJD	 weich	weich
+werden	VAINF	 werden	werden
+</seg>
+<seg type="newline">
+würtze	VVFIN	 würzen	würzt
+sie	PPER	 sie	sie
+ab	PTKVZ	 ab	ab
+mit	APPR	 mit	mit
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Ingber	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Nelcken	NE	 UNKNOWN	Nelcken
+</seg>
+<seg type="newline">
+Muscatenblumen	NN	 UNKNOWN	Muscatenblumen
+</seg>
+<seg type="newline">
+Cinamey	NE	 UNKNOWN	Cinamey
+</seg>
+<seg type="newline">
+Muscaten	NN	 UNKNOWN	Muscaten
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+röhste	VVFIN	 UNKNOWN	röhste
+sie	PPER	 sie	sie
+wol	PWAV	 wo	wo
+ab	ADV	 ab	ab
+</seg>
+<seg type="newline">
+gantz	ADV	 ganz	ganz
+treuge	ADJD	 UNKNOWN	treuge
+.	$.	.	$.	 .	|	.
+Daraus	PAV	 daraus	Daraus
+mag	VMFIN	 mögen	mag
+man	PIS	 man	man
+ein	ART	 ein	ein
+Muhs	NN	 UNKNOWN	Muhs
+oder	KON	 oder	oder
+gebackens	NN	 UNKNOWN	gebackens
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

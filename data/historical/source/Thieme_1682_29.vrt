@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Thieme_1682_29" collection="historical" source="Thieme" url="none" year="1682" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1005]">
+<title>
+<seg type="newline">
+Austern	NN	 Auster	Austern
+oder	KON	 oder	oder
+Ostern	NN	 Ostern	Ostern
+.	$.	.	$.	 .	|	.
+Wie	KOUS	 wie	Wie
+solche	PIS	 solch	solche
+auf	APPR	 auf	auf
+unterschiedliche	ADJA	 unterschiedlich	unterschiedliche
+Art	NN	 Art	Art
+zuzurichten	VVIZU	 zurichten	zuzurichten
+und	KON	 und	und
+zu	PTKZU	 zu	zu
+bereiten	VVINF	 bereiten	bereiten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Waschet	NN	 UNKNOWN	Waschet
+erstlich	ADJD	 UNKNOWN	erstlich
+die	ART	 d	die
+Austern	NN	 Auster	Austern
+auswendig	ADV	 auswendig	auswendig
+an	APPR	 an	an
+der	ART	 d	der
+Schalen	NN	 Schale	Schalen
+rein	ADV	 rein	rein
+ab	ADV	 ab	ab
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+der	ART	 d	der
+Sand	NN	 Sand	Sand
+davon	PAV	 davon	davon
+kommt	VVFIN	 kommen	kommt
+</seg>
+<seg type="newline">
+leget	ADJD	 UNKNOWN	leget
+sie	PPER	 sie	sie
+dann	ADV	 dann	dann
+auf	APPR	 auf	auf
+heise	ADJA	 UNKNOWN	heise
+Kohlen	NN	 Kohle	Kohlen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+werden	VAFIN	 werden	werden
+sie	PPER	 sie	sie
+sich	PRF	 er|es|sie	sich
+von	APPR	 von	von
+selbst	ADV	 selbst	selbst
+aufthun	NE	 UNKNOWN	aufthun
+;	$.	;	$.	 ;	|	;
+oder	KON	 oder	oder
+da	KOUS	 da	da
+ihr	PPER	 ihr	ihr
+sie	PPER	 sie	sie
+</seg>
+<seg type="newline">
+welches	PWAT	 welch	welches
+zwar	ADV	 zwar	zwar
+besser	ADJD	 gut	besser
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+dem	ART	 d	dem
+Messer	NN	 Messer	Messer
+aufthut	NN	 UNKNOWN	aufthut
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+sehet	VVFIN	 sehen	sehet
+zu	APPR	 zu	zu
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+ihr	PPER	 ihr	ihr
+die	ART	 d	die
+Haut	NN	 Haut	Haut
+</seg>
+<seg type="newline">
+(	$(	(	$(	 (	|	(
+so	ADV	 so	so
+wie	KOKOM	 wie	wie
+ein	ART	 ein	ein
+dünn	ADJD	 dünn	dünn
+Glas	NN	 Glas	Glas
+)	$(	)	$(	 )	|	)
+worunter	PWAV	 worunter	worunter
+sich	PRF	 er|es|sie	sich
+das	ART	 d	das
+See=Wasser	NN	 UNKNOWN	See=Wasser
+hält	VVFIN	 halten	hält
+</seg>
+<seg type="newline">
+nicht	PTKNEG	 nicht	nicht
+zerbrechet	ADJD	 UNKNOWN	zerbrechet
+.	$.	.	$.	 .	|	.
+Wann	PWAV	 wann	Wann
+ihr	PPER	 ihr	ihr
+sie	PPER	 sie	sie
+nun	ADV	 nun	nun
+abgelöset	ADJA	 UNKNOWN	abgelöset
+und	KON	 und	und
+umgewendet	ADJA	 UNKNOWN	umgewendet
+habt	VAFIN	 haben	habt
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+lasset	VVFIN	 lassen	lasset
+sie	PPER	 sie	sie
+in	APPR	 in	in
+der	ART	 d	der
+tieffsten	ADJA	 UNKNOWN	tieffsten
+Schalen	NN	 Schale	Schalen
+kochen	VVFIN	 kochen	kochen
+</seg>
+<seg type="newline">
+nemlich	ADJD	 UNKNOWN	nemlich
+also	ADV	 also	also
+:	$.	:	$.	 :	|	:
+Leget	TRUNC	 UNKNOWN	Leget
+sie	PPER	 sie	sie
+bey	VVFIN	 UNKNOWN	bey
+einer	ART	 ein	einer
+mittelmässigen	ADJA	 mittelmäßig	mittelmässigen
+Glut	NN	 Glut	Glut
+</seg>
+<seg type="newline">
+auf	APPR	 auf	auf
+einen	ART	 ein	einen
+Rost	NN	 Rost	Rost
+(	$(	(	$(	 (	|	(
+der	PRELS	 d	der
+muß	VMFIN	 müssen	muß
+aber	ADV	 aber	aber
+ziemlich	ADV	 ziemlich	ziemlich
+groß	ADJD	 groß	groß
+seyn	ADJD	 UNKNOWN	seyn
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+sonsten	ADJD	 UNKNOWN	sonsten
+gehet	VVFIN	 gehen	gehet
+es	PPER	 es	es
+gar	ADV	 gar	gar
+langweilig	ADJD	 langweilig	langweilig
+damit	PAV	 damit	damit
+zu	PTKVZ	 zu	zu
+)	$(	)	$(	 )	|	)
+dann	ADV	 dann	dann
+so	ADV	 so	so
+das	ART	 d	das
+Feuer	NN	 Feuer	Feuer
+zu	PTKA	 zu	zu
+stark	ADJD	 stark	stark
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+zerspringen	VVFIN	 zerspringen	zerspringen
+die	ART	 d	die
+Schalen	NN	 Schale	Schalen
+</seg>
+<seg type="newline">
+thut	NE	 UNKNOWN	thue
+darzu	PAV	 dazu	dazu
+ein	ART	 ein	ein
+Stücklein	NN	 Stücklein	Stücklein
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+und	KON	 und	und
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Pfeffer	NN	 Pfeffer	Pfeffer
+;	$.	;	$.	 ;	|	;
+Wann	PWAV	 wann	Wann
+sie	PPER	 sie	sie
+nun	ADV	 nun	nun
+gekocht	VVPP	 kochen	gekocht
+sind	VAFIN	 sein	sind
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+kan	ADV	 nun	Nun
+man	PIS	 man	man
+auch	ADV	 auch	auch
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Wein	NN	 Wein	Wein
+oder	KON	 oder	oder
+Wein=Essig	NN	 UNKNOWN	Wein=Essig
+</seg>
+<seg type="newline">
+samt	APPR	 samt	samt
+etwas	PIAT	 etwas	etwas
+geriebener	ADJA	 gerieben	geriebener
+Muscaten	NN	 UNKNOWN	Muscaten
+darzu	PAV	 dazu	dazu
+thun	NN	 UNKNOWN	thue
+</seg>
+<seg type="newline">
+ihr	PPOSAT	 ihr	ihr
+mögets	NN	 UNKNOWN	mögets
+auch	ADV	 auch	auch
+mit	APPR	 mit	mit
+etwas	PIAT	 etwas	etwas
+geriebenen	ADJA	 gerieben	geriebenen
+Semmel=Rinden	NN	 UNKNOWN	Semmel=Rinden
+bestreuen	VVFIN	 bestreuen	bestreuen
+</seg>
+<seg type="newline">
+ehe	KOUS	 ehe	ehe
+man	PIS	 man	man
+sie	PPER	 sie	sie
+vom	APPRART	 vom	vom
+Rost	NN	 Rost	Rost
+nimmt	VVFIN	 nehmen	nimmt
+.	$.	.	$.	 .	|	.
+NB	NE	 NB	NB
+.	$.	.	$.	 .	|	.
+Das	ART	 d	Das
+Vornehmste	NN	 Vornehmste	Vornehmste
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+man	PIS	 man	man
+es	PPER	 es	es
+fein	ADJD	 fein	fein
+heiß	ADJD	 heiß	heiß
+zu	APPR	 zu	zu
+Tisch	NN	 Tisch	Tisch
+bringe	VVFIN	 bringen	bringe
+</seg>
+<seg type="newline">
+und	KON	 und	und
+alsdann	NE	 UNKNOWN	Alsdann
+Citronen=Safft	NN	 UNKNOWN	Citronen=Safft
+darüber	PAV	 darüber	darüber
+drucke	VVFIN	 drucken	drucke
+.	$.	.	$.	 .	|	.
+NB	NE	 NB	NB
+.	$.	.	$.	 .	|	.
+Man	PIS	 man	Man
+kan	ADV	 nun	Nun
+sie	PPER	 sie	sie
+auch	ADV	 auch	auch
+dergestalt	ADV	 dergestalt	dergestalt
+in	APPR	 in	in
+einem	ART	 ein	einem
+Oefelein	NN	 UNKNOWN	Oefelein
+bereiten	VVINF	 bereiten	bereiten
+</seg>
+<seg type="newline">
+und	KON	 und	und
+wollen	VMFIN	 wollen	wollen
+etzliche	NN	 UNKNOWN	Etliche
+diese	PDAT	 dies	diese
+für	APPR	 für	für
+besser	ADJD	 gut	besser
+halten	VVFIN	 halten	halten
+</seg>
+<seg type="newline">
+als	KOKOM	 als	als
+die	ART	 d	die
+auf	APPR	 auf	auf
+Kohlen	NN	 Kohle	Kohlen
+zugerichtet	VVPP	 zurichten	zugerichtet
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+Ursach	TRUNC	 UNKNOWN	Ursach
+</seg>
+<seg type="newline">
+weil	KOUS	 weil	weil
+sie	PPER	 sie	sie
+dadurch	PAV	 dadurch	dadurch
+eine	ART	 ein	eine
+braune	ADJA	 braun	braune
+liechte	ADJA	 UNKNOWN	liechte
+Farb	NN	 UNKNOWN	Farb
+bekommen	VVINF	 bekommen	bekommen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Hohberg_1715_17" collection="historical" source="Hohberg" url="none" year="1715" decade="1710-1720" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1715:61]">
+<title>
+<seg type="newline">
+Kalbs=Prüß	NN	 UNKNOWN	Kalbs=Prüß
+zu	PTKZU	 zu	zu
+braten	VVINF	 braten	braten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Waschet	NN	 UNKNOWN	Waschet
+die	ART	 d	die
+Prüß	NN	 UNKNOWN	Prüß
+sauber	ADJD	 sauber	sauber
+</seg>
+<seg type="newline">
+siedet	VVFIN	 sieden	siedet
+sie	PPER	 sie	sie
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+in	APPR	 in	in
+Fleischbrüh	NN	 Fleischbrühe	Fleischbrühe
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+schneidet	VVFIN	 schneiden	schneidet
+das	ART	 d	das
+troßlichte	ADJA	 UNKNOWN	troßlichte
+und	KON	 und	und
+harte	ADJA	 hart	harte
+davon	PAV	 davon	davon
+</seg>
+<seg type="newline">
+ziehet	VVFIN	 zeihen|ziehen	ziehet
+das	ART	 d	das
+Häutlein	NN	 UNKNOWN	Häutlein
+überall	ADV	 überall	überall
+herab	ADV	 herab	herab
+</seg>
+<seg type="newline">
+würtzts	VVFIN	 würzen	würzt
+wol	PWAV	 wo	wo
+mit	APPR	 mit	mit
+Muscatenblüh	NN	 UNKNOWN	Muscatenblüh
+</seg>
+<seg type="newline">
+Cardamomen	NN	 Kardamom	Kardamom
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+und	KON	 und	und
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+wickelt	VVFIN	 wickeln	wickelt
+solche	PIS	 solch	solche
+</seg>
+<seg type="newline">
+nebst	APPR	 nebst	nebst
+einem	ART	 ein	einem
+Stücklein	NN	 Stücklein	Stücklein
+Butter	NN	 Butter	Butter
+in	APPR	 in	in
+ein	ART	 ein	ein
+</seg>
+<seg type="newline">
+durch	APPR	 durch	durch
+Wasser	NN	 Wasser	Wasser
+gezogenes	ADJA	 gezogen	gezogenes
+</seg>
+<seg type="newline">
+Kälber=Netz	NN	 UNKNOWN	Kälber=Netz
+</seg>
+<seg type="newline">
+bindets	NN	 UNKNOWN	bindets
+mit	APPR	 mit	mit
+Faden	NN	 Faden	Faden
+zu	PTKA	 zu	zu
+</seg>
+<seg type="newline">
+würtzt	ADJD	 UNKNOWN	würtzt
+und	KON	 und	und
+saltzt	VVFIN	 UNKNOWN	saltzt
+sie	PPER	 sie	sie
+auch	ADV	 auch	auch
+aussenher	ADV	 UNKNOWN	aussenher
+</seg>
+<seg type="newline">
+steckts	NN	 UNKNOWN	steckts
+an	APPR	 an	an
+einen	ART	 ein	einen
+Spieß	NN	 Spieß	Spieß
+</seg>
+<seg type="newline">
+betrieffts	VVFIN	 UNKNOWN	betrieffts
+immerzu	ADV	 immerzu	immerzu
+mit	APPR	 mit	mit
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+und	KON	 und	und
+brats	NN	 UNKNOWN	brats
+schön	ADJD	 schön	schön
+lichtbraun	ADJD	 UNKNOWN	lichtbraun
+.	$.	.	$.	 .	|	.
+Oder	KON	 oder	Oder
+spicket	VVFIN	 UNKNOWN	spicket
+die	ART	 d	die
+abgesottene	ADJA	 UNKNOWN	abgesottene
+Prüß	NN	 UNKNOWN	Prüß
+mit	APPR	 mit	mit
+Speck	NN	 Speck	Speck
+</seg>
+<seg type="newline">
+und	KON	 und	und
+brats	NN	 UNKNOWN	brats
+an	APPR	 an	an
+einem	ART	 ein	einem
+Spießlein	NN	 UNKNOWN	Spießlein
+mit	APPR	 mit	mit
+Butter	NN	 Butter	Butter
+oder	KON	 oder	oder
+Schmaltz	NN	 Schmalz	Schmalz
+betriefft	VVFIN	 UNKNOWN	betriefft
+.	$.	.	$.	 .	|	.
+Wer	PWS	 wer	Wer
+will	VMFIN	 wollen	will
+</seg>
+<seg type="newline">
+kan	ADV	 nun	Nun
+frische	ADJA	 frisch	frische
+Salbey=Blättlein	NN	 UNKNOWN	Salbey=Blättlein
+darzwischen	VVIZU	 UNKNOWN	darzwischen
+stecken	VVINF	 stecken	stecken
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Knopf_1800_6" collection="historical" source="Knopf" url="http://www.uni-giessen.de/gloning/tx/1800hakb.htm" language="deu" year="1800" decade="1800-1810" period="1800-1850" type="|none|" course="|none|" cuisine="|none|" ingredient="|Huhn|" method="|Pastete|" ref="[]">
+<title>
+<seg type="newline">
+3.	ADJA	 3.	3.
+Pastete	NN	 Pastete	Pastete
+von	APPR	 von	von
+Feldhühnern	NN	 UNKNOWN	Feldhühnern
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Die	ART	 d	Die
+Feldhühner	NN	 Feldhuhn	Feldhühner
+,	$,	,	$,	 ,	|	,
+welche	PRELS	 welch	welche
+aber	ADV	 aber	aber
+nicht	PTKNEG	 nicht	nicht
+zu	PTKA	 zu	zu
+alt	ADJD	 alt	alt
+seyn	NE	 UNKNOWN	seyn
+</seg>
+<seg type="newline">
+müssen	VMFIN	 müssen	müssen
+,	$,	,	$,	 ,	|	,
+werden	VAFIN	 werden	werden
+rein	ADV	 rein	rein
+gemacht	VVPP	 machen	gemacht
+,	$,	,	$,	 ,	|	,
+ausgenommen	VVPP	 ausnehmen	ausgenommen
+,	$,	,	$,	 ,	|	,
+und	KON	 und	und
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+eine	ART	 ein	eine
+Marginade	NN	 Marmelade	Marmelade
+gelegt	VVPP	 legen	gelegt
+.	$.	.	$.	 .	|	.
+Jm	NE	 UNKNOWN	Jm
+übrigen	ADJA	 übrig	übrigen
+richtet	VVFIN	 richten	richtet
+man	PIS	 man	man
+</seg>
+<seg type="newline">
+sich	PRF	 er|es|sie	sich
+nach	APPR	 nach	nach
+der	ART	 d	der
+Hasenpastete	NN	 Hasenpastete	Hasenpastete
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

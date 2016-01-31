@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Prasmosfky_1671_19" collection="historical" source="Prasmosfky" url="none" year="1671" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1671:100]">
+<title>
+<seg type="newline">
+302.	ADJA	 @ord@	302.
+Niederländisch	NN	 UNKNOWN	Niederländisch
+Kraut	NN	 Kraut	Kraut
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+gerieben	VVPP	 reiben	gerieben
+Brod	NN	 Brot	Brot
+und	KON	 und	und
+Lebkuchen	NN	 Lebkuchen	Lebkuchen
+</seg>
+<seg type="newline">
+jedes	PIAT	 jed	jedes
+ein	ART	 ein	ein
+hand	ADJA	 UNKNOWN	hand
+voll	ADJD	 voll	voll
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+Löffel	NN	 Löffel	Löffel
+voll	ADJD	 voll	voll
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+Hand	NN	 Hand	Hand
+voll	ADJD	 voll	voll
+Weinbeer	NN	 Weizenbier	Weizenbier
+</seg>
+<seg type="newline">
+gestossene	ADJA	 gestoßen	gestossene
+Zimmet	NN	 Zimt	Zimt
+und	KON	 und	und
+Ingwer	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+jedes	PIAT	 jed	jedes
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+</seg>
+<seg type="newline">
+thus	NN	 UNKNOWN	thus
+zusammen	PTKVZ	 zusammen	zusammen
+</seg>
+<seg type="newline">
+gieß	VVIMP	 gießen	gieß
+ein	ART	 ein	ein
+Löffel	NN	 Löffel	Löffel
+sechs	CARD	 sechs	sechs
+Reinfall	NN	 Reinfall	Reinfall
+oder	KON	 oder	oder
+andern	ADJA	 ander	andern
+süssen	ADJA	 süß	süssen
+Wein	NN	 Wein	Wein
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+nimein	ADJA	 UNKNOWN	nimein
+Hand	NN	 Hand	Hand
+voll	ADJD	 voll	voll
+Anis	NN	 Anis	Anis
+</seg>
+<seg type="newline">
+vermengs	ADJA	 UNKNOWN	vermengs
+wol	PWAV	 wo	wo
+untereinander	ADV	 untereinander	untereinander
+</seg>
+<seg type="newline">
+saltz	ADJA	 kalt	kalten
+</seg>
+<seg type="newline">
+richts	PTKNEG	 nicht	nicht
+über	APPR	 über	über
+gebratene	ADJA	 gebraten	gebratene
+Fisch	NN	 Fisch	Fisch
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

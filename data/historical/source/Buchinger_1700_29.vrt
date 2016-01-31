@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Buchinger_1700_29" collection="historical" source="Buchinger" url="none" year="1700" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:1f.]">
+<title>
+<seg type="newline">
+65.	ADJA	 @ord@	65.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Oder	NE	 Oder	Oder
+wird	VAFIN	 werden	wird
+also	ADV	 also	also
+zu	APPR	 zu	zu
+zimlichen	ADJA	 UNKNOWN	zimlichen
+Stucken	NN	 UNKNOWN	Stucken
+geschnitten	VVPP	 schneiden	geschnitten
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Speck	NN	 Speck	Speck
+gespicket	ADJA	 UNKNOWN	gespicket
+</seg>
+<seg type="newline">
+gesaltzen	NN	 UNKNOWN	gesaltzen
+</seg>
+<seg type="newline">
+gepfeffert	VVPP	 pfeffern	gepfeffert
+</seg>
+<seg type="newline">
+und	KON	 und	und
+an	APPR	 an	an
+spißlein	NN	 UNKNOWN	spißlein
+oder	KON	 oder	oder
+in	APPR	 in	in
+schmaltz	NE	 UNKNOWN	schmaltz
+gebraten	VVPP	 braten	gebraten
+</seg>
+<seg type="newline">
+doch	KON	 doch	doch
+nicht	PTKNEG	 nicht	nicht
+zu	PTKA	 zu	zu
+lang	ADJD	 lang	lang
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+sie	PPER	 sie	sie
+safftig	ADJD	 saftig	saftig
+bleibe	VVFIN	 bleiben	bleibe
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

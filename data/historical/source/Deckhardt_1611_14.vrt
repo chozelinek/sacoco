@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Deckhardt_1611_14" collection="historical" source="Deckhardt" url="none" year="1611" decade="1610-1620" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1611:118]">
+<title>
+<seg type="newline">
+Einen	ART	 ein	Einen
+grünen	ADJA	 grün	grünen
+Ahl	NN	 UNKNOWN	Ahl
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Petersilgenwurtzeln	NN	 UNKNOWN	Petersilgenwurtzeln
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+Grünen	NN	 Grüne	Grünen
+gut	ADJD	 gut	gut
+zu	PTKZU	 zu	zu
+sieden	VVINF	 sieden	sieden
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wenn	KOUS	 wenn	Wenn
+der	ART	 d	der
+Ahl	NN	 UNKNOWN	Ahl
+abgezogen	VVPP	 abziehen	abgezogen
+vnd	KON	 und	und
+zu	PTKA	 zu	zu
+stücken	VVFIN	 stücken	stücken
+gemacht	ADJD	 gemacht	gemacht
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+seude	VVFIN	 UNKNOWN	seude
+jhn	PPER	 er	ihn
+in	APPR	 in	in
+einem	ART	 ein	einem
+gesaltzenen	ADJA	 UNKNOWN	gesaltzenen
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+einer	ART	 ein	einer
+handvol	NN	 UNKNOWN	handvol
+Petersilgenwurtzeln	NE	 UNKNOWN	Petersilgenwurtzeln
+sampt	APPR	 samt	samt
+den	ART	 d	den
+Grünen	NN	 Grüne	Grünen
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+sie	PPER	 sie	sie
+wol	PWAV	 wo	wo
+weich	ADJD	 weich	weich
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+geus	NN	 UNKNOWN	geuß
+den	ART	 d	den
+die	ART	 d	die
+Brüe	NE	 UNKNOWN	Brüe
+davon	PAV	 davon	davon
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+mache	VVFIN	 machen	mache
+eine	ART	 ein	eine
+andere	ADJA	 ander	andere
+</seg>
+<seg type="newline">
+Nim	NN	 UNKNOWN	nimb
+die	ART	 d	die
+Petersilgenwurtzeln	NN	 UNKNOWN	Petersilgenwurtzeln
+vnd	KON	 und	und
+das	ART	 d	das
+Grüne	NN	 Grüne	Grüne
+</seg>
+<seg type="newline">
+reibe	VVFIN	 reiben	reibe
+sie	PPER	 sie	sie
+wol	PWAV	 wo	wo
+klein	ADJD	 klein	klein
+wie	KOKOM	 wie	wie
+ein	ART	 ein	ein
+muhß	NN	 UNKNOWN	muhß
+</seg>
+<seg type="newline">
+weiche	VVFIN	 weichen	weiche
+eine	ART	 ein	eine
+gebehete	ADJA	 UNKNOWN	gebehete
+Semmel	NN	 Semmel	Semmel
+in	APPR	 in	in
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+treibe	VVFIN	 treiben	treibe
+es	PPER	 es	es
+mit	APPR	 mit	mit
+der	ART	 d	der
+Petersilgen	NN	 UNKNOWN	Petersilgen
+vnd	KON	 und	und
+Wein	NN	 Wein	Wein
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+enges	ADJA	 eng	enges
+sieblein	NN	 UNKNOWN	sieblein
+oder	KON	 oder	oder
+tuch	NN	 Tuch	tuch
+</seg>
+<seg type="newline">
+schütte	VVFIN	 schütten	schütte
+es	PPER	 es	es
+vbern	ADJA	 UNKNOWN	vbern
+Ahl	NN	 UNKNOWN	Ahl
+</seg>
+<seg type="newline">
+geus	NN	 UNKNOWN	geuß
+mehr	PIAT	 mehr	mehr
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+ein	ART	 ein	ein
+glaß	NN	 UNKNOWN	glaß
+Essig	NN	 Essig	Essig
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+Würtze	NN	 UNKNOWN	Würtze
+es	PPER	 es	es
+mit	APPR	 mit	mit
+Ingwer	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Saffran	NN	 Safran	Safran
+vnd	KON	 und	und
+Muscatenblumen	NN	 UNKNOWN	Muscatenblumen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+las	VVFIN	 lesen	las
+vollend	ADJD	 UNKNOWN	vollend
+einsieden	VVFIN	 einziehen	einziehen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+ist	VAFIN	 sein	ist
+es	PPER	 es	es
+recht	ADJD	 recht	recht
+vnd	KON	 und	und
+gut	ADJD	 gut	gut
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

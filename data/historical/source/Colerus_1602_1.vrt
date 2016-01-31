@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Colerus_1602_1" collection="historical" source="Colerus" url="none" year="1602" decade="1600-1610" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1602:112]">
+<title>
+<seg type="newline">
+Wie	KOKOM	 wie	Wie
+man	PIS	 man	man
+einen	ART	 ein	einen
+grünen	ADJA	 grün	grünen
+Stöhr	NN	 UNKNOWN	Stöhr
+kochen	VVFIN	 kochen	kochen
+sol	NE	 UNKNOWN	sol
+.	$.	.	$.	 .	|	.
+[	$(	[	$(	 [	|	[
+1602:111][zum	NN	 UNKNOWN	1602:111][zum
+Aufbau	NN	 Aufbau	Aufbau
+des	ART	 d	des
+Kochbuches	NN	 Kochbuch	Kochbuches
+]	$(	]	$(	 ]	|	]
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nim	VVFIN	 UNKNOWN	nimb
+den	ART	 d	den
+Stühr	NN	 UNKNOWN	Stühr
+</seg>
+<seg type="newline">
+hawe	NN	 UNKNOWN	hawe
+jn	NE	 UNKNOWN	jn
+zu	PTKZU	 zu	zu
+stücken	VVINF	 stücken	stücken
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+wasche	VVFIN	 waschen	wasche
+jn	NE	 UNKNOWN	jn
+rein	ADV	 rein	rein
+aus	APZR	 aus	aus
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+jn	NE	 UNKNOWN	jn
+in	APPR	 in	in
+eine	ART	 ein	eine
+Mulde	NN	 Mulde	Mulde
+</seg>
+<seg type="newline">
+saltz	ADJA	 kalt	kalten
+jn	NE	 UNKNOWN	jn
+gar	ADV	 gar	gar
+wol	PWAV	 wo	wo
+.	$.	.	$.	 .	|	.
+Darnach	ADV	 UNKNOWN	Darnach
+stecke	VVFIN	 stecken	stecke
+jn	NE	 UNKNOWN	jn
+an	APPR	 an	an
+einen	ART	 ein	einen
+Spiß	NN	 UNKNOWN	Spiß
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+jn	NE	 UNKNOWN	jn
+auff	APPR	 auf	auf
+einen	ART	 ein	einen
+Rhost	TRUNC	 UNKNOWN	Rhost
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+rhöste	ADJA	 UNKNOWN	rhöste
+jn	NE	 UNKNOWN	jn
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+das	PRELS	 d	das
+er	PPER	 er	er
+hübsch	ADJD	 hübsch	hübsch
+braun	ADJD	 braun	braun
+werde	VAFIN	 werden	werde
+.	$.	.	$.	 .	|	.
+Darnach	ADV	 UNKNOWN	Darnach
+nim	VVFIN	 UNKNOWN	nimb
+kleine	ADJA	 klein	kleine
+Rosincken	NN	 Rosine	Rosinen
+</seg>
+<seg type="newline">
+reibe	VVFIN	 reiben	reibe
+die	ART	 d	die
+in	APPR	 in	in
+einem	ART	 ein	einem
+Reibtopff	NN	 UNKNOWN	Reibtopff
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+zustosse	VVFIN	 zustoßen	zustosse
+sie	PPER	 sie	sie
+in	APPR	 in	in
+einem	ART	 ein	einem
+Mörser	NN	 Mörser	Mörser
+mit	APPR	 mit	mit
+zuriebnem	ADJA	 UNKNOWN	zuriebnem
+Pfefferkuche	NN	 UNKNOWN	Pfefferkuche
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+mit	APPR	 mit	mit
+geröster	ADJA	 UNKNOWN	geröster
+Semmel	NN	 Semmel	Semmel
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+mache	VVFIN	 machen	mache
+das	PDS	 d	das
+auff	APPR	 auf	auf
+mit	APPR	 mit	mit
+Eyern	TRUNC	 UNKNOWN	Eyern
+vnd	KON	 und	und
+Weinessig	NN	 Weinessig	Weinessig
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+drucks	NN	 Druck	drucks
+oder	KON	 oder	oder
+zeuch	NN	 UNKNOWN	zeuch
+es	PPER	 es	es
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+reines	ADJA	 rein	reines
+Tuch	NN	 Tuch	Tuch
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+würtze	VVFIN	 würzen	würzt
+es	PPER	 es	es
+ab	PTKVZ	 ab	ab
+mit	APPR	 mit	mit
+Nelcken	NE	 UNKNOWN	Nelcken
+</seg>
+<seg type="newline">
+Zynamey	NE	 UNKNOWN	Zynamey
+</seg>
+<seg type="newline">
+Ingber	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Muscaten	NN	 UNKNOWN	Muscaten
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Muscatenblumen	NN	 UNKNOWN	Muscatenblumen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+Saffran	NN	 Safran	Safran
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+</seg>
+<seg type="newline">
+das	PRELS	 d	das
+es	PPER	 es	es
+hübsch	ADJD	 hübsch	hübsch
+braun	ADJD	 braun	braun
+bleibe	VVFIN	 bleiben	bleibe
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+mache	VVFIN	 machen	mache
+einen	ART	 ein	einen
+lieblichen	ADJA	 lieblich	lieblichen
+schmack	NN	 Schmack	schmack
+</seg>
+<seg type="newline">
+süß	ADJD	 süß	süß
+oder	KON	 oder	oder
+sawer	ADJD	 UNKNOWN	sawer
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+es	PPER	 es	es
+dir	PRF	 du	dir
+am	APPRART	 am	am
+besten	ADJA	 gut	besten
+gefelt	VVPP	 UNKNOWN	gefelt
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+geus	NN	 UNKNOWN	geuß
+das	ART	 d	das
+Sod	NN	 Sod	Sod
+in	APPR	 in	in
+einen	ART	 ein	einen
+Kessel	NN	 Kessel	Kessel
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+in	APPR	 in	in
+eine	ART	 ein	eine
+Pfanne	NN	 Pfanne	Pfanne
+</seg>
+<seg type="newline">
+vnlege	VVFIN	 UNKNOWN	vnlege
+diesen	PDAT	 dies	diesen
+Stühr	NN	 UNKNOWN	Stühr
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+setz	VVIMP	 setzen	setz
+jn	NE	 UNKNOWN	jn
+auff	APPR	 auf	auf
+das	ART	 d	das
+Fewer	NN	 Feuer	Feuer
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+las	VVFIN	 lesen	las
+jn	NE	 UNKNOWN	jn
+auffsieden	VVFIN	 UNKNOWN	aufsieden
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+koste	VVFIN	 kosen|kosten	koste
+jn	NE	 UNKNOWN	jn
+offt	ADV	 oft	oft
+</seg>
+<seg type="newline">
+wie	KOUS	 wie	wie
+er	PPER	 er	er
+dir	PPER	 du	dir
+gefelt	VVPP	 UNKNOWN	gefelt
+.	$.	.	$.	 .	|	.
+Wiltu	NE	 UNKNOWN	Wiltu
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+mache	VVFIN	 machen	mache
+einen	ART	 ein	einen
+Sod	NN	 Sod	Sod
+drauff	PAV	 drauf	drauf
+von	APPR	 von	von
+Nelcken	NN	 UNKNOWN	Nelcken
+vnd	KON	 und	und
+Rosincken	NN	 Rosine	Rosinen
+</seg>
+<seg type="newline">
+das	ART	 d	das
+mus	ADJA	 UNKNOWN	mus
+man	PIS	 man	man
+gelbe	ADJA	 gelb	gelbe
+machen	VVFIN	 machen	machen
+mit	APPR	 mit	mit
+Saffran	NN	 Safran	Safran
+:	$.	:	$.	 :	|	:
+So	ADV	 so	So
+richte	VVFIN	 richten	richte
+das	PDS	 d	das
+an	PTKVZ	 an	an
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+gibs	NN	 UNKNOWN	gilbs
+hin	PTKVZ	 hin	hin
+.	$.	.	$.	 .	|	.
+Dergleichen	PIS	 dergleichen	Dergleichen
+mag	VMFIN	 mögen	mag
+mans	VMFIN	 mögen	mag
+auch	ADV	 auch	auch
+machen	VVFIN	 machen	machen
+auff	APPR	 auf	auf
+einen	ART	 ein	einen
+grünen	ADJA	 grün	grünen
+Hawsen	NN	 UNKNOWN	Hawsen
+</seg>
+<seg type="newline">
+Welß	ADJA	 UNKNOWN	Welß
+</seg>
+<seg type="newline">
+Stillen	NN	 Stille|Stillen	Stillen
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+ist	VAFIN	 sein	ist
+ein	ART	 ein	ein
+Vngerischer	NN	 UNKNOWN	Vngerischer
+Fisch	NN	 Fisch	Fisch
+oder	KON	 oder	oder
+Stührlein	NN	 UNKNOWN	Stührlein
+</seg>
+<seg type="newline">
+einen	ART	 ein	einen
+grünen	ADJA	 grün	grünen
+Lachs	NN	 Lachs	Lachs
+</seg>
+<seg type="newline">
+grüne	ADJA	 grün	grüne
+Zerten	NN	 UNKNOWN	Zerten
+</seg>
+<seg type="newline">
+grüne	ADJA	 grün	grüne
+Pressen	NN	 Presse	Pressen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+grünen	ADJA	 grün	grünen
+Ahl	NN	 UNKNOWN	Ahl
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

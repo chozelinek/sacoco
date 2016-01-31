@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Buchinger_1700_17" collection="historical" source="Buchinger" url="none" year="1700" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:1f.]">
+<title>
+<seg type="newline">
+439.	ADJA	 @ord@	439.
+Aland	NE	 Aland	Aland
+</seg>
+</title>
+<body>
+<seg type="newline">
+Mon=	NN	 UNKNOWN	Mon=
+und	KON	 und	und
+Bratfisch	NN	 Bratfisch	Bratfisch
+oder	KON	 oder	oder
+Förne	NN	 UNKNOWN	Förne
+</seg>
+<seg type="newline">
+sind	VAFIN	 sein	sind
+fast	ADV	 fast	fast
+das	PDS	 d	das
+gantze	ADV	 ganz	ganz
+Jahr	NN	 Jahr	Jahr
+gut	ADJD	 gut	gut
+</seg>
+<seg type="newline">
+Förne	NN	 UNKNOWN	Förne
+aber	ADV	 aber	aber
+im	APPRART	 im	im
+Winter	NN	 Winter	Winter
+am	PTKA	 am	am
+besten	ADJD	 gut	besten
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

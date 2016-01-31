@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Colerus_1602_12" collection="historical" source="Colerus" url="none" year="1602" decade="1600-1610" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1602:139]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+geschnitten	VVPP	 schneiden	geschnitten
+Muhs	NN	 UNKNOWN	Muhs
+von	APPR	 von	von
+Eyern	NE	 UNKNOWN	Eyern
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wiltu	NE	 UNKNOWN	Wiltu
+ein	PTKVZ	 ein	ein
+geschnitten	VVPP	 schneiden	geschnitten
+Muhß	NE	 UNKNOWN	Muhß
+von	APPR	 von	von
+Eyern	ADJA	 UNKNOWN	Eyern
+vnd	KON	 und	und
+von	APPR	 von	von
+Weitzenen	NN	 UNKNOWN	Weitzenen
+Mehl	NN	 Mehl	Mehl
+machen	VVINF	 machen	machen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+sol	VVFIN	 UNKNOWN	sol
+es	PPER	 es	es
+nur	ADV	 nur	nur
+auff	APPR	 auf	auf
+eine	ART	 ein	eine
+Schüssel	NN	 Schüssel	Schüssel
+sein	PPOSAT	 sein	sein
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nim	ADJA	 UNKNOWN	nimb
+zwelff	NE	 UNKNOWN	zwelff
+Eyer	NE	 UNKNOWN	Eyer
+vnnd	KON	 und	und
+Weitzenmehl	NN	 UNKNOWN	Weitzenmehl
+</seg>
+<seg type="newline">
+schlage	VVFIN	 schlagen	schlage
+die	ART	 d	die
+Eyer	NE	 UNKNOWN	Eyer
+in	APPR	 in	in
+das	ART	 d	das
+Mehl	NN	 Mehl	Mehl
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+mache	VVFIN	 machen	mache
+einen	ART	 ein	einen
+harten	ADJA	 hart	harten
+Teig	NN	 Teig	Teig
+draus	PAV	 draus	draus
+</seg>
+<seg type="newline">
+das	PRELS	 d	das
+du	PPER	 du	du
+jhn	PPER	 er	ihn
+mangeln	VVFIN	 mangeln	mangeln
+kanst	ADJA	 UNKNOWN	kanst
+</seg>
+<seg type="newline">
+mangel	VVIMP	 mangeln	mangel
+jhn	PPER	 er	ihn
+fein	ADJD	 fein	fein
+dünne	VVFIN	 dünnen	dünne
+auff	APPR	 auf	auf
+einem	ART	 ein	einem
+Tisch	NN	 Tisch	Tisch
+oder	KON	 oder	oder
+Brette	NN	 Brett	Brette
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+bestrewe	VVFIN	 bestreuen	bestreuen
+jhn	PPER	 er	ihn
+wol	PWAV	 wo	wo
+mit	APPR	 mit	mit
+Mandeln	NN	 Mandel	Mandeln
+</seg>
+<seg type="newline">
+das	PRELS	 d	das
+er	PPER	 er	er
+gantz	ADV	 ganz	ganz
+treuge	ADJD	 UNKNOWN	treuge
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+nicht	PTKNEG	 nicht	nicht
+zusammen	ADV	 zusammen	zusammen
+klebe	VVFIN	 kleben	klebe
+</seg>
+<seg type="newline">
+schneid	VVFIN	 schneiden	schneiden
+jhn	PPER	 er	ihn
+klein	PTKVZ	 klein	klein
+</seg>
+<seg type="newline">
+wenn	KOUS	 wenn	wenn
+der	ART	 d	der
+gemangelt	VVPP	 mangeln	gemangelt
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+ein	ART	 ein	ein
+lödicht	ADJA	 UNKNOWN	lödicht
+Sawerkraut	NN	 UNKNOWN	Sawerkraut
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+schmeltze	NN	 UNKNOWN	schmeltze
+Butter	NN	 Butter	Butter
+in	APPR	 in	in
+einer	ART	 ein	einer
+Pfanne	NN	 Pfanne	Pfanne
+</seg>
+<seg type="newline">
+Wenn	KOUS	 wenn	Wenn
+die	ART	 d	die
+Butter	NN	 Butter	Butter
+heis	NN	 UNKNOWN	heis
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nim	ADJD	 UNKNOWN	nimb
+diesen	PDS	 dies	diesen
+geschnitten	VVPP	 schneiden	geschnitten
+Teig	NN	 Teig	Teig
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+schütte	VVFIN	 schütten	schütte
+jhn	PPER	 er	ihn
+in	APPR	 in	in
+die	ART	 d	die
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+wol	PWAV	 wo	wo
+backen	VVFIN	 backen	backen
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+es	PPER	 es	es
+hübsch	ADJD	 hübsch	hübsch
+rusch	ADJD	 UNKNOWN	rusch
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+Vnd	KON	 und	und
+wenn	KOUS	 wenn	wenn
+es	PPER	 es	es
+nun	ADV	 nun	nun
+gebacken	VVPP	 backen	gebacken
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+hebe	VVFIN	 heben	hebe
+es	PPER	 es	es
+wider	APPR	 wider	wider
+aus	APPR	 aus	aus
+der	ART	 d	der
+Butter	NN	 Butter	Butter
+oder	KON	 oder	oder
+Fetten	NN	 Fett|Fetten	Fetten
+</seg>
+<seg type="newline">
+schütte	VVFIN	 schütten	schütte
+es	PPER	 es	es
+in	APPR	 in	in
+eine	ART	 ein	eine
+heisse	ADJA	 heiß	heisse
+Milch	NN	 Milch	Milch
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+wol	PWAV	 wo	wo
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+es	PPER	 es	es
+fein	ADJD	 fein	fein
+dücke	NN	 UNKNOWN	dücke
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+saltze	ADJA	 kalt	kalten
+es	PPER	 es	es
+zu	PTKZU	 zu	zu
+rechter	ADJA	 recht	rechter
+masse	VVFIN	 maßen	masse
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+gibs	NN	 UNKNOWN	gilbs
+hin	PTKVZ	 hin	hin
+.	$.	.	$.	 .	|	.
+Bestrewe	VVFIN	 UNKNOWN	Bestrewe
+es	PPER	 es	es
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Zucker	NN	 Zucker	Zucker
+oder	KON	 oder	oder
+Troye	NE	 UNKNOWN	Troye
+</seg>
+<seg type="newline">
+Du	PPER	 du	Du
+magst	VMFIN	 mögen	magst
+auch	ADV	 auch	auch
+wol	PWAV	 wo	wo
+darzu	PAV	 dazu	dazu
+gebrauchen	VVFIN	 gebrauchen	gebrauchen
+</seg>
+<seg type="newline">
+die	ART	 d	die
+vorgenante	ADJA	 UNKNOWN	vorgenante
+Holunderblüte	NN	 UNKNOWN	Holunderblüte
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

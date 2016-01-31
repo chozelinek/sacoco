@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Deckhardt_1611_7" collection="historical" source="Deckhardt" url="none" year="1611" decade="1610-1620" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1611:54f.]">
+<title>
+<seg type="newline">
+Eine	ART	 ein	Eine
+Brüe	NE	 UNKNOWN	Brüe
+vber	ADJA	 UNKNOWN	vber
+allerley	ADJA	 UNKNOWN	allerley
+Fische	NN	 Fisch	Fische
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nim	VVFIN	 UNKNOWN	nimb
+ein	ART	 ein	ein
+gut	ADJD	 gut	gut
+theil	ADJA	 UNKNOWN	theil
+Petersilgen	NN	 UNKNOWN	Petersilgen
+wurtzeln	VVFIN	 UNKNOWN	wurtzeln
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+eine	ART	 ein	eine
+handvol	NN	 UNKNOWN	handvol
+grüne	ADJA	 grün	grüne
+Petersilgen	NN	 UNKNOWN	Petersilgen
+</seg>
+<seg type="newline">
+thue	VVFIN	 UNKNOWN	thue
+es	PPER	 es	es
+in	APPR	 in	in
+ein	ART	 ein	ein
+töpfflein	NN	 UNKNOWN	töpfflein
+</seg>
+<seg type="newline">
+geus	VVPP	 UNKNOWN	geuß
+Wasser	NN	 Wasser	Wasser
+dran	PTKVZ	 dran	dran
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+las	VVFIN	 lesen	las
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+nim	ADJD	 UNKNOWN	nimb
+3	CARD	3	CARD	 3	|	3
+oder	KON	 oder	oder
+4	CARD	4	CARD	 4	|	4
+gebehete	ADJA	 UNKNOWN	gebehete
+Semmelschnitten	NN	 UNKNOWN	Semmelschnitten
+</seg>
+<seg type="newline">
+weiche	VVFIN	 weichen	weiche
+sie	PPER	 sie	sie
+in	APPR	 in	in
+das	ART	 d	das
+gesottene	ADJA	 gesiedet	Gesottenes
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+Reibe	NN	 Reibe	Reibe
+in	APPR	 in	in
+dessen	PDAT	 d	dessen
+</seg>
+<seg type="newline">
+die	ART	 d	die
+Petersilgen	NE	 UNKNOWN	Petersilgen
+wurtzel	NE	 UNKNOWN	wurtzel
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+das	ART	 d	das
+grüne	ADJA	 grün	grüne
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+treibe	VVFIN	 treiben	treibe
+es	PPER	 es	es
+sampt	APPR	 samt	samt
+der	ART	 d	der
+geweichten	ADJA	 gereicht	gereichten
+Semmel	NN	 Semmel	Semmel
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+dem	ART	 d	dem
+Wasser	NN	 Wasser	Wasser
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+enges	ADJA	 eng	enges
+sieblein	NN	 UNKNOWN	sieblein
+oder	KON	 oder	oder
+tuch	NN	 Tuch	tuch
+</seg>
+<seg type="newline">
+geus	NN	 UNKNOWN	geuß
+ein	ART	 ein	ein
+glaß	NN	 UNKNOWN	glaß
+guten	ADJA	 gut	guten
+Weinessig	NN	 Weinessig	Weinessig
+dran	PAV	 dran	dran
+</seg>
+<seg type="newline">
+thue	NN	 UNKNOWN	thue
+die	ART	 d	die
+Brüe	NE	 UNKNOWN	Brüe
+darnach	PAV	 danach	Danach
+in	APPR	 in	in
+eine	ART	 ein	eine
+Pfanne	NN	 Pfanne	Pfanne
+oder	KON	 oder	oder
+Tigel	NN	 UNKNOWN	Tigel
+lege	VVFIN	 legen	lege
+die	ART	 d	die
+Fische	NN	 Fisch	Fische
+was	PRELS	 was	was
+es	PPER	 es	es
+sey	NE	 UNKNOWN	sey
+in	APPR	 in	in
+die	ART	 d	die
+Brüe	NE	 UNKNOWN	Brüe
+</seg>
+<seg type="newline">
+saltze	ADJA	 kalt	kalten
+es	PPER	 es	es
+recht	ADJD	 recht	recht
+</seg>
+<seg type="newline">
+Würtze	NN	 UNKNOWN	Würtze
+es	PPER	 es	es
+mit	APPR	 mit	mit
+Ingwer	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+wenig	PIAT	 wenig	wenig
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Saffran	NN	 Safran	Safran
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+einen	ART	 ein	einen
+löffelvol	NN	 UNKNOWN	löffelvol
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+las	VVFIN	 lesen	las
+es	PPER	 es	es
+miteinander	ADV	 miteinander	miteinander
+sieden	VVINF	 sieden	sieden
+</seg>
+<seg type="newline">
+wen	PWS	 wer	wen
+es	PPER	 es	es
+nun	ADV	 nun	nun
+gesotten	VVPP	 sieden	gesotten
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+thue	NN	 UNKNOWN	thue
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Neglein	NN	 UNKNOWN	Neglein
+drein	ADV	 drein	drein
+</seg>
+<seg type="newline">
+die	PDS	 d	die
+lasse	VVFIN	 lassen	lasse
+aber	ADV	 aber	aber
+nicht	PTKNEG	 nicht	nicht
+mit	PTKVZ	 mit	mit
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+sie	PPER	 sie	sie
+vorlieren	VVFIN	 UNKNOWN	vorlieren
+sonsten	ADJD	 UNKNOWN	sonsten
+den	ART	 d	den
+geschmack	NN	 Geschmack	geschmack
+</seg>
+<seg type="newline">
+Richte	NN	 UNKNOWN	Richte
+den	ART	 d	den
+die	ART	 d	die
+Fische	NN	 Fisch	Fische
+an	PTKVZ	 an	an
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+geus	NN	 UNKNOWN	geuß
+den	ART	 d	den
+die	ART	 d	die
+Brüe	NE	 UNKNOWN	Brüe
+drüber	PTKVZ	 drüber	drüber
+.	$.	.	$.	 .	|	.
+Man	PIS	 man	Man
+mag	VMFIN	 mögen	mag
+auch	ADV	 auch	auch
+dieses	PDAT	 dies	dieses
+Södlein	NN	 UNKNOWN	Södlein
+vber	ADJA	 UNKNOWN	vber
+kleine	ADJA	 klein	kleine
+Fische	NN	 Fisch	Fische
+</seg>
+<seg type="newline">
+als	KOKOM	 als	als
+Schmerlein	NN	 UNKNOWN	Schmerlein
+</seg>
+<seg type="newline">
+Elderßlein	NN	 UNKNOWN	Elderßlein
+vnd	KON	 und	und
+Gründlinge	NN	 UNKNOWN	Gründlinge
+machen	VVINF	 machen	machen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+gebrauchen	VVFIN	 gebrauchen	gebrauchen
+</seg>
+<seg type="newline">
+es	PPER	 es	es
+ist	VAFIN	 sein	ist
+gut	ADJD	 gut	gut
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

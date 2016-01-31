@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Staindl_1569_19" collection="historical" source="Staindl" url="none" year="1569" decade="1560-1570" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[21v]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+gestossens	NN	 UNKNOWN	gestossens
+von	APPR	 von	von
+Vischen	NN	 UNKNOWN	Vischen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Der	ART	 d	Der
+nem	ADJA	 UNKNOWN	nem
+Visch	NN	 UNKNOWN	Visch
+vnd	KON	 und	und
+brät	VVFIN	 braten	brät
+</seg>
+<seg type="newline">
+Esch	NE	 Esch	Esch
+seind	VAFIN	 sein	sind
+fast	ADV	 fast	fast
+guot	ADJD	 gut	gut
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+sie	PPER	 sie	sie
+gebraten	VVPP	 braten	gebraten
+seind	VAFIN	 sein	sind
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+thuo	VVFIN	 UNKNOWN	thue
+es	PPER	 es	es
+in	APPR	 in	in
+ein	ART	 ein	ein
+Mörser	NN	 Mörser	Mörser
+mit	APPR	 mit	mit
+grädt	NE	 UNKNOWN	grädt
+vnnd	KON	 und	und
+haut	VVFIN	 hauen	haut
+</seg>
+<seg type="newline">
+stoß	VVIMP	 stoßen	stoß
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+bäwt	ADJA	 UNKNOWN	bäwt
+Semelschnitten	NN	 UNKNOWN	Semmelschnitten
+</seg>
+<seg type="newline">
+treibs	NN	 Kreis	Kreis
+durch	APPR	 durch	durch
+mit	APPR	 mit	mit
+einer	ART	 ein	einer
+Erbeßbrü	NE	 UNKNOWN	Erbeßbrü
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+nimb	VVFIN	 UNKNOWN	nimb
+der	ART	 d	der
+brü	NE	 UNKNOWN	brü
+nit	VVFIN	 UNKNOWN	nimb
+zuuil	NE	 UNKNOWN	zuuil
+</seg>
+<seg type="newline">
+sondern	KON	 sondern	sondern
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+wein	VVIMP	 weinen	wein
+der	ART	 d	der
+nit	ADJA	 UNKNOWN	nimb
+saur	ADJA	 UNKNOWN	saur
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+mehr	ADV	 mehr	mehr
+als	KOKOM	 als	als
+der	ART	 d	der
+Erbeßbrü	NE	 UNKNOWN	Erbeßbrü
+</seg>
+<seg type="newline">
+zuckers	ADJA	 UNKNOWN	zuckers
+</seg>
+<seg type="newline">
+gwürtz	NN	 UNKNOWN	Gewürtz
+gibs	NN	 UNKNOWN	gilbs
+auff	APPR	 auf	auf
+bäwte	ADJA	 UNKNOWN	bäwte
+Semel	NN	 UNKNOWN	Semel
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+ein	ART	 ein	ein
+ander	ADJA	 UNKNOWN	ander
+gestossens	NN	 UNKNOWN	gestossens
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

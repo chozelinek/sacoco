@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Deckhardt_1611_16" collection="historical" source="Deckhardt" url="none" year="1611" decade="1610-1620" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1611:136]">
+<title>
+<seg type="newline">
+Steinbeissen	NN	 UNKNOWN	Steinbeissen
+gut	ADJD	 gut	gut
+zu	PTKZU	 zu	zu
+sieden	VVINF	 sieden	sieden
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Schütte	VVFIN	 schütten	Schütte
+die	ART	 d	die
+Steinbeissen	NN	 UNKNOWN	Steinbeissen
+lebendig	ADJD	 lebendig	lebendig
+in	APPR	 in	in
+ein	ART	 ein	ein
+heiß	ADJD	 heiß	heiß
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+damit	PAV	 damit	damit
+sie	PPER	 sie	sie
+den	ART	 d	den
+schleim	VVIMP	 schleimen	schleim
+gehen	VVINF	 gehen	gehen
+lassen	VVFIN	 lassen	lassen
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+wasche	VVFIN	 waschen	wasche
+sie	PPER	 sie	sie
+rein	PTKVZ	 rein	rein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+thue	VVFIN	 UNKNOWN	thue
+sie	PPER	 sie	sie
+in	APPR	 in	in
+ein	ART	 ein	ein
+töpfflein	NN	 UNKNOWN	töpfflein
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+tiglein	NN	 UNKNOWN	tiglein
+</seg>
+<seg type="newline">
+Nim	VVFIN	 UNKNOWN	nimb
+halb	ADJD	 halb	halb
+Wasser	NN	 Wasser	Wasser
+vnd	KON	 und	und
+halb	ADJD	 halb	halb
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+saltze	ADJA	 kalt	kalten
+es	PPER	 es	es
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+viel	PIAT	 viel	viel
+Pfeffer	NN	 Pfeffer	Pfeffer
+vnd	KON	 und	und
+wenig	PIAT	 wenig	wenig
+Ingwer	NN	 Ingwer	Ingwer
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+geus	NN	 UNKNOWN	geuß
+es	PPER	 es	es
+auff	APPR	 auf	auf
+die	ART	 d	die
+Steinbeissen	NN	 UNKNOWN	Steinbeissen
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+ein	ART	 ein	ein
+gut	ADJD	 gut	gut
+theil	ADJA	 UNKNOWN	theil
+gantze	ADV	 ganz	ganz
+Muscatenblüt	NN	 UNKNOWN	Muscatenblüt
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+las	VVFIN	 lesen	las
+es	PPER	 es	es
+eine	ART	 ein	eine
+halbe	ADJA	 halb	halbe
+stunde	VVFIN	 stunden	stunde
+fein	ADJD	 fein	fein
+gemach	ADV	 gemach	gemach
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+werden	VAFIN	 werden	werden
+sie	PPER	 sie	sie
+fein	ADJD	 fein	fein
+hertlicht	ADJD	 UNKNOWN	hertlicht
+vnd	KON	 und	und
+gut	ADJD	 gut	gut
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

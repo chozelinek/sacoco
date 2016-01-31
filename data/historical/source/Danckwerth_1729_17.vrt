@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Danckwerth_1729_17" collection="historical" source="Danckwerth" url="none" year="1729" decade="1720-1730" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1729:237]">
+<title>
+<seg type="newline">
+14.	ADJA	 14.	14.
+Spieß=Küchlein	NN	 UNKNOWN	Spieß=Küchlein
+zubereiten	VVFIN	 zubereiten	zubereiten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nehmet	NE	 Nehmet	Nehmet
+warme	ADJA	 warm	warme
+Milch	NN	 Milch	Milch
+</seg>
+<seg type="newline">
+und	KON	 und	und
+schlaget	ADJA	 UNKNOWN	schlaget
+Eyer	NE	 UNKNOWN	Eyer
+darunter	PAV	 darunter	darunter
+</seg>
+<seg type="newline">
+machet	VVFIN	 machen	machet
+einen	ART	 ein	einen
+Teig	NN	 Teig	Teig
+an	APZR	 an	an
+mit	APPR	 mit	mit
+schönen	ADJA	 schön	schönen
+weissen	ADJA	 weiß	weissen
+Mehl	NN	 Mehl	Mehl
+</seg>
+<seg type="newline">
+nehmet	VVFIN	 nehmen	nehmet
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Bier=Hefen	NN	 UNKNOWN	Bier=Hefen
+und	KON	 und	und
+Butter	NN	 Butter	Butter
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+lasset	VVFIN	 lassen	lasset
+ihn	PPER	 er	ihn
+eine	PIS	 ein	eine
+Weil	KON	 weil	Weil
+hinter	APPR	 hinter	hinter
+den	ART	 d	den
+Ofen	NN	 Ofen	Ofen
+stehen	VVFIN	 stehen	stehen
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+es	PPER	 es	es
+über	APPR	 über	über
+sich	PRF	 er|es|sie	sich
+steiget	ADJD	 UNKNOWN	steiget
+</seg>
+<seg type="newline">
+machet	VVFIN	 machen	machet
+ihn	PPER	 er	ihn
+wieder	ADV	 wieder	wieder
+zu	APPR	 zu	zu
+hauff	NN	 UNKNOWN	hauff
+</seg>
+<seg type="newline">
+und	KON	 und	und
+saltzet	VVFIN	 UNKNOWN	saltzet
+ihn	PPER	 er	ihn
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+</seg>
+<seg type="newline">
+walget	VVFIN	 UNKNOWN	walget
+ihn	PPER	 er	ihn
+darnach	PAV	 danach	Danach
+fein	ADJD	 fein	fein
+sauber	ADJD	 sauber	sauber
+aus	APPR	 aus	aus
+</seg>
+<seg type="newline">
+werffet	ADJA	 UNKNOWN	werffet
+kleine	ADJA	 klein	kleine
+schwartze	NN	 UNKNOWN	schwartze
+Wein=beerlein	NN	 UNKNOWN	Wein=beerlein
+darüber	PAV	 darüber	darüber
+.	$.	.	$.	 .	|	.
+Nehmet	VVFIN	 nehmen	Nehmet
+einen	ART	 ein	einen
+Walger	NN	 UNKNOWN	Walger
+</seg>
+<seg type="newline">
+der	ART	 d	der
+fein	ADJD	 fein	fein
+warm	ADJD	 warm	warm
+</seg>
+<seg type="newline">
+und	KON	 und	und
+mit	APPR	 mit	mit
+Butter	NN	 Butter	Butter
+geschmieret	VVFIN	 UNKNOWN	geschmieret
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+und	KON	 und	und
+leget	ADJD	 UNKNOWN	leget
+ihn	PPER	 er	ihn
+auf	APPR	 auf	auf
+den	ART	 d	den
+Teig	NN	 Teig	Teig
+</seg>
+<seg type="newline">
+schlaget	VVFIN	 UNKNOWN	schlaget
+den	ART	 d	den
+Teig	NN	 Teig	Teig
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+und	KON	 und	und
+bindet	VVFIN	 binden	bindet
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Zwirns=Faden	NN	 UNKNOWN	Zwirns=Faden
+zusammen	ADV	 zusammen	zusammen
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+er	PPER	 er	er
+nicht	PTKNEG	 nicht	nicht
+herab	ADV	 herab	herab
+fällt	VVFIN	 fallen|fällen	fällt
+</seg>
+<seg type="newline">
+legets	VVFIN	 legen	legt
+zum	APPRART	 zum	zum
+Feuer	NN	 Feuer	Feuer
+</seg>
+<seg type="newline">
+und	KON	 und	und
+wendets	NN	 UNKNOWN	wendets
+fein	ADJD	 fein	fein
+langsam	ADJD	 langsam	langsam
+um	APPR	 um	um
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+wird	VAFIN	 werden	wird
+es	PPER	 es	es
+sich	PRF	 er|es|sie	sich
+sauber	ADJD	 sauber	sauber
+braten	VVINF	 braten	braten
+.	$.	.	$.	 .	|	.
+Und	KON	 und	Und
+wanns	NE	 UNKNOWN	wanns
+braun	ADJD	 braun	braun
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nehmet	VVFIN	 nehmen	nehmet
+einen	ART	 ein	einen
+Pinsel	NN	 Pinsel	Pinsel
+</seg>
+<seg type="newline">
+und	KON	 und	und
+stecket	VVFIN	 UNKNOWN	stecket
+ihn	PPER	 er	ihn
+in	APPR	 in	in
+heisse	ADJA	 heiß	heisse
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+und	KON	 und	und
+bestreicht	VVFIN	 bestreichen	bestreicht
+den	ART	 d	den
+Kuchen	NN	 Kuchen	Kuchen
+damit	PAV	 damit	damit
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+wird	VAFIN	 werden	wird
+er	PPER	 er	er
+schön	ADJD	 schön	schön
+bräunlicht	VVFIN	 UNKNOWN	bräunlicht
+.	$.	.	$.	 .	|	.
+Und	KON	 und	Und
+wann	PWAV	 wann	wann
+er	PPER	 er	er
+gebraten	VVPP	 braten	gebraten
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+thut	VVFIN	 UNKNOWN	thue
+ihn	PPER	 er	ihn
+von	APPR	 von	von
+dem	ART	 d	dem
+Walger=Spieß	NN	 UNKNOWN	Walger=Spieß
+</seg>
+<seg type="newline">
+und	KON	 und	und
+stechet	VVFIN	 UNKNOWN	stechet
+beyde	PIAT	 jed	jedes
+Löcher	NN	 Loch	Löcher
+zu	APPR	 zu	zu
+mit	APPR	 mit	mit
+saubern	ADJA	 UNKNOWN	saubern
+Tüchern	NN	 Tuch	Tüchern
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+die	ART	 d	die
+Hitz	NN	 UNKNOWN	Hitz
+darein	ADV	 darein	darein
+bleibt	VVFIN	 bleiben	bleibt
+</seg>
+<seg type="newline">
+lassets	ADJD	 UNKNOWN	lässets
+also	ADV	 also	also
+bleiben	VVINF	 bleiben	bleiben
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+kühl	ADJD	 kühl	kühl
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+gebets	NN	 Gebet	gebets
+kalt	ADJD	 kalt	kalt
+auf	APPR	 auf	auf
+einen	ART	 ein	einen
+Tisch	NN	 Tisch	Tisch
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+wird	VAFIN	 werden	wird
+es	PPER	 es	es
+fein	ADJD	 fein	fein
+mürb	ADJD	 mürb	mürb
+und	KON	 und	und
+gut	ADJD	 gut	gut
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

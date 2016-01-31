@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Koch_vnd_Kellermeisterey_1574_25" collection="historical" source="Koch_vnd_Kellermeisterey" url="none" year="1574" decade="1570-1580" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1574:19vf.]">
+<title>
+<seg type="newline">
+Gesultzt	ADJA	 UNKNOWN	Gesultzt
+Morchen	NN	 UNKNOWN	Morchen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Hastu	NE	 UNKNOWN	Hastu
+gesaltzen	ADJA	 UNKNOWN	gesaltzen
+Fischbrüh	NN	 UNKNOWN	Fischbrüh
+</seg>
+<seg type="newline">
+ist	VAFIN	 sein	ist
+gut	ADJD	 gut	gut
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+machs	NE	 UNKNOWN	machs
+ein	PTKVZ	 ein	ein
+also	ADV	 also	also
+.	$.	.	$.	 .	|	.
+Nimm	VVIMP	 nehmen	Nimm
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Essig	NN	 Essig	Essig
+vnnd	KON	 und	und
+wein	VVIMP	 weinen	wein
+vnder	VVFIN	 UNKNOWN	vnder
+einander	PRF	 einander	einander
+</seg>
+<seg type="newline">
+seud	NE	 UNKNOWN	seud
+vier	CARD	 vier	vier
+klein	ADJD	 klein	klein
+Bersig	ADJD	 UNKNOWN	Bersig
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+hausen	VVINF	 hausen	hausen
+blasen	VVINF	 blasen	blasen
+vnnd	KON	 und	und
+Lorbeer	NN	 Lorbeer	Lorbeer
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+die	ART	 d	die
+blätter	VVIMP	 blättern	blätter
+</seg>
+<seg type="newline">
+treib	VVIMP	 treiben	treib
+es	PPER	 es	es
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+tuch	NN	 Tuch	tuch
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+gefallen	VVFIN	 gefallen	gefallen
+</seg>
+<seg type="newline">
+seihe	PPOSAT	 sein	seine
+es	PPER	 es	es
+ab	APPR	 ab	ab
+</seg>
+<seg type="newline">
+saltz	ADJA	 kalt	kalten
+vnd	KON	 und	und
+würtz	VVFIN	 würzen	würzt
+es	PPER	 es	es
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+schütt	NN	 UNKNOWN	schütt
+es	PPER	 es	es
+vber	VVFIN	 UNKNOWN	vber
+die	PDS	 d	die
+selben	PDAT	 selb	selben
+Morchen	NN	 UNKNOWN	Morchen
+</seg>
+<seg type="newline">
+wiltu	NE	 UNKNOWN	wiltu
+die	ART	 d	die
+brühe	VVFIN	 brühen	brühe
+gelb	ADJD	 gelb	gelb
+haben	VAFIN	 haben	haben
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+thu	NE	 Thu	thu
+Saffran	NN	 Safran	Safran
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+stehen	VVINF	 stehen	stehen
+biß	VVFIN	 beißen	biß
+gesteht	VVFIN	 gestehen	gesteht
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+mach	VVIMP	 machen	mach
+geschelt	VVFIN	 UNKNOWN	geschelt
+Mandelkern	NE	 Mandelkern	Mandelkern
+</seg>
+<seg type="newline">
+bestecks	NN	 Besteck	bestecks
+hübschlich	ADJD	 UNKNOWN	hübschlich
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+steht	VVFIN	 stehen	steht
+wol	PWAV	 wo	wo
+.	$.	.	$.	 .	|	.
+Solche	PIAT	 solch	Solche
+füll	VVIMP	 füllen	füll
+möcht	VVFIN	 UNKNOWN	möcht
+man	PIS	 man	man
+auch	ADV	 auch	auch
+inn	ADJA	 UNKNOWN	inn
+Krebsschalen	NN	 Krebsschale	Krebsschalen
+machen	VVINF	 machen	machen
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+füllen	VVINF	 füllen	füllen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

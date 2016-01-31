@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Koch_vnd_Kellermeisterey_1574_1" collection="historical" source="Koch_vnd_Kellermeisterey" url="none" year="1574" decade="1570-1580" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1574:51rf.]">
+<title>
+<seg type="newline">
+Von	APPR	 von	Von
+Kappeskraut	NN	 UNKNOWN	Kappeskraut
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Kalt	ADJD	 kalt	Kalt
+Compostkraut	NN	 UNKNOWN	Compostkraut
+bald	ADV	 bald	bald
+wolschmäckend	ADJD	 UNKNOWN	wolschmäckend
+zu	PTKZU	 zu	zu
+machen	VVINF	 machen	machen
+</seg>
+<seg type="newline">
+im	APPRART	 im	im
+Herbst	NN	 Herbst	Herbst
+</seg>
+<seg type="newline">
+also	ADV	 also	also
+rohe	ADJA	 roh	rohe
+von	APPR	 von	von
+Krauthauptern	NN	 UNKNOWN	Krauthauptern
+.	$.	.	$.	 .	|	.
+Nimeinen	NN	 UNKNOWN	Nimeinen
+reinen	ADJA	 rein	reinen
+Hafen	NN	 Hafen	Hafen
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+sprieß	NN	 UNKNOWN	sprieß
+höltzlin	ADJD	 UNKNOWN	höltzlin
+vnden	VVFIN	 UNKNOWN	vnden
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+einer	ART	 ein	einer
+handthoch	NN	 UNKNOWN	handthoch
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+geuß	NN	 UNKNOWN	geuß
+guten	ADJA	 gut	guten
+rothen	NN	 UNKNOWN	rothen
+Wein	NN	 Wein	Wein
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+an	APPR	 an	an
+die	ART	 d	die
+höltzlin	NN	 UNKNOWN	höltzlin
+nicht	PTKNEG	 nicht	nicht
+gar	ADV	 gar	gar
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nimdes	ADJA	 UNKNOWN	nimdes
+Krauts	NN	 Kraut	Krauts
+wol	PWAV	 wo	wo
+gesäubert	VVPP	 säubern	gesäubert
+</seg>
+<seg type="newline">
+spalts	NN	 UNKNOWN	spalts
+in	APPR	 in	in
+vier	CARD	 vier	vier
+theyl	ADJD	 UNKNOWN	theyl
+biß	VVFIN	 beißen	biß
+ann	ADJA	 UNKNOWN	ann
+dorsen	TRUNC	 UNKNOWN	dorsen
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+es	PPER	 es	es
+doch	ADV	 doch	doch
+gantz	ADV	 ganz	ganz
+bleib	VVIMP	 bleiben	bleib
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+leg	VVIMP	 legen	leg
+ein	ART	 ein	ein
+ander	NE	 UNKNOWN	ander
+Bellin	NE	 UNKNOWN	Bellin
+Krauts	NN	 Kraut	Krauts
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+das	ART	 d	das
+vorn	ADV	 vorn	vorn
+auffhalt	ADJA	 UNKNOWN	auffhalt
+</seg>
+<seg type="newline">
+stürtz	NN	 UNKNOWN	stürtz
+das	ART	 d	das
+haupt	NN	 Haupt	haupt
+also	ADV	 also	also
+auff	APPR	 auf	auf
+die	ART	 d	die
+stürtzlin	NN	 UNKNOWN	stürtzlin
+in	APPR	 in	in
+Hafen	NN	 Hafen	Hafen
+</seg>
+<seg type="newline">
+verstürtz	NN	 UNKNOWN	verstürtz
+vnnd	KON	 und	und
+verkleib	NN	 UNKNOWN	verkleib
+den	ART	 d	den
+gar	ADV	 gar	gar
+eben	ADV	 eben	eben
+</seg>
+<seg type="newline">
+setz	VVIMP	 setzen	setz
+jhn	PPER	 er	ihn
+auff	APPR	 auf	auf
+einn	ART	 ein	einem
+dreifuß	ADJA	 UNKNOWN	dreifuß
+</seg>
+<seg type="newline">
+mach	VVIMP	 machen	mach
+ein	ART	 ein	ein
+zimlich	ADJD	 UNKNOWN	zimlich
+feuwr	ADJA	 UNKNOWN	feuwr
+darunder	NN	 UNKNOWN	darunder
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+stehn	VVFIN	 stellen	stellt
+als	KOKOM	 als	als
+lang	ADJD	 lang	lang
+ein	ART	 ein	ein
+kraut	NN	 Kraut	kraut
+sonst	ADV	 sonst	sonst
+pflegt	VVFIN	 pflegen	pflegt
+zusieden	ADJD	 UNKNOWN	zusieden
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+thu	VVFIN	 UNKNOWN	thue
+es	PPER	 es	es
+vff	ADJD	 UNKNOWN	vff
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+erkalten	VVFIN	 erkalten	erkalten
+</seg>
+<seg type="newline">
+Nimdes	NN	 UNKNOWN	Nimdes
+roten	ADJA	 rot	roten
+weins	NN	 Wein	weins
+in	APPR	 in	in
+dem	ART	 d	dem
+hafen	NN	 Hafen	hafen
+in	APPR	 in	in
+ein	ART	 ein	ein
+pfänlin	NE	 UNKNOWN	pfänlin
+</seg>
+<seg type="newline">
+seud	NE	 UNKNOWN	seud
+Kümmel	NN	 Kümmel	Kümmel
+</seg>
+<seg type="newline">
+Schleen	NN	 UNKNOWN	Schleen
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+Wechholtern	NN	 UNKNOWN	Wechholtern
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+schüts	NN	 UNKNOWN	schüts
+in	APPR	 in	in
+das	ART	 d	das
+haupt	ADJA	 UNKNOWN	haupt
+</seg>
+<seg type="newline">
+theyls	ADJA	 UNKNOWN	theyls
+wol	PWAV	 wo	wo
+vmb	VVFIN	 UNKNOWN	vmb
+vnvmb	ADJD	 UNKNOWN	vnvmb
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+zufallen	VVFIN	 zufallen	zufallen
+</seg>
+<seg type="newline">
+zerspalts	NN	 UNKNOWN	zerspalts
+gar	ADV	 gar	gar
+</seg>
+<seg type="newline">
+geuß	VVPP	 UNKNOWN	geuß
+Essig	NN	 Essig	Essig
+oder	KON	 oder	oder
+Senff	NN	 UNKNOWN	Senff
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+trags	NN	 UNKNOWN	trags
+für	APPR	 für	für
+.	$.	.	$.	 .	|	.
+Ettlich	ADJD	 UNKNOWN	Ettlich
+nemen	VVFIN	 UNKNOWN	nemen
+auch	ADV	 auch	auch
+die	ART	 d	die
+Kappes	NN	 UNKNOWN	Kappes
+haupt	ADJD	 UNKNOWN	haupt
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+fein	ADJD	 fein	fein
+hart	ADJD	 hart	hart
+seindt	NE	 UNKNOWN	seindt
+</seg>
+<seg type="newline">
+schneidens	ADJD	 UNKNOWN	schneidens
+fein	ADJD	 fein	fein
+klein	ADJD	 klein	klein
+zinnlecht	NN	 UNKNOWN	zinnlecht
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+thun	NN	 UNKNOWN	thue
+essig	ADJD	 UNKNOWN	essig
+vnd	KON	 und	und
+Baumöl	NN	 UNKNOWN	Baumöl
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+gibt	VVFIN	 geben	gibt
+ein	ART	 ein	ein
+guten	ADJA	 gut	guten
+Salat	NN	 Salat	Salat
+</seg>
+<seg type="newline">
+im	APPRART	 im	im
+Winter	NN	 Winter	Winter
+zu	PTKZU	 zu	zu
+essen	VVINF	 essen	essen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

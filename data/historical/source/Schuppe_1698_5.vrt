@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Schuppe_1698_5" collection="historical" source="Schuppe" url="none" year="1698" decade="1690-1700" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1698:21]">
+<title>
+<seg type="newline">
+XXX	NE	 UNKNOWN	XXX
+.	$.	.	$.	 .	|	.
+Eine	ART	 ein	Eine
+Suppe	NN	 Suppe	Suppe
+von	APPR	 von	von
+Linsen	NN	 Linse|Linsen	Linsen
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+gefüllten	ADJA	 gefüllt	gefüllten
+Karpffen	NN	 UNKNOWN	Karpffen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+Baumöhl	NN	 UNKNOWN	Baumöhl
+darüber	PAV	 darüber	darüber
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+die	ART	 d	die
+Linsen	NN	 Linse|Linsen	Linsen
+</seg>
+<seg type="newline">
+setze	VVFIN	 setzen	setze
+sie	PPER	 sie	sie
+ans	APPRART	 ans	ans
+Feuer	NN	 Feuer	Feuer
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+sie	PPER	 sie	sie
+kochen	VVINF	 kochen	kochen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+nimm	VVIMP	 nehmen	nimm
+dann	ADV	 dann	dann
+ein	PTKVZ	 ein	ein
+oder	KON	 oder	oder
+zween	ADJA	 UNKNOWN	zween
+Karpffen	NN	 UNKNOWN	Karpffen
+</seg>
+<seg type="newline">
+fülle	VVFIN	 füllen	fülle
+sie	PPER	 sie	sie
+wie	KOKOM	 wie	wie
+zu	APPR	 zu	zu
+der	ART	 d	der
+Karpffen=Suppe	NN	 UNKNOWN	Karpffen=Suppe
+gehöret	ADJA	 UNKNOWN	gehöret
+</seg>
+<seg type="newline">
+thue	NN	 UNKNOWN	thue
+die	ART	 d	die
+Karpffen	NN	 UNKNOWN	Karpffen
+à	FM	à	FM	 à	|	à
+part	ADJD	 hart	hart
+in	APPR	 in	in
+eine	ART	 ein	eine
+Castrol=Pfanne	NN	 UNKNOWN	Castrol=Pfanne
+oder	KON	 oder	oder
+Kessel	NN	 Kessel	Kessel
+</seg>
+<seg type="newline">
+und	KON	 und	und
+gieß	VVIMP	 gießen	gieß
+von	APPR	 von	von
+der	ART	 d	der
+Linsen=Suppe	NN	 UNKNOWN	Linsen=Suppe
+darauff	PAV	 drauf	drauf
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+sie	PPER	 sie	sie
+darinnen	VVFIN	 darinnen	darinnen
+gahr	ADV	 gar	gar
+kochen	VVFIN	 kochen	kochen
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+Saltz	NN	 Salz	Salz
+und	KON	 und	und
+Butter	NN	 Butter	Butter
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+wol	PWAV	 wo	wo
+erstlich	ADJD	 UNKNOWN	erstlich
+an	APPR	 an	an
+die	ART	 d	die
+Linsen	NN	 Linse|Linsen	Linsen
+</seg>
+<seg type="newline">
+als	KOKOM	 als	als
+auch	ADV	 auch	auch
+hernach	ADV	 hernach	hernach
+an	APPR	 an	an
+die	ART	 d	die
+Karpffen	NN	 UNKNOWN	Karpffen
+;	$.	;	$.	 ;	|	;
+wenns	KOUS	 wenn	wenn
+Zeit	NN	 Zeit	Zeit
+ist	VAFIN	 sein	ist
+anzurichten	VVIZU	 anrichten	anzurichten
+</seg>
+<seg type="newline">
+gieß	VVIMP	 gießen	gieß
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Suppe	NN	 Suppe	Suppe
+und	KON	 und	und
+Linsen	NN	 Linse|Linsen	Linsen
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+du	PPER	 du	du
+vorher	ADV	 vorher	vorher
+Brodt	NN	 UNKNOWN	Brodt
+in	APPR	 in	in
+die	ART	 d	die
+Schüssel	NN	 Schüssel	Schüssel
+geschnitten	VVPP	 schneiden	geschnitten
+hast	VAFIN	 haben	hast
+</seg>
+<seg type="newline">
+richte	VVFIN	 richten	richte
+die	ART	 d	die
+Karpffen	NN	 UNKNOWN	Karpffen
+darauff	PAV	 drauf	drauf
+an	PTKVZ	 an	an
+</seg>
+<seg type="newline">
+und	KON	 und	und
+gieß	VVIMP	 gießen	gieß
+Linsen	NN	 Linse|Linsen	Linsen
+und	KON	 und	und
+Baumöhl	NN	 UNKNOWN	Baumöhl
+drüber	PAV	 drüber	drüber
+her	PTKVZ	 her	her
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

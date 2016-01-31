@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Prasmosfky_1671_20" collection="historical" source="Prasmosfky" url="none" year="1671" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1671:90]">
+<title>
+<seg type="newline">
+270.	ADJA	 @ord@	270.
+Kälber=Füß	NN	 UNKNOWN	Kälber=Füß
+in	APPR	 in	in
+einer	ART	 ein	einer
+gelben	ADJA	 gelb	gelben
+Brühe	NN	 Brühe	Brühe
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Siede	NN	 Siede	Siede
+die	ART	 d	die
+Füß	NN	 UNKNOWN	Füß
+</seg>
+<seg type="newline">
+schneids	VVFIN	 schneiden	schneiden
+in	APPR	 in	in
+zwey	CARD	 zwei	zwei
+Theil	NN	 Teil	Teil
+</seg>
+<seg type="newline">
+machs	NE	 UNKNOWN	machs
+trucken	VVFIN	 UNKNOWN	trucken
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+im	APPRART	 im	im
+Schmaltz	NN	 Schmalz	Schmalz
+rösten	VVFIN	 rösten	rösten
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+ein	ART	 ein	ein
+Theil	NN	 Teil	Teil
+Schmaltz	NN	 Schmalz	Schmalz
+davon	PAV	 davon	davon
+</seg>
+<seg type="newline">
+gieß	VVIMP	 gießen	gieß
+Wein	NN	 Wein	Wein
+und	KON	 und	und
+Fleischbrühe	NN	 Fleischbrühe	Fleischbrühe
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+thue	ADJA	 UNKNOWN	thue
+Ingwer	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Trisanet	NE	 UNKNOWN	Trysaneth
+</seg>
+<seg type="newline">
+und	KON	 und	und
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Zucker	NN	 Zucker	Zucker
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+richts	PTKNEG	 nicht	nicht
+hernach	ADV	 hernach	hernach
+an	PTKVZ	 an	an
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

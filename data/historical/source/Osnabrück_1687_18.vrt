@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Osnabrueck_1687_18" collection="historical" source="Osnabrueck" url="none" year="1687" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1687:35]">
+<title>
+<seg type="newline">
+Eine	ART	 ein	Eine
+liebliche	ADJA	 lieblich	liebliche
+Apffel=Milch	NN	 UNKNOWN	Apffel=Milch
+zu	PTKZU	 zu	zu
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nehmt	VVFIN	 nehmen	Nehmt
+die	ART	 d	die
+besten	ADJA	 gut	besten
+von	APPR	 von	von
+den	ART	 d	den
+Kern=Häusern	NN	 UNKNOWN	Kern=Häusern
+wol	PWAV	 wo	wo
+gereinigte	ADJA	 gereinigt	gereinigte
+Apffel	NN	 Apfel	Apfel
+</seg>
+<seg type="newline">
+thut	VVFIN	 UNKNOWN	thue
+sie	PPER	 sie	sie
+in	APPR	 in	in
+einen	ART	 ein	einen
+Topff	NN	 Topf	Topf
+mit	APPR	 mit	mit
+was	PIAT	 was	was
+Rosen=Wasser	NN	 Rosenwasser	Rosenwasser
+und	KON	 und	und
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+last	VVFIN	 lesen	last
+es	PPER	 es	es
+kochen	VVFIN	 kochen	kochen
+als	KOKOM	 als	als
+ein	ART	 ein	ein
+Gemüse	NN	 Gemüse	Gemüse
+</seg>
+<seg type="newline">
+zerreibt	VVFIN	 zerreiben	zerreibt
+es	PPER	 es	es
+stets	ADV	 stets	stets
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Löffel	NN	 Löffel	Löffel
+</seg>
+<seg type="newline">
+thut	NE	 UNKNOWN	thue
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Weitzen=Mehl	NN	 UNKNOWN	Weitzen=Mehl
+und	KON	 und	und
+Milch	NN	 Milch	Milch
+dabey	PAV	 dabei	dabei
+</seg>
+<seg type="newline">
+und	KON	 und	und
+last	VVFIN	 lesen	last
+es	PPER	 es	es
+zusammen	ADV	 zusammen	zusammen
+kochen	VVINF	 kochen	kochen
+biß	VVFIN	 beißen	biß
+es	PPER	 es	es
+dick	ADJD	 dick	dick
+wird	VAFIN	 werden	wird
+;	$.	;	$.	 ;	|	;
+Ihr	PPER	 ihr	Ihr
+könnet	VMFIN	 können	könnet
+auch	ADV	 auch	auch
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Zucker	NN	 Zucker	Zucker
+und	KON	 und	und
+gerieben	VVPP	 reiben	gerieben
+weiß	VVFIN	 wissen	weiß
+Brod	NN	 Brot	Brot
+darunter	PAV	 darunter	darunter
+rühren	VVINF	 rühren	rühren
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Staindl_1569_8" collection="historical" source="Staindl" url="none" year="1569" decade="1560-1570" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[38v]">
+<title>
+<seg type="newline">
+Torten	NN	 Torte	Torten
+von	APPR	 von	von
+Piessen	NN	 UNKNOWN	Piessen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimb	ADJA	 UNKNOWN	nimb
+Piessen	NN	 UNKNOWN	Piessen
+</seg>
+<seg type="newline">
+die	ART	 d	die
+hack	VVIMP	 hacken	hack
+gar	ADV	 gar	gar
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+nimbs	ADJD	 UNKNOWN	nimbs
+in	APPR	 in	in
+ein	ART	 ein	ein
+schöns	NN	 UNKNOWN	schöns
+leines	ADJA	 UNKNOWN	leines
+tuoch	TRUNC	 UNKNOWN	tuoch
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+truck	NN	 Truck	truck
+das	PDS	 d	das
+grün	ADJD	 grün	grün
+brät	VVFIN	 braten	brät
+auß	VMFIN	 müssen	muß
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+nimb	VVFIN	 UNKNOWN	nimb
+die	ART	 d	die
+Piessen	NN	 UNKNOWN	Piessen
+in	APPR	 in	in
+ein	ART	 ein	ein
+schüssel	NN	 Schüssel	schüssel
+</seg>
+<seg type="newline">
+brenn	VVIMP	 brennen	brenn
+ein	ART	 ein	ein
+schmaltz	NN	 UNKNOWN	schmaltz
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+schlag	VVIMP	 schlagen	schlag
+ayer	VVFIN	 UNKNOWN	ayer
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+stüps	NN	 UNKNOWN	stüps
+</seg>
+<seg type="newline">
+thuo	NE	 UNKNOWN	thue
+Weinberlin	NE	 UNKNOWN	Weinberlin
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+ob	KOUS	 ob	ob
+du	PPER	 du	du
+wilt	NE	 Wilt	wilt
+.	$.	.	$.	 .	|	.
+Die	ART	 d	Die
+füll	VVIMP	 füllen	füll
+muoß	VVFIN	 UNKNOWN	muoß
+nit	ADJD	 UNKNOWN	nimb
+zu	APPR	 zu	zu
+dünn	ADJD	 dünn	dünn
+sein	VAINF	 sein	sein
+</seg>
+<seg type="newline">
+mach	VVIMP	 machen	mach
+dann	ADV	 dann	dann
+ein	ART	 ein	ein
+taig	ADJD	 UNKNOWN	taig
+mit	APPR	 mit	mit
+ayren	ADJD	 UNKNOWN	ayren
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+zum	APPRART	 zum	zum
+Affenmund	NN	 UNKNOWN	Affenmund
+</seg>
+<seg type="newline">
+mach	VVIMP	 machen	mach
+kleine	ADJA	 klein	kleine
+dünne	ADJA	 dünn	dünne
+bletlein	NN	 UNKNOWN	bletlein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+thuo	NN	 UNKNOWN	thue
+die	ART	 d	die
+füll	VVIMP	 füllen	füll
+darauff	PAV	 drauf	drauf
+</seg>
+<seg type="newline">
+streichs	NN	 Streich	streichs
+als	KOKOM	 als	als
+weit	ADJD	 weit	weit
+als	KOKOM	 als	als
+das	ART	 d	das
+bletlein	NN	 UNKNOWN	bletlein
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+rädels	NN	 UNKNOWN	rädels
+vmb	ADJD	 UNKNOWN	vmb
+vnd	KON	 und	und
+vmb	ADJD	 UNKNOWN	vmb
+ab	PTKVZ	 ab	ab
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+bachs	NE	 Bach	bachs
+fein	ADJD	 fein	fein
+langsam	ADJD	 langsam	langsam
+in	APPR	 in	in
+eim	ADJA	 UNKNOWN	nimb
+heissen	ADJA	 heiß	heissen
+schmaltz	ADJA	 UNKNOWN	schmaltz
+</seg>
+<seg type="newline">
+rür	NN	 UNKNOWN	rür
+die	ART	 d	die
+pfann	ADJA	 UNKNOWN	pfann
+dieweil	KOUS	 dieweil	dieweil
+es	PPER	 es	es
+bäckt	VVFIN	 backen	bäckt
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+gehts	NN	 UNKNOWN	gehts
+auff	APPR	 auf	auf
+</seg>
+<seg type="newline">
+gibs	NN	 UNKNOWN	gilbs
+warm	ADJD	 warm	warm
+oder	KON	 oder	oder
+kalt	ADJD	 kalt	kalt
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Prasmosfky_1671_29" collection="historical" source="Prasmosfky" url="none" year="1671" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1671:1]">
+<title>
+<seg type="newline">
+1.	ADJA	 1.	1.
+Aal	NN	 Aal	Aal
+braten	VVFIN	 braten	braten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wann	PWAV	 wann	Wann
+du	PPER	 du	du
+wilt	VMFIN	 wollen	will
+einen	ART	 ein	einen
+Aal	NN	 Aal	Aal
+zurichten	VVINF	 zurichten	zurichten
+</seg>
+<seg type="newline">
+entweder	KON	 entweder	entweder
+braten	VVFIN	 braten	braten
+oder	KON	 oder	oder
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nimm	VVIMP	 nehmen	nimm
+den	ART	 d	den
+Aal	NN	 Aal	Aal
+</seg>
+<seg type="newline">
+schlag	VVIMP	 schlagen	schlag
+ihm	PPER	 er	ihm
+einen	PIS	 ein	einen
+starcken	VVFIN	 stocken	stocken
+Nagel	NE	 Nagel	Nagel
+durch	APPR	 durch	durch
+den	ART	 d	den
+Kopff	NN	 UNKNOWN	Kopff
+</seg>
+<seg type="newline">
+auf	APPR	 auf	auf
+einen	ART	 ein	einen
+Tisch	NN	 Tisch	Tisch
+</seg>
+<seg type="newline">
+Banck	NE	 UNKNOWN	Banck
+oder	KON	 oder	oder
+Wand	NN	 Wand	Wand
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+löse	VVFIN	 lösen	löse
+ihm	PPER	 er	ihm
+die	ART	 d	die
+Haut	NN	 Haut	Haut
+umb	APPR	 um	um
+den	ART	 d	den
+Kopff	NN	 UNKNOWN	Kopff
+ab	PTKVZ	 ab	ab
+</seg>
+<seg type="newline">
+reibe	VVFIN	 reiben	reibe
+den	ART	 d	den
+Aal	NN	 Aal	Aal
+oder	KON	 oder	oder
+deine	PPOSAT	 dein	deine
+Hand	NN	 Hand	Hand
+wol	PWAV	 wo	wo
+mit	APPR	 mit	mit
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+und	KON	 und	und
+ziehe	VVFIN	 zeihen|ziehen	ziehe
+ihm	PPER	 er	ihm
+alsdann	NN	 UNKNOWN	Alsdann
+die	ART	 d	die
+Haut	NN	 Haut	Haut
+ab	PTKVZ	 ab	ab
+</seg>
+<seg type="newline">
+nach	APPR	 nach	nach
+diesem	PDAT	 dies	diesem
+schneid	NN	 Schneid	schneid
+den	ART	 d	den
+Kopff	NN	 UNKNOWN	Kopff
+und	KON	 und	und
+Schwantz	NN	 UNKNOWN	Schwantz
+ab	APPR	 ab	ab
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+sie	PPER	 sie	sie
+hinweg	ADV	 hinweg	hinweg
+</seg>
+<seg type="newline">
+das	ART	 d	das
+übrige	ADJA	 übrig	übrige
+schneid	NN	 Schneid	schneid
+in	APPR	 in	in
+etliche	PIAT	 etlich	etliche
+Stücklein	NN	 Stücklein	Stücklein
+</seg>
+<seg type="newline">
+ädere	VVFIN	 UNKNOWN	ädere
+solche	PIS	 solch	solche
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Korn=Strohe	NN	 UNKNOWN	Korn=Strohe
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+andern	PIS	 ander	andern
+</seg>
+<seg type="newline">
+wol	PWAV	 wo	wo
+und	KON	 und	und
+fleissig	ADJD	 fleißig	fleissig
+aus	APPR	 aus	aus
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+nichts	PIAT	 nichts	nichts
+unreines	ADJA	 unrein	unreines
+darinnen	VVFIN	 darinnen	darinnen
+bleib	VVIMP	 bleiben	bleib
+</seg>
+<seg type="newline">
+diese	PDAT	 dies	diese
+ausgeäderte	ADJA	 UNKNOWN	ausgeäderte
+Stücklein	NN	 Stücklein	Stücklein
+leg	VVIMP	 legen	leg
+in	APPR	 in	in
+ein	ART	 ein	ein
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+wasch	VVIMP	 waschen	wasch
+sauber	ADJD	 sauber	sauber
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+thue	VVFIN	 UNKNOWN	thue
+sie	PPER	 sie	sie
+in	APPR	 in	in
+ein	ART	 ein	ein
+andere	ADJA	 ander	andere
+Schüssel	NN	 Schüssel	Schüssel
+mit	APPR	 mit	mit
+Essig	NN	 Essig	Essig
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+und	KON	 und	und
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+ein	PTKVZ	 ein	ein
+Stund	VAFIN	 sein	sind
+lang	ADJD	 lang	lang
+übereinander	ADV	 übereinander	übereinander
+also	ADV	 also	also
+stehen	VVFIN	 stehen	stehen
+</seg>
+<seg type="newline">
+darffsts	NN	 UNKNOWN	darffsts
+hernach	ADV	 hernach	hernach
+an	APPR	 an	an
+den	ART	 d	den
+Spieß	NN	 Spieß	Spieß
+stecken	VVINF	 stecken	stecken
+</seg>
+<seg type="newline">
+umbwickele	VVFIN	 UNKNOWN	umbwickele
+aber	ADV	 aber	aber
+die	ART	 d	die
+Stück	NN	 Stück	Stück
+mit	APPR	 mit	mit
+Salvey=Blättern	NN	 UNKNOWN	Salvey=Blättern
+</seg>
+<seg type="newline">
+und	KON	 und	und
+wo	PWAV	 wo	wo
+du	PPER	 du	du
+es	PPER	 es	es
+haben	VAFIN	 haben	haben
+kanst	ADJA	 UNKNOWN	kanst
+</seg>
+<seg type="newline">
+thue	NN	 UNKNOWN	thue
+Lorbeer=Blätter	NN	 UNKNOWN	Lorbeer=Blätter
+zwischen	APPR	 zwischen	zwischen
+die	ART	 d	die
+Stück	NN	 Stück	Stück
+</seg>
+<seg type="newline">
+bestreue	VVFIN	 UNKNOWN	bestreue
+ihn	PPER	 er	ihn
+mit	APPR	 mit	mit
+Saltz	NN	 Salz	Salz
+und	KON	 und	und
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+und	KON	 und	und
+brate	VVFIN	 braten	brate
+ihn	PPER	 er	ihn
+</seg>
+<seg type="newline">
+stelle	VVFIN	 stellen	stelle
+eine	ART	 ein	eine
+Bratpfannen	NN	 Bratpfanne	Bratpfannen
+darunter	PAV	 darunter	darunter
+</seg>
+<seg type="newline">
+mach	VVIMP	 machen	mach
+ein	ART	 ein	ein
+Schmaltz	NN	 Schmalz	Schmalz
+heiß	ADJD	 heiß	heiß
+</seg>
+<seg type="newline">
+thu	ADJA	 UNKNOWN	thue
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Muscaten=Blühe	VVFIN	 UNKNOWN	Muscaten=Blühe
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+geschnittene	ADJA	 geschnitten	geschnittene
+Salvey	NE	 UNKNOWN	Salvey
+und	KON	 und	und
+Petersilien	NN	 Petersilie	Petersilie
+</seg>
+<seg type="newline">
+halb	ADJD	 halb	halb
+Wein	NN	 Wein	Wein
+und	KON	 und	und
+Essig	NN	 Essig	Essig
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+etwas	PIAT	 etwas	etwas
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+untereinander	ADV	 untereinander	untereinander
+gemenget	VVFIN	 UNKNOWN	gemenget
+</seg>
+<seg type="newline">
+und	KON	 und	und
+gesotten	VVPP	 sieden	gesotten
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+die	ART	 d	die
+Bratpfannen	NN	 Bratpfanne	Bratpfannen
+</seg>
+<seg type="newline">
+betreuffe	VVFIN	 UNKNOWN	betrauffe
+die	ART	 d	die
+Aalstück	NN	 UNKNOWN	Aalstück
+damit	PAV	 damit	damit
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+sie	PPER	 sie	sie
+nun	ADV	 nun	nun
+also	ADV	 also	also
+gar	ADV	 gar	gar
+gebraten	VVPP	 braten	gebraten
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nimm	VVIMP	 nehmen	nimm
+frische	ADJA	 frisch	frische
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+betreuffe	VVFIN	 UNKNOWN	betrauffe
+ihn	PPER	 er	ihn
+nochmaln	ADJD	 UNKNOWN	nochmaln
+</seg>
+<seg type="newline">
+und	KON	 und	und
+bestreue	VVFIN	 UNKNOWN	bestreue
+ihn	PPER	 er	ihn
+mit	APPR	 mit	mit
+geriebenen	ADJA	 gerieben	geriebenen
+Brod	NN	 Brot	Brot
+</seg>
+<seg type="newline">
+Zimmet	NN	 Zimt	Zimt
+und	KON	 und	und
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+sie	PPER	 sie	sie
+sodann	ADV	 sodann	sodann
+in	APPR	 in	in
+eine	ART	 ein	eine
+Schüssel	NN	 Schüssel	Schüssel
+</seg>
+<seg type="newline">
+und	KON	 und	und
+gieß	VVIMP	 gießen	gieß
+obbemelte	ADJA	 UNKNOWN	obbemelte
+Brühe	NN	 Brühe	Brühe
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+aber	KON	 aber	aber
+das	ART	 d	das
+fette	ADJA	 fett	fette
+davon	PAV	 davon	davon
+</seg>
+<seg type="newline">
+und	KON	 und	und
+röste	ADJA	 UNKNOWN	röste
+Brod	NN	 Brot	Brot
+darinnen	VVINF	 darinnen	darinnen
+</seg>
+<seg type="newline">
+lasse	VVFIN	 lassen	lasse
+so	ADV	 so	so
+zu	APPR	 zu	zu
+Tisch	NN	 Tisch	Tisch
+tragen	VVINF	 tragen	tragen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

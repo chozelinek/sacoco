@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Keyl_1705_13" collection="historical" source="Keyl" url="none" year="1705" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Hecht|" method="|none|" ref="[1705:115]">
+<title>
+<seg type="newline">
+Hecht	NN	 Hecht	Hecht
+mit	APPR	 mit	mit
+Oesters	NN	 UNKNOWN	Oesters
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Der	ART	 d	Der
+Hecht	NN	 Hecht	Hecht
+wird	VAFIN	 werden	wird
+erstlich	ADJD	 UNKNOWN	erstlich
+blau	ADJD	 blau	blau
+gekochet	ADJA	 UNKNOWN	gekochet
+</seg>
+<seg type="newline">
+nimm	VVIMP	 nehmen	nimm
+Oesters	ADJA	 UNKNOWN	Oesters
+</seg>
+<seg type="newline">
+geuß	NN	 UNKNOWN	geuß
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Rindfleisch	NN	 Rindfleisch	Rindfleisch
+Brüh	ADJD	 früh	früh
+und	KON	 und	und
+Wein	NN	 Wein	Wein
+darauff	PAV	 drauf	drauf
+</seg>
+<seg type="newline">
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+gerieben	VVPP	 reiben	gerieben
+Semmel	NN	 Semmel	Semmel
+</seg>
+<seg type="newline">
+Muscatenblum	NN	 UNKNOWN	Muscatenblumen
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+sie	PPER	 sie	sie
+damit	PAV	 damit	damit
+gar	ADV	 gar	gar
+kochen	VVFIN	 kochen	kochen
+</seg>
+<seg type="newline">
+Citronensafft	NN	 UNKNOWN	Citronensafft
+</seg>
+<seg type="newline">
+geuß	NN	 UNKNOWN	geuß
+die	ART	 d	die
+Brühe	NN	 Brühe	Brühe
+von	APPR	 von	von
+die	ART	 d	die
+Oesters	NN	 UNKNOWN	Oesters
+</seg>
+<seg type="newline">
+und	KON	 und	und
+laß	ADJD	 laß	laß
+den	ART	 d	den
+abgekochten	ADJA	 abgekocht	abgekochten
+Hecht	NN	 Hecht	Hecht
+darinn	NN	 UNKNOWN	darinn
+durchschmoren	VVFIN	 durchschmoren	durchschmoren
+</seg>
+<seg type="newline">
+wenn	KOUS	 wenn	wenn
+er	PPER	 er	er
+angerichtet	VVPP	 anrichten	angerichtet
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+thue	NN	 UNKNOWN	thue
+die	ART	 d	die
+Oesters	NN	 UNKNOWN	Oesters
+darauff	PTKVZ	 drauf	drauf
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

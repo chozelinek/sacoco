@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Osnabrueck_1687_19" collection="historical" source="Osnabrueck" url="none" year="1687" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1687:37]">
+<title>
+<seg type="newline">
+Blätter	NN	 Blatt	Blätter
+von	APPR	 von	von
+Garten=Kräutern	NN	 UNKNOWN	Garten=Kräutern
+zu	PTKZU	 zu	zu
+kochen	VVINF	 kochen	kochen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nehmt	VVFIN	 nehmen	Nehmt
+junge	ADJA	 jung	junge
+Blätter	NN	 Blatt	Blätter
+von	APPR	 von	von
+Buglossen	NE	 UNKNOWN	Buglossen
+,	$,	,	$,	 ,	|	,
+Borrago	NE	 UNKNOWN	Borrago
+,	$,	,	$,	 ,	|	,
+Salbey	NE	 UNKNOWN	Salbey
+oder	KON	 oder	oder
+Scharley	NE	 UNKNOWN	Scharley
+</seg>
+<seg type="newline">
+wascht	VVFIN	 waschen	wascht
+sie	PPER	 sie	sie
+fein	ADJD	 fein	fein
+rein	PTKVZ	 rein	rein
+</seg>
+<seg type="newline">
+und	KON	 und	und
+last	VVFIN	 lesen	last
+sie	PPER	 sie	sie
+wieder	ADV	 wieder	wieder
+drucken	VVINF	 drucken	drucken
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+zieht	VVFIN	 zeihen|ziehen	zieht
+denn	ADV	 denn	denn
+solche	PIAT	 solch	solche
+Blätter	NN	 Blatt	Blätter
+durch	APPR	 durch	durch
+durchgeschlagene	ADJA	 UNKNOWN	durchgeschlagene
+Eyer	NE	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+backt	VVFIN	 backen	backt
+sie	PPER	 sie	sie
+in	APPR	 in	in
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+und	KON	 und	und
+bestreuet	VVFIN	 bestreuen	bestreuen
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+Zucker	NN	 Zucker	Zucker
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

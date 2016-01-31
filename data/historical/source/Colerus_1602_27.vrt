@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Colerus_1602_27" collection="historical" source="Colerus" url="none" year="1602" decade="1600-1610" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1602:177]">
+<title>
+<seg type="newline">
+Eine	ART	 ein	Eine
+Kesche	NN	 UNKNOWN	Kesche
+von	APPR	 von	von
+welcken	ADJA	 UNKNOWN	welcken
+Rüben	NN	 Rübe	Rüben
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Koche	VVFIN	 kochen	Koche
+die	ART	 d	die
+Rüben	NN	 Rübe	Rüben
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+zuhacke	VVFIN	 UNKNOWN	zuhacke
+sie	PPER	 sie	sie
+auffs	NE	 UNKNOWN	auffs
+kleineste	NE	 UNKNOWN	kleineste
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+thue	NE	 UNKNOWN	thue
+Honig	NN	 Honig	Honig
+in	APPR	 in	in
+einen	ART	 ein	einen
+Tiegel	NN	 Tiegel	Tiegel
+</seg>
+<seg type="newline">
+schütte	VVFIN	 schütten	schütte
+die	ART	 d	die
+Rüben	NN	 Rübe	Rüben
+drauff	PAV	 drauf	drauf
+</seg>
+<seg type="newline">
+las	VVFIN	 lesen	las
+sie	PPER	 sie	sie
+also	ADV	 also	also
+drinnen	ADV	 drinnen	drinnen
+pregeln	VVFIN	 UNKNOWN	pregeln
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+sie	PPER	 sie	sie
+nicht	PTKNEG	 nicht	nicht
+allzu	PTKA	 allzu	allzu
+dick	ADJD	 dick	dick
+werden	VAINF	 werden	werden
+</seg>
+<seg type="newline">
+nimm	VVIMP	 nehmen	nimm
+Anerkörner	NN	 UNKNOWN	Anerkörner
+vnd	KON	 und	und
+Polnischenkümmel	NN	 UNKNOWN	Polnischenkümmel
+</seg>
+<seg type="newline">
+zustos	VVFIN	 UNKNOWN	zustos
+das	PDS	 d	das
+zu	APPR	 zu	zu
+pulver	NN	 Pulver	pulver
+</seg>
+<seg type="newline">
+thue	VVFIN	 UNKNOWN	thue
+das	PDS	 d	das
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+würtze	VVFIN	 würzen	würzt
+es	PPER	 es	es
+mit	APPR	 mit	mit
+Ingber	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Nelcken	NE	 UNKNOWN	Nelcken
+</seg>
+<seg type="newline">
+Zimmetrinden	NN	 UNKNOWN	Zimmetrinden
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+nicht	PTKNEG	 nicht	nicht
+viel	PIAT	 viel	viel
+</seg>
+<seg type="newline">
+gib	VVIMP	 geben	gib
+sie	PPER	 sie	sie
+auff	APPR	 auf	auf
+die	ART	 d	die
+Schüssel	NN	 Schüssel	Schüssel
+</seg>
+<seg type="newline">
+das	ART	 d	das
+Saltz	NN	 Salz	Salz
+habe	VAFIN	 haben	habe
+ingedenck	ADJD	 UNKNOWN	ingedenck
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

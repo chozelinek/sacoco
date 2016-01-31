@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Osnabrueck_1687_13" collection="historical" source="Osnabrueck" url="none" year="1687" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1687:25]">
+<title>
+<seg type="newline">
+Eine	ART	 ein	Eine
+gebratene	ADJA	 gebraten	gebratene
+Ganß	NN	 UNKNOWN	Ganß
+oder	KON	 oder	oder
+Ente	NN	 Ente	Ente
+zu	PTKZU	 zu	zu
+füllen	VVINF	 füllen	füllen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Thut	NN	 UNKNOWN	Thut
+alles	PIAT	 alle	alles
+feiste	ADJA	 feist	feiste
+so	ADV	 so	so
+in	APPR	 in	in
+der	ART	 d	der
+Ganß	NN	 UNKNOWN	Ganß
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+herauß	NN	 UNKNOWN	herauß
+</seg>
+<seg type="newline">
+nehmt	VVFIN	 nehmen	nehmt
+zimlich	ADJD	 UNKNOWN	zimlich
+viel	PIAT	 viel	viel
+Weitzen	ADJA	 UNKNOWN	Weitzen
+Brod	NN	 Brot	Brot
+</seg>
+<seg type="newline">
+schneidet	VVFIN	 schneiden	schneidet
+die	ART	 d	die
+Rinde	NN	 Rinde	Rinde
+weg	PTKVZ	 weg	weg
+</seg>
+<seg type="newline">
+und	KON	 und	und
+reibt	VVFIN	 reiben	reibt
+es	PPER	 es	es
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+halb	ADJD	 halb	halb
+Pfund	NN	 Pfund	Pfund
+gereinigte	ADJA	 gereinigt	gereinigte
+Corinthen	NN	 Korinthe	Korinthen
+</seg>
+<seg type="newline">
+anderthalb	ADJA	 anderthalb	anderthalb
+Loht	ADJA	 UNKNOWN	Loht
+Caneel	NN	 Handel	Handel
+</seg>
+<seg type="newline">
+zwey	CARD	 zwei	zwei
+Löffel	NN	 Löffel	Löffel
+voll	ADJD	 voll	voll
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+gut	ADJD	 gut	gut
+stück	VVIMP	 stücken	stück
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+mengt	VVFIN	 mengen	mengt
+es	PPER	 es	es
+mit	APPR	 mit	mit
+reinischen	ADJA	 UNKNOWN	reinischen
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+es	PPER	 es	es
+durchher	ADJD	 UNKNOWN	durchher
+naß	ADJD	 naß	naß
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+gibt	VVFIN	 geben	gibt
+ein	ART	 ein	ein
+schön	ADJD	 schön	schön
+Gefülltes	ADJA	 gefüllt	Gefülltes
+</seg>
+<seg type="newline">
+man	PIS	 man	man
+füllet	VVFIN	 füllen	füllet
+die	ART	 d	die
+Gänse	NN	 Gans	Gänse
+und	KON	 und	und
+Enten	NN	 Ente	Enten
+auch	ADV	 auch	auch
+wohl	ADV	 wohl	wohl
+mit	APPR	 mit	mit
+abgeschelten	ADJA	 UNKNOWN	abgeschelten
+Castanien	NN	 UNKNOWN	Castanien
+</seg>
+<seg type="newline">
+der	ART	 d	der
+Butter	NN	 Butter	Butter
+dabey	PAV	 dabei	dabei
+unvergessen	ADJD	 unvergessen	unvergessen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

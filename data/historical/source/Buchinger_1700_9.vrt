@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Buchinger_1700_9" collection="historical" source="Buchinger" url="none" year="1700" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:1f.]">
+<title>
+<seg type="newline">
+677.	ADJA	 @ord@	677.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Oder	KON	 oder	Oder
+man	PIS	 man	man
+thut	NN	 UNKNOWN	thue
+in	APPR	 in	in
+solche	PIAT	 solch	solche
+außgehölte	ADJA	 UNKNOWN	außgehölte
+Aepffel	NN	 UNKNOWN	Aepffel
+</seg>
+<seg type="newline">
+kleine	ADJA	 klein	kleine
+Vögelin	NN	 UNKNOWN	Vögelin
+</seg>
+<seg type="newline">
+als	KOKOM	 als	als
+Fincken	ADJA	 UNKNOWN	Fincken
+</seg>
+<seg type="newline">
+Waldvögelin	NN	 UNKNOWN	Waldvögelin
+</seg>
+<seg type="newline">
+Meisen	NN	 Meise	Meisen
+</seg>
+<seg type="newline">
+zuvor	ADV	 zuvor	zuvor
+geschwehlt	ADJD	 UNKNOWN	geschwehlt
+</seg>
+<seg type="newline">
+gesaltzen	VVFIN	 UNKNOWN	gesaltzen
+und	KON	 und	und
+gepfeffert	VVPP	 pfeffern	gepfeffert
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Zusatz	NN	 Zusatz	Zusatz
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+Imber	NN	 UNKNOWN	Imber
+</seg>
+<seg type="newline">
+Zimmet	NN	 Zimt	Zimt
+</seg>
+<seg type="newline">
+machts	ADJD	 UNKNOWN	machts
+widerum	ADV	 UNKNOWN	widerum
+zusammen	ADV	 zusammen	zusammen
+</seg>
+<seg type="newline">
+verdämpffts	NN	 UNKNOWN	verdämpffts
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+bachts	NN	 UNKNOWN	bachts
+wie	KOKOM	 wie	wie
+vorgemeldet	VVPP	 UNKNOWN	vorgemeldet
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

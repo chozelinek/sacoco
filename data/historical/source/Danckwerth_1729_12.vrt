@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Danckwerth_1729_12" collection="historical" source="Danckwerth" url="none" year="1729" decade="1720-1730" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Huhn|" method="|Pomeranze|" ref="[1729:167]">
+<title>
+<seg type="newline">
+84.	ADJA	 @ord@	84.
+Junge	ADJA	 jung	Junge
+Hüner	NN	 UNKNOWN	Hünern
+in	APPR	 in	in
+Pomerantzen=Brüh	NN	 UNKNOWN	Pomerantzen=Brüh
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Siedet	VVFIN	 sieden	Siedet
+die	ART	 d	die
+Hüner	NN	 UNKNOWN	Hünern
+mit	APPR	 mit	mit
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+giesset	PDAT	 dies	diese
+das	ART	 d	das
+Wasser	NN	 Wasser	Wasser
+wieder	ADV	 wieder	wieder
+davon	PAV	 davon	davon
+</seg>
+<seg type="newline">
+hingegen	ADV	 hingegen	hingegen
+guten	ADJA	 gut	guten
+Wein	NN	 Wein	Wein
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+schälet	VVFIN	 schälen	schälen
+Pomerantzen	NN	 UNKNOWN	Pomerantzen
+</seg>
+<seg type="newline">
+legets	VVFIN	 legen	legt
+zu	APPR	 zu	zu
+den	ART	 d	den
+Hünern	NN	 UNKNOWN	Hünern
+in	APPR	 in	in
+den	ART	 d	den
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+setzets	ADV	 stets	stets
+zum	APPRART	 zum	zum
+Feuer	NN	 Feuer	Feuer
+</seg>
+<seg type="newline">
+lässets	ADJD	 UNKNOWN	lässets
+sieden	VVINF	 sieden	sieden
+</seg>
+<seg type="newline">
+würtzts	VVFIN	 würzen	würzt
+mit	APPR	 mit	mit
+Zimmet	NN	 Zimt	Zimt
+</seg>
+<seg type="newline">
+Ingber	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Muscaten=Blüthe	NE	 UNKNOWN	Muskatenblüthe
+</seg>
+<seg type="newline">
+Saffran	NN	 Safran	Safran
+und	KON	 und	und
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+mögets	ADV	 UNKNOWN	mögets
+auch	ADV	 auch	auch
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+saltzen	ADJA	 kalt	kalten
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

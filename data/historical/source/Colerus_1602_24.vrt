@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Colerus_1602_24" collection="historical" source="Colerus" url="none" year="1602" decade="1600-1610" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1602:169]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+Fülsel	NN	 UNKNOWN	Fülsel
+zum	APPRART	 zum	zum
+Ferckel	NN	 UNKNOWN	Ferckel
+zu	PTKZU	 zu	zu
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wenn	KOUS	 wenn	Wenn
+du	PPER	 du	du
+wilt	NE	 Wilt	wilt
+machen	VVFIN	 machen	machen
+ein	ART	 ein	ein
+Fülsel	NN	 UNKNOWN	Fülsel
+zum	APPRART	 zum	zum
+Ferckel	NN	 UNKNOWN	Ferckel
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nim	VVFIN	 UNKNOWN	nimb
+alles	PIAT	 alle	alles
+Eingeweide	NN	 Eingeweide	Eingeweide
+vom	APPRART	 vom	vom
+Ferckel	NN	 UNKNOWN	Ferckel
+</seg>
+<seg type="newline">
+ohne	APPR	 ohne	ohne
+die	ART	 d	die
+Därmer	NN	 UNKNOWN	Därmer
+vnd	KON	 und	und
+Magen	NN	 Magen	Magen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+seude	NN	 UNKNOWN	seude
+es	PPER	 es	es
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+lege	VVFIN	 legen	lege
+denn	KON	 denn	denn
+die	ART	 d	die
+Füsse	NN	 Fuß	Füsse
+aus	APPR	 aus	aus
+</seg>
+<seg type="newline">
+die	PDS	 d	die
+las	VVFIN	 lesen	las
+gantz	ADV	 ganz	ganz
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+ander	ADV	 UNKNOWN	ander
+hacke	VVFIN	 hacken	hacke
+</seg>
+<seg type="newline">
+darzu	PAV	 dazu	dazu
+nim	ADJA	 UNKNOWN	nimb
+Petersilien	NN	 Petersilie	Petersilie
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+Meyeran	NE	 UNKNOWN	Meyeran
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+Rosmarin	NN	 Rosmarin	Rosmarin
+</seg>
+<seg type="newline">
+was	PRELS	 was	was
+du	PPER	 du	du
+am	PTKA	 am	am
+liebsten	ADJD	 lieb	liebsten
+haben	VAFIN	 haben	haben
+wilt	NE	 Wilt	wilt
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+brosam	NE	 UNKNOWN	brosam
+von	APPR	 von	von
+einer	ART	 ein	einer
+altbackenen	ADJA	 altbacken	altbackenen
+Semmel	NN	 Semmel	Semmel
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+viel	ADV	 viel	viel
+du	PPER	 du	du
+jr	NE	 jr	jr
+bedarffst	VVFIN	 UNKNOWN	bedarffst
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+ein	ART	 ein	ein
+eben	ADV	 eben	eben
+stücke	VVFIN	 stücken	stücke
+reinen	ADJA	 rein	reinen
+Speck	NN	 Speck	Speck
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+hacke	VVFIN	 hacken	hacke
+das	PDS	 d	das
+wol	PWAV	 wo	wo
+klein	ADJD	 klein	klein
+durcheinander	PTKVZ	 durcheinander	durcheinander
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+schlag	VVIMP	 schlagen	schlag
+darnach	PAV	 danach	Danach
+darein	ADV	 darein	darein
+fünff	CARD	 fünf	fünf
+oder	KON	 oder	oder
+sechs	CARD	 sechs	sechs
+Eyer	NE	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+das	ART	 d	das
+Ferckel	NN	 UNKNOWN	Ferckel
+gros	NE	 UNKNOWN	gros
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+es	PPER	 es	es
+gleichwol	ADJD	 UNKNOWN	gleichwol
+nicht	PTKNEG	 nicht	nicht
+zu	APPR	 zu	zu
+dünne	ADJA	 dünn	dünne
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+sonsten	ADJA	 UNKNOWN	sonsten
+lauffts	NN	 UNKNOWN	lauffts
+aus	PTKVZ	 aus	aus
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+würtze	VVFIN	 würzen	würzt
+es	PPER	 es	es
+mit	APPR	 mit	mit
+Pfeffer	NN	 Pfeffer	Pfeffer
+vnd	KON	 und	und
+Saffran	NN	 Safran	Safran
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

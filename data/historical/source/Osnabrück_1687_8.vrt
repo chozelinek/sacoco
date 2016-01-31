@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Osnabrueck_1687_8" collection="historical" source="Osnabrueck" url="none" year="1687" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1687:9 [15]]">
+<title>
+<seg type="newline">
+Wie	KOKOM	 wie	Wie
+man	PIS	 man	man
+Frickadillen	NN	 UNKNOWN	Frickadillen
+(	$(	(	$(	 (	|	(
+das	PDS	 d	das
+ist	VAFIN	 sein	ist
+Klöser	NN	 UNKNOWN	Klöser
+)	$(	)	$(	 )	|	)
+von	APPR	 von	von
+Kalbfleisch	NN	 Kalbfleisch	Kalbfleisch
+machen	VVINF	 machen	machen
+soll	VMFIN	 sollen	soll
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Hacket	NN	 UNKNOWN	Hacket
+Kalb=Fleisch	NN	 UNKNOWN	Kalb=Fleisch
+mit	APPR	 mit	mit
+dessen	PDAT	 d	dessen
+Fette	ADJA	 fett	Fette
+</seg>
+<seg type="newline">
+thut	NN	 UNKNOWN	thue
+dabey	PAV	 dabei	dabei
+Mußcatenblumen	NN	 UNKNOWN	Mußcatenblumen
+und	KON	 und	und
+Nüsse	NN	 Nuß	Nüsse
+</seg>
+<seg type="newline">
+Saltz	NN	 Salz	Salz
+und	KON	 und	und
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+knetet	VVFIN	 kneten	knetet
+es	PPER	 es	es
+wohl	ADV	 wohl	wohl
+durcheinander	ADV	 durcheinander	durcheinander
+</seg>
+<seg type="newline">
+macht	VVFIN	 machen	macht
+dann	ADV	 dann	dann
+so	ADV	 so	so
+groß	ADJD	 groß	groß
+und	KON	 und	und
+kleine	ADJA	 klein	kleine
+Klöser	NN	 UNKNOWN	Klöser
+darauß	NN	 UNKNOWN	herauß
+</seg>
+<seg type="newline">
+als	KOKOM	 als	als
+euch	PPER	 ihr	euch
+beliebt	ADJD	 beliebt	beliebt
+</seg>
+<seg type="newline">
+beschliest	VVFIN	 UNKNOWN	beschliest
+sie	PPER	 sie	sie
+in	APPR	 in	in
+dem	ART	 d	dem
+Netze	NN	 Netz	Netze
+</seg>
+<seg type="newline">
+und	KON	 und	und
+bratet	VVFIN	 UNKNOWN	bratet
+sie	PPER	 sie	sie
+in	APPR	 in	in
+der	ART	 d	der
+Pfannen	NN	 Pfanne	Pfannen
+;	$.	;	$.	 ;	|	;
+etliche	PIS	 etlich	etliche
+nehmen	VVFIN	 nehmen	nehmen
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Pomerantzen	NN	 UNKNOWN	Pomerantzen
+oder	KON	 oder	oder
+Limonien	NN	 UNKNOWN	Limonien
+Schalen	NN	 Schale	Schalen
+</seg>
+<seg type="newline">
+schneiden	VVFIN	 schneiden	schneiden
+sie	PPER	 sie	sie
+klein	ADJD	 klein	klein
+und	KON	 und	und
+thun	VVFIN	 UNKNOWN	thue
+dieselben	PDS	 dieselbe	dieselben
+darunter	PAV	 darunter	darunter
+</seg>
+<seg type="newline">
+gibt	VVFIN	 geben	gibt
+ein	ART	 ein	ein
+wolgeschmacktes	ADJA	 UNKNOWN	wolgeschmacktes
+Essen	NN	 Essen	Essen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

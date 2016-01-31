@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Keyl_1705_3" collection="historical" source="Keyl" url="none" year="1705" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1705:90]">
+<title>
+<seg type="newline">
+Raam=Suppe	NE	 UNKNOWN	Raam=Suppe
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+einen	ART	 ein	einen
+Pfennig=Topff	NN	 UNKNOWN	Pfennig=Topff
+voll	ADJD	 voll	voll
+süssen	ADJA	 süß	süssen
+Raam	NE	 UNKNOWN	Raam
+</seg>
+<seg type="newline">
+geuß	NN	 UNKNOWN	geuß
+Wein	NN	 Wein	Wein
+und	KON	 und	und
+Rosen=Wasser	NN	 Rosenwasser	Rosenwasser
+dazu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+gib	VVIMP	 geben	gib
+zugleich	ADV	 zugleich	zugleich
+Zucker	NN	 Zucker	Zucker
+und	KON	 und	und
+zwey	CARD	 zwei	zwei
+Eydotter	NN	 Eidotter	Eidotter
+mit	APPR	 mit	mit
+hinein	ADV	 hinein	hinein
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+dieses	PDAT	 dies	dieses
+zusammen	ADV	 zusammen	zusammen
+vor	APPR	 vor	vor
+dem	ART	 d	dem
+Sode	NN	 UNKNOWN	Sode
+kommen	VVFIN	 kommen	kommen
+</seg>
+<seg type="newline">
+geuß	NN	 UNKNOWN	geuß
+es	PPER	 es	es
+alsdenn	NN	 UNKNOWN	Alsdann
+auf	APPR	 auf	auf
+das	ART	 d	das
+länglich	ADJD	 länglich	länglich
+geschnittenes	ADJA	 geschnitten	geschnittenes
+und	KON	 und	und
+in	APPR	 in	in
+Butter	NN	 Butter	Butter
+braun	ADJD	 braun	braun
+gebratenes	ADJA	 gebraten	gebratenes
+Brod	NN	 Brot	Brot
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

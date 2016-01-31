@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Danckwerth_1729_2" collection="historical" source="Danckwerth" url="none" year="1729" decade="1720-1730" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1729:15]">
+<title>
+<seg type="newline">
+22.	ADJA	 22.	22.
+Citronen=Suppe	NN	 UNKNOWN	Citronen=Suppe
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Die	ART	 d	Die
+Citrone	NN	 UNKNOWN	Citrone
+muß	VMFIN	 müssen	muß
+umher	ADV	 umher	umher
+eingeschnitten	VVPP	 einschneiden	eingeschnitten
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+als	KON	 als	als
+wollte	VMFIN	 wollen	wollte
+man	PIS	 man	man
+sie	PPER	 sie	sie
+schellen	VVFIN	 schellen	schellen
+</seg>
+<seg type="newline">
+sie	PPER	 sie	sie
+muß	VMFIN	 müssen	muß
+aber	ADV	 aber	aber
+gantz	ADV	 ganz	ganz
+zusammen	ADV	 zusammen	zusammen
+bleiben	VVFIN	 bleiben	bleiben
+</seg>
+<seg type="newline">
+darauff	PAV	 drauf	drauf
+muß	VMFIN	 müssen	muß
+man	PIS	 man	man
+halb	ADJD	 halb	halb
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+halb	ADJD	 halb	halb
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+gerieben	VVPP	 reiben	gerieben
+weiß	VVFIN	 wissen	weiß
+Brodt	NE	 UNKNOWN	Brodt
+</seg>
+<seg type="newline">
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+und	KON	 und	und
+Cardemumen	NN	 UNKNOWN	Cardemumen
+geben	VVINF	 geben	geben
+.	$.	.	$.	 .	|	.
+Man	PIS	 man	Man
+thut	VVFIN	 UNKNOWN	thue
+auch	ADV	 auch	auch
+wohl	ADV	 wohl	wohl
+Corinthen	NN	 Korinthe	Korinthen
+dazu	PAV	 dazu	dazu
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

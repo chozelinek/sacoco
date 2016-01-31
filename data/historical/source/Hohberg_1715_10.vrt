@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Hohberg_1715_10" collection="historical" source="Hohberg" url="none" year="1715" decade="1710-1720" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1715:32]">
+<title>
+<seg type="newline">
+Fleisch=Pasteten	NN	 UNKNOWN	Fleisch=Pasteten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Schneidet	VVFIN	 schneiden	Schneidet
+aus	APPR	 aus	aus
+einem	ART	 ein	einem
+Riemen	NN	 Riemen	Riemen
+oder	KON	 oder	oder
+andern	ADJA	 ander	andern
+Stuck	NN	 Stuck	Stuck
+Rind=Fleisch	NN	 UNKNOWN	Rind=Fleisch
+dünne	ADJA	 dünn	dünne
+Schnitte	NN	 Schnitt|Schnitte	Schnitte
+</seg>
+<seg type="newline">
+saltzt	ADJA	 UNKNOWN	saltzt
+und	KON	 und	und
+würtzt	ADJA	 UNKNOWN	würtzt
+es	PPER	 es	es
+</seg>
+<seg type="newline">
+last	VVFIN	 lesen	last
+es	PPER	 es	es
+eine	PIS	 ein	eine
+Weil	KON	 weil	Weil
+darinn	NN	 UNKNOWN	darinn
+liegen	VVFIN	 liegen	liegen
+</seg>
+<seg type="newline">
+indessen	ADV	 indessen	indessen
+hacket	VVFIN	 UNKNOWN	hacket
+Kalb=	NN	 UNKNOWN	Kalb=
+oder	KON	 oder	oder
+Schaafs=Fleisch	NN	 UNKNOWN	Schaafs=Fleisch
+mit	APPR	 mit	mit
+Ochsen=Marck	NE	 UNKNOWN	Ochsen=Marck
+und	KON	 und	und
+ein	ART	 ein	ein
+wenig	ADV	 wenig	wenig
+wohl	ADV	 wohl	wohl
+riechenden	ADJA	 riechend	riechenden
+Kuchen=Kräutern	NN	 UNKNOWN	Kuchen=Kräutern
+</seg>
+<seg type="newline">
+rühret	VVFIN	 rühren	rühren
+geröstes	ADJA	 UNKNOWN	geröstes
+Semmel=Meel	NN	 UNKNOWN	Semmel=Meel
+</seg>
+<seg type="newline">
+ausgekörnte	ADJA	 UNKNOWN	ausgekörnte
+Rosin	NN	 UNKNOWN	Rosin
+</seg>
+<seg type="newline">
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+Eyern	VVFIN	 UNKNOWN	Eyern
+und	KON	 und	und
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Kern	NN	 Kern	Kern
+oder	KON	 oder	oder
+süssen	ADJA	 süß	süssen
+Ram	NE	 Ram	Ram
+darunter	PAV	 darunter	darunter
+</seg>
+<seg type="newline">
+machet	VVFIN	 machen	machet
+Knötlein	NN	 UNKNOWN	Knötlein
+oder	KON	 oder	oder
+Klößlein	NN	 UNKNOWN	Klößlein
+daraus	PAV	 daraus	daraus
+</seg>
+<seg type="newline">
+setzet	VVFIN	 setzen	setzet
+solche	PIS	 solch	solche
+samt	APPR	 samt	samt
+den	ART	 d	den
+Fleisch=Schnitten	NN	 UNKNOWN	Fleisch=Schnitten
+und	KON	 und	und
+ziemlich	ADV	 ziemlich	ziemlich
+viel	PIAT	 viel	viel
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+eine	ART	 ein	eine
+Pasteten	NN	 Pastete	Pasteten
+</seg>
+<seg type="newline">
+besprengts	NN	 UNKNOWN	besprengts
+mit	APPR	 mit	mit
+etwas	PIAT	 etwas	etwas
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Weinbeer=Safft	NN	 UNKNOWN	Weinbeer=Safft
+</seg>
+<seg type="newline">
+und	KON	 und	und
+bachts	NN	 UNKNOWN	bachts
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+bewust	ADJD	 UNKNOWN	bewust
+;	$.	;	$.	 ;	|	;
+Wann	PWAV	 wann	Wann
+sie	PPER	 sie	sie
+fertig	ADJD	 fertig	fertig
+</seg>
+<seg type="newline">
+schneidts	ADJD	 UNKNOWN	schneidts
+auf	APPR	 auf	auf
+</seg>
+<seg type="newline">
+stecket	NN	 UNKNOWN	stecket
+in	APPR	 in	in
+Butter	NN	 Butter	Butter
+geröste	ADJA	 UNKNOWN	geröste
+Salbey=Blätter	NN	 UNKNOWN	Salbey=Blätter
+aufrecht	VVFIN	 aufrecht	aufrecht
+zierlich	ADJD	 zierlich	zierlich
+darauf	PAV	 darauf	darauf
+</seg>
+<seg type="newline">
+tragts	NN	 UNKNOWN	tragts
+solcher	PIAT	 solch	solcher
+gestalt	NN	 Gestalt	gestalt
+</seg>
+<seg type="newline">
+ohne	APPR	 ohne	ohne
+Deckel	NN	 Deckel	Deckel
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Citronen=Safft	NN	 UNKNOWN	Citronen=Safft
+und	KON	 und	und
+Schelffen	NN	 UNKNOWN	Schelffen
+</seg>
+<seg type="newline">
+zu	APPR	 zu	zu
+Tisch	NN	 Tisch	Tisch
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

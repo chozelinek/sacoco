@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Deckhardt_1611_6" collection="historical" source="Deckhardt" url="none" year="1611" decade="1610-1620" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Huhn|" method="|gebraten|" ref="[1611:46]">
+<title>
+<seg type="newline">
+Haselhünner	ADJA	 UNKNOWN	Haselhünner
+Rebhünner	NN	 UNKNOWN	Rebhünner
+oder	KON	 oder	oder
+ander	ADV	 UNKNOWN	ander
+Feder	NN	 Feder	Feder
+Wiltpret	NE	 UNKNOWN	Wiltpret
+gut	ADJD	 gut	gut
+zu	PTKZU	 zu	zu
+braten	VVINF	 braten	braten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Rvpffe	NN	 UNKNOWN	Rvpffe
+vnd	KON	 und	und
+pflöcke	VVFIN	 pflücken	pflücken
+das	ART	 d	das
+FederWiltpret	NN	 UNKNOWN	FederWiltpret
+reiniglichen	ADJA	 UNKNOWN	reiniglichen
+</seg>
+<seg type="newline">
+darach	PAV	 danach	Danach
+lege	VVFIN	 legen	lege
+sie	PPER	 sie	sie
+in	APPR	 in	in
+eine	ART	 ein	eine
+heisse	ADJA	 heiß	heisse
+Asschen	NN	 Kochen	Kochen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+lauffen	NN	 Raute	Rauten
+sie	PPER	 sie	sie
+fein	ADJD	 fein	fein
+auff	PTKVZ	 auf	auf
+.	$.	.	$.	 .	|	.
+Oder	KON	 oder	Oder
+küle	VVFIN	 füllen	füllen
+sie	PPER	 sie	sie
+in	APPR	 in	in
+einem	ART	 ein	einem
+warmen	ADJA	 warm	warmen
+Wasser	NN	 Wasser	Wasser
+aus	APPR	 aus	aus
+</seg>
+<seg type="newline">
+den	ART	 d	den
+spicke	NN	 Speck	Specks
+sie	PPER	 sie	sie
+auff	APPR	 auf	auf
+einer	ART	 ein	einer
+seiten	APPR	 seiten	seiten
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+nicht	PTKNEG	 nicht	nicht
+</seg>
+<seg type="newline">
+fülle	VVFIN	 füllen	fülle
+ein	ART	 ein	ein
+stücklein	ADJD	 UNKNOWN	stückig
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Ingwer	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+vnnd	KON	 und	und
+gehackten	ADJA	 gehackt	gehackten
+Kreutern	NN	 Kraut	Kräutern
+vormischt	VVFIN	 vermischen	vermischen
+</seg>
+<seg type="newline">
+inwendig	ADJD	 inwendig	inwendig
+hinein	PTKVZ	 hinein	hinein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+brate	VVFIN	 braten	brate
+es	PPER	 es	es
+langsam	ADJD	 langsam	langsam
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

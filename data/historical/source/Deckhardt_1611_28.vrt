@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Deckhardt_1611_28" collection="historical" source="Deckhardt" url="none" year="1611" decade="1610-1620" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1611:243]">
+<title>
+<seg type="newline">
+Gefüllte	ADJA	 gefüllt	Gefüllte
+Ablaten	NN	 UNKNOWN	Ablaten
+mit	APPR	 mit	mit
+Latwergen	NN	 UNKNOWN	Latwergen
+oder	KON	 oder	oder
+Säfften	NN	 UNKNOWN	Säfften
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimb	VVFIN	 UNKNOWN	nimb
+eine	ART	 ein	eine
+gute	ADJA	 gut	gute
+Latwerge	NN	 UNKNOWN	Latwerge
+oder	KON	 oder	oder
+Safft	NE	 UNKNOWN	Safft
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+weiche	VVFIN	 weichen	weiche
+es	PPER	 es	es
+in	APPR	 in	in
+guten	ADJA	 gut	guten
+Wein	NN	 Wein	Wein
+.	$.	.	$.	 .	|	.
+Dann	ADV	 dann	Dann
+thue	VVFIN	 UNKNOWN	thue
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Kirschmuhs	NN	 UNKNOWN	Kirschmuhs
+oder	KON	 oder	oder
+Safft	NE	 UNKNOWN	Safft
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+Zimmet	NN	 Zimt	Zimt
+vnd	KON	 und	und
+Ingwer	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Vnd	KON	 und	und
+wenns	KOUS	 wenn	wenn
+gesotten	VVPP	 sieden	gesotten
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+streichs	NN	 Streich	streichs
+auff	APPR	 auf	auf
+die	ART	 d	die
+Ablaten	NN	 UNKNOWN	Ablaten
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+eines	ART	 ein	eines
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+tuncke	VVFIN	 UNKNOWN	tuncke
+es	PPER	 es	es
+in	APPR	 in	in
+ein	ART	 ein	ein
+gelbes	ADJA	 gelb	gelbes
+Teiglein	NN	 UNKNOWN	Teiglein
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+weis	VVIMP	 weisen	weis
+</seg>
+<seg type="newline">
+druck	VVIMP	 drucken	druck
+es	PPER	 es	es
+allwege	NN	 UNKNOWN	allwege
+an	APZR	 an	an
+orten	VVFIN	 orten	orten
+zu	PTKA	 zu	zu
+mit	APPR	 mit	mit
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+ehe	KOUS	 ehe	ehe
+man	PIS	 man	man
+es	PPER	 es	es
+in	APPR	 in	in
+das	ART	 d	das
+Teiglein	NN	 UNKNOWN	Teiglein
+tuncket	VVFIN	 UNKNOWN	tuncket
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+backe	VVFIN	 backen	backe
+es	PPER	 es	es
+risch	ADJD	 UNKNOWN	risch
+abe	PAV	 dabei	dabei
+</seg>
+<seg type="newline">
+So	ADV	 so	So
+ist	VAFIN	 sein	ist
+es	PPER	 es	es
+recht	ADJD	 recht	recht
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

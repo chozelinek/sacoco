@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Danckwerth_1729_4" collection="historical" source="Danckwerth" url="none" year="1729" decade="1720-1730" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1729:43]">
+<title>
+<seg type="newline">
+87.	ADJA	 87.	87.
+Eine	ART	 ein	Eine
+dicke	ADJA	 dick	dicke
+Apffel=Suppe	NN	 UNKNOWN	Apffel=Suppe
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Man	PIS	 man	Man
+nimmt	VVFIN	 nehmen	nimmt
+grosse	ADJA	 groß	grosse
+Aepffel	NN	 UNKNOWN	Aepffel
+</seg>
+<seg type="newline">
+schelet	VVFIN	 UNKNOWN	schelet
+sie	PPER	 sie	sie
+und	KON	 und	und
+schneidet	VVFIN	 schneiden	schneidet
+sie	PPER	 sie	sie
+in	APPR	 in	in
+Scheiben	NN	 Scheibe	Scheiben
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+schneidet	VVFIN	 schneiden	schneidet
+man	PIS	 man	man
+Rocken=brodt	NN	 UNKNOWN	Rocken=brodt
+in	APPR	 in	in
+so	ADV	 so	so
+dünne	ADJA	 dünn	dünne
+Schnitte	NN	 Schnitt|Schnitte	Schnitte
+</seg>
+<seg type="newline">
+und	KON	 und	und
+leget	ADJA	 UNKNOWN	leget
+denn	KON	 denn	denn
+in	APPR	 in	in
+eine	ART	 ein	eine
+Schüssel	NN	 Schüssel	Schüssel
+erst	ADV	 erst	erst
+eine	ART	 ein	eine
+Lage	NN	 Lage	Lage
+Aepffel	NN	 UNKNOWN	Aepffel
+</seg>
+<seg type="newline">
+und	KON	 und	und
+denn	ADV	 denn	denn
+Brodt	NN	 UNKNOWN	Brodt
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+die	ART	 d	die
+Schüssel	NN	 Schüssel	Schüssel
+gantz	ADV	 ganz	ganz
+voll	ADJD	 voll	voll
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+hernach	ADV	 hernach	hernach
+macht	VVFIN	 machen	macht
+man	PIS	 man	man
+Wasser	NN	 Wasser	Wasser
+mit	APPR	 mit	mit
+Zucker	NN	 Zucker	Zucker
+süß	ADJD	 süß	süß
+</seg>
+<seg type="newline">
+und	KON	 und	und
+gibt	VVFIN	 geben	gibt
+solches	PIS	 solch	solches
+auf	APPR	 auf	auf
+die	ART	 d	die
+Aepffel	NN	 UNKNOWN	Aepffel
+</seg>
+<seg type="newline">
+setzet	VVFIN	 setzen	setzet
+die	ART	 d	die
+Schüssel	NN	 Schüssel	Schüssel
+auf	APPR	 auf	auf
+Kohlen	NN	 Kohle	Kohlen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+läst	VVFIN	 UNKNOWN	läst
+es	PPER	 es	es
+gahr	ADV	 gar	gar
+kochen	VVINF	 kochen	kochen
+.	$.	.	$.	 .	|	.
+Wann	PWAV	 wann	Wann
+du	PPER	 du	du
+kanst	VVFIN	 UNKNOWN	kanst
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+gib	VVIMP	 geben	gib
+ihr	PPOSAT	 ihr	ihr
+unten	ADV	 unten	unten
+und	KON	 und	und
+oben	ADV	 oben	oben
+Feuer	NN	 Feuer	Feuer
+</seg>
+<seg type="newline">
+wo	PWAV	 wo	wo
+nicht	PTKNEG	 nicht	nicht
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+muß	VMFIN	 müssen	muß
+die	ART	 d	die
+Schüssel	NN	 Schüssel	Schüssel
+umgeschlagen	VVPP	 umschlagen	umgeschlagen
+werden	VAINF	 werden	werden
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+das	ART	 d	das
+Unterste	NN	 Unterste	Unterste
+oben	ADV	 oben	oben
+komt	VVFIN	 UNKNOWN	komt
+.	$.	.	$.	 .	|	.
+Wenn	KOUS	 wenn	Wenn
+es	PPER	 es	es
+gahr	ADV	 gar	gar
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+gib	VVIMP	 geben	gib
+ausgelassene	ADJA	 ausgelassen	ausgelassene
+Butter	NN	 Butter	Butter
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+und	KON	 und	und
+bestreue	VVFIN	 UNKNOWN	bestreue
+es	PPER	 es	es
+mit	APPR	 mit	mit
+Zucker	NN	 Zucker	Zucker
+und	KON	 und	und
+Zimmet	NN	 Zimt	Zimt
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

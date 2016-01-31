@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Staindl_1569_27" collection="historical" source="Staindl" url="none" year="1569" decade="1560-1570" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[10v]">
+<title>
+<seg type="newline">
+Gebratne	NN	 UNKNOWN	Gebratne
+milch	ADJD	 UNKNOWN	milch
+zumachen	VVINF	 zumachen	zumachen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+So	ADV	 so	So
+nimb	ADJD	 UNKNOWN	nimb
+ayer	VVFIN	 UNKNOWN	ayer
+</seg>
+<seg type="newline">
+die	ART	 d	die
+schlag	VVIMP	 schlagen	schlag
+fast	ADV	 fast	fast
+durch	APPR	 durch	durch
+einander	PRF	 einander	einander
+</seg>
+<seg type="newline">
+thuo	NE	 UNKNOWN	thue
+saffran	ADJD	 UNKNOWN	saffran
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+thuo	VVFIN	 UNKNOWN	thue
+es	PPER	 es	es
+in	APPR	 in	in
+ein	ART	 ein	ein
+hafen	ADJA	 UNKNOWN	hafen
+</seg>
+<seg type="newline">
+setz	VVIMP	 setzen	setz
+in	APPR	 in	in
+ein	ART	 ein	ein
+siedens	NN	 UNKNOWN	siedens
+wasser	VVIMP	 wassern	wasser
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+ein	ART	 ein	ein
+kessel	VVIMP	 kesseln	kessel
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+das	PDS	 d	das
+wasser	VVIMP	 wassern	wasser
+nicht	PTKNEG	 nicht	nicht
+in	APPR	 in	in
+den	ART	 d	den
+hafen	NN	 Hafen	hafen
+gehet	VVFIN	 gehen	gehet
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+sieden	VVINF	 sieden	sieden
+biß	VVFIN	 beißen	biß
+das	PDS	 d	das
+gestockt	VVPP	 stocken	gestockt
+sey	NE	 UNKNOWN	sey
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+so	ADV	 so	so
+schüts	NN	 UNKNOWN	schüts
+auff	APPR	 auf	auf
+ein	ART	 ein	ein
+weiß	ADJD	 weiß	weiß
+tuoch	ADJA	 UNKNOWN	tuoch
+</seg>
+<seg type="newline">
+schwenck	NE	 UNKNOWN	schwenck
+das	ART	 d	das
+wasser	VVIMP	 wassern	wasser
+daruon	VVFIN	 UNKNOWN	daruon
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+seüds	ADJD	 UNKNOWN	seüds
+härt	ADJD	 UNKNOWN	härt
+wie	KOKOM	 wie	wie
+ein	ART	 ein	ein
+käß	ADJA	 UNKNOWN	käß
+</seg>
+<seg type="newline">
+vnschneids	NN	 UNKNOWN	vnschneids
+wie	KOKOM	 wie	wie
+ein	ART	 ein	ein
+Euter	NN	 Euter	Euter
+</seg>
+<seg type="newline">
+stoß	VVIMP	 stoßen	stoß
+an	APPR	 an	an
+ein	ART	 ein	ein
+spieß	VVIMP	 spießen	spieß
+</seg>
+<seg type="newline">
+brats	VVFIN	 UNKNOWN	brats
+auff	APPR	 auf	auf
+eim	ADJA	 UNKNOWN	nimb
+rost	ADJA	 UNKNOWN	rost
+</seg>
+<seg type="newline">
+thuo	NN	 UNKNOWN	thue
+gwürtz	NN	 UNKNOWN	Gewürtz
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+begeüß	VVIMP	 UNKNOWN	begeüß
+mit	APPR	 mit	mit
+schmaltz	NE	 UNKNOWN	schmaltz
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+auff	APPR	 auf	auf
+den	ART	 d	den
+Tisch	NN	 Tisch	Tisch
+tragen	VVINF	 tragen	tragen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Keyl_1705_25" collection="historical" source="Keyl" url="none" year="1705" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1705:145]">
+<title>
+<seg type="newline">
+Mandeln=Tarte	NN	 UNKNOWN	Mandeln=Tarte
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Die	ART	 d	Die
+Mandeln	NN	 Mandel	Mandeln
+werden	VAFIN	 werden	werden
+klein	ADJD	 klein	klein
+gestossen	VVPP	 stoßen	gestossen
+</seg>
+<seg type="newline">
+gerieben	VVPP	 reiben	gerieben
+Semmel	NN	 Semmel	Semmel
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+Eydotter	NN	 Eidotter	Eidotter
+</seg>
+<seg type="newline">
+von	APPR	 von	von
+zweyen	NE	 UNKNOWN	zweyen
+das	ART	 d	das
+Weiß	NN	 Weiß	Weiß
+genommen	VVPP	 nehmen	genommen
+</seg>
+<seg type="newline">
+Rosin	NN	 UNKNOWN	Rosin
+und	KON	 und	und
+Caneel=wasser	NN	 UNKNOWN	Caneel=wasser
+</seg>
+<seg type="newline">
+süssen	VVFIN	 süßen	süssen
+Raam	NE	 UNKNOWN	Raam
+</seg>
+<seg type="newline">
+das	ART	 d	das
+rühre	VVFIN	 rühren	rühre
+wohl	ADV	 wohl	wohl
+durch	APPR	 durch	durch
+einander	PRF	 einander	einander
+</seg>
+<seg type="newline">
+und	KON	 und	und
+gib	VVIMP	 geben	gib
+es	PPER	 es	es
+in	APPR	 in	in
+die	ART	 d	die
+Tarten=Form	NN	 UNKNOWN	Tarten=Form
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Schuppe_1698_4" collection="historical" source="Schuppe" url="none" year="1698" decade="1690-1700" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1698:17f.]">
+<title>
+<seg type="newline">
+XXIV	NE	 UNKNOWN	XXIV
+.	$.	.	$.	 .	|	.
+Eine	ART	 ein	Eine
+Suppe	NN	 Suppe	Suppe
+von	APPR	 von	von
+gefüllten	ADJA	 gefüllt	gefüllten
+Karpffen	NN	 UNKNOWN	Karpffen
+</seg>
+<seg type="newline">
+Champignons	NN	 Champignon	Champignons
+mit	APPR	 mit	mit
+Artschocken	NN	 UNKNOWN	Artschocken
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+3.	ADJA	 3.	3.
+Karpffen	NN	 UNKNOWN	Karpffen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+schuppe	NN	 Schuppe	schuppe
+sie	PPER	 sie	sie
+</seg>
+<seg type="newline">
+nimm	VVIMP	 nehmen	nimm
+sie	PPER	 sie	sie
+aus	PTKVZ	 aus	aus
+</seg>
+<seg type="newline">
+wo	PWAV	 wo	wo
+sie	PPER	 sie	sie
+Milch	NN	 Milch	Milch
+im	APPRART	 im	im
+Leibe	NN	 Leib	Leibe
+haben	VAFIN	 haben	haben
+</seg>
+<seg type="newline">
+die	ART	 d	die
+muß	VMFIN	 müssen	muß
+man	PIS	 man	man
+verwahren	VVINF	 verwahren	verwahren
+mit	APPR	 mit	mit
+zu	APPR	 zu	zu
+der	ART	 d	der
+Suppe	NN	 Suppe	Suppe
+</seg>
+<seg type="newline">
+und	KON	 und	und
+die	ART	 d	die
+Zungen	NN	 Zunge	Zungen
+aus	APPR	 aus	aus
+dem	ART	 d	dem
+Kopff	NN	 UNKNOWN	Kopff
+nehmen	VVINF	 nehmen	nehmen
+</seg>
+<seg type="newline">
+schneide	VVFIN	 schneiden	schneide
+die	ART	 d	die
+Haut	NN	 Haut	Haut
+loß	VVFIN	 UNKNOWN	loß
+oben	ADV	 oben	oben
+bey	NE	 Bey	bey
+dem	ART	 d	dem
+Kopff	NN	 UNKNOWN	Kopff
+</seg>
+<seg type="newline">
+der	ART	 d	der
+Kopff	NN	 UNKNOWN	Kopff
+muß	VMFIN	 müssen	muß
+aber	ADV	 aber	aber
+an	APPR	 an	an
+der	ART	 d	der
+Haut	NN	 Haut	Haut
+fest	ADJD	 fest	fest
+bleiben	VVINF	 bleiben	bleiben
+</seg>
+<seg type="newline">
+und	KON	 und	und
+auch	ADV	 auch	auch
+der	ART	 d	der
+Schwantz	NN	 UNKNOWN	Schwantz
+in	APPR	 in	in
+der	ART	 d	der
+Mitten	NN	 Mitte	Mitten
+</seg>
+<seg type="newline">
+das	ART	 d	das
+Fleisch	NN	 Fleisch	Fleisch
+muß	VMFIN	 müssen	muß
+samt	APPR	 samt	samt
+den	ART	 d	den
+Graten	NN	 Grat	Graten
+heraus	ADV	 heraus	heraus
+gethan	NE	 UNKNOWN	gethan
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+das	ART	 d	das
+man	PIS	 man	man
+die	ART	 d	die
+Haut	NN	 Haut	Haut
+wieder	ADV	 wieder	wieder
+füllen	VVFIN	 füllen	füllen
+kan	ADV	 nun	Nun
+</seg>
+<seg type="newline">
+hacke	VVFIN	 hacken	hacke
+dann	ADV	 dann	dann
+das	ART	 d	das
+Fleisch	NN	 Fleisch	Fleisch
+mit	APPR	 mit	mit
+guter	ADJA	 gut	guter
+Butter	NN	 Butter	Butter
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+zu	APPR	 zu	zu
+den	ART	 d	den
+Krebs=Suppen	NN	 UNKNOWN	Krebs=Suppen
+gehöret	VVFIN	 UNKNOWN	gehöret
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+Gewürtz	NN	 UNKNOWN	Gewürtz
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+von	APPR	 von	von
+zwey	CARD	 zwei	zwei
+oder	KON	 oder	oder
+drey	CARD	 drei	drei
+Eyern	NN	 UNKNOWN	Eyern
+das	ART	 d	das
+Gelbe	NN	 Gelbe	Gelbe
+</seg>
+<seg type="newline">
+fülle	VVFIN	 füllen	fülle
+dann	ADV	 dann	dann
+zwey	CARD	 zwei	zwei
+Karpffen	NN	 UNKNOWN	Karpffen
+darmit	NN	 UNKNOWN	darmit
+</seg>
+<seg type="newline">
+und	KON	 und	und
+nehe	NN	 UNKNOWN	nehe
+den	ART	 d	den
+Bauch	NN	 Bauch	Bauch
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Zwirnfaden	NN	 UNKNOWN	Zwirnfaden
+zu	APPR	 zu	zu
+</seg>
+<seg type="newline">
+bestreue	ADJA	 UNKNOWN	bestreue
+sie	PPER	 sie	sie
+dann	ADV	 dann	dann
+mit	APPR	 mit	mit
+Mehl	NN	 Mehl	Mehl
+</seg>
+<seg type="newline">
+und	KON	 und	und
+gib	VVIMP	 geben	gib
+ihnen	PPER	 sie	ihnen
+coleur	ADJD	 UNKNOWN	coleur
+in	APPR	 in	in
+brauner	ADJA	 braun	brauner
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+nimm	VVIMP	 nehmen	nimm
+dann	ADV	 dann	dann
+die	ART	 d	die
+Graten	NN	 Grat	Graten
+von	APPR	 von	von
+den	ART	 d	den
+Karpffen	NN	 UNKNOWN	Karpffen
+</seg>
+<seg type="newline">
+dazu	PAV	 dazu	dazu
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Charlotten	TRUNC	 UNKNOWN	Charlotten
+und	KON	 und	und
+Timian	NE	 UNKNOWN	Timian
+,	$,	,	$,	 ,	|	,
+Petersillie	NE	 UNKNOWN	Petersillie
+und	KON	 und	und
+eine	ART	 ein	eine
+Rinde	NN	 Rinde	Rinde
+von	APPR	 von	von
+einer	ART	 ein	einer
+Semmel	NN	 Semmel	Semmel
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+das	ART	 d	das
+in	APPR	 in	in
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+worinn	VAPP	 werden	worden
+die	ART	 d	die
+Karpffen	NN	 UNKNOWN	Karpffen
+coleur	ADJD	 UNKNOWN	coleur
+gekrigt	ADJA	 UNKNOWN	gekrigt
+haben	VAFIN	 haben	haben
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+darinnen	VVINF	 darinnen	darinnen
+schwitzen	VVFIN	 schwitzen	schwitzen
+</seg>
+<seg type="newline">
+nimm	VVIMP	 nehmen	nimm
+dann	ADV	 dann	dann
+einen	ART	 ein	einen
+Kessel	NN	 Kessel	Kessel
+mit	APPR	 mit	mit
+gekochtem	ADJA	 gekocht	gekochtem
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+thue	VVFIN	 UNKNOWN	thue
+es	PPER	 es	es
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+darinn	NN	 UNKNOWN	darinn
+gar	ADV	 gar	gar
+kochen	VVINF	 kochen	kochen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+streich	VVIMP	 streichen	streich
+die	ART	 d	die
+Bouillon	NN	 Bouillon	Bouillon
+hernacher	VVFIN	 UNKNOWN	hernacher
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+Haar=Tuch	NN	 UNKNOWN	Haar=Tuch
+</seg>
+<seg type="newline">
+nimm	VVIMP	 nehmen	nimm
+dan	ADJA	 UNKNOWN	dan
+Champignons	NN	 Champignon	Champignons
+,	$,	,	$,	 ,	|	,
+Artschocken	NN	 UNKNOWN	Artschocken
+</seg>
+<seg type="newline">
+die	ART	 d	die
+Milch	NN	 Milch	Milch
+von	APPR	 von	von
+den	ART	 d	den
+Karpffen	NN	 UNKNOWN	Karpffen
+und	KON	 und	und
+die	ART	 d	die
+Zungen	NN	 Zunge	Zungen
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+davon	PAV	 davon	davon
+einen	ART	 ein	einen
+Ragou	NN	 UNKNOWN	Ragou
+,	$,	,	$,	 ,	|	,
+und	KON	 und	und
+lege	VVFIN	 legen	lege
+die	ART	 d	die
+gefüllte	ADJA	 gefüllt	gefüllte
+Karpffen	NN	 UNKNOWN	Karpffen
+darzu	PAV	 dazu	dazu
+ein	PTKVZ	 ein	ein
+</seg>
+<seg type="newline">
+gieß	VVIMP	 gießen	gieß
+von	APPR	 von	von
+der	ART	 d	der
+Bouillodarauf	NN	 UNKNOWN	Bouillodarauf
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+sie	PPER	 sie	sie
+darin	PAV	 darin	darin
+gahr	ADV	 gar	gar
+kochen	VVFIN	 kochen	kochen
+</seg>
+<seg type="newline">
+wo	PWAV	 wo	wo
+aber	ADV	 aber	aber
+noch	ADV	 noch	noch
+etwas	PIAT	 etwas	etwas
+Fars	NN	 UNKNOWN	Fars
+übrig	ADJD	 übrig	übrig
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+thue	VVFIN	 UNKNOWN	thue
+es	PPER	 es	es
+in	APPR	 in	in
+einen	ART	 ein	einen
+Topff	NN	 Topf	Topf
+</seg>
+<seg type="newline">
+und	KON	 und	und
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+gar	ADV	 gar	gar
+kochen	VVINF	 kochen	kochen
+;	$.	;	$.	 ;	|	;
+wenn	KOUS	 wenn	wenn
+es	PPER	 es	es
+Zeit	NN	 Zeit	Zeit
+ist	VAFIN	 sein	ist
+anzurichten	VVIZU	 anrichten	anzurichten
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+schneide	VVFIN	 schneiden	schneide
+Semmel	NN	 Semmel	Semmel
+in	APPR	 in	in
+eine	ART	 ein	eine
+Schüssel	NN	 Schüssel	Schüssel
+</seg>
+<seg type="newline">
+und	KON	 und	und
+gieß	VVIMP	 gießen	gieß
+von	APPR	 von	von
+der	ART	 d	der
+Bouillon	NN	 Bouillon	Bouillon
+darauff	PAV	 drauf	drauf
+</seg>
+<seg type="newline">
+setze	VVFIN	 setzen	setze
+es	PPER	 es	es
+auf	APPR	 auf	auf
+Kohlen	NN	 Kohle	Kohlen
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+es	PPER	 es	es
+kocht	VVFIN	 kochen	kocht
+</seg>
+<seg type="newline">
+den	ART	 d	den
+gekochten	ADJA	 gekocht	gekochten
+Hachée	NN	 UNKNOWN	Hachée
+dann	ADV	 dann	dann
+darüber	PAV	 darüber	darüber
+her	PTKVZ	 her	her
+</seg>
+<seg type="newline">
+und	KON	 und	und
+richte	VVFIN	 richten	richte
+die	ART	 d	die
+gefüllte	ADJA	 gefüllt	gefüllte
+Karpfen	NN	 Karpfen	Karpfen
+darauff	PAV	 drauf	drauf
+an	PTKVZ	 an	an
+</seg>
+<seg type="newline">
+und	KON	 und	und
+garnire	VVFIN	 garnieren	garniert
+es	PPER	 es	es
+mit	APPR	 mit	mit
+Champignons	NN	 Champignon	Champignons
+,	$,	,	$,	 ,	|	,
+Artschocken	NN	 UNKNOWN	Artschocken
+und	KON	 und	und
+Milch	NN	 Milch	Milch
+von	APPR	 von	von
+den	ART	 d	den
+Karpffen	NN	 UNKNOWN	Karpffen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+ist	VAFIN	 sein	ist
+es	PPER	 es	es
+fertig	ADJD	 fertig	fertig
+.	$.	.	$.	 .	|	.
+NB	NE	 NB	NB
+.	$.	.	$.	 .	|	.
+Auf	APPR	 auf	Auf
+die	ART	 d	die
+Manier	NN	 Manier	Manier
+machet	VVFIN	 machen	machet
+man	PIS	 man	man
+auch	ADV	 auch	auch
+eine	ART	 ein	eine
+Suppe	NN	 Suppe	Suppe
+von	APPR	 von	von
+Ahl	NE	 UNKNOWN	Ahl
+</seg>
+<seg type="newline">
+und	KON	 und	und
+die	ART	 d	die
+Haut	NN	 Haut	Haut
+mit	APPR	 mit	mit
+Karpffen	NN	 UNKNOWN	Karpffen
+gefüllet	VVPP	 UNKNOWN	gefüllet
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

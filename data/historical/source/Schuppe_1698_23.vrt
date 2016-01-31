@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Schuppe_1698_23" collection="historical" source="Schuppe" url="none" year="1698" decade="1690-1700" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1698:111]">
+<title>
+<seg type="newline">
+CCXV	NE	 UNKNOWN	CCXV
+.	$.	.	$.	 .	|	.
+Barße	NN	 UNKNOWN	Barße
+mit	APPR	 mit	mit
+Baumöhl	NN	 UNKNOWN	Baumöhl
+und	KON	 und	und
+Citronen=Safft	NN	 UNKNOWN	Citronen=Safft
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Die	ART	 d	Die
+Barße	ADJA	 UNKNOWN	Barße
+schuppe	NN	 Schuppe	schuppe
+ab	PTKVZ	 ab	ab
+</seg>
+<seg type="newline">
+und	KON	 und	und
+koche	VVFIN	 kochen	koche
+sie	PPER	 sie	sie
+aus	APPR	 aus	aus
+dem	ART	 d	dem
+Saltze	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+wenes	ADJA	 UNKNOWN	wenes
+Zeit	NN	 Zeit	Zeit
+ist	VAFIN	 sein	ist
+anzurichten	VVIZU	 anrichten	anzurichten
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+lege	VVFIN	 legen	lege
+sie	PPER	 sie	sie
+in	APPR	 in	in
+eine	ART	 ein	eine
+Schüssel	NN	 Schüssel	Schüssel
+</seg>
+<seg type="newline">
+und	KON	 und	und
+gieß	VVIMP	 gießen	gieß
+Baumöhl	NN	 UNKNOWN	Baumöhl
+und	KON	 und	und
+Citronen=Safft	NN	 UNKNOWN	Citronen=Safft
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+streue	VVFIN	 streuen	streue
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Pfeffer	NN	 Pfeffer	Pfeffer
+darauff	PAV	 drauf	drauf
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+ist	VAFIN	 sein	ist
+es	PPER	 es	es
+fertig	ADJD	 fertig	fertig
+.	$.	.	$.	 .	|	.
+NB	NE	 NB	NB
+.	$.	.	$.	 .	|	.
+Gantz	NE	 UNKNOWN	Gantz
+kleine	ADJA	 klein	kleine
+Hechte	NN	 Hecht	Hechte
+kan	ADV	 nun	Nun
+man	PIS	 man	man
+auff	APPR	 auf	auf
+dieselbe	PDAT	 dieselbe	dieselbe
+Art	NN	 Art	Art
+auch	ADV	 auch	auch
+kochen	VVFIN	 kochen	kochen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

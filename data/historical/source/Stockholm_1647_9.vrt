@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Stockholm_1647_9" collection="historical" source="Stockholm" url="none" year="1647" decade="1640-1650" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1647:123]">
+<body>
+<seg type="newline">
+Bieren	NN	 Bier	Bieren
+geschälet	VVFIN	 UNKNOWN	geschälet
+</seg>
+<seg type="newline">
+von	APPR	 von	von
+den	ART	 d	den
+Butzen	NN	 Butzen	Butzen
+geschnitten	VVPP	 schneiden	geschnitten
+</seg>
+<seg type="newline">
+gesotten	VVPP	 sieden	gesotten
+</seg>
+<seg type="newline">
+denn	KON	 denn	denn
+mit	APPR	 mit	mit
+Meel	NE	 UNKNOWN	Meel
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+Gewürtz	NN	 UNKNOWN	Gewürtz
+</seg>
+<seg type="newline">
+Corinten	NE	 UNKNOWN	Corinten
+</seg>
+<seg type="newline">
+gebacket	VVFIN	 UNKNOWN	gebacket
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+gebraten	VVPP	 braten	gebraten
+</seg>
+<seg type="newline">
+Wans	NN	 UNKNOWN	Wans
+erkaltet	VVFIN	 erkalten	erkaltet
+</seg>
+<seg type="newline">
+wider	APPR	 wider	wider
+vmb	NN	 UNKNOWN	vmb
+den	ART	 d	den
+Stiel	NN	 Stiel	Stiel
+geschmieret	VVFIN	 UNKNOWN	geschmieret
+</seg>
+<seg type="newline">
+gewelgert	ADJA	 UNKNOWN	gewelgert
+in	APPR	 in	in
+Wein	NN	 Wein	Wein
+vnd	KON	 und	und
+Meel	NN	 UNKNOWN	Meel
+</seg>
+<seg type="newline">
+Man	PIS	 man	Man
+backer	VVFIN	 UNKNOWN	backer
+es	PPER	 es	es
+in	APPR	 in	in
+der	ART	 d	der
+Butter	NN	 Butter	Butter
+fein	ADJD	 fein	fein
+sanfft	ADJD	 UNKNOWN	sanfft
+abe	PAV	 dabei	dabei
+</seg>
+<seg type="newline">
+Nach	APPR	 nach	Nach
+dem	ART	 d	dem
+sie	PPER	 sie	sie
+geschälet	VVFIN	 UNKNOWN	geschälet
+</seg>
+<seg type="newline">
+von	APPR	 von	von
+dem	ART	 d	dem
+Häußlein	NN	 UNKNOWN	Häußlein
+entlöset	VVFIN	 UNKNOWN	entlöset
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+2.	ADJA	 2.	2.
+oder	KON	 oder	oder
+4.	ADJA	 4.	4.
+stücke	VVFIN	 stücken	stücke
+zerschnitten	VVPP	 zerschneiden	zerschnitten
+</seg>
+<seg type="newline">
+weltzet	VVFIN	 UNKNOWN	weltzet
+man	PIS	 man	man
+sie	PPER	 sie	sie
+in	APPR	 in	in
+weitzen	ADJA	 UNKNOWN	weitzen
+Meel	NN	 UNKNOWN	Meel
+</seg>
+<seg type="newline">
+welches	PIS	 welch	welches
+mit	APPR	 mit	mit
+geklopten	ADJA	 UNKNOWN	geklopten
+Eyerweiß	NN	 UNKNOWN	Eyerweiß
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+Saltz	NN	 Salz	Salz
+temperiret	VVINF	 UNKNOWN	temperiret
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+bestrewt	VVFIN	 UNKNOWN	bestrewt
+sie	PPER	 sie	sie
+vberher	ADV	 UNKNOWN	vberher
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+trocknem	ADJA	 UNKNOWN	trocknem
+Meel	NN	 UNKNOWN	Meel
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+backet	VVFIN	 UNKNOWN	backet
+sie	PPER	 sie	sie
+in	APPR	 in	in
+Butter	NN	 Butter	Butter
+in	APPR	 in	in
+der	ART	 d	der
+Pfannen	NN	 Pfanne	Pfannen
+.	$.	.	$.	 .	|	.
+Wan	NE	 UNKNOWN	Wan
+man	PIS	 man	man
+sie	PPER	 sie	sie
+anrichten	VVFIN	 anrichten	anrichten
+wil	NE	 Wil	wil
+</seg>
+<seg type="newline">
+bestrewet	VVFIN	 bestreuen	bestreuen
+man	PIS	 man	man
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+Zucker	NN	 Zucker	Zucker
+.	$.	.	$.	 .	|	.
+Man	PIS	 man	Man
+kan	ADV	 nun	Nun
+auch	ADV	 auch	auch
+wol	PWAV	 wo	wo
+(	$(	(	$(	 (	|	(
+wann	PWAV	 wann	wann
+man	PIS	 man	man
+wil	NE	 Wil	wil
+)	$(	)	$(	 )	|	)
+die	ART	 d	die
+Dotter	NN	 Dotter	Dotter
+dabey	PAV	 dabei	dabei
+lassen	VVINF	 lassen	lassen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+die	ART	 d	die
+Bieren	NN	 Bier	Bieren
+gebraten	VVPP	 braten	gebraten
+</seg>
+<seg type="newline">
+Einen	NN	 Eine	Einen
+Soht	VVFIN	 UNKNOWN	Soht
+von	APPR	 von	von
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+Pfefferkuchen	NN	 Pfefferkuchen	Pfefferkuchen
+</seg>
+<seg type="newline">
+Vnd	KON	 und	und
+Gewürtze	NN	 UNKNOWN	Gewürtze
+</seg>
+<seg type="newline">
+darüber	PAV	 darüber	darüber
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+Eben	ADV	 eben	Eben
+also	ADV	 also	also
+kan	ADV	 nun	Nun
+man	PIS	 man	man
+auch	ADV	 auch	auch
+mit	APPR	 mit	mit
+dem	ART	 d	dem
+Öpfelen	NN	 UNKNOWN	Öpfelen
+procediren	ADJA	 UNKNOWN	procediren
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Hohberg_1715_29" collection="historical" source="Hohberg" url="none" year="1715" decade="1710-1720" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1715:102]">
+<title>
+<seg type="newline">
+Aepffel=Kuchen	NN	 UNKNOWN	Aepffel=Kuchen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Mache	VVFIN	 machen	Mache
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+halben	ADJA	 halb	halben
+Seidlein	NN	 Seidlein	Seidlein
+Milch	NN	 Milch	Milch
+5.	ADJA	 5.	5.
+Eyer	NE	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+vorhero	ADV	 vorher	vorher
+im	APPRART	 im	im
+warmen	ADJA	 warm	warmen
+Wasser	NN	 Wasser	Wasser
+gelegen	VVPP	 liegen	gelegen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+Meel	NN	 UNKNOWN	Meel
+</seg>
+<seg type="newline">
+einen	ART	 ein	einen
+Taig	NN	 Teig	Teig
+in	APPR	 in	in
+der	ART	 d	der
+Dicken	NN	 Dicke	Dicken
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+er	PPER	 er	er
+nicht	PTKNEG	 nicht	nicht
+mehr	ADV	 mehr	mehr
+vom	APPRART	 vom	vom
+Löffel	NN	 Löffel	Löffel
+ablaufft	ADJD	 UNKNOWN	ablaufft
+</seg>
+<seg type="newline">
+mische	VVFIN	 mischen	mische
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+Zimmet	NN	 Zimt	Zimt
+und	KON	 und	und
+würfflicht	ADJA	 UNKNOWN	würfflicht
+geschnittene	ADJA	 geschnitten	geschnittene
+Aepffel	NN	 UNKNOWN	Aepffel
+darunter	PAV	 darunter	darunter
+</seg>
+<seg type="newline">
+thue	ADJA	 UNKNOWN	thue
+Schmaltz	NN	 Schmalz	Schmalz
+in	APPR	 in	in
+eine	ART	 ein	eine
+Pfannen	NN	 Pfanne	Pfannen
+und	KON	 und	und
+besagtes	ADJA	 besagt	besagtes
+hinein	ADV	 hinein	hinein
+</seg>
+<seg type="newline">
+bachs	NN	 Bach	bachs
+unten	ADV	 unten	unten
+und	KON	 und	und
+oben	ADV	 oben	oben
+mit	APPR	 mit	mit
+Kohlen	NN	 Kohle	Kohlen
+</seg>
+<seg type="newline">
+trage	VVFIN	 tragen	trage
+den	ART	 d	den
+Kuchen	NN	 Kuchen	Kuchen
+folgends	ADJA	 folgend	folgenden
+trocken	ADJD	 trocken	trocken
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Zimmet	NN	 Zimt	Zimt
+und	KON	 und	und
+Zucker	NN	 Zucker	Zucker
+bestreuet	VVINF	 bestreuen	bestreuen
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+in	APPR	 in	in
+einer	ART	 ein	einer
+süssen	ADJA	 süß	süssen
+Wein=Brüh	NN	 UNKNOWN	Wein=Brüh
+zu	APPR	 zu	zu
+Tisch	NN	 Tisch	Tisch
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

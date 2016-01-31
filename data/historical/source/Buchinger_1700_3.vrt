@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Buchinger_1700_3" collection="historical" source="Buchinger" url="none" year="1700" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:1f.]">
+<title>
+<seg type="newline">
+881.	ADJA	 @ord@	881.
+Fasiolen	NN	 UNKNOWN	Fasiolen
+oder	KON	 oder	oder
+Welsche	ADJA	 welsch	Welsche
+Bonen	NN	 UNKNOWN	Bonen
+</seg>
+</title>
+<body>
+<seg type="newline">
+zweymal	ADJD	 UNKNOWN	zweymal
+abgesotten	VVPP	 UNKNOWN	abgesotten
+</seg>
+<seg type="newline">
+werden	VAFIN	 werden	werden
+mit	APPR	 mit	mit
+Baumöhl	NN	 UNKNOWN	Baumöhl
+</seg>
+<seg type="newline">
+Essig	NN	 Essig	Essig
+</seg>
+<seg type="newline">
+Saltz	NN	 Salz	Salz
+und	KON	 und	und
+Mattenkümich	NN	 UNKNOWN	Mattenkümich
+angemacht	VVPP	 anmachen	angemacht
+</seg>
+<seg type="newline">
+und	KON	 und	und
+für	APPR	 für	für
+Salat	NN	 Salat	Salat
+auffgegeben	ADJA	 UNKNOWN	auffgegeben
+</seg>
+<seg type="newline">
+Num	NN	 UNKNOWN	Num
+.	$.	.	$.	 .	|	.
+852.	ADJA	 @ord@	852.
+</seg>
+</body>
+</text>

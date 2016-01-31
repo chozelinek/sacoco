@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Staindl_1569_15" collection="historical" source="Staindl" url="none" year="1569" decade="1560-1570" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[27v]">
+<title>
+<seg type="newline">
+Von	APPR	 von	Von
+Kälbern	NN	 Kalb	Kälbern
+vnd	KON	 und	und
+Rindern	NN	 Rind	Rindern
+Würst	NN	 UNKNOWN	Würst
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+von	APPR	 von	von
+Lungen	NN	 Lunge	Lungen
+vnd	KON	 und	und
+Lebern	NN	 Leber	Lebern
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimb	VVFIN	 UNKNOWN	nimb
+ein	ART	 ein	ein
+Leber	NN	 Leber	Leber
+von	APPR	 von	von
+eim	ADJA	 UNKNOWN	nimb
+Rind	NN	 Rind	Rind
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+der	ART	 d	der
+Lungen	NN	 Lunge	Lungen
+</seg>
+<seg type="newline">
+hack	VVIMP	 hacken	hack
+jedes	PIAT	 jed	jedes
+in	APPR	 in	in
+sonderheit	NN	 UNKNOWN	sonderheit
+gar	ADV	 gar	gar
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+hacks	NN	 UNKNOWN	hacks
+dann	ADV	 dann	dann
+beyde	PIAT	 jed	jedes
+zusammen	ADV	 zusammen	zusammen
+</seg>
+<seg type="newline">
+thuos	ADJD	 UNKNOWN	thuos
+in	APPR	 in	in
+ein	ART	 ein	ein
+Muolter	NN	 UNKNOWN	Muolter
+</seg>
+<seg type="newline">
+saltz	ADJA	 kalt	kalten
+</seg>
+<seg type="newline">
+thuo	NN	 UNKNOWN	thue
+ein	ART	 ein	ein
+pfefferstüpp	NN	 UNKNOWN	pfefferstüpp
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+ein	ART	 ein	ein
+guots	ADJA	 UNKNOWN	guots
+gerings	NN	 UNKNOWN	gerings
+faist	NN	 UNKNOWN	faist
+</seg>
+<seg type="newline">
+das	ART	 d	das
+schneyd	NE	 UNKNOWN	schneyd
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+nit	ADJD	 UNKNOWN	nimb
+zu	APPR	 zu	zu
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+es	PPER	 es	es
+verseüdt	VVFIN	 UNKNOWN	verseüdt
+sich	PRF	 er|es|sie	sich
+sonst	ADV	 sonst	sonst
+gar	ADV	 gar	gar
+</seg>
+<seg type="newline">
+geüß	ADJD	 UNKNOWN	geüß
+dann	ADV	 dann	dann
+wol	PWAV	 wo	wo
+ein	ART	 ein	ein
+süssen	ADJA	 süß	süssen
+Milchraum	NN	 UNKNOWN	Milchraum
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+rürs	NN	 UNKNOWN	rürs
+durch	APPR	 durch	durch
+einander	PRF	 einander	einander
+</seg>
+<seg type="newline">
+Nimb	VVFIN	 UNKNOWN	nimb
+dann	ADV	 dann	dann
+die	ART	 d	die
+weyten	ADJA	 UNKNOWN	weyten
+därmvon	NN	 UNKNOWN	därmvon
+einem	ART	 ein	einem
+Ochssen	NN	 UNKNOWN	Ochssen
+</seg>
+<seg type="newline">
+machs	NE	 UNKNOWN	machs
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+nur	ADV	 nur	nur
+wol	PWAV	 wo	wo
+lähr	ADJA	 UNKNOWN	lähr
+</seg>
+<seg type="newline">
+binds	NN	 UNKNOWN	binds
+an	APPR	 an	an
+beyden	NE	 UNKNOWN	beyden
+orten	VVFIN	 orten	orten
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+faden	ADJA	 fade	faden
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+vberbrenns	ADJD	 UNKNOWN	vberbrenns
+.	$.	.	$.	 .	|	.
+Solliche	ADJA	 UNKNOWN	Solliche
+Würst	NN	 UNKNOWN	Würst
+seind	VAFIN	 sein	sind
+fast	ADV	 fast	fast
+guot	ADJD	 gut	gut
+auff	APPR	 auf	auf
+kraut	NN	 Kraut	kraut
+oder	KON	 oder	oder
+Rüben	NN	 Rübe	Rüben
+</seg>
+<seg type="newline">
+seind	VAFIN	 sein	sind
+fein	ADJD	 fein	fein
+lind	ADJD	 lind	lind
+.	$.	.	$.	 .	|	.
+Auß	NN	 UNKNOWN	Auß
+einer	ART	 ein	einer
+Kälbern	NN	 Kalb	Kälbern
+lebern	NN	 Leber	lebern
+magst	VMFIN	 mögen	magst
+auch	ADV	 auch	auch
+wol	PWAV	 wo	wo
+würst	NN	 UNKNOWN	würst
+machen	VVFIN	 machen	machen
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+raum	ADJD	 raum	raum
+oder	KON	 oder	oder
+ohn	ADJD	 UNKNOWN	ohn
+raum	ADJD	 raum	raum
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

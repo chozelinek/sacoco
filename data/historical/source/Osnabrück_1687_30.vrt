@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Osnabrueck_1687_30" collection="historical" source="Osnabrueck" url="none" year="1687" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1687:61]">
+<title>
+<seg type="newline">
+Birn	NN	 UNKNOWN	Birn
+feucht	ADJD	 feucht	feucht
+einzumachen	VVIZU	 UNKNOWN	einzumachen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nehmt	VVFIN	 nehmen	Nehmt
+Muscateller=Birn	NN	 UNKNOWN	Muscateller=Birn
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+ihr	PPOSAT	 ihr	ihr
+sie	PPER	 sie	sie
+haben	VAINF	 haben	haben
+könnet	VMFIN	 können	könnet
+</seg>
+<seg type="newline">
+sonst	ADV	 sonst	sonst
+andere	PIS	 ander	andere
+doch	ADV	 doch	doch
+nicht	PTKNEG	 nicht	nicht
+steinichte	NN	 UNKNOWN	steinichte
+und	KON	 und	und
+von	APPR	 von	von
+Natur	NN	 Natur	Natur
+truckne	VVFIN	 UNKNOWN	truckne
+</seg>
+<seg type="newline">
+schellet	VVFIN	 UNKNOWN	schellet
+sie	PPER	 sie	sie
+</seg>
+<seg type="newline">
+doch	ADV	 doch	doch
+daß	KOUS	 daß	daß
+der	ART	 d	der
+Stiel	NN	 Stiel	Stiel
+daran	PAV	 daran	daran
+bleibe	VVFIN	 bleiben	bleibe
+</seg>
+<seg type="newline">
+kocht	VVFIN	 kochen	kocht
+dieselbe	PDS	 dieselbe	dieselbe
+in	APPR	 in	in
+klarem	ADJA	 klar	klarem
+Wasser	NN	 Wasser	Wasser
+fein	ADJD	 fein	fein
+geschwinde	ADJA	 geschwind	geschwinde
+doch	ADV	 doch	doch
+nicht	PTKNEG	 nicht	nicht
+zu	PTKA	 zu	zu
+mürbe	ADJD	 mürbe	mürbe
+</seg>
+<seg type="newline">
+nemt	VVFIN	 UNKNOWN	nemt
+sie	PPER	 sie	sie
+herauß	NN	 UNKNOWN	herauß
+</seg>
+<seg type="newline">
+und	KON	 und	und
+last	VVFIN	 lesen	last
+sie	PPER	 sie	sie
+trucken	ADJD	 UNKNOWN	trucken
+werden	VAINF	 werden	werden
+</seg>
+<seg type="newline">
+giest	VVFIN	 geben	gibt
+darüber	PAV	 darüber	darüber
+so	ADV	 so	so
+viel	PIAT	 viel	viel
+abgeklarten	ADJA	 UNKNOWN	abgeklarten
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+sie	PPER	 sie	sie
+bedeckt	VVFIN	 bedecken	bedeckt
+seyn	NE	 UNKNOWN	seyn
+</seg>
+<seg type="newline">
+last	VVFIN	 lesen	last
+sie	PPER	 sie	sie
+einen	ART	 ein	einen
+Tag	NN	 Tag	Tag
+über	APPR	 über	über
+so	ADV	 so	so
+stehen	VVINF	 stehen	stehen
+</seg>
+<seg type="newline">
+giest	VVFIN	 geben	gibt
+den	ART	 d	den
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+er	PPER	 er	er
+wird	VAFIN	 werden	wird
+dünne	ADJA	 dünn	dünne
+geworden	VAPP	 werden	geworden
+seyn	NE	 UNKNOWN	seyn
+</seg>
+<seg type="newline">
+davon	PAV	 davon	davon
+</seg>
+<seg type="newline">
+kocht	VVFIN	 kochen	kocht
+denselben	PDAT	 derselbe	denselben
+abermahl	NN	 UNKNOWN	abermahl
+biß	VVFIN	 beißen	biß
+er	PPER	 er	er
+gebührlich	ADJD	 gebührlich	gebührlich
+dick	ADJD	 dick	dick
+worden	VAPP	 werden	worden
+</seg>
+<seg type="newline">
+und	KON	 und	und
+giest	VVFIN	 geben	gibt
+ihn	PPER	 er	ihn
+wieder	ADV	 wieder	wieder
+über	APPR	 über	über
+die	ART	 d	die
+Birn	NN	 UNKNOWN	Birn
+</seg>
+<seg type="newline">
+thut	NE	 UNKNOWN	thue
+das	ART	 d	das
+so	ADV	 so	so
+offt	ADV	 oft	oft
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+der	ART	 d	der
+Zucker	NN	 Zucker	Zucker
+dick	ADJD	 dick	dick
+bleibt	VVFIN	 bleiben	bleibt
+</seg>
+<seg type="newline">
+last	VVFIN	 lesen	last
+sie	PPER	 sie	sie
+denn	KON	 denn	denn
+darin	PAV	 darin	darin
+stehen	VVFIN	 stehen	stehen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+sind	VAFIN	 sein	sind
+sie	PPER	 sie	sie
+gut	ADJD	 gut	gut
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Buchinger_1700_16" collection="historical" source="Buchinger" url="none" year="1700" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:1f.]">
+<title>
+<seg type="newline">
+473.	ADJA	 @ord@	473.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Groppe	NN	 UNKNOWN	Groppe
+werden	VAFIN	 werden	werden
+gebachen	ADJD	 UNKNOWN	gebachen
+wie	KOKOM	 wie	wie
+Grundelen	NN	 UNKNOWN	Grundelen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+nimt	VVFIN	 UNKNOWN	nimt
+man	PIS	 man	man
+die	ART	 d	die
+größte	ADJA	 groß	größte
+auß	VMFIN	 müssen	muß
+</seg>
+<seg type="newline">
+man	PIS	 man	man
+mags	NN	 Lage	Lage
+auch	ADV	 auch	auch
+in	APPR	 in	in
+Pasteten	NN	 Pastete	Pasteten
+einmachen	VVFIN	 einmachen	einmachen
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+die	ART	 d	die
+Grundelen	NN	 UNKNOWN	Grundelen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

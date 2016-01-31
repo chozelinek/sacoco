@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Prasmosfky_1671_16" collection="historical" source="Prasmosfky" url="none" year="1671" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1671:130]">
+<title>
+<seg type="newline">
+398.	ADJA	 @ord@	398.
+Subtile	ADJA	 subtil	Subtile
+Milch	NN	 Milch	Milch
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Koche	VVFIN	 kochen	Koche
+Reiß	ADJD	 heiß	heiß
+in	APPR	 in	in
+einer	ART	 ein	einer
+guten	ADJA	 gut	guten
+Milch	NN	 Milch	Milch
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+er	PPER	 er	er
+anfängt	VVFIN	 anfangen	anfängt
+zu	PTKVZ	 zu	zu
+kochen	VVFIN	 kochen	kochen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+rühr	VVIMP	 rühren	rühr
+ihn	PPER	 er	ihn
+nicht	PTKNEG	 nicht	nicht
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+er	PPER	 er	er
+ein	PTKVZ	 ein	ein
+Stund	VAFIN	 sein	sind
+anderthalben	ADV	 UNKNOWN	anderthalben
+gekocht	VVPP	 kochen	gekocht
+hat	VAFIN	 haben	hat
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+hat	VAFIN	 haben	hat
+sich	PRF	 er|es|sie	sich
+das	ART	 d	das
+Dick	NE	 Dick	Dick
+zu	APPR	 zu	zu
+Boden	NN	 Boden	Boden
+gesetzt	VVPP	 setzen	gesetzt
+</seg>
+<seg type="newline">
+das	ART	 d	das
+Dünn	NN	 UNKNOWN	Dünn
+aber	KON	 aber	aber
+bleibet	VVFIN	 bleiben	bleibet
+empor	ADV	 empor	empor
+</seg>
+<seg type="newline">
+da	ADV	 da	da
+thue	NE	 UNKNOWN	thue
+dann	ADV	 dann	dann
+die	ART	 d	die
+Haut	NN	 Haut	Haut
+herab	ADV	 herab	herab
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+das	ART	 d	das
+Dünn	NN	 UNKNOWN	Dünn
+von	APPR	 von	von
+dem	ART	 d	dem
+Dicken	NN	 Dicke	Dicken
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+dünnes	ADJA	 dünn	dünnes
+Tüchlein	NN	 Tüchlein	Tüchlein
+lauffen	NN	 Raute	Rauten
+</seg>
+<seg type="newline">
+damit	PAV	 damit	damit
+nichts	PIS	 nichts	nichts
+vom	APPRART	 vom	vom
+Reiß	ADJD	 heiß	heiß
+darein	ADV	 darein	darein
+komme	VVFIN	 kommen	komme
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+Rosenwasser	NN	 Rosenwasser	Rosenwasser
+und	KON	 und	und
+Zucker	NN	 Zucker	Zucker
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+rühr	VVIMP	 rühren	rühr
+ein	ART	 ein	ein
+Eyerdottern	NN	 UNKNOWN	Eyerdottern
+zwey	CARD	 zwei	zwei
+oder	KON	 oder	oder
+drey	CARD	 drei	drei
+in	APPR	 in	in
+ein	ART	 ein	ein
+messine	NN	 UNKNOWN	messine
+Pfannen	NN	 Pfanne	Pfannen
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+die	ART	 d	die
+Milch	NN	 Milch	Milch
+darunter	PAV	 darunter	darunter
+</seg>
+<seg type="newline">
+hebs	NN	 UNKNOWN	hebs
+über	APPR	 über	über
+das	ART	 d	das
+Feuer	NN	 Feuer	Feuer
+</seg>
+<seg type="newline">
+rührs	VVFIN	 UNKNOWN	rührs
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+bald	ADV	 bald	bald
+es	PPER	 es	es
+treibt	VVFIN	 treiben	treibt
+</seg>
+<seg type="newline">
+thus	NE	 UNKNOWN	thus
+hinweg	ADV	 hinweg	hinweg
+</seg>
+<seg type="newline">
+bereits	ADV	 bereits	bereits
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+zuvor	ADV	 zuvor	zuvor
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+es	PPER	 es	es
+nun	ADV	 nun	nun
+kalt	ADJD	 kalt	kalt
+worden	VAPP	 werden	worden
+</seg>
+<seg type="newline">
+magst	VMFIN	 mögen	magst
+Rosin	NN	 UNKNOWN	Rosin
+und	KON	 und	und
+geschnittene	ADJA	 geschnitten	geschnittene
+Mandeln	NN	 Mandel	Mandeln
+darauf	PAV	 darauf	darauf
+stecken	VVINF	 stecken	stecken
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

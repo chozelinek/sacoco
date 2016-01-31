@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Buchinger_1700_4" collection="historical" source="Buchinger" url="none" year="1700" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:1f.]">
+<title>
+<seg type="newline">
+847.	ADJA	 @ord@	847.
+Grosse	ADJA	 groß	Grosse
+Bonen	NN	 UNKNOWN	Bonen
+</seg>
+</title>
+<body>
+<seg type="newline">
+wann	PWAV	 wann	wann
+sie	PPER	 sie	sie
+noch	ADV	 noch	noch
+frisch	ADJD	 frisch	frisch
+und	KON	 und	und
+grün	ADJD	 grün	grün
+sind	VAFIN	 sein	sind
+</seg>
+<seg type="newline">
+werden	VAINF	 werden	werden
+auß	VMFIN	 müssen	muß
+der	ART	 d	der
+Hülsen	NN	 Hülse	Hülsen
+gemacht	VVPP	 machen	gemacht
+</seg>
+<seg type="newline">
+die	ART	 d	die
+Häutlin	NN	 UNKNOWN	Häutlin
+abgezogen	VVPP	 abziehen	abgezogen
+</seg>
+<seg type="newline">
+alsdann	NN	 UNKNOWN	Alsdann
+in	APPR	 in	in
+wasser	VVIMP	 wassern	wasser
+woll	PWAV	 wo	wo
+gesotten	VVPP	 sieden	gesotten
+</seg>
+<seg type="newline">
+gewaschen	VVPP	 waschen	gewaschen
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+frischem	ADJA	 frisch	frischem
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+feißter	ADJA	 UNKNOWN	feißter
+Fleischbrüh	NN	 Fleischbrühe	Fleischbrühe
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Milchraum	NN	 UNKNOWN	Milchraum
+</seg>
+<seg type="newline">
+klein	ADJD	 klein	klein
+geschnittenem	ADJA	 geschnitten	geschnittenem
+Peterlin	NE	 UNKNOWN	Peterlin
+</seg>
+<seg type="newline">
+Imber	NN	 UNKNOWN	Imber
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+einer	ART	 ein	einer
+irrdinen	NN	 UNKNOWN	irrdinen
+Kachel	NN	 Kachel	Kachel
+sitlich	ADJD	 UNKNOWN	sitlich
+gekocht	VVPP	 kochen	gekocht
+.	$.	.	$.	 .	|	.
+Man	PIS	 man	Man
+mag	VMFIN	 mögen	mag
+zu	APPR	 zu	zu
+dem	ART	 d	dem
+frischen	ADJA	 frisch	frischen
+Butter	NN	 Butter	Butter
+auch	ADV	 auch	auch
+gelb	ADJD	 gelb	gelb
+Gewürtz	NN	 UNKNOWN	Gewürtz
+</seg>
+<seg type="newline">
+geschweißte	ADJA	 geschweißt	geschweißte
+Zwibelrohr	NN	 UNKNOWN	Zwibelrohr
+</seg>
+<seg type="newline">
+jung	ADJD	 jung	jung
+Mangold	NN	 Mangold	Mangold
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Spinat	NN	 Spinat	Spinat
+und	KON	 und	und
+andere	ADJA	 ander	andere
+wolschmeckende	ADJA	 UNKNOWN	wolschmeckende
+Kräutlin	NN	 UNKNOWN	Kräutlin
+thun	NE	 UNKNOWN	thue
+</seg>
+<seg type="newline">
+und	KON	 und	und
+geröst	ADJA	 UNKNOWN	geröst
+Brod	NN	 Brot	Brot
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+geröste	ADJA	 UNKNOWN	geröste
+Speckgrieben	NN	 UNKNOWN	Speckgrieben
+darauff	PAV	 drauf	drauf
+strewen	VVINF	 UNKNOWN	strewen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

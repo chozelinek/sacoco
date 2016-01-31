@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Colerus_1602_4" collection="historical" source="Colerus" url="none" year="1602" decade="1600-1610" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1602:119]">
+<title>
+<seg type="newline">
+Einen	ADJA	 einen	Einen
+Hirschbradten	NN	 UNKNOWN	Hirschbradten
+von	APPR	 von	von
+Fischen	NN	 Fisch|Fischen	Fischen
+zu	PTKZU	 zu	zu
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nim	VVFIN	 UNKNOWN	nimb
+einen	ART	 ein	einen
+Karpen	NN	 UNKNOWN	Karpen
+vnd	KON	 und	und
+einen	ART	 ein	einen
+Hecht	NN	 Hecht	Hecht
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+du	PPER	 du	du
+jn	NE	 UNKNOWN	jn
+gros	NE	 UNKNOWN	gros
+haben	VAFIN	 haben	haben
+wilt	NE	 Wilt	wilt
+</seg>
+<seg type="newline">
+zeuch	NN	 UNKNOWN	zeuch
+berab	NN	 UNKNOWN	berab
+die	ART	 d	die
+Schuppen	NN	 Schuppe|Schuppen	Schuppen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+liß	VVFIN	 UNKNOWN	liß
+die	ART	 d	die
+Gredten	NN	 UNKNOWN	Gredten
+heraus	PTKVZ	 heraus	heraus
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+zuhacke	NN	 UNKNOWN	zuhacke
+die	ART	 d	die
+Fische	NN	 Fisch	Fische
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+schneid	VVFIN	 schneiden	schneiden
+hübsche	ADJA	 hübsch	hübsche
+Petersilien	NN	 Petersilie	Petersilie
+Wurtzel	NN	 UNKNOWN	Wurtzel
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+zuhacks	NN	 UNKNOWN	zuhacks
+gar	ADV	 gar	gar
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+nim	ADJD	 UNKNOWN	nimb
+darunter	PAV	 darunter	darunter
+weis	PTKVZ	 weis	weis
+Brod	NN	 Brot	Brot
+</seg>
+<seg type="newline">
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+Baumöhl	NN	 UNKNOWN	Baumöhl
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+schneid	VVFIN	 schneiden	schneiden
+darein	ADV	 darein	darein
+gute	ADJA	 gut	gute
+Kreuter	NN	 UNKNOWN	Kreuter
+</seg>
+<seg type="newline">
+Rosmarin	NN	 Rosmarin	Rosmarin
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+sonst	ADV	 sonst	sonst
+auch	ADV	 auch	auch
+andere	ADJA	 ander	andere
+Kreuter	NN	 UNKNOWN	Kreuter
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+würtze	VVFIN	 würzen	würzt
+es	PPER	 es	es
+ab	PTKVZ	 ab	ab
+mit	APPR	 mit	mit
+allerley	ADJA	 UNKNOWN	allerley
+Würtze	NN	 UNKNOWN	Würtze
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+mengs	ADJA	 UNKNOWN	mengs
+flucks	NN	 UNKNOWN	flucks
+durcheinander	PTKVZ	 durcheinander	durcheinander
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+thue	NE	 UNKNOWN	thue
+auch	ADV	 auch	auch
+darein	ADV	 darein	darein
+klein	ADJD	 klein	klein
+Rosincken	NN	 Rosine	Rosinen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+spalte	VVFIN	 spalten	spalte
+vier	CARD	 vier	vier
+Höltzer	NN	 UNKNOWN	Höltzer
+von	APPR	 von	von
+einer	ART	 ein	einer
+Schindel	NN	 Schindel	Schindel
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+allewege	ADV	 allewege	allewege
+eines	ART	 ein	eines
+anderthalbe	ADJA	 UNKNOWN	anderthalbe
+spanne	VVFIN	 spannen	spanne
+lang	ADJD	 lang	lang
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+einer	ART	 ein	einer
+querhand	NN	 UNKNOWN	querhand
+breit	ADJD	 breit	breit
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+lege	VVFIN	 legen	lege
+das	ART	 d	das
+jetzberürte	ADJA	 UNKNOWN	jetzberürte
+gar	ADV	 gar	gar
+darzwischen	VVIZU	 UNKNOWN	darzwischen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+legs	VVFIN	 legen	legt
+in	APPR	 in	in
+ein	ART	 ein	ein
+heis	NN	 UNKNOWN	heis
+siedent	NN	 UNKNOWN	siedent
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+las	VVFIN	 lesen	las
+es	PPER	 es	es
+lang	ADJD	 lang	lang
+sieden	VVINF	 sieden	sieden
+.	$.	.	$.	 .	|	.
+Vnd	KON	 und	und
+wenn	KOUS	 wenn	wenn
+es	PPER	 es	es
+gesotten	VVPP	 sieden	gesotten
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+stecks	NN	 UNKNOWN	stecks
+an	APPR	 an	an
+einen	ART	 ein	einen
+Spiß	NN	 UNKNOWN	Spiß
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+verware	NN	 UNKNOWN	verware
+es	PPER	 es	es
+</seg>
+<seg type="newline">
+das	PRELS	 d	das
+es	PPER	 es	es
+nicht	PTKNEG	 nicht	nicht
+herab	ADV	 herab	herab
+felt	ADJD	 UNKNOWN	felt
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+legs	VVFIN	 legen	legt
+gegen	APPR	 gegen	gegen
+dem	ART	 d	dem
+Fewer	NN	 Feuer	Feuer
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+las	VVFIN	 lesen	las
+es	PPER	 es	es
+bradten	ADJD	 UNKNOWN	bradten
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+begeus	VVFIN	 UNKNOWN	begeus
+es	PPER	 es	es
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+heissen	ADJA	 heiß	heissen
+Baumöhl	NN	 UNKNOWN	Baumöhl
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+besprenge	VVFIN	 UNKNOWN	besprenge
+es	PPER	 es	es
+mit	APPR	 mit	mit
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+richts	PTKNEG	 nicht	nicht
+an	PTKVZ	 an	an
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+bestrew	VVFIN	 UNKNOWN	bestrew
+es	PPER	 es	es
+mit	APPR	 mit	mit
+Ingber	NN	 Ingwer	Ingwer
+.	$.	.	$.	 .	|	.
+Dergleichen	PIS	 dergleichen	Dergleichen
+mag	VMFIN	 mögen	mag
+man	PIS	 man	man
+machen	VVFIN	 machen	machen
+ein	ART	 ein	ein
+Hirschen	NN	 Hirsch	Hirschen
+Wildpret	NN	 UNKNOWN	Wildpret
+von	APPR	 von	von
+Fischen	NN	 Fisch|Fischen	Fischen
+</seg>
+<seg type="newline">
+man	PIS	 man	man
+mag	VMFIN	 mögen	mag
+draus	PAV	 draus	draus
+machen	VVINF	 machen	machen
+kleine	ADJA	 klein	kleine
+stück	VVIMP	 stücken	stück
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+mache	VVFIN	 machen	mache
+drauff	PAV	 drauf	drauf
+ein	ART	 ein	ein
+braun	ADJD	 braun	braun
+Soht	ADJA	 UNKNOWN	Soht
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+würtze	VVFIN	 würzen	würzt
+es	PPER	 es	es
+mit	APPR	 mit	mit
+allerley	ADJA	 UNKNOWN	allerley
+zugehörunge	NN	 UNKNOWN	zugehörunge
+.	$.	.	$.	 .	|	.
+Wiltu	NE	 UNKNOWN	Wiltu
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+magstu	NN	 UNKNOWN	magsts
+drauff	PAV	 drauf	drauf
+machen	VVFIN	 machen	machen
+ein	ART	 ein	ein
+gescherbe	ADJD	 gescheit	gescheit
+von	APPR	 von	von
+Mandeln	NN	 Mandel	Mandeln
+vnd	KON	 und	und
+Rosincken	NN	 Rosine	Rosinen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+richte	VVFIN	 richten	richte
+es	PPER	 es	es
+an	PTKVZ	 an	an
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+gib	VVIMP	 geben	gib
+es	PPER	 es	es
+hin	PTKVZ	 hin	hin
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

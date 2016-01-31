@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Schuppe_1698_16" collection="historical" source="Schuppe" url="none" year="1698" decade="1690-1700" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1698:76]">
+<title>
+<seg type="newline">
+CXLI	NE	 UNKNOWN	CXLI
+.	$.	.	$.	 .	|	.
+Schweins=Möhr=	NN	 UNKNOWN	Schweins=Möhr=
+oder	KON	 oder	oder
+Mürb=Braten	NN	 UNKNOWN	Mürb=Braten
+mit	APPR	 mit	mit
+Schincken	NN	 UNKNOWN	Schincken
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Erstlich	ADJD	 UNKNOWN	Erstlich
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+die	ART	 d	die
+Möhr=Braten	NN	 UNKNOWN	Möhr=Braten
+gespicket	NN	 UNKNOWN	gespicket
+seynd	VAFIN	 sein	sind
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+bestreue	VVFIN	 UNKNOWN	bestreue
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+Mehl	NN	 Mehl	Mehl
+</seg>
+<seg type="newline">
+brate	VVFIN	 braten	brate
+Speck	NN	 Speck	Speck
+aus	APZR	 aus	aus
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+sie	PPER	 sie	sie
+braun	ADJD	 braun	braun
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+gieb	VVFIN	 UNKNOWN	gieb
+ihnen	PPER	 sie	ihnen
+coleur	ADJD	 UNKNOWN	coleur
+,	$,	,	$,	 ,	|	,
+gieb	VVFIN	 UNKNOWN	gieb
+denn	ADV	 denn	denn
+Bouillon	NN	 Bouillon	Bouillon
+,	$,	,	$,	 ,	|	,
+gantz	ADV	 ganz	ganz
+Gewürtz	NN	 UNKNOWN	Gewürtz
+</seg>
+<seg type="newline">
+gantze	ADV	 ganz	ganz
+Zwiebeln	NN	 Zwiebel|Zwiebeln	Zwiebeln
+und	KON	 und	und
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+unbrenne	VVFIN	 UNKNOWN	unbrenne
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+braun	ADJD	 braun	braun
+Mehl	NN	 Mehl	Mehl
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+sie	PPER	 sie	sie
+gahr	ADV	 gar	gar
+kochen	VVINF	 kochen	kochen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+richte	VVFIN	 richten	richte
+sie	PPER	 sie	sie
+an	PTKVZ	 an	an
+:	$.	:	$.	 :	|	:
+Du	PPER	 du	Du
+kanst	VVFIN	 UNKNOWN	kanst
+auch	ADV	 auch	auch
+wohl	ADV	 wohl	wohl
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Schincken	NN	 UNKNOWN	Schincken
+in	APPR	 in	in
+Scheiben	NN	 Scheibe	Scheiben
+schneiden	VVFIN	 schneiden	schneiden
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+die	ART	 d	die
+dabey	PAV	 dabei	dabei
+</seg>
+<seg type="newline">
+und	KON	 und	und
+laß	ADJD	 laß	laß
+damit	PAV	 damit	damit
+gahr	ADV	 gar	gar
+kochen	VVINF	 kochen	kochen
+.	$.	.	$.	 .	|	.
+NB	NE	 NB	NB
+.	$.	.	$.	 .	|	.
+Man	PIS	 man	Man
+kan	ADV	 nun	Nun
+Gänße=Brüste	NN	 UNKNOWN	Gänße=Brüste
+auff	APPR	 auf	auf
+eben	ADV	 eben	eben
+die	ART	 d	die
+Manier	NN	 Manier	Manier
+kochen	VVINF	 kochen	kochen
+</seg>
+<seg type="newline">
+aber	KON	 aber	aber
+du	PPER	 du	du
+must	VVFIN	 UNKNOWN	must
+einen	ART	 ein	einen
+Ragou	NE	 UNKNOWN	Ragou
+à	FM	à	FM	 à	|	à
+part	ADJD	 hart	hart
+machen	VVFIN	 machen	machen
+von	APPR	 von	von
+Morcheln	NN	 Morchel	Morcheln
+</seg>
+<seg type="newline">
+Artschocken	NN	 UNKNOWN	Artschocken
+und	KON	 und	und
+Schincken	NN	 UNKNOWN	Schincken
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+darüber	PAV	 darüber	darüber
+gegossen	VVPP	 gießen	gegossen
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+ist	VAFIN	 sein	ist
+auch	ADV	 auch	auch
+recht	ADJD	 recht	recht
+gut	ADJD	 gut	gut
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

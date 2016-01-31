@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Hohberg_1715_2" collection="historical" source="Hohberg" url="none" year="1715" decade="1710-1720" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1715:4]">
+<title>
+<seg type="newline">
+Eyer=Suppen	NN	 UNKNOWN	Eyer=Suppen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Mischet	NN	 UNKNOWN	Mischet
+zerklopffte	ADJA	 UNKNOWN	zerklopffte
+Eyer=Dottern	NN	 UNKNOWN	Eyer=Dottern
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+gehacktes	ADJA	 gehackt	gehacktes
+Körbel=	NN	 UNKNOWN	Körbel=
+oder	KON	 oder	oder
+Petersillien=Kraut	NN	 UNKNOWN	Petersillien=Kraut
+</seg>
+<seg type="newline">
+und	KON	 und	und
+ein	ART	 ein	ein
+Stücklein	NN	 Stücklein	Stücklein
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+zusammen	ADV	 zusammen	zusammen
+</seg>
+<seg type="newline">
+lasset	VVFIN	 lassen	lasset
+eine	ART	 ein	eine
+Fleisch=Brühe	NN	 Fleischbrühe	Fleischbrühe
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+werffet	ADJA	 UNKNOWN	werffet
+Muscatenblüh	NN	 UNKNOWN	Muscatenblüh
+und	KON	 und	und
+Cardamomen	NN	 Kardamom	Kardamom
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+rühret	VVFIN	 rühren	rühren
+mit	APPR	 mit	mit
+dieser	PDAT	 dies	dieser
+siedenden	ADJA	 siedend	siedenden
+Brühe	NN	 Brühe	Brühe
+die	ART	 d	die
+Eyer=Dottern	NN	 UNKNOWN	Eyer=Dottern
+an	APZR	 an	an
+</seg>
+<seg type="newline">
+röstet	VVFIN	 rösten	röstet
+Blätzlein	NN	 UNKNOWN	Blätzlein
+</seg>
+<seg type="newline">
+weis	PTKVZ	 weis	weis
+geschnittene	ADJA	 geschnitten	geschnittene
+Eyer=Ringlein	NN	 UNKNOWN	Eyer=Ringlein
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+anderes	ADJA	 ander	anderes
+Eyrens=Brod	NN	 UNKNOWN	Eyrens=Brod
+in	APPR	 in	in
+Schmaltz	NN	 Schmalz	Schmalz
+</seg>
+<seg type="newline">
+und	KON	 und	und
+giesset	PDAT	 dies	diese
+die	PRELS	 d	die
+Brüh	ADJD	 früh	früh
+darüber	PAV	 darüber	darüber
+.	$.	.	$.	 .	|	.
+Man	PIS	 man	Man
+kan	ADV	 nun	Nun
+diese	PDAT	 dies	diese
+Brühe	NN	 Brühe	Brühe
+auch	ADV	 auch	auch
+nurüber	ADJD	 UNKNOWN	nurüber
+weis	PTKVZ	 weis	weis
+gebähetes	ADJA	 UNKNOWN	gebähetes
+Brod	NN	 Brot	Brot
+richten	VVINF	 richten	richten
+;	$.	;	$.	 ;	|	;
+Auch	ADV	 auch	Auch
+das	ART	 d	das
+Körbel=	NN	 UNKNOWN	Körbel=
+oder	KON	 oder	oder
+Petersillien=Kraut	NN	 UNKNOWN	Petersillien=Kraut
+darvon	PAV	 darin	darin
+lassen	VVFIN	 lassen	lassen
+:	$.	:	$.	 :	|	:
+Hingegen	ADV	 hingegen	Hingegen
+solche	PIS	 solch	solche
+mit	APPR	 mit	mit
+Eßig	NN	 UNKNOWN	Eßig
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Citronen=Safft	NN	 UNKNOWN	Citronen=Safft
+</seg>
+<seg type="newline">
+säuerlicht	ADJD	 UNKNOWN	säuerlicht
+machen	VVFIN	 machen	machen
+</seg>
+<seg type="newline">
+nach	APPR	 nach	nach
+Belieben	NN	 Belieben	Belieben
+.	$.	.	$.	 .	|	.
+Oder	KON	 oder	Oder
+rühre	VVFIN	 rühren	rühre
+2.	ADJA	 2.	2.
+oder	KON	 oder	oder
+3.	ADJA	 3.	3.
+zerklopffte	ADJA	 UNKNOWN	zerklopffte
+gantze	ADV	 ganz	ganz
+Eyer	NE	 UNKNOWN	Eyer
+mit	APPR	 mit	mit
+siedender	ADJA	 siedender	siedender
+Fleisch=Brühe	NN	 Fleischbrühe	Fleischbrühe
+an	APZR	 an	an
+</seg>
+<seg type="newline">
+streue	VVFIN	 streuen	streue
+Muscatenblüh	NN	 UNKNOWN	Muscatenblüh
+</seg>
+<seg type="newline">
+Saffran	NN	 Safran	Safran
+</seg>
+<seg type="newline">
+Ingber	NN	 Ingwer	Ingwer
+und	KON	 und	und
+Cardamomen	NN	 Kardamom	Kardamom
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+die	ART	 d	die
+Eyer	NE	 UNKNOWN	Eyer
+etwas	PIAT	 etwas	etwas
+stochicht	NN	 UNKNOWN	stochicht
+und	KON	 und	und
+die	ART	 d	die
+Brüh	ADJD	 früh	früh
+lauter	ADJA	 laut	lauter
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+wirff	VVFIN	 UNKNOWN	wirff
+ein	ART	 ein	ein
+Stück	NN	 Stück	Stück
+Butter	NN	 Butter	Butter
+hinein	PTKVZ	 hinein	hinein
+</seg>
+<seg type="newline">
+und	KON	 und	und
+richte	VVFIN	 richten	richte
+es	PPER	 es	es
+über	APPR	 über	über
+gebähetes	ADJA	 UNKNOWN	gebähetes
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+ungebähetes	ADJA	 UNKNOWN	ungebähetes
+weisses	ADJA	 weiß	weisses
+Brod	NN	 Brot	Brot
+.	$.	.	$.	 .	|	.
+Item	ADV	 item	Item
+</seg>
+<seg type="newline">
+schlage	VVFIN	 schlagen	schlage
+ein	ART	 ein	ein
+Ey	NE	 Ey	Ey
+auf	PTKVZ	 auf	auf
+</seg>
+<seg type="newline">
+streue	VVFIN	 streuen	streue
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+und	KON	 und	und
+Waitzen=Meel	NN	 UNKNOWN	Waitzen=Meel
+darauf	PAV	 darauf	darauf
+</seg>
+<seg type="newline">
+bache	VVFIN	 UNKNOWN	bache
+es	PPER	 es	es
+aus	APPR	 aus	aus
+Schmaltz	NN	 Schmalz	Schmalz
+</seg>
+<seg type="newline">
+jedoch	ADV	 jedoch	jedoch
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+der	ART	 d	der
+Dottern	NN	 UNKNOWN	kuttern
+weich	ADJD	 weich	weich
+bleibe	VVFIN	 bleiben	bleibe
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+dergleichen	PIS	 dergleichen	dergleichen
+Eyer	NE	 UNKNOWN	Eyer
+zwey	CARD	 zwei	zwei
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+zerhacke	VVFIN	 UNKNOWN	zerhacke
+sie	PPER	 sie	sie
+und	KON	 und	und
+rührs	VVFIN	 UNKNOWN	rührs
+in	APPR	 in	in
+ein	ART	 ein	ein
+Seidlein	NN	 Seidlein	Seidlein
+oder	KON	 oder	oder
+halbe	ADJA	 halb	halbe
+Maaß	NN	 UNKNOWN	Maaß
+siedende	ADJA	 siedend	siedende
+Fleisch=Brühe	NN	 Fleischbrühe	Fleischbrühe
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+darinn	NN	 UNKNOWN	darinn
+</seg>
+<seg type="newline">
+nebst	APPR	 nebst	nebst
+etwas	PIAT	 etwas	etwas
+Kümmel	NN	 Kümmel	Kümmel
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+sieden	VVINF	 sieden	sieden
+;	$.	;	$.	 ;	|	;
+folgends	ADJA	 folgend	folgenden
+zwings	NN	 UNKNOWN	zwings
+durch	APPR	 durch	durch
+einen	ART	 ein	einen
+Seyher	NN	 UNKNOWN	Seyher
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+ferner	ADJD	 fern	ferner
+aufsieden	VVFIN	 UNKNOWN	aufsieden
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+Muscatenblüh	NN	 UNKNOWN	Muscatenblüh
+</seg>
+<seg type="newline">
+Cardamomen	NN	 Kardamom	Kardamom
+und	KON	 und	und
+ein	ART	 ein	ein
+Stück	NN	 Stück	Stück
+Butter	NN	 Butter	Butter
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+und	KON	 und	und
+richte	VVFIN	 richten	richte
+es	PPER	 es	es
+über	APPR	 über	über
+gebähet	NE	 UNKNOWN	gebähet
+oder	KON	 oder	oder
+ungebähet	NE	 UNKNOWN	ungebähet
+weis	PTKVZ	 weis	weis
+Brod	NN	 Brot	Brot
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

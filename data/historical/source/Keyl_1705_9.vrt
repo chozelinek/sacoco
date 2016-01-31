@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Keyl_1705_9" collection="historical" source="Keyl" url="none" year="1705" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Huhn|" method="|none|" ref="[1705:105]">
+<title>
+<seg type="newline">
+Rebhüner	NN	 UNKNOWN	Rebhüner
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+zwey	CARD	 zwei	zwei
+Eydotter	NN	 Eidotter	Eidotter
+</seg>
+<seg type="newline">
+schlage	VVFIN	 schlagen	schlage
+sie	PPER	 sie	sie
+klein	PTKVZ	 klein	klein
+</seg>
+<seg type="newline">
+gib	VVIMP	 geben	gib
+Wein	NN	 Wein	Wein
+dazu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+Löffel	NN	 Löffel	Löffel
+Weineßig	NN	 Weinessig	Weinessig
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+gantze	ADV	 ganz	ganz
+Muscatenblumen	NN	 UNKNOWN	Muscatenblumen
+</seg>
+<seg type="newline">
+Citronen=Safft	NN	 UNKNOWN	Citronen=Safft
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+das	PDS	 d	das
+zusammen	ADV	 zusammen	zusammen
+auffkochen	VVFIN	 aufkochen	aufkochen
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+frische	ADJA	 frisch	frische
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+ist	VAFIN	 sein	ist
+es	PPER	 es	es
+gut	ADJD	 gut	gut
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

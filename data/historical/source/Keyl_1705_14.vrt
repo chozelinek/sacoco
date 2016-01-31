@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Keyl_1705_14" collection="historical" source="Keyl" url="none" year="1705" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Hecht|" method="|none|" ref="[1705:117]">
+<title>
+<seg type="newline">
+Hecht	NN	 Hecht	Hecht
+zu	PTKZU	 zu	zu
+kochen	VVINF	 kochen	kochen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Dem	ART	 d	Dem
+Hecht	NN	 Hecht	Hecht
+wird	VAFIN	 werden	wird
+das	ART	 d	das
+Dick	NE	 Dick	Dick
+aus	APPR	 aus	aus
+dem	ART	 d	dem
+Rücken	NN	 Rücken	Rücken
+gerissen	ADJD	 gerissen	gerissen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+klein	ADJD	 klein	klein
+gehackt	VVPP	 hacken	gehackt
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Zwiebeln	NN	 Zwiebel|Zwiebeln	Zwiebeln
+</seg>
+<seg type="newline">
+geschmoltzen	ADJA	 UNKNOWN	geschmoltzen
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+gerieben	VVPP	 reiben	gerieben
+Brod	NN	 Brot	Brot
+</seg>
+<seg type="newline">
+Eyer	NE	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+Muscatenblumen	NN	 UNKNOWN	Muscatenblumen
+</seg>
+<seg type="newline">
+wenig	PIAT	 wenig	wenig
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+das	ART	 d	das
+durch	APPR	 durch	durch
+einander	PRF	 einander	einander
+gemacht	VVPP	 machen	gemacht
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+kleine	ADJA	 klein	kleine
+Klumpen	NN	 Klumpen	Klumpen
+</seg>
+<seg type="newline">
+welche	PRELS	 welch	welche
+in	APPR	 in	in
+Fleischbrüh	NN	 Fleischbrühe	Fleischbrühe
+oder	KON	 oder	oder
+Wein	NN	 Wein	Wein
+gar	ADV	 gar	gar
+gekocht	VVPP	 kochen	gekocht
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+der	ART	 d	der
+Hecht	NN	 Hecht	Hecht
+wird	VAFIN	 werden	wird
+blau	ADJD	 blau	blau
+abgesotten	ADJD	 UNKNOWN	abgesotten
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+eine	ART	 ein	eine
+Suppe	NN	 Suppe	Suppe
+drüber	PTKVZ	 drüber	drüber
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+folget	ADJD	 UNKNOWN	folget
+:	$.	:	$.	 :	|	:
+Nimm	VVIMP	 nehmen	Nimm
+Eydotter	NN	 Eidotter	Eidotter
+</seg>
+<seg type="newline">
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+gut	ADJD	 gut	gut
+Theil	NN	 Teil	Teil
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+Muscatenblumen	NN	 UNKNOWN	Muscatenblumen
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+Citronenschal	NN	 Zitronenschale	Zitronenschale
+</seg>
+<seg type="newline">
+(	$(	(	$(	 (	|	(
+koche	VVFIN	 kochen	koche
+sie	PPER	 sie	sie
+in	APPR	 in	in
+Wasser	NN	 Wasser	Wasser
+erstlich	ADJD	 UNKNOWN	erstlich
+gar/	ADJD	 UNKNOWN	gar/
+schneide	VVFIN	 schneiden	schneide
+sie	PPER	 sie	sie
+in	APPR	 in	in
+Scheibgen	NN	 UNKNOWN	Scheibgen
+länglich	ADJD	 länglich	länglich
+</seg>
+<seg type="newline">
+thue	VVFIN	 UNKNOWN	thue
+sie	PPER	 sie	sie
+zur	APPRART	 zur	zur
+Brühe	NN	 Brühe	Brühe
+hinein	PTKVZ	 hinein	hinein
+)	$(	)	$(	 )	|	)
+gib	VVIMP	 geben	gib
+dem	ART	 d	dem
+Hecht	NN	 Hecht	Hecht
+in	APPR	 in	in
+die	ART	 d	die
+Schüssel	NN	 Schüssel	Schüssel
+</seg>
+<seg type="newline">
+die	ART	 d	die
+Klumpen	NN	 Klumpen	Klumpen
+darauff	PAV	 drauf	drauf
+</seg>
+<seg type="newline">
+und	KON	 und	und
+die	ART	 d	die
+Suppe	NN	 Suppe	Suppe
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Citronen=Safft	NN	 UNKNOWN	Citronen=Safft
+darauff	PAV	 drauf	drauf
+gekochet	VVPP	 UNKNOWN	gekochet
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

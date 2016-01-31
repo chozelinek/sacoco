@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Stockholm_1647_3" collection="historical" source="Stockholm" url="none" year="1647" decade="1640-1650" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1647:85]">
+<body>
+<seg type="newline">
+In	APPR	 in	In
+grosse	ADJA	 groß	grosse
+würffelen	NN	 UNKNOWN	würffelen
+als	KOKOM	 als	als
+hüner	NN	 UNKNOWN	Hünern
+Eyer	NE	 UNKNOWN	Eyer
+geschnitten	VVPP	 schneiden	geschnitten
+mti	NN	 UNKNOWN	mti
+Suppe	NN	 Suppe	Suppe
+oder	KON	 oder	oder
+wasser	VVIMP	 wassern	wasser
+beygesetzet	VVFIN	 UNKNOWN	beygesetzet
+</seg>
+<seg type="newline">
+abgemacht	VVPP	 abmachen	abgemacht
+mit	APPR	 mit	mit
+weinig	ADJD	 weinig	weinig
+gerieben	VVPP	 reiben	gerieben
+Brot	NN	 Brot	Brot
+vnd	KON	 und	und
+Butter	NN	 Butter	Butter
+</seg>
+</body>
+</text>

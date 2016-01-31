@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Keyl_1705_22" collection="historical" source="Keyl" url="none" year="1705" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Huhn|" method="|Meerrettich|" ref="[1705:137]">
+<title>
+<seg type="newline">
+Huhn	NN	 Huhn	Huhn
+mit	APPR	 mit	mit
+Märrettich	NN	 UNKNOWN	Märrettich
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+von	APPR	 von	von
+der	ART	 d	der
+Hünerbrüh	NN	 Hühnerbrühe	Hühnerbrühe
+</seg>
+<seg type="newline">
+wenig	PIAT	 wenig	wenig
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+Weineßig	NN	 Weinessig	Weinessig
+</seg>
+<seg type="newline">
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+gerieben	VVPP	 reiben	gerieben
+Brod	NN	 Brot	Brot
+</seg>
+<seg type="newline">
+Corinthen	NN	 Korinthe	Korinthen
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+zusammen	ADV	 zusammen	zusammen
+durchkochen	VVINF	 durchkochen	durchkochen
+</seg>
+<seg type="newline">
+gib	VVIMP	 geben	gib
+es	PPER	 es	es
+über	APPR	 über	über
+die	ART	 d	die
+Hüner	NN	 UNKNOWN	Hünern
+her	APZR	 her	her
+</seg>
+<seg type="newline">
+fein	ADJD	 fein	fein
+dick	ADJD	 dick	dick
+Zucker	NN	 Zucker	Zucker
+und	KON	 und	und
+Caneel	NN	 Handel	Handel
+drüber	PTKVZ	 drüber	drüber
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

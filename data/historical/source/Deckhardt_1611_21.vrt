@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Deckhardt_1611_21" collection="historical" source="Deckhardt" url="none" year="1611" decade="1610-1620" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1611:180f.]">
+<title>
+<seg type="newline">
+Einen	ART	 ein	Einen
+guten	ADJA	 gut	guten
+vnd	KON	 und	und
+seltzamen	ADJA	 UNKNOWN	seltzamen
+Braten	NN	 Braten	Braten
+von	APPR	 von	von
+Eyern	ADJD	 UNKNOWN	Eyern
+zumachen	VVFIN	 zumachen	zumachen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nim	ADJA	 UNKNOWN	nimb
+vngefehr	ADJA	 UNKNOWN	vngefehr
+zwölff	TRUNC	 UNKNOWN	zwölff
+oder	KON	 oder	oder
+funffzehen	NN	 UNKNOWN	funffzehen
+Eyer	NE	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+mehr	ADV	 mehr	mehr
+oder	KON	 oder	oder
+weniger	ADV	 weniger	weniger
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+der	PDS	 d	der
+braten	VVFIN	 braten	braten
+groß	ADJD	 groß	groß
+oder	KON	 oder	oder
+klein	ADJD	 klein	klein
+werden	VAFIN	 werden	werden
+sol	NE	 UNKNOWN	sol
+</seg>
+<seg type="newline">
+schlage	VVFIN	 schlagen	schlage
+sie	PPER	 sie	sie
+in	APPR	 in	in
+ein	ART	 ein	ein
+Töpflein	NN	 UNKNOWN	Töpflein
+</seg>
+<seg type="newline">
+quirle	NE	 UNKNOWN	quirle
+oder	KON	 oder	oder
+klopffe	VVFIN	 UNKNOWN	klopffe
+sie	PPER	 sie	sie
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+hacke	VVFIN	 hacken	hacke
+Petersilgen	NE	 UNKNOWN	Petersilgen
+oder	KON	 oder	oder
+andere	PIS	 ander	andere
+gute	ADJA	 gut	gute
+Kräuterlein	NN	 UNKNOWN	Kräuterlein
+</seg>
+<seg type="newline">
+menge	VVFIN	 mengen	menge
+es	PPER	 es	es
+darunter	PAV	 darunter	darunter
+</seg>
+<seg type="newline">
+würtze	VVFIN	 würzen	würzt
+es	PPER	 es	es
+mit	APPR	 mit	mit
+Ingwer	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+geriebener	ADJA	 gerieben	geriebener
+Muscaten	NN	 UNKNOWN	Muscaten
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Pfeffer	NN	 Pfeffer	Pfeffer
+vnd	KON	 und	und
+Saltz	NN	 Salz	Salz
+.	$.	.	$.	 .	|	.
+Wil	NE	 Wil	Wil
+man	PIS	 man	man
+es	PPER	 es	es
+aber	ADV	 aber	aber
+gerne	ADV	 gerne	gerne
+süsse	ADJA	 süß	süsse
+haben	VAFIN	 haben	haben
+</seg>
+<seg type="newline">
+So	ADV	 so	So
+thue	NE	 UNKNOWN	thue
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+Zimmet	NN	 Zimt	Zimt
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+kleine	ADJA	 klein	kleine
+Rosinen	NN	 Rosine	Rosinen
+darunter	PAV	 darunter	darunter
+</seg>
+<seg type="newline">
+zuuor	VVFIN	 UNKNOWN	zuuor
+aber	ADV	 aber	aber
+mache	VVFIN	 machen	mache
+ein	ART	 ein	ein
+Säcklein	NN	 Säcklein	Säcklein
+von	APPR	 von	von
+kleiner	ADJA	 klein	kleiner
+weisen	ADJA	 weise	weisen
+Leinwand	NN	 Leinwand	Leinwand
+</seg>
+<seg type="newline">
+anderthalb	ADJA	 anderthalb	anderthalb
+viertel	NN	 Viertel	viertel
+lang	ADJD	 lang	lang
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+ein	ART	 ein	ein
+halb	ADJD	 halb	halb
+viertel	ADJA	 Viertel	viertel
+breit	ADJD	 breit	breit
+</seg>
+<seg type="newline">
+bestreiche	VVFIN	 bestreichen	bestreiche
+das	ART	 d	das
+Säcklein	NN	 Säcklein	Säcklein
+mit	APPR	 mit	mit
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+die	ART	 d	die
+Eyer	NE	 UNKNOWN	Eyer
+nicht	PTKNEG	 nicht	nicht
+dardurch	ADV	 UNKNOWN	dardurch
+rinnen	VVFIN	 rinnen	rinnen
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+geus	NN	 UNKNOWN	geuß
+die	ART	 d	die
+zugerichten	ADJA	 UNKNOWN	zugerichten
+Eyer	NE	 UNKNOWN	Eyer
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+henge	VVFIN	 UNKNOWN	henge
+das	ART	 d	das
+Säcklein	NN	 Säcklein	Säcklein
+alsbalde	NN	 UNKNOWN	alsbalde
+in	APPR	 in	in
+ein	ART	 ein	ein
+heis	NN	 UNKNOWN	heis
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+bis	APPR	 bis	bis
+es	PPER	 es	es
+dicke	ADJA	 dick	dicke
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+alsdann	NN	 UNKNOWN	Alsdann
+trenne	VVFIN	 trennen	trenne
+das	ART	 d	das
+Säcklein	NN	 Säcklein	Säcklein
+an	APPR	 an	an
+einer	ART	 ein	einer
+seiten	APPR	 seiten	seiten
+auff	APPR	 auf	auf
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+das	ART	 d	das
+gesottene	NN	 UNKNOWN	Gesottenes
+heraus	PTKVZ	 heraus	heraus
+</seg>
+<seg type="newline">
+das	PRELS	 d	das
+es	PPER	 es	es
+nicht	PTKNEG	 nicht	nicht
+zu	PTKVZ	 zu	zu
+breche	VVFIN	 brechen	breche
+</seg>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+denn	KON	 denn	denn
+das	PDS	 d	das
+weisse	VVFIN	 weißen	weisse
+von	APPR	 von	von
+hart	ADJD	 hart	hart
+gesottenen	ADJA	 gesiedet	gesottenen
+Eyern	NN	 UNKNOWN	Eyern
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+schneide	VVFIN	 schneiden	schneide
+es	PPER	 es	es
+fein	ADJD	 fein	fein
+lenglicht	ADJD	 UNKNOWN	lenglicht
+wie	KOKOM	 wie	wie
+Speck	NN	 Speck	Speck
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+spicke	NN	 Speck	Specks
+den	ART	 d	den
+Braten	NN	 Braten	Braten
+damit	PAV	 damit	damit
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+mache	VVFIN	 machen	mache
+eine	ART	 ein	eine
+geschmeltzte	ADJA	 UNKNOWN	geschmeltzte
+Butter	NN	 Butter	Butter
+wol	PWAV	 wo	wo
+heiß	ADJD	 heiß	heiß
+vnd	KON	 und	und
+braun	ADJD	 braun	braun
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+einer	ART	 ein	einer
+geraumen	ADJA	 geraum	geraumen
+Pfannen	NN	 Pfanne	Pfannen
+oder	KON	 oder	oder
+Tiegel	NN	 Tiegel	Tiegel
+</seg>
+<seg type="newline">
+besprenge	VVFIN	 UNKNOWN	besprenge
+den	ART	 d	den
+Braten	NN	 Braten	Braten
+auswendig	ADV	 auswendig	auswendig
+mit	APPR	 mit	mit
+gemengtem	ADJA	 UNKNOWN	gemengtem
+Ingwer	NN	 Ingwer	Ingwer
+vnd	KON	 und	und
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+jhn	PPER	 er	ihn
+gemach	ADV	 gemach	gemach
+in	APPR	 in	in
+das	ART	 d	das
+heisse	ADJA	 heiß	heisse
+Schmaltz	NN	 Schmalz	Schmalz
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+geus	NN	 UNKNOWN	geuß
+das	ART	 d	das
+heisse	ADJA	 heiß	heisse
+Schmaltz	NN	 Schmalz	Schmalz
+offte	ADJD	 UNKNOWN	offte
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+wende	VVFIN	 wenden	wende
+jhn	PPER	 er	ihn
+gemach	ADV	 gemach	gemach
+vm	ADJD	 UNKNOWN	vm
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+laß	ADJD	 laß	laß
+jhn	PPER	 er	ihn
+darinnen	VVINF	 darinnen	darinnen
+braten	VVINF	 braten	braten
+</seg>
+<seg type="newline">
+bis	KON	 bis	bis
+er	PPER	 er	er
+allenthalben	ADV	 allenthalben	allenthalben
+fein	ADJD	 fein	fein
+braun	ADJD	 braun	braun
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+geus	NN	 UNKNOWN	geuß
+dann	ADV	 dann	dann
+das	ART	 d	das
+Schmaltz	NN	 Schmalz	Schmalz
+daruon	NE	 UNKNOWN	daruon
+</seg>
+<seg type="newline">
+richte	VVFIN	 richten	richte
+den	ART	 d	den
+Braten	NN	 Braten	Braten
+in	APPR	 in	in
+eine	ART	 ein	eine
+Schüssel	NN	 Schüssel	Schüssel
+an	PTKVZ	 an	an
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+mache	VVFIN	 machen	mache
+ein	ART	 ein	ein
+gelbes	ADJA	 gelb	gelbes
+</seg>
+<seg type="newline">
+braunes	ADJA	 braun	braunes
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+nur	ADV	 nur	nur
+ein	ART	 ein	ein
+Pfefferbrülein	NN	 UNKNOWN	Pfefferbrülein
+darunter	PAV	 darunter	darunter
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+siehet	VVFIN	 UNKNOWN	siehet
+er	PPER	 er	er
+recht	ADJD	 recht	recht
+wie	KOKOM	 wie	wie
+ein	ART	 ein	ein
+Wildbraten	NN	 UNKNOWN	Wildbraten
+</seg>
+<seg type="newline">
+ehe	KOUS	 ehe	ehe
+er	PPER	 er	er
+auffgeschnitten	ADJD	 UNKNOWN	auffgeschnitten
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+ist	VAFIN	 sein	ist
+ein	ART	 ein	ein
+seltzam	ADJA	 UNKNOWN	seltzam
+vnd	KON	 und	und
+gut	ADJD	 gut	gut
+essen	VVINF	 essen	essen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

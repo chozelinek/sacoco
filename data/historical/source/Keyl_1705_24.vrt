@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Keyl_1705_24" collection="historical" source="Keyl" url="none" year="1705" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1705:142]">
+<title>
+<seg type="newline">
+Schaafsfleisch=Pastete	NN	 UNKNOWN	Schaafsfleisch=Pastete
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Das	ART	 d	Das
+Fleisch	NN	 Fleisch	Fleisch
+wird	VAFIN	 werden	wird
+gleich	ADJD	 gleich	gleich
+den	ART	 d	den
+Tauben	NN	 Taube	Tauben
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+gestossen	VVPP	 stoßen	gestossen
+Nelcken	NE	 UNKNOWN	Nelcken
+untereinander	ADV	 untereinander	untereinander
+vermenget	VVFIN	 UNKNOWN	vermenget
+</seg>
+<seg type="newline">
+bestreuet	VVFIN	 bestreuen	bestreuen
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+in	APPR	 in	in
+die	ART	 d	die
+Form	NN	 Form	Form
+geleget	VVPP	 UNKNOWN	geleget
+</seg>
+<seg type="newline">
+und	KON	 und	und
+wenn	KOUS	 wenn	wenn
+sie	PPER	 sie	sie
+bald	ADV	 bald	bald
+gar	ADV	 gar	gar
+gebraten	VVPP	 braten	gebraten
+</seg>
+<seg type="newline">
+heiß	ADJD	 heiß	heiß
+gemachten	ADJA	 gemacht	gemachten
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+durch	APPR	 durch	durch
+einen	ART	 ein	einen
+Trichter	NN	 Trichter	Trichter
+hinein	PTKVZ	 hinein	hinein
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

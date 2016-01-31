@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Koch_vnd_Kellermeisterey_1574_15" collection="historical" source="Koch_vnd_Kellermeisterey" url="none" year="1574" decade="1570-1580" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1574:34vff.]">
+<title>
+<seg type="newline">
+Geschachtzabels	NN	 UNKNOWN	Geschachtzabels
+bachen	NN	 Kochen	Kochen
+mit	APPR	 mit	mit
+fünff	CARD	 fünf	fünf
+farben	ADJD	 UNKNOWN	farben
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Bach	NN	 Bach	Bach
+ein	ART	 ein	ein
+blat	NN	 UNKNOWN	blat
+von	APPR	 von	von
+gebachen	ADJA	 UNKNOWN	gebachen
+eyß	ADJA	 UNKNOWN	eyß
+totter	NN	 UNKNOWN	totter
+</seg>
+<seg type="newline">
+gegilbt	VVPP	 UNKNOWN	gegilbt
+mit	APPR	 mit	mit
+einn	ART	 ein	einem
+wenig	PIS	 wenig	wenig
+saffran	ADJD	 UNKNOWN	saffran
+.	$.	.	$.	 .	|	.
+Nimm	VVIMP	 nehmen	Nimm
+die	ART	 d	die
+Eyer	NE	 UNKNOWN	Eyer
+auff	APPR	 auf	auf
+ein	ART	 ein	ein
+essen	VVINF	 essen	essen
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+zwey	CARD	 zwei	zwei
+</seg>
+<seg type="newline">
+truck	NN	 Truck	truck
+Peterlin	NE	 UNKNOWN	Peterlin
+Safft	NE	 UNKNOWN	Safft
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+tuch	NN	 Tuch	tuch
+</seg>
+<seg type="newline">
+temperiers	NN	 UNKNOWN	temperiers
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+werdes	ADJD	 UNKNOWN	werdes
+grün	ADJD	 grün	grün
+</seg>
+<seg type="newline">
+mach	VVIMP	 machen	mach
+ein	ART	 ein	ein
+zimlichen	ADJA	 UNKNOWN	zimlichen
+teyg	NE	 UNKNOWN	teyg
+</seg>
+<seg type="newline">
+schneid	VVFIN	 schneiden	schneiden
+blätter	VVIMP	 blättern	blätter
+darauß	NN	 UNKNOWN	herauß
+</seg>
+<seg type="newline">
+bach	NE	 Bach	bach
+sie	PPER	 sie	sie
+nit	VVFIN	 UNKNOWN	nimb
+so	ADV	 so	so
+braun	ADJD	 braun	braun
+.	$.	.	$.	 .	|	.
+Wiltu	VVFIN	 UNKNOWN	Wiltu
+sie	PPER	 sie	sie
+braun	ADJD	 braun	braun
+haben	VAFIN	 haben	haben
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+truck	NN	 Truck	truck
+Kornblumen	NN	 Kornblume	Kornblumen
+safft	ADJD	 UNKNOWN	safft
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+man	PIS	 man	man
+sie	PPER	 sie	sie
+wol	PWAV	 wo	wo
+gestossen	VVPP	 stoßen	gestossen
+hat	VAFIN	 haben	hat
+mit	APPR	 mit	mit
+lauter	PIAT	 lauter	lauter
+Wasser	NN	 Wasser	Wasser
+in	APPR	 in	in
+eim	ADJA	 UNKNOWN	nimb
+Mörser	NN	 Mörser	Mörser
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+ist	VAFIN	 sein	ist
+der	ART	 d	der
+erst	ADV	 erst	erst
+trucksat	ADJA	 UNKNOWN	trucksat
+blauw	ADJA	 UNKNOWN	blauw
+</seg>
+<seg type="newline">
+der	ART	 d	der
+ander	ADV	 UNKNOWN	ander
+bleycher	ADJA	 UNKNOWN	bleycher
+</seg>
+<seg type="newline">
+der	ART	 d	der
+dritt	ADJD	 dritt	dritt
+noch	ADV	 noch	noch
+bleycher	VVFIN	 UNKNOWN	bleycher
+.	$.	.	$.	 .	|	.
+Also	ADV	 also	Also
+ist	VAFIN	 sein	ist
+aller	PIAT	 alle	aller
+blumen	NN	 Blume	blumen
+farben	ADJD	 UNKNOWN	farben
+</seg>
+<seg type="newline">
+ohn	ADJA	 UNKNOWN	ohn
+Rosen	NN	 Rose	Rosen
+</seg>
+<seg type="newline">
+die	PDS	 d	die
+hat	VAFIN	 haben	hat
+nicht	PTKNEG	 nicht	nicht
+mehr	ADV	 mehr	mehr
+dann	ADV	 dann	dann
+jhren	VVFIN	 UNKNOWN	jhren
+geschmack	NN	 Geschmack	geschmack
+</seg>
+<seg type="newline">
+außtruckt	ADJA	 UNKNOWN	außtruckt
+vnnd	KON	 und	und
+darunder	ADJA	 UNKNOWN	darunder
+temperiert	VVPP	 temperieren	temperiert
+.	$.	.	$.	 .	|	.
+Also	ADV	 also	Also
+magst	VMFIN	 mögen	magst
+du	PPER	 du	du
+nemen	ADJA	 UNKNOWN	nemen
+violen	NN	 Viole	violen
+oder	KON	 oder	oder
+ander	ADV	 UNKNOWN	ander
+wolschmäckend	ADJD	 UNKNOWN	wolschmäckend
+Kräuter	NN	 Kraut	Kräuter
+vnd	KON	 und	und
+Blumen	NN	 Blume	Blumen
+</seg>
+<seg type="newline">
+gestossen	VVPP	 stoßen	gestossen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+thuch	NN	 UNKNOWN	thuch
+gestrichen	VVPP	 streichen	gestrichen
+</seg>
+<seg type="newline">
+den	ART	 d	den
+behalt	NN	 Inhalt	Inhalt
+in	APPR	 in	in
+einem	ART	 ein	einem
+gläßlin	NN	 UNKNOWN	gläßlin
+verdecket	NN	 UNKNOWN	verdecket
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+du	PPER	 du	du
+sein	PPOSAT	 sein	sein
+bedarffest	ADJD	 UNKNOWN	bedarffest
+.	$.	.	$.	 .	|	.
+Bach	NE	 Bach	Bach
+öpffel	NN	 UNKNOWN	öpffel
+braun	ADJD	 braun	braun
+in	APPR	 in	in
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+würtz	VVFIN	 würzen	würzt
+sie	PPER	 sie	sie
+zimlich	ADJD	 UNKNOWN	zimlich
+</seg>
+<seg type="newline">
+streich	VVIMP	 streichen	streich
+sie	PPER	 sie	sie
+auff	APPR	 auf	auf
+das	ART	 d	das
+erst	ADV	 erst	erst
+gelb	ADJD	 gelb	gelb
+blat	ADJA	 UNKNOWN	blat
+</seg>
+<seg type="newline">
+nit	NN	 UNKNOWN	nimb
+zu	PTKA	 zu	zu
+dick	ADJD	 dick	dick
+</seg>
+<seg type="newline">
+leg	VVIMP	 legen	leg
+das	ART	 d	das
+grün	ADJD	 grün	grün
+blat	ADJA	 UNKNOWN	blat
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+mach	VVIMP	 machen	mach
+ein	ART	 ein	ein
+gelb	ADJD	 gelb	gelb
+füll	VVIMP	 füllen	füll
+mit	APPR	 mit	mit
+gewürtzten	ADJA	 UNKNOWN	gewürtzten
+Eyern	ADJA	 UNKNOWN	Eyern
+</seg>
+<seg type="newline">
+machs	NN	 UNKNOWN	machs
+in	APPR	 in	in
+zwey	CARD	 zwei	zwei
+ander	ADV	 UNKNOWN	ander
+gefärbt	VVPP	 färben	gefärbt
+blätter	VVIMP	 blättern	blätter
+.	$.	.	$.	 .	|	.
+Darnach	ADV	 UNKNOWN	Darnach
+bestreich	VVFIN	 UNKNOWN	bestreich
+sie	PPER	 sie	sie
+also	ADV	 also	also
+vmb	ADJD	 UNKNOWN	vmb
+vnd	KON	 und	und
+vmb	ADJD	 UNKNOWN	vmb
+mit	APPR	 mit	mit
+frischem	ADJA	 frisch	frischem
+Eyer	NE	 UNKNOWN	Eyer
+klar	ADJD	 klar	klar
+</seg>
+<seg type="newline">
+verhefft	VVFIN	 UNKNOWN	verhefft
+es	PPER	 es	es
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+mach	VVIMP	 machen	mach
+es	PPER	 es	es
+langlicht	ADJD	 UNKNOWN	langlicht
+</seg>
+<seg type="newline">
+als	KOKOM	 als	als
+einen	ART	 ein	einen
+weck	VVIMP	 wecken	weck
+</seg>
+<seg type="newline">
+schneid	VVFIN	 schneiden	schneiden
+es	PPER	 es	es
+in	APPR	 in	in
+stücklin	NE	 UNKNOWN	stücklin
+</seg>
+<seg type="newline">
+stoß	VVIMP	 stoßen	stoß
+in	APPR	 in	in
+ein	ART	 ein	ein
+hültzebreitlechtespieß	NN	 UNKNOWN	hültzebreitlechtespieß
+</seg>
+<seg type="newline">
+je	APPR	 je	je
+zwey	CARD	 zwei	zwei
+oder	KON	 oder	oder
+drey	CARD	 drei	drei
+zusamen	NN	 UNKNOWN	zusamen
+in	APPR	 in	in
+ein	ART	 ein	ein
+spießlin	NN	 UNKNOWN	spießlin
+.	$.	.	$.	 .	|	.
+Mach	VVIMP	 machen	Mach
+ein	ART	 ein	ein
+dünnes	ADJA	 dünn	dünnes
+teyglin	NN	 UNKNOWN	teyglin
+</seg>
+<seg type="newline">
+vonn	ADV	 UNKNOWN	vonn
+Milch	NN	 Milch	Milch
+vnnd	KON	 und	und
+Eyern	ADJA	 UNKNOWN	Eyern
+</seg>
+<seg type="newline">
+vergilbs	NN	 UNKNOWN	vergilbs
+</seg>
+<seg type="newline">
+zeuch	NN	 UNKNOWN	zeuch
+die	ART	 d	die
+spießlin	NN	 UNKNOWN	spießlin
+dardurch	ADV	 UNKNOWN	dardurch
+</seg>
+<seg type="newline">
+bach	VVFIN	 UNKNOWN	bach
+sie	PPER	 sie	sie
+braun	ADJD	 braun	braun
+in	APPR	 in	in
+butter	VVIMP	 buttern	butter
+</seg>
+<seg type="newline">
+trage	VVFIN	 tragen	trage
+sie	PPER	 sie	sie
+für	APPR	 für	für
+.	$.	.	$.	 .	|	.
+Wanes	NE	 UNKNOWN	Wanes
+auffgeschnitten	VVFIN	 UNKNOWN	auffgeschnitten
+wirdt	NE	 UNKNOWN	wirdt
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+hat	VAFIN	 haben	hat
+ein	ART	 ein	ein
+jedes	PIAT	 jed	jedes
+sein	PPOSAT	 sein	sein
+farb.	NN	 UNKNOWN	farb.
+</seg>
+</body>
+</text>

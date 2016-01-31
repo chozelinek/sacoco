@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Buchinger_1700_14" collection="historical" source="Buchinger" url="none" year="1700" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:1f.]">
+<title>
+<seg type="newline">
+541.	ADJA	 @ord@	541.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Oder	NE	 Oder	Oder
+werden	VAFIN	 werden	werden
+in	APPR	 in	in
+siedent	NN	 UNKNOWN	siedent
+Wasser	NN	 Wasser	Wasser
+geschlagen	VVPP	 schlagen	geschlagen
+ein	ART	 ein	ein
+Wahl	NN	 Wahl	Wahl
+gesotten	VVPP	 sieden	gesotten
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+dem	ART	 d	dem
+Schaumlöffel	NN	 Schaumlöffel	Schaumlöffel
+herauß	NN	 UNKNOWN	herauß
+in	APPR	 in	in
+die	ART	 d	die
+Platten	ADJA	 platt	Platten
+gethan	NN	 UNKNOWN	gethan
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+wenig	PIAT	 wenig	wenig
+heissem	ADJA	 heiß	heissem
+Schmaltz	NN	 Schmalz	Schmalz
+begossen	VVPP	 begießen	begossen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+mit	APPR	 mit	mit
+Muscatnuß	NN	 UNKNOWN	Muscatnuß
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+anderm	PIS	 andere	anderm
+Gewürtz	NN	 UNKNOWN	Gewürtz
+und	KON	 und	und
+Saltz	NN	 Salz	Salz
+bestrewt	VVFIN	 UNKNOWN	bestrewt
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+man	PIS	 man	man
+macht	VVFIN	 machen	macht
+ein	ART	 ein	ein
+saurlecht	ADJA	 UNKNOWN	saurlecht
+Brühlin	NN	 UNKNOWN	Brühlin
+darüber	PAV	 darüber	darüber
+.	$.	.	$.	 .	|	.
+Oder	KON	 oder	Oder
+legt	VVFIN	 legen	legt
+sie	PPER	 sie	sie
+auff	APPR	 auf	auf
+durchstrichene	ADJA	 UNKNOWN	durchstrichene
+Erbsen	NN	 Erbse	Erbsen
+</seg>
+<seg type="newline">
+grün	ADJD	 grün	grün
+Kraut	NN	 Kraut	Kraut
+oder	KON	 oder	oder
+auff	APPR	 auf	auf
+Fleisch	NN	 Fleisch	Fleisch
+oder	KON	 oder	oder
+Zwibel	NN	 UNKNOWN	Zwibel
+Suppen	NN	 Suppe	Suppen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

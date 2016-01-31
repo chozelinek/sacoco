@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Keyl_1705_21" collection="historical" source="Keyl" url="none" year="1705" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Huhn|" method="|none|" ref="[1705:135]">
+<title>
+<seg type="newline">
+[	$(	[	$(	 [	|	[
+Junge	ADJA	 jung	Junge
+Hüner	NN	 UNKNOWN	Hünern
+zu	PTKZU	 zu	zu
+kochen	VVINF	 kochen	kochen
+]	$(	]	$(	 ]	|	]
+Oder	KON	 oder	Oder
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Thue	NN	 UNKNOWN	thue
+die	ART	 d	die
+Hüner	NN	 UNKNOWN	Hünern
+gantz	ADV	 ganz	ganz
+in	APPR	 in	in
+einen	ART	 ein	einen
+Topff	NN	 Topf	Topf
+mit	APPR	 mit	mit
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+Muscatenblum	NN	 UNKNOWN	Muscatenblumen
+</seg>
+<seg type="newline">
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+koch	VVIMP	 kochen	koch
+sie	PPER	 sie	sie
+darein	ADV	 darein	darein
+gar	ADV	 gar	gar
+</seg>
+<seg type="newline">
+nimm	VVIMP	 nehmen	nimm
+Corinthen	NN	 Korinthe	Korinthen
+in	APPR	 in	in
+einen	ART	 ein	einen
+Topff	NN	 Topf	Topf
+mit	APPR	 mit	mit
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+Citronenschal	NN	 Zitronenschale	Zitronenschale
+</seg>
+<seg type="newline">
+die	ART	 d	die
+Schale	NN	 Schale	Schale
+muß	VMFIN	 müssen	muß
+zuvor	ADV	 zuvor	zuvor
+in	APPR	 in	in
+Wasser	NN	 Wasser	Wasser
+gekocht	VVPP	 kochen	gekocht
+werden	VAINF	 werden	werden
+</seg>
+<seg type="newline">
+wird	VAFIN	 werden	wird
+alsdenn	NN	 UNKNOWN	Alsdann
+länglich	ADJD	 länglich	länglich
+zerschnitten	VVPP	 zerschneiden	zerschnitten
+</seg>
+<seg type="newline">
+von	APPR	 von	von
+der	ART	 d	der
+Hünerbrüh	NN	 Hühnerbrühe	Hühnerbrühe
+dazu	PAV	 dazu	dazu
+gethan	NN	 UNKNOWN	gethan
+</seg>
+<seg type="newline">
+4.	ADJA	 4.	4.
+Eydotter	NN	 Eidotter	Eidotter
+klein	ADJD	 klein	klein
+geschlagen	VVPP	 schlagen	geschlagen
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Sauer	NN	 Sauer	Sauer
+</seg>
+<seg type="newline">
+Saffran	NN	 Safran	Safran
+</seg>
+<seg type="newline">
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+zusammen	ADV	 zusammen	zusammen
+abgerühret	VVPP	 UNKNOWN	abgebrühet
+</seg>
+<seg type="newline">
+gib	VVIMP	 geben	gib
+es	PPER	 es	es
+über	APPR	 über	über
+die	ART	 d	die
+Hüner	NN	 UNKNOWN	Hünern
+her	APZR	 her	her
+</seg>
+<seg type="newline">
+zuletzt	ADV	 zuletzt	zuletzt
+vergiß	VVIMP	 vergessen	vergiß
+den	ART	 d	den
+Zucker	NN	 Zucker	Zucker
+nicht	PTKNEG	 nicht	nicht
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

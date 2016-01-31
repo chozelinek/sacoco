@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Danckwerth_1729_26" collection="historical" source="Danckwerth" url="none" year="1729" decade="1720-1730" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1729:364f.]">
+<title>
+<seg type="newline">
+Von	APPR	 von	Von
+der	ART	 d	der
+Conficir=Kunst	NN	 UNKNOWN	Conficir=Kunst
+</seg>
+<seg type="newline">
+und	KON	 und	und
+was	PIS	 was	was
+bey	VVFIN	 UNKNOWN	bey
+dem	ART	 d	dem
+Conficiren	NN	 UNKNOWN	Conficiren
+zu	PTKZU	 zu	zu
+mercken	VVINF	 UNKNOWN	mercken
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+So	ADV	 so	So
+man	PIS	 man	man
+ein	ART	 ein	ein
+Corpus	NN	 Corpus	Corpus
+mit	APPR	 mit	mit
+Mehl	NN	 Mehl	Mehl
+gemacht	VVPP	 machen	gemacht
+</seg>
+<seg type="newline">
+es	PPER	 es	es
+sey	NE	 UNKNOWN	sey
+von	APPR	 von	von
+Confect	NN	 UNKNOWN	Confect
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+was	PIS	 was	was
+es	PPER	 es	es
+wolle	VMFIN	 wollen	wolle
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+ist	VAFIN	 sein	ist
+zu	PTKZU	 zu	zu
+beobachten	VVINF	 beobachten	beobachten
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+wann	PWAV	 wann	wann
+das	ART	 d	das
+Mehl	NN	 Mehl	Mehl
+aufgetragen	VVPP	 auftragen	aufgetragen
+</seg>
+<seg type="newline">
+selbiges	ADJA	 UNKNOWN	selbiges
+alsdann	NN	 UNKNOWN	Alsdann
+wieder	ADV	 wieder	wieder
+trocken	ADJD	 trocken	trocken
+gemacht	VVPP	 machen	gemacht
+</seg>
+<seg type="newline">
+und	KON	 und	und
+das	ART	 d	das
+Mehl	NN	 Mehl	Mehl
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+übrig	ADJD	 übrig	übrig
+</seg>
+<seg type="newline">
+ausgesiebet	VVFIN	 UNKNOWN	ausgesiebet
+werde	VAFIN	 werden	werde
+</seg>
+<seg type="newline">
+sonsten	ADJD	 UNKNOWN	sonsten
+hänget	VVFIN	 hängen	hänget
+es	PPER	 es	es
+sich	PRF	 er|es|sie	sich
+an	APPR	 an	an
+einander	PRF	 einander	einander
+</seg>
+<seg type="newline">
+und	KON	 und	und
+begiebt	VVFIN	 UNKNOWN	begiebt
+sich	PRF	 er|es|sie	sich
+endlich	ADV	 endlich	endlich
+auch	ADV	 auch	auch
+in	APPR	 in	in
+ein	ART	 ein	ein
+Corpus	NN	 Corpus	Corpus
+.	$.	.	$.	 .	|	.
+Alles	PIAT	 alle	Alles
+Confect	NN	 UNKNOWN	Confect
+muß	VMFIN	 müssen	muß
+auf	APPR	 auf	auf
+zweymahl	NN	 UNKNOWN	zweymahl
+ausgemacht	VVPP	 ausmachen	ausgemacht
+werden	VAINF	 werden	werden
+;	$.	;	$.	 ;	|	;
+wann	PWAV	 wann	wann
+man	PIS	 man	man
+die	ART	 d	die
+Crispitur	NN	 UNKNOWN	Crispitur
+aufgetragen	VVPP	 auftragen	aufgetragen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+soll	VMFIN	 sollen	soll
+mans	VMFIN	 mögen	mag
+in	APPR	 in	in
+die	ART	 d	die
+Stuben	NN	 Stube	Stuben
+setzen	VVINF	 setzen	setzen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+wohl	ADV	 wohl	wohl
+lassen	VVINF	 lassen	lassen
+austrocknen	VVFIN	 austrocknen	austrocknen
+</seg>
+<seg type="newline">
+ferner	ADJD	 fern	ferner
+vollends	ADV	 vollends	vollends
+mit	APPR	 mit	mit
+der	ART	 d	der
+Crispitur	NN	 UNKNOWN	Crispitur
+ausmachen	VVINF	 ausmachen	ausmachen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

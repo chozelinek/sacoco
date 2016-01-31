@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Danckwerth_1729_18" collection="historical" source="Danckwerth" url="none" year="1729" decade="1720-1730" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1729:251]">
+<title>
+<seg type="newline">
+41.	ADJA	 @ord@	41.
+Allerley	NE	 Allerley	Allerley
+Früchte	NN	 Frucht	Früchte
+</seg>
+<seg type="newline">
+Obst	NN	 Obst	Obst
+u.	KON	 und	u.
+a.	APPR	 a.	a.
+m.	APPR	 m.	m.
+zu	ADV	 zu	zu
+backen	VVFIN	 backen	backen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Aepffel	ADJA	 UNKNOWN	Aepffel
+</seg>
+<seg type="newline">
+Birnen	NN	 Birne	Birnen
+</seg>
+<seg type="newline">
+Sauerampffer	NN	 UNKNOWN	Sauerampffer
+</seg>
+<seg type="newline">
+Boretsch	NE	 UNKNOWN	Boretsch
+</seg>
+<seg type="newline">
+Melissen	NE	 UNKNOWN	Melissen
+</seg>
+<seg type="newline">
+Müntz	NE	 UNKNOWN	Müntz
+</seg>
+<seg type="newline">
+Salbey	NE	 UNKNOWN	Salbey
+</seg>
+<seg type="newline">
+Bethonica	NE	 UNKNOWN	Bethonica
+</seg>
+<seg type="newline">
+Holder=blüh	ADJA	 UNKNOWN	Holder=blüh
+</seg>
+<seg type="newline">
+Weichsel	NN	 Weichsel	Weichsel
+</seg>
+<seg type="newline">
+Kirschen	NN	 Kirsche	Kirschen
+</seg>
+<seg type="newline">
+Feigen	NN	 Feige	Feigen
+</seg>
+<seg type="newline">
+werden	VAFIN	 werden	werden
+in	APPR	 in	in
+Butter	NN	 Butter	Butter
+gebacken	VVPP	 backen	gebacken
+</seg>
+<seg type="newline">
+zuvor	ADV	 zuvor	zuvor
+in	APPR	 in	in
+einem	ART	 ein	einem
+Teiglein	NN	 UNKNOWN	Teiglein
+von	APPR	 von	von
+Milch	NN	 Milch	Milch
+</seg>
+<seg type="newline">
+weiß	VVFIN	 wissen	weiß
+Mehl	NN	 Mehl	Mehl
+</seg>
+<seg type="newline">
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+angemacht	VVPP	 anmachen	angemacht
+</seg>
+<seg type="newline">
+umgewältzt	VVFIN	 UNKNOWN	umgewältzt
+.	$.	.	$.	 .	|	.
+Man	PIS	 man	Man
+mag	VMFIN	 mögen	mag
+in	APPR	 in	in
+solch	PIAT	 solch	solch
+Teiglein	NN	 UNKNOWN	Teiglein
+geriebenen	ADJA	 gerieben	geriebenen
+Pfeffer=Kuchen	NN	 UNKNOWN	Pfeffer=Kuchen
+oder	KON	 oder	oder
+auch	ADV	 auch	auch
+gelb	ADJD	 gelb	gelb
+Gewürtz	NN	 UNKNOWN	Gewürtz
+und	KON	 und	und
+Zimmet	NN	 Zimt	Zimt
+thun	NE	 UNKNOWN	thue
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

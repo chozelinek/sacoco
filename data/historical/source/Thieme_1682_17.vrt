@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Thieme_1682_17" collection="historical" source="Thieme" url="none" year="1682" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Huhn|" method="|Reis|" ref="[923]">
+<title>
+<seg type="newline">
+Hüner	NN	 UNKNOWN	Hünern
+in	APPR	 in	in
+Reiß	ADJD	 heiß	heiß
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Den	ART	 d	Den
+Reiß	ADJD	 heiß	heiß
+absonderlich	ADJD	 absonderlich	absonderlich
+gekocht	VVPP	 kochen	gekocht
+</seg>
+<seg type="newline">
+hernach	ADV	 hernach	hernach
+wieder	ADV	 wieder	wieder
+gewaschen	VVPP	 waschen	gewaschen
+</seg>
+<seg type="newline">
+die	ART	 d	die
+Hüner	NN	 UNKNOWN	Hünern
+auch	ADV	 auch	auch
+absonderlich	ADJD	 absonderlich	absonderlich
+</seg>
+<seg type="newline">
+thut	NN	 UNKNOWN	thue
+zum	APPRART	 zum	zum
+Reiß	ADJD	 heiß	heiß
+Flesichbrühe	NN	 UNKNOWN	Flesichbrühe
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+geschählt=gestossenen	ADJA	 UNKNOWN	geschählt=gestossenen
+Mandeln	NN	 Mandel	Mandeln
+</seg>
+<seg type="newline">
+gerieben	VVPP	 reiben	gerieben
+weiß	VVFIN	 wissen	weiß
+Brod	NN	 Brot	Brot
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+Ingber	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Zimmet	NN	 Zimt	Zimt
+</seg>
+<seg type="newline">
+und	KON	 und	und
+nach	APPR	 nach	nach
+Belieben	NN	 Belieben	Belieben
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Rosen=Wasser	NN	 Rosenwasser	Rosenwasser
+</seg>
+<seg type="newline">
+über	APPR	 über	über
+dem	ART	 d	dem
+Feuer	NN	 Feuer	Feuer
+durcheinander	ADV	 durcheinander	durcheinander
+gerühret	ADJA	 gerührt	gerührten
+</seg>
+<seg type="newline">
+wol	PWAV	 wo	wo
+gesotten	VVPP	 sieden	gesotten
+</seg>
+<seg type="newline">
+und	KON	 und	und
+über	APPR	 über	über
+das	PDS	 d	das
+Hun	ADV	 nun	Nun
+gegossen	VVPP	 gießen	gegossen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

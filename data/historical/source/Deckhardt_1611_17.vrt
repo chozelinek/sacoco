@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Deckhardt_1611_17" collection="historical" source="Deckhardt" url="none" year="1611" decade="1610-1620" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1611:145]">
+<title>
+<seg type="newline">
+Einen	ART	 ein	Einen
+zerzopfften	ADJA	 UNKNOWN	zerzopfften
+oder	KON	 oder	oder
+zerzausten	ADJA	 zerzaust	zerzausten
+Halbfisch	NN	 UNKNOWN	Halbfisch
+oder	KON	 oder	oder
+Stockfisch	NN	 Stockfisch	Stockfisch
+zu	PTKZU	 zu	zu
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Seude	NN	 UNKNOWN	Seude
+die	ART	 d	die
+Halbfische	NN	 UNKNOWN	Halbfische
+oder	KON	 oder	oder
+Stockfische	NN	 Stockfisch	Stockfische
+bis	APPR	 bis	bis
+sie	PPER	 sie	sie
+weich	ADJD	 weich	weich
+gnung	ADJD	 UNKNOWN	gnung
+sein	VAINF	 sein	sein
+</seg>
+<seg type="newline">
+den	ART	 d	den
+brich	VVIMP	 brechen	brich
+die	ART	 d	die
+gräten	NN	 Gräte	gräten
+davon	PAV	 davon	davon
+</seg>
+<seg type="newline">
+das	ART	 d	das
+andere	PIS	 ander	andere
+aber	ADV	 aber	aber
+zerklaube	VVFIN	 UNKNOWN	zerklaube
+vnd	KON	 und	und
+zerzopffe	VVFIN	 UNKNOWN	zerzopffe
+gar	ADV	 gar	gar
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+thue	VVFIN	 UNKNOWN	thue
+es	PPER	 es	es
+in	APPR	 in	in
+ein	ART	 ein	ein
+töpfflein	NN	 UNKNOWN	töpfflein
+</seg>
+<seg type="newline">
+pfanne	NN	 Pfanne	pfanne
+oder	KON	 oder	oder
+tigel	NN	 UNKNOWN	tigel
+</seg>
+<seg type="newline">
+geus	NN	 UNKNOWN	geuß
+eine	ART	 ein	eine
+dicke	ADJA	 dick	dicke
+Milch	NN	 Milch	Milch
+oder	KON	 oder	oder
+Rohm	NN	 UNKNOWN	Rohm
+dran	PAV	 dran	dran
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+ein	ART	 ein	ein
+stücklein	ADJD	 UNKNOWN	stückig
+Butter	NN	 Butter	Butter
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+Würtze	NN	 UNKNOWN	Würtze
+es	PPER	 es	es
+mit	APPR	 mit	mit
+Ingwer	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+saltze	ADJA	 kalt	kalten
+es	PPER	 es	es
+recht	ADJD	 recht	recht
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+las	VVFIN	 lesen	las
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+wirds	VAFIN	 werden	wird
+gut	ADJD	 gut	gut
+</seg>
+<seg type="newline">
+wil	VVFIN	 UNKNOWN	wil
+man	PIS	 man	man
+sie	PPER	 sie	sie
+aber	ADV	 aber	aber
+süsse	ADJA	 süß	süsse
+haben	VAFIN	 haben	haben
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+thue	NE	 UNKNOWN	thue
+Zucker	NN	 Zucker	Zucker
+vnd	KON	 und	und
+Rosinen	NN	 Rosine	Rosinen
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+ists	VVFIN	 UNKNOWN	ists
+auch	ADV	 auch	auch
+recht	ADJD	 recht	recht
+vnd	KON	 und	und
+gut	ADJD	 gut	gut
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

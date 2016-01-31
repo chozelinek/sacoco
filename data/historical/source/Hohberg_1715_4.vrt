@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Hohberg_1715_4" collection="historical" source="Hohberg" url="none" year="1715" decade="1710-1720" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1715:11]">
+<title>
+<seg type="newline">
+Gesottener	ADJA	 UNKNOWN	Gesottener
+Aal	NN	 Aal	Aal
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Ziehe	VVFIN	 zeihen|ziehen	Ziehe
+dem	ART	 d	dem
+Aal	NN	 Aal	Aal
+die	ART	 d	die
+Haut	NN	 Haut	Haut
+nicht	PTKNEG	 nicht	nicht
+ab	PTKVZ	 ab	ab
+</seg>
+<seg type="newline">
+sondern	KON	 sondern	sondern
+zerschneide	VVFIN	 zerschneiden	zerschneide
+ihn	PPER	 er	ihn
+in	APPR	 in	in
+drey	CARD	 drei	drei
+oder	KON	 oder	oder
+vier	CARD	 vier	vier
+Finger	NN	 Finger	Finger
+breite	ADJA	 breit	breite
+Stücke	NN	 Stück	Stücke
+</seg>
+<seg type="newline">
+den	ART	 d	den
+Kopff	NN	 UNKNOWN	Kopff
+und	KON	 und	und
+Scheiff	NN	 UNKNOWN	Scheiff
+wirff	VVFIN	 UNKNOWN	wirff
+hinweg	PTKVZ	 hinweg	hinweg
+</seg>
+<seg type="newline">
+nimm	VVIMP	 nehmen	nimm
+das	ART	 d	das
+Eingeweyd	NN	 UNKNOWN	Eingeweyd
+heraus	ADV	 heraus	heraus
+</seg>
+<seg type="newline">
+zieh	VVFIN	 zeihen	zieh
+ein	ART	 ein	ein
+subtiles	ADJA	 subtil	subtiles
+Reiß	ADJD	 heiß	heiß
+oder	KON	 oder	oder
+Strohalm	NN	 UNKNOWN	Strohalm
+</seg>
+<seg type="newline">
+woran	PWAV	 woran	woran
+von	APPR	 von	von
+der	ART	 d	der
+Aehren	NN	 UNKNOWN	Aehren
+ein	ART	 ein	ein
+klein	ADJD	 klein	klein
+wenig	ADV	 wenig	wenig
+vornen	ADJD	 UNKNOWN	vornen
+gelassen	ADJD	 gelassen	gelassen
+worden	VAPP	 werden	worden
+</seg>
+<seg type="newline">
+durch	APPR	 durch	durch
+das	ART	 d	das
+Ruckgrad	NN	 UNKNOWN	Ruckgrad
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+sich	PRF	 er|es|sie	sich
+die	ART	 d	die
+weisse	ADJA	 weiß	weisse
+Adern	NN	 Ader	Adern
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Marck	NE	 UNKNOWN	Marck
+heraus	ADV	 heraus	heraus
+ziehe	VVFIN	 zeihen|ziehen	ziehe
+</seg>
+<seg type="newline">
+wasche	VVFIN	 waschen	wasche
+die	ART	 d	die
+Stuck	NN	 Stuck	Stuck
+Aal	NN	 Aal	Aal
+sauber	ADJD	 sauber	sauber
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+in	APPR	 in	in
+einem	ART	 ein	einem
+stollichten	ADJA	 UNKNOWN	stollichten
+Haven	NE	 UNKNOWN	Haven
+Wein	NN	 Wein	Wein
+und	KON	 und	und
+Wein=Eßig	NN	 UNKNOWN	Wein=Essig
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+so	ADV	 so	so
+man	PIS	 man	man
+will	VMFIN	 wollen	will
+</seg>
+<seg type="newline">
+den	ART	 d	den
+dritten	ADJA	 dritt	dritten
+Theil	NN	 Teil	Teil
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+es	PPER	 es	es
+thun	NE	 UNKNOWN	thue
+etliche	PIAT	 etlich	etliche
+Salbey	NE	 UNKNOWN	Salbey
+</seg>
+<seg type="newline">
+Roßmarin	NE	 UNKNOWN	Roßmarin
+</seg>
+<seg type="newline">
+Lorberblättlein	NN	 UNKNOWN	Lorberblättlein
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Zimmet	NN	 Zimt	Zimt
+</seg>
+<seg type="newline">
+gantze	ADV	 ganz	ganz
+Muscatblumen	NN	 UNKNOWN	Muscatblumen
+</seg>
+<seg type="newline">
+samt	APPR	 samt	samt
+denn	KON	 denn	denn
+Aal	NN	 Aal	Aal
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+decke	VVFIN	 decken	decke
+den	ART	 d	den
+Hafen	NN	 Hafen	Hafen
+gehäb	ADJD	 UNKNOWN	gehäb
+zu	APPR	 zu	zu
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+ihn	PPER	 er	ihn
+eine	ART	 ein	eine
+halbe	ADJA	 halb	halbe
+Stund	VAFIN	 sein	sind
+gelind	ADJD	 gelind	gelind
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+damit	PAV	 damit	damit
+er	PPER	 er	er
+nicht	PTKNEG	 nicht	nicht
+aufbreche	VVFIN	 aufbrechen	aufbreche
+</seg>
+<seg type="newline">
+hernach	ADV	 hernach	hernach
+saltz	ADJA	 kalt	kalten
+ihn	PPER	 er	ihn
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+und	KON	 und	und
+laß	ADJD	 laß	laß
+solchen	PIAT	 solch	solchen
+noch	ADV	 noch	noch
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+inzwischen	ADV	 inzwischen	inzwischen
+siede	NN	 Siede	siede
+von	APPR	 von	von
+2.	ADJA	 2.	2.
+oder	KON	 oder	oder
+3.	ADJA	 3.	3.
+Citronen	NN	 Citrone	Citronen
+</seg>
+<seg type="newline">
+nachdem	KOUS	 nachdem	nachdem
+viel	PIAT	 viel	viel
+Aal	NN	 Aal	Aal
+</seg>
+<seg type="newline">
+die	ART	 d	die
+gelbe	ADJA	 gelb	gelbe
+Schelffen	NN	 UNKNOWN	Schelffen
+</seg>
+<seg type="newline">
+woraus	PWAV	 woraus	woraus
+alles	PIAT	 alle	alles
+Weisse	NN	 Weiß|Weiße	Weisse
+geschnitten	VVPP	 schneiden	geschnitten
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+jedoch	ADV	 jedoch	jedoch
+nicht	PTKNEG	 nicht	nicht
+gar	ADV	 gar	gar
+zu	PTKA	 zu	zu
+weich	ADJD	 weich	weich
+</seg>
+<seg type="newline">
+schneids	VVFIN	 schneiden	schneiden
+länglicht	ADJD	 UNKNOWN	länglicht
+</seg>
+<seg type="newline">
+gantz	ADV	 ganz	ganz
+dünn	ADJD	 dünn	dünn
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+man	PIS	 man	man
+das	ART	 d	das
+Kraut	NN	 Kraut	Kraut
+schneidet	VVFIN	 schneiden	schneidet
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+solches	PIS	 solch	solches
+in	APPR	 in	in
+einem	ART	 ein	einem
+Wein	NN	 Wein	Wein
+aufsieden	ADJD	 UNKNOWN	aufsieden
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+den	ART	 d	den
+gesottenen	ADJA	 gesiedet	gesottenen
+Aal	NN	 Aal	Aal
+zierlich	ADJD	 zierlich	zierlich
+in	APPR	 in	in
+eine	ART	 ein	eine
+Schüssel	NN	 Schüssel	Schüssel
+</seg>
+<seg type="newline">
+überstreue	VVFIN	 UNKNOWN	überstreue
+ihn	PPER	 er	ihn
+mit	APPR	 mit	mit
+dem	ART	 d	dem
+Citronen=Kraut	NN	 UNKNOWN	Citronen=Kraut
+</seg>
+<seg type="newline">
+und	KON	 und	und
+denen	PDS	 d	denen
+mit	APPR	 mit	mit
+gesottenen	ADJA	 gesiedet	gesottenen
+Muscatblumen	NN	 UNKNOWN	Muscatblumen
+</seg>
+<seg type="newline">
+decke	VVFIN	 decken	decke
+ein	ART	 ein	ein
+Serviet	NN	 UNKNOWN	Serviet
+darauf	PAV	 darauf	darauf
+</seg>
+<seg type="newline">
+und	KON	 und	und
+trag	VVIMP	 tragen	trag
+ihn	PPER	 er	ihn
+warm	ADJD	 warm	warm
+zu	APPR	 zu	zu
+Tisch	NN	 Tisch	Tisch
+.	$.	.	$.	 .	|	.
+Oder	KON	 oder	Oder
+schlage	VVFIN	 schlagen	schlage
+den	ART	 d	den
+Aal	NN	 Aal	Aal
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Nagel	NN	 Nagel	Nagel
+fest	ADJD	 fest	fest
+an	APPR	 an	an
+ein	ART	 ein	ein
+Holtz	NN	 UNKNOWN	Holtz
+</seg>
+<seg type="newline">
+fasse	VVFIN	 fassen	fasse
+denselben	PDS	 derselbe	denselben
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Tuch	NN	 Tuch	Tuch
+</seg>
+<seg type="newline">
+löse	VVFIN	 lösen	löse
+vermittelst	VVFIN	 vermitteln	vermittelst
+eines	ART	 ein	eines
+Messers	NN	 Messer	Messers
+</seg>
+<seg type="newline">
+die	ART	 d	die
+Haut	NN	 Haut	Haut
+rings	ADV	 rings	rings
+um	APPR	 um	um
+den	ART	 d	den
+Kopff	NN	 UNKNOWN	Kopff
+ab	APPR	 ab	ab
+</seg>
+<seg type="newline">
+hernach	ADV	 hernach	hernach
+nimm	VVIMP	 nehmen	nimm
+Saltz	NN	 Salz	Salz
+in	APPR	 in	in
+beede	NE	 UNKNOWN	beede
+Hände	NN	 Hand	Hände
+</seg>
+<seg type="newline">
+und	KON	 und	und
+streiffe	NN	 UNKNOWN	streiffe
+die	ART	 d	die
+Haut	NN	 Haut	Haut
+über	APPR	 über	über
+den	ART	 d	den
+Fisch	NN	 Fisch	Fisch
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+das	ART	 d	das
+Eingeweid	NN	 UNKNOWN	Eingeweid
+heraus	ADV	 heraus	heraus
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+Stücke	NN	 Stück	Stücke
+daraus	PAV	 daraus	daraus
+</seg>
+<seg type="newline">
+und	KON	 und	und
+wann	PWAV	 wann	wann
+du	PPER	 du	du
+ihn	PPER	 er	ihn
+ädern	NN	 UNKNOWN	ädern
+wilt	NE	 Wilt	wilt
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+löse	VVFIN	 lösen	löse
+die	ART	 d	die
+Stücke	NN	 Stück	Stücke
+alle	PIS	 alle	alle
+um	PTKVZ	 um	um
+und	KON	 und	und
+um	KOUI	 um	um
+bis	KON	 bis	bis
+an	APPR	 an	an
+den	ART	 d	den
+Grat	NN	 Grat	Grat
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+drehe	VVFIN	 drehen	drehe
+dieselben	PDS	 dieselbe	dieselben
+nach	APPR	 nach	nach
+einander	PRF	 einander	einander
+herab	ADV	 herab	herab
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+gehet	VVFIN	 gehen	gehet
+das	ART	 d	das
+Aederl	NE	 UNKNOWN	Aederl
+oder	KON	 oder	oder
+Ruckgrad=Marck	NE	 UNKNOWN	Ruckgrad=Marck
+heraus	ADV	 heraus	heraus
+</seg>
+<seg type="newline">
+solte	VVFIN	 UNKNOWN	solte
+es	PPER	 es	es
+aber	ADV	 aber	aber
+nicht	PTKNEG	 nicht	nicht
+gehen	VVFIN	 gehen	gehen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+hilff	NE	 UNKNOWN	hilff
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Strohalm	NN	 UNKNOWN	Strohalm
+auf	APPR	 auf	auf
+vorbeschriebene	ADJA	 UNKNOWN	vorbeschriebene
+Art	NN	 Art	Art
+:	$.	:	$.	 :	|	:
+Folgends	NN	 UNKNOWN	Folgends
+siede	VVFIN	 UNKNOWN	siede
+ihn	PPER	 er	ihn
+in	APPR	 in	in
+zwey	CARD	 zwei	zwei
+Drittel	NN	 Drittel	Drittel
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+und	KON	 und	und
+ein	ART	 ein	ein
+Drittel	ADJA	 Drittel	Drittel
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+nebst	APPR	 nebst	nebst
+Saltz	NN	 Salz	Salz
+ohngefehr	VVFIN	 UNKNOWN	ohngefehr
+eine	ART	 ein	eine
+halbe	ADJA	 halb	halbe
+Stund	VAFIN	 sein	sind
+</seg>
+<seg type="newline">
+indessen	ADV	 indessen	indessen
+röste	ADJD	 UNKNOWN	röste
+klein	ADJD	 klein	klein
+geschnittene	ADJA	 geschnitten	geschnittene
+Zwiebeln	NN	 Zwiebel|Zwiebeln	Zwiebeln
+in	APPR	 in	in
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+thue	VVFIN	 UNKNOWN	thue
+sie	PPER	 sie	sie
+samt	APPR	 samt	samt
+Negelein	ADJA	 UNKNOWN	Negelein
+</seg>
+<seg type="newline">
+Muscatnus	NN	 UNKNOWN	Muscatnus
+</seg>
+<seg type="newline">
+Ingber	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+und	KON	 und	und
+gantze	ADV	 ganz	ganz
+Muscatblumen	NN	 UNKNOWN	Muscatblumen
+in	APPR	 in	in
+die	ART	 d	die
+Brühe	NN	 Brühe	Brühe
+zum	APPRART	 zum	zum
+Aal	NN	 Aal	Aal
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+ferner	ADJD	 fern	ferner
+miteinander	ADV	 miteinander	miteinander
+aufsieden	ADJD	 UNKNOWN	aufsieden
+</seg>
+<seg type="newline">
+und	KON	 und	und
+richt	VVFIN	 UNKNOWN	richt
+ihn	PPER	 er	ihn
+an	PTKVZ	 an	an
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Stockholm_1647_5" collection="historical" source="Stockholm" url="none" year="1647" decade="1640-1650" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1647:102]">
+<title>
+<seg type="newline">
+[	$(	[	$(	 [	|	[
+Blumenkohl	NN	 Blumenkohl	Blumenkohl
+]	$(	]	$(	 ]	|	]
+</seg>
+</title>
+<body>
+<seg type="newline">
+Ohne	APPR	 ohne	Ohne
+Wasser	NN	 Wasser	Wasser
+Kochet	VVFIN	 UNKNOWN	Kochet
+man	PIS	 man	man
+jhn	PPER	 er	ihn
+also	ADV	 also	also
+:	$.	:	$.	 :	|	:
+Man	PIS	 man	Man
+thut	VVFIN	 UNKNOWN	thue
+jhn	PPER	 er	ihn
+in	APPR	 in	in
+eine	ART	 ein	eine
+Zinnerne	NN	 UNKNOWN	Zinnerne
+Flaschen	NN	 Flasche	Flaschen
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Kanne	NN	 Kanne	Kanne
+</seg>
+<seg type="newline">
+Setzet	VVFIN	 setzen	Setzet
+selbige	ADJA	 UNKNOWN	selbige
+in	APPR	 in	in
+einen	ART	 ein	einen
+Kessel	NN	 Kessel	Kessel
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+kochet	VVFIN	 UNKNOWN	kochet
+jhn	PPER	 er	ihn
+also	ADV	 also	also
+:	$.	:	$.	 :	|	:
+Dann	ADV	 dann	Dann
+in	APPR	 in	in
+einen	ART	 ein	einen
+Topff	NN	 Topf	Topf
+gethan	NE	 UNKNOWN	gethan
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Muschaten=Blumen	NN	 UNKNOWN	Muschaten=Blumen
+vnd	KON	 und	und
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+gepreglet	ADJD	 UNKNOWN	gepreglet
+</seg>
+<seg type="newline">
+Man	PIS	 man	Man
+kochet	VVFIN	 UNKNOWN	kochet
+jhn	PPER	 er	ihn
+gahr	ADV	 gar	gar
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+Rindtfleisch	NN	 UNKNOWN	Rindtfleisch
+oder	KON	 oder	oder
+Hüner=Brühe	NN	 UNKNOWN	Hüner=Brühe
+</seg>
+<seg type="newline">
+Macht	NN	 Macht	Macht
+jhn	PPER	 er	ihn
+abe	PAV	 dabei	dabei
+mit	APPR	 mit	mit
+Käse	NN	 Käse	Käse
+</seg>
+<seg type="newline">
+Hüner=feist	NN	 UNKNOWN	Hüner=feist
+vnd	KON	 und	und
+Pfeffer	NN	 Pfeffer	Pfeffer
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

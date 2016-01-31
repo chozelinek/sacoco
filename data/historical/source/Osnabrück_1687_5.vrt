@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Osnabrueck_1687_5" collection="historical" source="Osnabrueck" url="none" year="1687" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1687:9]">
+<title>
+<seg type="newline">
+[	$(	[	$(	 [	|	[
+Frantzösische	ADJA	 UNKNOWN	Frantzösische
+Suppen	NN	 Suppe	Suppen
+von	APPR	 von	von
+Kalbfleisch	NN	 Kalbfleisch	Kalbfleisch
+zu	PTKZU	 zu	zu
+bereiten	VVINF	 bereiten	bereiten
+]	$(	]	$(	 ]	|	]
+Ein	ART	 eine	Ein
+anders	ADV	 anders	anders
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Oder	KON	 oder	Oder
+thut	NE	 UNKNOWN	thue
+zu	APPR	 zu	zu
+dem	ART	 d	dem
+Fleisch	NN	 Fleisch	Fleisch
+gebrüheten	ADJA	 UNKNOWN	gebrüheten
+Sauerampffer	NN	 UNKNOWN	Sauerampffer
+</seg>
+<seg type="newline">
+jungen	ADJA	 jung	jungen
+Mangold	NN	 Mangold	Mangold
+</seg>
+<seg type="newline">
+Binetsch	NN	 UNKNOWN	Binetsch
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Lattig	NN	 UNKNOWN	Lattig
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+frische	ADJA	 frisch	frische
+Schiff=Erbsen	NN	 UNKNOWN	Schiff=Erbsen
+</seg>
+<seg type="newline">
+fette	ADJA	 fett	fette
+reine	ADJA	 rein	reine
+Fleisch=Brühe	NN	 Fleischbrühe	Fleischbrühe
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+ungeschmoltzene	ADJA	 UNKNOWN	ungeschmoltzene
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+Ingber	NN	 Ingwer	Ingwer
+und	KON	 und	und
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+last	VVFIN	 lesen	last
+dieses	PDAT	 dies	dieses
+alles	PIS	 alle	alles
+zusammen	ADV	 zusammen	zusammen
+allgemählich	ADJD	 UNKNOWN	allgemählich
+kochen	VVINF	 kochen	kochen
+;	$.	;	$.	 ;	|	;
+Es	PPER	 es	Es
+gibt	VVFIN	 geben	gibt
+eine	ART	 ein	eine
+gute	ADJA	 gut	gute
+Frantzösische	ADJA	 UNKNOWN	Frantzösische
+Suppen	NN	 Suppe	Suppen
+.	$.	.	$.	 .	|	.
+Im	APPRART	 im	Im
+Anrichten	NN	 Anrichten	Anrichten
+könnet	VMFIN	 können	könnet
+auch	ADV	 auch	auch
+wohl	ADV	 wohl	wohl
+eine	ART	 ein	eine
+Handvoll	NN	 Handvoll	Handvoll
+unzeitige	ADJA	 unzeitig	unzeitige
+Trauben	NN	 Traube	Trauben
+daran	PAV	 daran	daran
+thun	NN	 UNKNOWN	thue
+</seg>
+<seg type="newline">
+sambt	VVFIN	 UNKNOWN	sambt
+der	ART	 d	der
+Brühe	NN	 Brühe	Brühe
+und	KON	 und	und
+Gewürtz	NN	 UNKNOWN	Gewürtz
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+eben	ADV	 eben	eben
+gemeldet	VVPP	 melden	gemeldet
+.	$.	.	$.	 .	|	.
+Junge	ADJA	 jung	Junge
+Hanen	NN	 UNKNOWN	Hanen
+</seg>
+<seg type="newline">
+Hüner	NN	 UNKNOWN	Hünern
+oder	KON	 oder	oder
+Tauben	NN	 Taube	Tauben
+lassen	VVFIN	 lassen	lassen
+sich	PRF	 er|es|sie	sich
+mit	APPR	 mit	mit
+dem	ART	 d	dem
+Fleisch	NN	 Fleisch	Fleisch
+auch	ADV	 auch	auch
+wohl	ADV	 wohl	wohl
+kochen	VVINF	 kochen	kochen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

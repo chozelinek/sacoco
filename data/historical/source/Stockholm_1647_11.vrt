@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Stockholm_1647_11" collection="historical" source="Stockholm" url="none" year="1647" decade="1640-1650" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1647:137]">
+<body>
+<seg type="newline">
+Alle	PIAT	 alle	Alle
+Morgen	NN	 Morgen	Morgen
+nüchtern	ADJD	 nüchtern	nüchtern
+etzliche	ADJA	 UNKNOWN	Etliche
+[	$(	[	$(	 [	|	[
+Wacholderbeeren	NN	 Wacholderbeere	Wacholderbeeren
+]	$(	]	$(	 ]	|	]
+so	ADV	 so	so
+rohe	ADJA	 roh	rohe
+oder	KON	 oder	oder
+in	APPR	 in	in
+Brantwein	NN	 UNKNOWN	Brantwein
+</seg>
+<seg type="newline">
+Oder	KON	 oder	Oder
+Essig	NN	 Essig	Essig
+gebeitzet	ADJD	 UNKNOWN	gebeitzet
+genossen	VVFIN	 genießen	genossen
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+woll	PWAV	 wo	wo
+nach	APPR	 nach	nach
+der	ART	 d	der
+mahltzeit	NN	 UNKNOWN	mahltzeit
+</seg>
+<seg type="newline">
+ist	VAFIN	 sein	ist
+auch	ADV	 auch	auch
+gesundt	NE	 UNKNOWN	gesundt
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

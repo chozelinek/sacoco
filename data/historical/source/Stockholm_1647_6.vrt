@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Stockholm_1647_6" collection="historical" source="Stockholm" url="none" year="1647" decade="1640-1650" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1647:107] [kein Verb]">
+<body>
+<seg type="newline">
+Oder	KON	 oder	Oder
+</seg>
+<seg type="newline">
+1.	ADJA	 1.	1.
+Theil	NN	 Teil	Teil
+Lactuc	NE	 UNKNOWN	Lactuc
+</seg>
+<seg type="newline">
+Ein	ART	 eine	Ein
+Theil	NN	 Teil	Teil
+Petrosilien	NN	 UNKNOWN	Petrosilien
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+3.	ADJA	 3.	3.
+Theil	NN	 Teil	Teil
+Wasser	NN	 Wasser	Wasser
+Müntze	NN	 UNKNOWN	Müntze
+</seg>
+<seg type="newline">
+Ist	VAFIN	 sein	Ist
+gahr	ADV	 gar	gar
+ien	ADJD	 UNKNOWN	ien
+heilsam	ADJD	 heilsam	heilsam
+Essen	NN	 Essen	Essen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

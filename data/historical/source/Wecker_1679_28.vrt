@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Wecker_1679_28" collection="historical" source="Wecker" url="none" year="1679" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:405]">
+<title>
+<seg type="newline">
+Aber	KON	 aber	Aber
+ein	ART	 ein	ein
+Eyerdarten	NN	 UNKNOWN	Eyerdarten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+ein	ART	 ein	ein
+Mäßlin	NN	 UNKNOWN	Mäßlin
+Milch	NN	 Milch	Milch
+</seg>
+<seg type="newline">
+thu	VVFIN	 UNKNOWN	thue
+sie	PPER	 sie	sie
+in	APPR	 in	in
+einer	ART	 ein	einer
+Pfann	NN	 UNKNOWN	Pfann
+übers	APPRART	 übers	übers
+Fewr	NN	 Feuer	Feuer
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+klopffe	NN	 UNKNOWN	klopffe
+sechs	CARD	 sechs	sechs
+Eyer	VVFIN	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+wann	PWAV	 wann	wann
+die	ART	 d	die
+Milch	NN	 Milch	Milch
+anfähet	VVFIN	 UNKNOWN	anfähet
+zu	PTKVZ	 zu	zu
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+schütte	VVFIN	 schütten	schütte
+die	ART	 d	die
+Eyer	NE	 UNKNOWN	Eyer
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+laß	ADJD	 laß	laß
+sieden	VVFIN	 sieden	sieden
+wie	KOKOM	 wie	wie
+eine	ART	 ein	eine
+Eyermilch	NN	 UNKNOWN	Eyermilch
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+thu	VVFIN	 UNKNOWN	thue
+es	PPER	 es	es
+dann	ADV	 dann	dann
+in	APPR	 in	in
+ein	ART	 ein	ein
+Sieblein	NN	 UNKNOWN	Sieblein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+laß	ADJD	 laß	laß
+verseigen	ADJA	 UNKNOWN	verseigen
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+thue	VVFIN	 UNKNOWN	thue
+es	PPER	 es	es
+in	APPR	 in	in
+ein	ART	 ein	ein
+Schüssel	NN	 Schüssel	Schüssel
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+rühre	VVFIN	 rühren	rühre
+es	PPER	 es	es
+wol	PWAV	 wo	wo
+vmb	ADJA	 UNKNOWN	vmb
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+thu	ADJA	 UNKNOWN	thu
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+kleine	ADJA	 klein	kleine
+Rosinlein	NN	 UNKNOWN	Rosinlein
+vnd	KON	 und	und
+Raum	NN	 Raum	Raum
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+es	PPER	 es	es
+fleißt	ADJD	 UNKNOWN	fleißt
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+thu	VVFIN	 UNKNOWN	thue
+es	PPER	 es	es
+auff	APPR	 auf	auf
+den	ART	 d	den
+Boden	NN	 Boden	Boden
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+laß	ADJD	 laß	laß
+bachen	NN	 Kochen	Kochen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

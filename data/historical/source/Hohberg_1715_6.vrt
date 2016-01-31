@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Hohberg_1715_6" collection="historical" source="Hohberg" url="none" year="1715" decade="1710-1720" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1715:18]">
+<title>
+<seg type="newline">
+Gebratene	ADJA	 gebraten	Gebratene
+Ruppen	NE	 UNKNOWN	Ruppen
+und	KON	 und	und
+Schleyen	NE	 UNKNOWN	Schleyen
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+gebachene	ADJA	 UNKNOWN	gebachene
+Ruppen	NN	 UNKNOWN	Ruppen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wann	PWAV	 wann	Wann
+die	ART	 d	die
+Ruppen	NE	 UNKNOWN	Ruppen
+oder	KON	 oder	oder
+Schleyen	NE	 UNKNOWN	Schleyen
+aufgemacht	VVPP	 aufmachen	aufgemacht
+und	KON	 und	und
+gewaschen	VVPP	 waschen	gewaschen
+</seg>
+<seg type="newline">
+saltze	ADJA	 kalt	kalten
+und	KON	 und	und
+würtze	VVFIN	 würzen	würzt
+sie	PPER	 sie	sie
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+binde	VVFIN	 binden	binde
+sie	PPER	 sie	sie
+also	ADV	 also	also
+gantz	ADV	 ganz	ganz
+in	APPR	 in	in
+Salbey	NE	 UNKNOWN	Salbey
+und	KON	 und	und
+Lorbeer=Blätter	NN	 UNKNOWN	Lorbeer=Blätter
+mit	APPR	 mit	mit
+Faden	NN	 Faden	Faden
+ein	ART	 ein	ein
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+in	APPR	 in	in
+einer	ART	 ein	einer
+Brat=Pfannen	NN	 UNKNOWN	Brat=Pfannen
+Baum=Oel	NN	 UNKNOWN	Baum=Oel
+oder	KON	 oder	oder
+frisch	ADJD	 frisch	frisch
+Schmaltz	NN	 Schmalz	Schmalz
+heiß	ADJD	 heiß	heiß
+werden	VAINF	 werden	werden
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+die	ART	 d	die
+Fische	NN	 Fisch	Fische
+hinein	PTKVZ	 hinein	hinein
+</seg>
+<seg type="newline">
+und	KON	 und	und
+brate	VVFIN	 braten	brate
+sie	PPER	 sie	sie
+auf	APPR	 auf	auf
+beeden	ADJA	 UNKNOWN	beeden
+Seiten	NN	 Seite	Seiten
+schön	ADJD	 schön	schön
+braun	ADJD	 braun	braun
+.	$.	.	$.	 .	|	.
+Wann	PWAV	 wann	Wann
+die	ART	 d	die
+Fische	NN	 Fisch	Fische
+groß	ADJD	 groß	groß
+seyn	ADJD	 UNKNOWN	seyn
+</seg>
+<seg type="newline">
+kan	ADV	 nun	Nun
+man	PIS	 man	man
+sie	PPER	 sie	sie
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+ein	ART	 ein	ein
+Lateinisch	NN	 UNKNOWN	Lateinisch
+S	NN	S	NN	 S	|	S
+formirt	NN	 UNKNOWN	formirt
+</seg>
+<seg type="newline">
+an	APPR	 an	an
+ein	ART	 ein	ein
+kleines	ADJA	 klein	kleines
+Spießlein	NN	 UNKNOWN	Spießlein
+stecken	VVINF	 stecken	stecken
+</seg>
+<seg type="newline">
+und	KON	 und	und
+mit	APPR	 mit	mit
+Oel	NN	 UNKNOWN	Oel
+oder	KON	 oder	oder
+Butter	NN	 Butter	Butter
+betreifft	ADJD	 UNKNOWN	betreifft
+</seg>
+<seg type="newline">
+braten	VVFIN	 braten	braten
+;	$.	;	$.	 ;	|	;
+dann	ADV	 dann	dann
+klein=geschnittene	ADJA	 UNKNOWN	klein=geschnittene
+Citronen=Schelffen	NN	 UNKNOWN	Citronen=Schelffen
+und	KON	 und	und
+Safft	NE	 UNKNOWN	Safft
+darauf	PAV	 darauf	darauf
+streuen	VVINF	 streuen	streuen
+und	KON	 und	und
+trucken	ADJD	 UNKNOWN	trucken
+essen	VVFIN	 essen	essen
+.	$.	.	$.	 .	|	.
+Einige	PIS	 einige	Einige
+pflegen	VVFIN	 pflegen	pflegen
+den	ART	 d	den
+Schleyen	NE	 UNKNOWN	Schleyen
+die	ART	 d	die
+Haut	NN	 Haut	Haut
+vorhero	ADV	 vorher	vorher
+abzuziehen	VVIZU	 abziehen	abzuziehen
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+einem	ART	 ein	einem
+Aal	NN	 Aal	Aal
+.	$.	.	$.	 .	|	.
+Man	PIS	 man	Man
+kan	ADV	 nun	Nun
+die	ART	 d	die
+aufgemachte	ADJA	 aufgemacht	aufgemachte
+Ruppen	NN	 UNKNOWN	Ruppen
+auch	ADV	 auch	auch
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+sie	PPER	 sie	sie
+eine	ART	 ein	eine
+Weil	KON	 weil	Weil
+in	APPR	 in	in
+Saltz	NN	 Salz	Salz
+gelegen	VVPP	 liegen	gelegen
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+Erbes=	NN	 UNKNOWN	Erbes=
+oder	KON	 oder	oder
+Semmel=Meel	NN	 UNKNOWN	Semmel=Meel
+zwingen	VVINF	 zwingen	zwingen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+aus	APPR	 aus	aus
+Baum=Oel	NN	 UNKNOWN	Baum=Oel
+oder	KON	 oder	oder
+Schmaltz	NN	 Schmalz	Schmalz
+bachen	NN	 Kochen	Kochen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

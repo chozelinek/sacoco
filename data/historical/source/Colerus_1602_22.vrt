@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Colerus_1602_22" collection="historical" source="Colerus" url="none" year="1602" decade="1600-1610" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1602:164]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+geprest	ADJA	 UNKNOWN	geprest
+Schweinen	NN	 Schwein	Schweinen
+Heupt	NN	 UNKNOWN	Heupt
+zu	PTKZU	 zu	zu
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wiltu	NE	 UNKNOWN	Wiltu
+machen	VVFIN	 machen	machen
+ein	ART	 ein	ein
+geprest	ADJA	 UNKNOWN	geprest
+schweinen	ADJA	 UNKNOWN	schweinen
+Heupt	NN	 UNKNOWN	Heupt
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+seude	VVFIN	 UNKNOWN	seude
+es	PPER	 es	es
+gar	ADV	 gar	gar
+weich	ADJD	 weich	weich
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+liß	VVFIN	 UNKNOWN	liß
+die	ART	 d	die
+beine	VVFIN	 beinen	beine
+rein	ADV	 rein	rein
+heraus	PTKVZ	 heraus	heraus
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+stoß	VVIMP	 stoßen	stoß
+es	PPER	 es	es
+in	APPR	 in	in
+einem	ART	 ein	einem
+Mörsel	NN	 UNKNOWN	Mörsel
+</seg>
+<seg type="newline">
+nim	VVFIN	 UNKNOWN	nimb
+darunter	PAV	 darunter	darunter
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Weißbrot	NN	 Weißbrot	Weißbrot
+oder	KON	 oder	oder
+Semmel	NN	 Semmel	Semmel
+</seg>
+<seg type="newline">
+würtze	VVFIN	 würzen	würzt
+es	PPER	 es	es
+ab	PTKVZ	 ab	ab
+mit	APPR	 mit	mit
+allerley	NE	 Allerley	allerley
+würtze	VVFIN	 würzen	würzt
+</seg>
+<seg type="newline">
+schütte	VVFIN	 schütten	schütte
+darein	ADV	 darein	darein
+klein	ADJD	 klein	klein
+Rosincken	NN	 Rosine	Rosinen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+kleine	ADJA	 klein	kleine
+geschnittene	ADJA	 geschnitten	geschnittene
+Mandeln	NN	 Mandel	Mandeln
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+saltze	ADJA	 kalt	kalten
+es	PPER	 es	es
+</seg>
+<seg type="newline">
+bind	VAFIN	 sein	sind
+es	PPER	 es	es
+zwischen	APPR	 zwischen	zwischen
+zwey	CARD	 zwei	zwei
+reine	ADJA	 rein	reine
+Breter	NN	 UNKNOWN	Breter
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+beschwere	VVFIN	 beschweren	beschwere
+es	PPER	 es	es
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+steine	VVFIN	 steinen	steine
+</seg>
+<seg type="newline">
+das	ART	 d	das
+sichs	NN	 UNKNOWN	sichs
+fein	ADJD	 fein	fein
+zusammen	ADV	 zusammen	zusammen
+drucke	VVFIN	 drucken	drucke
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+presse	VVFIN	 pressen	presse
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+zuschneids	NN	 UNKNOWN	zuschneids
+fein	ADJD	 fein	fein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+mache	VVFIN	 machen	mache
+darauff	PAV	 drauf	drauf
+ein	ART	 ein	ein
+braun	ADJD	 braun	braun
+oder	KON	 oder	oder
+gehl	ADJD	 UNKNOWN	gehl
+soth	ADJD	 UNKNOWN	soth
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+mit	PTKVZ	 mit	mit
+auffsieden	VVFIN	 UNKNOWN	aufsieden
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+gib	VVIMP	 geben	gib
+es	PPER	 es	es
+hin	ADV	 hin	hin
+</seg>
+<seg type="newline">
+also	ADV	 also	also
+magstu	NN	 UNKNOWN	magsts
+auch	ADV	 auch	auch
+machen	VVFIN	 machen	machen
+einen	ART	 ein	einen
+Kalbeskopff	NN	 UNKNOWN	Kalbeskopff
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Wecker_1679_6" collection="historical" source="Wecker" url="none" year="1679" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:75]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+Capaunen	NN	 UNKNOWN	Capaunen
+zu	PTKZU	 zu	zu
+braten	VVINF	 braten	braten
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+er	PPER	 er	er
+mürb	ADJD	 mürb	mürb
+vnd	KON	 und	und
+gut	ADJD	 gut	gut
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+als	KOKOM	 als	als
+ein	ART	 ein	ein
+Fasan	NN	 Fasan	Fasan
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Stich	NN	 Stich	Stich
+den	ART	 d	den
+Capaunen	NN	 UNKNOWN	Capaunen
+abe	PAV	 dabei	dabei
+wie	KOKOM	 wie	wie
+sonsten	ADJD	 UNKNOWN	sonsten
+</seg>
+<seg type="newline">
+lasse	VVFIN	 lassen	lasse
+jhn	PPER	 er	ihn
+eine	ART	 ein	eine
+Weile	NN	 Weile	Weile
+verbluten	VVINF	 verbluten	verbluten
+</seg>
+<seg type="newline">
+kehre	VVFIN	 kehren	kehre
+oder	KON	 oder	oder
+wende	VVFIN	 wenden	wende
+jhn	PPER	 er	ihn
+dann	ADV	 dann	dann
+vmb	TRUNC	 UNKNOWN	vmb
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+geusse	NN	 UNKNOWN	geusse
+einen	ART	 ein	einen
+Essig	NN	 Essig	Essig
+oben	ADV	 oben	oben
+in	APPR	 in	in
+den	ART	 d	den
+Capaunen	NN	 UNKNOWN	Capaunen
+biß	VVFIN	 beißen	biß
+er	PPER	 er	er
+stirbet	VVFIN	 UNKNOWN	stirbet
+</seg>
+<seg type="newline">
+hencke	NE	 UNKNOWN	hencke
+jhn	PPER	 er	ihn
+darnach	PAV	 danach	Danach
+beym	ADJA	 UNKNOWN	beym
+Hals	NN	 Hals	Hals
+oder	KON	 oder	oder
+Kragen	NN	 Kragen	Kragen
+auff	APPR	 auf	auf
+einen	ART	 ein	einen
+halben	ADJA	 halb	halben
+Tag	NN	 Tag	Tag
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+der	ART	 d	der
+Essig	NN	 Essig	Essig
+nicht	PTKNEG	 nicht	nicht
+herauß	NN	 UNKNOWN	herauß
+rinne	VVFIN	 rinnen	rinne
+</seg>
+<seg type="newline">
+man	PIS	 man	man
+darff	VVFIN	 UNKNOWN	darff
+jhn	PPER	 er	ihn
+aber	ADV	 aber	aber
+mit	APPR	 mit	mit
+heissem	ADJA	 heiß	heissem
+Wasser	NN	 Wasser	Wasser
+nicht	PTKNEG	 nicht	nicht
+brennen	VVINF	 brennen	brennen
+</seg>
+<seg type="newline">
+sondern	KON	 sondern	sondern
+pflöcke	VVFIN	 pflücken	pflücken
+jhn	PPER	 er	ihn
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+ein	ART	 ein	ein
+Vogel	NN	 Vogel	Vogel
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

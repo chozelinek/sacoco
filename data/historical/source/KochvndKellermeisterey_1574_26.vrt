@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Koch_vnd_Kellermeisterey_1574_26" collection="historical" source="Koch_vnd_Kellermeisterey" url="none" year="1574" decade="1570-1580" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1574:18r]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+Holdermuß	NN	 UNKNOWN	Holdermuß
+von	APPR	 von	von
+Beeren	NN	 Beere	Beeren
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimholderbeer	NN	 UNKNOWN	Nimholderbeer
+</seg>
+<seg type="newline">
+wäsch	VVFIN	 UNKNOWN	wäsch
+sie	PPER	 sie	sie
+schön	PTKVZ	 schön	schön
+</seg>
+<seg type="newline">
+stoß	VVIMP	 stoßen	stoß
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+gebähtem	ADJA	 UNKNOWN	gebähtem
+Weißbrodt	NN	 Weißbrot	Weißbrot
+vnd	KON	 und	und
+hüner	NN	 UNKNOWN	Hünern
+brühe	VVFIN	 brühen	brühe
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+guten	ADJA	 gut	guten
+wein	VVIMP	 weinen	wein
+</seg>
+<seg type="newline">
+thu	NE	 Thu	thu
+geriben	ADJA	 UNKNOWN	geriben
+Lebkuchen	NN	 Lebkuchen	Lebkuchen
+oder	KON	 oder	oder
+Honig	NN	 Honig	Honig
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+machs	NN	 UNKNOWN	machs
+ab	ADV	 ab	ab
+mit	PTKVZ	 mit	mit
+würtz	VVFIN	 würzen	würzt
+</seg>
+<seg type="newline">
+treibs	NN	 Kreis	Kreis
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+tuch	NN	 Tuch	tuch
+in	APPR	 in	in
+ein	ART	 ein	ein
+hafen	NN	 Hafen	hafen
+oder	KON	 oder	oder
+Pfannen	NN	 Pfanne	Pfannen
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+erwallen	ADJA	 UNKNOWN	erwallen
+</seg>
+<seg type="newline">
+streuwe	NN	 UNKNOWN	streuwe
+würtz	VVFIN	 würzen	würzt
+darauff	PAV	 drauf	drauf
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

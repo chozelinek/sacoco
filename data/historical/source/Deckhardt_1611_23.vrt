@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Deckhardt_1611_23" collection="historical" source="Deckhardt" url="none" year="1611" decade="1610-1620" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1611:198]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+ander	ADJA	 UNKNOWN	ander
+Mandelmuhs	NN	 UNKNOWN	Mandelmuhs
+zumachen	VVFIN	 zumachen	zumachen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wann	PWAV	 wann	Wann
+die	ART	 d	die
+Mandeln	NN	 Mandel	Mandeln
+geschelet	ADJD	 UNKNOWN	geschelet
+</seg>
+<seg type="newline">
+gestossen	VVPP	 stoßen	gestossen
+vngerieben	VVFIN	 UNKNOWN	vngerieben
+sein	PPOSAT	 sein	sein
+</seg>
+<seg type="newline">
+So	ADV	 so	So
+nimm	VVIMP	 nehmen	nimm
+dann	ADV	 dann	dann
+etzliche	ADJA	 UNKNOWN	Etliche
+Eyer	NE	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+schlage	VVFIN	 schlagen	schlage
+sie	PPER	 sie	sie
+in	APPR	 in	in
+ein	ART	 ein	ein
+Töpflein	NN	 UNKNOWN	Töpflein
+</seg>
+<seg type="newline">
+geus	NN	 UNKNOWN	geuß
+ein	ART	 ein	ein
+gut	ADJD	 gut	gut
+Mäßlein	NN	 UNKNOWN	Mäßlein
+Milch	NN	 Milch	Milch
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+quirle	ADJA	 UNKNOWN	quirle
+es	PPER	 es	es
+wol	PWAV	 wo	wo
+durch	APPR	 durch	durch
+einander	PRF	 einander	einander
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+ein	ART	 ein	ein
+Schmaltz	NN	 Schmalz	Schmalz
+inn	VVFIN	 UNKNOWN	inn
+einer	ART	 ein	einer
+Pfanne	NN	 Pfanne	Pfanne
+oder	KON	 oder	oder
+Tiegel	NN	 Tiegel	Tiegel
+wol	PWAV	 wo	wo
+heis	NN	 UNKNOWN	heis
+</seg>
+<seg type="newline">
+schütte	VVFIN	 schütten	schütte
+die	ART	 d	die
+Eyer	NE	 UNKNOWN	Eyer
+vnd	KON	 und	und
+Milch	NN	 Milch	Milch
+drein	ADV	 drein	drein
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+sieden	VVFIN	 sieden	sieden
+wie	KOKOM	 wie	wie
+eine	ART	 ein	eine
+andere	ADJA	 ander	andere
+Eyermilch	NN	 UNKNOWN	Eyermilch
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+schütte	VVFIN	 schütten	schütte
+es	PPER	 es	es
+in	APPR	 in	in
+einen	ART	 ein	einen
+Durchschlag	NN	 Durchschlag	Durchschlag
+oder	KON	 oder	oder
+Tuch	NN	 Tuch	Tuch
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+vorseigen	VVINF	 UNKNOWN	vorseigen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+reibe	VVFIN	 reiben	reibe
+es	PPER	 es	es
+an	APPR	 an	an
+die	ART	 d	die
+Mandeln	NN	 Mandel	Mandeln
+vnd	KON	 und	und
+mache	VVFIN	 machen	mache
+es	PPER	 es	es
+mit	APPR	 mit	mit
+Zucker	NN	 Zucker	Zucker
+süsse	VVFIN	 süßen	süsse
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

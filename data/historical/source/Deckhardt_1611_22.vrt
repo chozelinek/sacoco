@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Deckhardt_1611_22" collection="historical" source="Deckhardt" url="none" year="1611" decade="1610-1620" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1611:188f.]">
+<title>
+<seg type="newline">
+Eine	ART	 ein	Eine
+Gallarte	NN	 UNKNOWN	Gallarte
+von	APPR	 von	von
+Eyern	ADJA	 UNKNOWN	Eyern
+oder	KON	 oder	oder
+gestandene	ADJA	 gestanden	gestandene
+Eyer	NE	 UNKNOWN	Eyer
+zumachen	VVFIN	 zumachen	zumachen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nim	ADJA	 UNKNOWN	nimb
+zehen	NN	 Zeh|Zehe	zehen
+oder	KON	 oder	oder
+zwölff	ADJA	 UNKNOWN	zwölff
+Eyer	NE	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+das	ART	 d	das
+weisse	ADJA	 weiß	weisse
+besonders	ADV	 besonders	besonders
+</seg>
+<seg type="newline">
+klopffe	VVFIN	 UNKNOWN	klopffe
+es	PPER	 es	es
+wol	PWAV	 wo	wo
+vntereinander	ADV	 untereinander	untereinander
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+menge	VVFIN	 mengen	menge
+Zucker	NN	 Zucker	Zucker
+drein	ADV	 drein	drein
+darnach	PAV	 danach	Danach
+nim	VVFIN	 UNKNOWN	nimb
+einen	ART	 ein	einen
+dicken	ADJA	 dick	dicken
+Rohm	NN	 UNKNOWN	Rohm
+</seg>
+<seg type="newline">
+Setze	NN	 UNKNOWN	Setze
+jhn	PPER	 er	ihn
+zum	APPRART	 zum	zum
+Fewer	NN	 Feuer	Feuer
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+wenn	KOUS	 wenn	wenn
+es	PPER	 es	es
+anfehet	VVFIN	 UNKNOWN	anfehet
+zu	PTKVZ	 zu	zu
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+So	ADV	 so	So
+schütte	VVFIN	 schütten	schütte
+die	ART	 d	die
+Eyer	NE	 UNKNOWN	Eyer
+klar	ADJD	 klar	klar
+drein	ADV	 drein	drein
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+sieden	VVINF	 sieden	sieden
+</seg>
+<seg type="newline">
+hebe	VVFIN	 heben	hebe
+es	PPER	 es	es
+vom	APPRART	 vom	vom
+Fewer	NN	 Feuer	Feuer
+vnd	KON	 und	und
+laß	ADJD	 laß	laß
+vor	PTKVZ	 vor	vor
+kühlen	VVINF	 kühlen	kühlen
+.	$.	.	$.	 .	|	.
+Zuuor	NN	 UNKNOWN	Zuuor
+aber	ADV	 aber	aber
+nim	VVFIN	 UNKNOWN	nimb
+das	ART	 d	das
+gelbe	ADJA	 gelb	gelbe
+</seg>
+<seg type="newline">
+menge	VVFIN	 mengen	menge
+auch	ADV	 auch	auch
+Zucker	NN	 Zucker	Zucker
+darunter	PAV	 darunter	darunter
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+laß	ADJD	 laß	laß
+eine	ART	 ein	eine
+Milch	NN	 Milch	Milch
+wol	PWAV	 wo	wo
+heis	NN	 UNKNOWN	heis
+werden	VAINF	 werden	werden
+</seg>
+<seg type="newline">
+schütte	VVFIN	 schütten	schütte
+die	ART	 d	die
+Totter	NN	 UNKNOWN	Totter
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+geus	VVPP	 UNKNOWN	geuß
+balde	NN	 UNKNOWN	balde
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+kalt	ADJD	 kalt	kalt
+Wasser	NN	 Wasser	Wasser
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+So	ADV	 so	So
+lauffen	NN	 Raute	Rauten
+sie	PPER	 sie	sie
+zusammen	ADV	 zusammen	zusammen
+</seg>
+<seg type="newline">
+schütte	VVFIN	 schütten	schütte
+es	PPER	 es	es
+dann	ADV	 dann	dann
+in	APPR	 in	in
+ein	ART	 ein	ein
+Tüchlein	NN	 Tüchlein	Tüchlein
+binde	VVFIN	 binden	binde
+es	PPER	 es	es
+zusammen	ADV	 zusammen	zusammen
+</seg>
+<seg type="newline">
+beschwere	VVFIN	 beschweren	beschwere
+es	PPER	 es	es
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+damit	PAV	 damit	damit
+das	ART	 d	das
+Wasser	NN	 Wasser	Wasser
+daruon	VVFIN	 UNKNOWN	daruon
+leufft	ADJD	 UNKNOWN	leufft
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+hertlicht	ADJD	 UNKNOWN	hertlicht
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+schneide	VVFIN	 schneiden	schneide
+länglichte	ADJA	 UNKNOWN	länglichte
+oder	KON	 oder	oder
+breite	ADJA	 breit	breite
+stücklein	NN	 Stücklein	stücklein
+daraus	PAV	 daraus	daraus
+</seg>
+<seg type="newline">
+Richte	NN	 UNKNOWN	Richte
+sie	PPER	 sie	sie
+in	APPR	 in	in
+eine	ART	 ein	eine
+Schüssel	NN	 Schüssel	Schüssel
+an	APPR	 an	an
+</seg>
+<seg type="newline">
+Wil	NE	 Wil	Wil
+man	PIS	 man	man
+so	ADV	 so	so
+strewe	VVFIN	 streuen	streuen
+kleine	ADJA	 klein	kleine
+Rosinlein	NN	 UNKNOWN	Rosinlein
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+geus	NN	 UNKNOWN	geuß
+die	ART	 d	die
+Eyer	NE	 UNKNOWN	Eyer
+klar	ADJD	 klar	klar
+darauff	PAV	 drauf	drauf
+.	$.	.	$.	 .	|	.
+Man	PIS	 man	Man
+mag	VMFIN	 mögen	mag
+auch	ADV	 auch	auch
+wol	PWAV	 wo	wo
+gefülte	ADJA	 UNKNOWN	gefülte
+Eyer	NE	 UNKNOWN	Eyer
+wie	KOKOM	 wie	wie
+zuuor	ADJD	 UNKNOWN	zuuor
+beschrieben	VVPP	 beschreiben	beschrieben
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+nur	ADV	 nur	nur
+schlechte	ADJA	 schlecht	schlechte
+abgesottene	ADJA	 UNKNOWN	abgesottene
+harte	ADJA	 hart	harte
+Eyer	NE	 UNKNOWN	Eyer
+nehmen	VVFIN	 nehmen	nehmen
+</seg>
+<seg type="newline">
+halb	ADJD	 halb	halb
+von	APPR	 von	von
+einander	PRF	 einander	einander
+schneiden	VVINF	 schneiden	schneiden
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+neben	APPR	 neben	neben
+das	ART	 d	das
+gelbe	ADJA	 gelb	gelbe
+von	APPR	 von	von
+Eyern	ADJD	 UNKNOWN	Eyern
+anrichten	VVINF	 anrichten	anrichten
+.	$.	.	$.	 .	|	.
+Setze	VVFIN	 setzen	Setze
+es	PPER	 es	es
+dann	ADV	 dann	dann
+in	APPR	 in	in
+einen	ART	 ein	einen
+Keller	NN	 Keller	Keller
+oder	KON	 oder	oder
+kühlen	VVFIN	 kühlen	kühlen
+orth	ADJD	 UNKNOWN	orth
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+laß	ADJD	 laß	laß
+gestehen	VVFIN	 gestehen	gestehen
+</seg>
+<seg type="newline">
+So	ADV	 so	So
+wird	VAFIN	 werden	wird
+es	PPER	 es	es
+recht	ADJD	 recht	recht
+hübsch	ADJD	 hübsch	hübsch
+vnd	KON	 und	und
+gut	ADJD	 gut	gut
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

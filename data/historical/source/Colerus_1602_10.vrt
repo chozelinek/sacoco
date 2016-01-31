@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Colerus_1602_10" collection="historical" source="Colerus" url="none" year="1602" decade="1600-1610" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1602:134]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+Spenat	NN	 UNKNOWN	Spenat
+auff	APPR	 auf	auf
+Vngrisch	NE	 UNKNOWN	Vngrisch
+zu	PTKZU	 zu	zu
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nim	ADJA	 UNKNOWN	nimb
+zwippeln	NN	 UNKNOWN	zwippeln
+</seg>
+<seg type="newline">
+zuschneit	VVFIN	 UNKNOWN	zuschneit
+sie	PPER	 sie	sie
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+thue	ADJD	 UNKNOWN	thue
+darunter	PAV	 darunter	darunter
+kleine	ADJA	 klein	kleine
+Rosincken	NN	 Rosine	Rosinen
+</seg>
+<seg type="newline">
+thue	VVFIN	 UNKNOWN	thue
+sie	PPER	 sie	sie
+in	APPR	 in	in
+einen	ART	 ein	einen
+Topf	NN	 Topf	Topf
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+thue	NN	 UNKNOWN	thue
+darzu	PAV	 dazu	dazu
+diesen	PDAT	 dies	diesen
+Spenat	NN	 UNKNOWN	Spenat
+</seg>
+<seg type="newline">
+drucke	VVFIN	 drucken	drucke
+jhn	PPER	 er	ihn
+also	ADV	 also	also
+gantz	ADV	 ganz	ganz
+vnd	KON	 und	und
+wol	PWAV	 wo	wo
+gedrang	ADJD	 UNKNOWN	gedrang
+hinein	PTKVZ	 hinein	hinein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+geus	NN	 UNKNOWN	geuß
+halb	ADJD	 halb	halb
+Wasser	NN	 Wasser	Wasser
+vnd	KON	 und	und
+halb	ADJD	 halb	halb
+Weinessig	NN	 Weinessig	Weinessig
+darauff	PAV	 drauf	drauf
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+las	VVFIN	 lesen	las
+flucks	NN	 UNKNOWN	flucks
+einsieden	VVFIN	 einziehen	einziehen
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+nicht	PTKNEG	 nicht	nicht
+viel	ADV	 viel	viel
+Soht	ADJD	 UNKNOWN	Soht
+darauff	PAV	 drauf	drauf
+bleibet	VVFIN	 bleiben	bleibet
+</seg>
+<seg type="newline">
+machs	NE	 UNKNOWN	machs
+fein	ADJD	 fein	fein
+mit	APPR	 mit	mit
+Zucker	NN	 Zucker	Zucker
+abe	PAV	 dabei	dabei
+</seg>
+<seg type="newline">
+das	PRELS	 d	das
+es	PPER	 es	es
+nicht	PTKNEG	 nicht	nicht
+zu	PTKVZ	 zu	zu
+süsse	VVFIN	 süßen	süsse
+noch	ADV	 noch	noch
+zu	APPR	 zu	zu
+sawer	NE	 UNKNOWN	sawer
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+mach	VVIMP	 machen	mach
+es	PPER	 es	es
+ab	PTKVZ	 ab	ab
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Baumöhle	NN	 UNKNOWN	Baumöhle
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+kosts	NN	 UNKNOWN	kosts
+zu	PTKA	 zu	zu
+rechter	ADJD	 recht	rechter
+massen	VVINF	 maßen	massen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+saltze	ADJA	 kalt	kalten
+es	PPER	 es	es
+.	$.	.	$.	 .	|	.
+Vnd	KON	 und	und
+wenn	KOUS	 wenn	wenn
+du	PPER	 du	du
+es	PPER	 es	es
+wilt	NE	 Wilt	wilt
+anrichten	VVFIN	 anrichten	anrichten
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+lege	VVFIN	 legen	lege
+drumb	ADJA	 UNKNOWN	drumb
+gebackene	ADJA	 gebacken	gebackene
+Gründeln	NN	 Gründeln	Gründeln
+oder	KON	 oder	oder
+Kressen	TRUNC	 UNKNOWN	Kressen
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Herbstlachs	NN	 UNKNOWN	Herbstlachs
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+gesottene	ADJA	 gesiedet	Gesottenes
+Neunaugen	NN	 UNKNOWN	Neunaugen
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+andere	ADJA	 ander	andere
+gute	ADJA	 gut	gute
+gebackene	ADJA	 gebacken	gebackene
+Fische	NN	 Fisch	Fische
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

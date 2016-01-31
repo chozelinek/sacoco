@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Deckhardt_1611_13" collection="historical" source="Deckhardt" url="none" year="1611" decade="1610-1620" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1611:109f.]">
+<title>
+<seg type="newline">
+Karpffen	NN	 UNKNOWN	Karpffen
+in	APPR	 in	in
+einem	ART	 ein	einem
+braunen	ADJA	 braun	braunen
+oder	KON	 oder	oder
+Kirschsödlein	NN	 UNKNOWN	Kirschsödlein
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Schupe	NN	 UNKNOWN	Schupe
+den	ART	 d	den
+Karpffen	NN	 UNKNOWN	Karpffen
+</seg>
+<seg type="newline">
+zerkerbe	VVFIN	 UNKNOWN	zerkerbe
+jhn	PPER	 er	ihn
+auff	APPR	 auf	auf
+beyden	NN	 UNKNOWN	beyden
+seiten	APPR	 seiten	seiten
+</seg>
+<seg type="newline">
+reiß	VVIMP	 reißen	reiß
+jhn	PPER	 er	ihn
+vnd	KON	 und	und
+mache	VVFIN	 machen	mache
+stücken	VVFIN	 stücken	stücken
+draus	PAV	 draus	draus
+</seg>
+<seg type="newline">
+bestrewe	VVFIN	 bestreuen	bestreuen
+die	ART	 d	die
+stücken	VVFIN	 stücken	stücken
+mit	APPR	 mit	mit
+saltz	ADJA	 kalt	kalten
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+lege	VVFIN	 legen	lege
+sie	PPER	 sie	sie
+in	APPR	 in	in
+einen	ART	 ein	einen
+Kessel	NN	 Kessel	Kessel
+oder	KON	 oder	oder
+Tigel	NN	 UNKNOWN	Tigel
+</seg>
+<seg type="newline">
+Darnach	ADV	 UNKNOWN	Darnach
+so	ADV	 so	so
+weiche	VVFIN	 weichen	weiche
+ein	ART	 ein	ein
+gut	ADJD	 gut	gut
+stücke	VVFIN	 stücken	stücke
+Kirschmuhß	TRUNC	 UNKNOWN	Kirschmuhß
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Kirschsafft	NN	 UNKNOWN	Kirschsafft
+in	APPR	 in	in
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+streich	VVIMP	 streichen	streich
+es	PPER	 es	es
+darmit	NN	 UNKNOWN	darmit
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+sieblein	TRUNC	 UNKNOWN	sieblein
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+durchschlag	NN	 Durchschlag	durchschlag
+vbern	ADJA	 UNKNOWN	vbern
+Karpffen	NN	 UNKNOWN	Karpffen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+geus	NN	 UNKNOWN	geuß
+noch	ADV	 noch	noch
+ein	ART	 ein	ein
+glaß	NN	 UNKNOWN	glaß
+Wein	NN	 Wein	Wein
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+Würtze	NN	 UNKNOWN	Würtze
+es	PPER	 es	es
+mit	APPR	 mit	mit
+Ingwer	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Neglein	NN	 UNKNOWN	Neglein
+</seg>
+<seg type="newline">
+Zimmet	NN	 Zimt	Zimt
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+oder	KON	 oder	oder
+Honig	NN	 Honig	Honig
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+es	PPER	 es	es
+süsse	ADJA	 süß	süsse
+gnung	NN	 UNKNOWN	gnung
+sey	NE	 UNKNOWN	sey
+</seg>
+<seg type="newline">
+las	VVFIN	 lesen	las
+also	ADV	 also	also
+miteinander	ADV	 miteinander	miteinander
+sieden	VVINF	 sieden	sieden
+bis	KON	 bis	bis
+es	PPER	 es	es
+ein	ART	 ein	ein
+dickes	ADJA	 dick	dickes
+södlein	NN	 UNKNOWN	södlein
+bekommet	NE	 UNKNOWN	bekommet
+</seg>
+<seg type="newline">
+richte	VVFIN	 richten	richte
+es	PPER	 es	es
+den	PDS	 d	den
+an	PTKVZ	 an	an
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+gieb	VVFIN	 UNKNOWN	gieb
+es	PPER	 es	es
+warm	ADJD	 warm	warm
+oder	KON	 oder	oder
+kalt	ADJD	 kalt	kalt
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+ist	VAFIN	 sein	ist
+es	PPER	 es	es
+gut	ADJD	 gut	gut
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

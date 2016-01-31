@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Thieme_1682_31" collection="historical" source="Thieme" url="none" year="1682" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1027]">
+<title>
+<seg type="newline">
+Guten	ADJA	 gut	Guten
+Eyer=Käs	NN	 UNKNOWN	Eyer=Käs
+zu	PTKZU	 zu	zu
+bereiten	VVINF	 bereiten	bereiten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nehmet	VVFIN	 nehmen	Nehmet
+ein	ART	 ein	ein
+Maas	NE	 Maas	Maas
+süssen	ADJA	 süß	süssen
+Milchraum	NN	 UNKNOWN	Milchraum
+</seg>
+<seg type="newline">
+(	$(	(	$(	 (	|	(
+oder	KON	 oder	oder
+Kern	NE	 Kern	Kern
+)	$(	)	$(	 )	|	)
+und	KON	 und	und
+18.	ADJA	 18.	18.
+frische	ADJA	 frisch	frische
+Eyer	NE	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+schlaget	VVFIN	 UNKNOWN	schlaget
+die	ART	 d	die
+Eyer	NE	 UNKNOWN	Eyer
+in	APPR	 in	in
+einen	ART	 ein	einen
+Hafen	NN	 Hafen	Hafen
+</seg>
+<seg type="newline">
+klopffet	VVFIN	 UNKNOWN	klopffet
+sie	PPER	 sie	sie
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+giesset	PDS	 dies	diese
+den	ART	 d	den
+Milchraum	NN	 UNKNOWN	Milchraum
+darunter	PAV	 darunter	darunter
+</seg>
+<seg type="newline">
+rührets	VVFIN	 UNKNOWN	rührets
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Löffel	NN	 Löffel	Löffel
+wol	PWAV	 wo	wo
+durcheinander	ADV	 durcheinander	durcheinander
+</seg>
+<seg type="newline">
+setzets	ADV	 stets	stets
+auf	APPR	 auf	auf
+Kohlen	NN	 Kohle	Kohlen
+</seg>
+<seg type="newline">
+rührets	ADJA	 UNKNOWN	rührets
+wol	PWAV	 wo	wo
+um	APPR	 um	um
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+nicht	PTKNEG	 nicht	nicht
+stinkend	ADJD	 stinkend	stinkend
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+machets	NN	 UNKNOWN	machets
+mit	APPR	 mit	mit
+Zucker	NN	 Zucker	Zucker
+wol	PWAV	 wo	wo
+süß	ADJD	 süß	süß
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+es	PPER	 es	es
+zusammen	ADV	 zusammen	zusammen
+gelauffen	VVFIN	 UNKNOWN	gelauffen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+thuts	ADJD	 UNKNOWN	thuts
+in	APPR	 in	in
+Eyer=Käs=Körblein	NN	 UNKNOWN	Eyer=Käs=Körblein
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+in	APPR	 in	in
+die	ART	 d	die
+Eyer=Käs=Formen	NN	 UNKNOWN	Eyer=Käs=Formen
+</seg>
+<seg type="newline">
+lasset	VVFIN	 lassen	lasset
+das	ART	 d	das
+Wasser	NN	 Wasser	Wasser
+oder	KON	 oder	oder
+Molken	NN	 UNKNOWN	Molken
+davon	PAV	 davon	davon
+rinnen	VVFIN	 rinnen	rinnen
+</seg>
+<seg type="newline">
+stürzets	NN	 UNKNOWN	stürzets
+hernach	ADV	 hernach	hernach
+auf	APPR	 auf	auf
+eine	ART	 ein	eine
+Schale	NN	 Schale	Schale
+oder	KON	 oder	oder
+Schüssel	NN	 Schüssel	Schüssel
+</seg>
+<seg type="newline">
+bestreuets	NN	 UNKNOWN	bestreuets
+mit	APPR	 mit	mit
+Zucker	NN	 Zucker	Zucker
+und	KON	 und	und
+Zimmet	NN	 Zimt	Zimt
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Buchinger_1700_13" collection="historical" source="Buchinger" url="none" year="1700" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:1f.]">
+<title>
+<seg type="newline">
+575.	ADJA	 @ord@	575.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Oder	KON	 oder	Oder
+man	PIS	 man	man
+klopfft	VVFIN	 UNKNOWN	klopfft
+Eyer	NE	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+zerrührts	NN	 UNKNOWN	zerrührts
+mit	APPR	 mit	mit
+rein	ADV	 rein	rein
+gestossenem	ADJA	 gestoßen	gestossenem
+Semmtlbrodt	NN	 UNKNOWN	Semmtlbrodt
+</seg>
+<seg type="newline">
+Milchraum	NN	 UNKNOWN	Milchraum
+</seg>
+<seg type="newline">
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+Majeron	NE	 UNKNOWN	Majeron
+</seg>
+<seg type="newline">
+Imber	NN	 UNKNOWN	Imber
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+gelb	ADJD	 gelb	gelb
+Gewürtz	NN	 UNKNOWN	Gewürtz
+auch	ADV	 auch	auch
+Muscatblust	NN	 UNKNOWN	Muscatblust
+</seg>
+<seg type="newline">
+gut	ADJD	 gut	gut
+Mehl	NN	 Mehl	Mehl
+</seg>
+<seg type="newline">
+macht	VVFIN	 machen	macht
+Knöpflin	NN	 UNKNOWN	Knöpflin
+darauß	NN	 UNKNOWN	herauß
+</seg>
+<seg type="newline">
+und	KON	 und	und
+siedts	NE	 UNKNOWN	siedts
+in	APPR	 in	in
+Erbsenbrühe	NN	 UNKNOWN	Erbsenbrühe
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+bachts	NN	 UNKNOWN	bachts
+in	APPR	 in	in
+heissem	ADJA	 heiß	heissem
+Schmaltz	NN	 Schmalz	Schmalz
+</seg>
+<seg type="newline">
+man	PIS	 man	man
+kan	ADV	 nun	Nun
+geschehlte	ADJA	 UNKNOWN	geschehlte
+gestossene	ADJA	 gestoßen	gestossene
+Mandlen	NN	 UNKNOWN	Mandlen
+</seg>
+<seg type="newline">
+Meertrauben	NN	 UNKNOWN	Meertrauben
+oder	KON	 oder	oder
+Rosilin	NN	 UNKNOWN	Rosilin
+daran	PAV	 daran	daran
+thun	NE	 UNKNOWN	thue
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

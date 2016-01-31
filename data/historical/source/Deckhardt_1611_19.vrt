@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Deckhardt_1611_19" collection="historical" source="Deckhardt" url="none" year="1611" decade="1610-1620" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1611:161f.]">
+<title>
+<seg type="newline">
+Eine	ART	 ein	Eine
+andere	ADJA	 ander	andere
+gute	ADJA	 gut	gute
+Fischgallarte	NN	 UNKNOWN	Fischgallarte
+.	$.	.	$.	 .	|	.
+|	XY	|	XY	 |	|	|
+[	$(	[	$(	 [	|	[
+162	CARD	 @card@	162
+]	$(	]	$(	 ]	|	]
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nim	VVFIN	 UNKNOWN	nimb
+die	ART	 d	die
+Fische	NN	 Fisch	Fische
+welche	PRELS	 welch	welche
+man	PIS	 man	man
+wil	NE	 Wil	wil
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+schüpe	NE	 UNKNOWN	schüpe
+sie	PPER	 sie	sie
+</seg>
+<seg type="newline">
+bestreiche	VVFIN	 bestreichen	bestreiche
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+laß	ADJD	 laß	laß
+sie	PPER	 sie	sie
+eine	ART	 ein	eine
+stunde	VVIMP	 stunden	stunde
+darinnen	VVINF	 darinnen	darinnen
+liegen	VVINF	 liegen	liegen
+</seg>
+<seg type="newline">
+streiche	VVFIN	 streichen	streiche
+sie	PPER	 sie	sie
+dann	ADV	 dann	dann
+abe	PAV	 dabei	dabei
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+wasche	VVFIN	 waschen	wasche
+sie	PPER	 sie	sie
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+aus	PTKVZ	 aus	aus
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+lege	VVFIN	 legen	lege
+die	ART	 d	die
+stücken	VVFIN	 stücken	stücken
+fein	ADJD	 fein	fein
+nacheinander	ADV	 nacheinander	nacheinander
+in	APPR	 in	in
+einen	ART	 ein	einen
+Kessel	NN	 Kessel	Kessel
+oder	KON	 oder	oder
+Fischtiegel	NN	 UNKNOWN	Fischtiegel
+</seg>
+<seg type="newline">
+geus	NN	 UNKNOWN	geuß
+einen	ART	 ein	einen
+guten	ADJA	 gut	guten
+Wein	NN	 Wein	Wein
+dran	PAV	 dran	dran
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+es	PPER	 es	es
+gnug	ADJA	 UNKNOWN	gnug
+sey	NE	 UNKNOWN	sey
+</seg>
+<seg type="newline">
+Darnach	ADV	 UNKNOWN	Darnach
+nim	ADJA	 UNKNOWN	nimb
+Neglin	NN	 UNKNOWN	Neglin
+</seg>
+<seg type="newline">
+Zimmet	NN	 Zimt	Zimt
+</seg>
+<seg type="newline">
+Muscatenblüt	NN	 UNKNOWN	Muscatenblüt
+</seg>
+<seg type="newline">
+Ingwer	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+ein	ART	 ein	ein
+stücke	VVFIN	 stücken	stücke
+Hausenblasen	NN	 UNKNOWN	Hausenblasen
+</seg>
+<seg type="newline">
+dieses	PDAT	 dies	dieses
+alles	PIS	 alle	alles
+binde	VVFIN	 binden	binde
+in	APPR	 in	in
+ein	ART	 ein	ein
+Tüchlein	NN	 Tüchlein	Tüchlein
+</seg>
+<seg type="newline">
+henge	VVFIN	 UNKNOWN	henge
+es	PPER	 es	es
+zun	NE	 UNKNOWN	zun
+Fischen	NN	 Fisch|Fischen	Fischen
+in	APPR	 in	in
+die	ART	 d	die
+Brüe	NN	 UNKNOWN	Brüe
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+laß	ADJD	 laß	laß
+mit	APPR	 mit	mit
+einander	PRF	 einander	einander
+sieden	VVINF	 sieden	sieden
+</seg>
+<seg type="newline">
+Wann	PWAV	 wann	Wann
+es	PPER	 es	es
+nun	ADV	 nun	nun
+gnug	ADJD	 UNKNOWN	gnug
+gesotten	VVPP	 sieden	gesotten
+hat	VAFIN	 haben	hat
+</seg>
+<seg type="newline">
+So	ADV	 so	So
+lege	VVFIN	 legen	lege
+die	ART	 d	die
+stücken	VVFIN	 stücken	stücken
+in	APPR	 in	in
+eine	ART	 ein	eine
+Schüssel	NN	 Schüssel	Schüssel
+</seg>
+<seg type="newline">
+bestecke	VVFIN	 UNKNOWN	bestecke
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+Neglin	NN	 UNKNOWN	Neglin
+</seg>
+<seg type="newline">
+gantzer	ADJA	 UNKNOWN	gantzer
+Zimmet	NN	 Zimt	Zimt
+vnd	KON	 und	und
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+die	ART	 d	die
+Brüe	NE	 UNKNOWN	Brüe
+mit	APPR	 mit	mit
+Saffran	NN	 Safran	Safran
+wol	PWAV	 wo	wo
+gelbe	ADJA	 gelb	gelbe
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+geuß	NN	 UNKNOWN	geuß
+sie	PPER	 sie	sie
+dann	ADV	 dann	dann
+vber	VVFIN	 UNKNOWN	vber
+die	ART	 d	die
+Fische	NN	 Fisch	Fische
+.	$.	.	$.	 .	|	.
+Wann	PWAV	 wann	Wann
+sie	PPER	 sie	sie
+nun	ADV	 nun	nun
+gestanden	VVPP	 gestehen|stehen	gestanden
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+man	PIS	 man	man
+die	ART	 d	die
+Gallarte	NN	 UNKNOWN	Gallarte
+vortragen	VVFIN	 vortragen	vortragen
+wil	NE	 Wil	wil
+</seg>
+<seg type="newline">
+So	ADV	 so	So
+lege	VVFIN	 legen	lege
+geschnittene	ADJA	 geschnitten	geschnittene
+Mandeln	NN	 Mandel	Mandeln
+drumb	VVFIN	 UNKNOWN	drumb
+</seg>
+<seg type="newline">
+So	ADV	 so	So
+ist	VAFIN	 sein	ist
+sie	PPER	 sie	sie
+recht	ADJD	 recht	recht
+vnd	KON	 und	und
+gut	ADJD	 gut	gut
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

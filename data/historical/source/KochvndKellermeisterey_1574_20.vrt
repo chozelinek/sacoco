@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Koch_vnd_Kellermeisterey_1574_20" collection="historical" source="Koch_vnd_Kellermeisterey" url="none" year="1574" decade="1570-1580" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1574:27rf.]">
+<title>
+<seg type="newline">
+Gepreßter	ADJA	 gepreßt	Gepreßter
+Schweinskopff	NN	 UNKNOWN	Schweinskopff
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Sied	NN	 UNKNOWN	Sied
+den	ART	 d	den
+Kopff	NN	 UNKNOWN	Kopff
+inn	VVFIN	 UNKNOWN	inn
+einem	ART	 ein	einem
+saubern	ADJA	 UNKNOWN	saubern
+Kessel	NN	 Kessel	Kessel
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+die	ART	 d	die
+beyn	NE	 Bey	bey
+sich	PRF	 er|es|sie	sich
+ablosen	ADJA	 UNKNOWN	ablosen
+</seg>
+<seg type="newline">
+Säuber	NN	 UNKNOWN	Säuber
+jhn	PPER	 er	ihn
+schön	ADJD	 schön	schön
+</seg>
+<seg type="newline">
+zeuch	NN	 UNKNOWN	zeuch
+die	ART	 d	die
+beyn	NE	 Bey	bey
+darauß	NN	 UNKNOWN	herauß
+</seg>
+<seg type="newline">
+schneid	VVFIN	 schneiden	schneiden
+die	ART	 d	die
+schwart	NN	 UNKNOWN	schwart
+dauon	NN	 UNKNOWN	dauon
+</seg>
+<seg type="newline">
+hack	VVIMP	 hacken	hack
+das	PDS	 d	das
+ander	ADV	 UNKNOWN	ander
+.	$.	.	$.	 .	|	.
+Nimdie	NN	 UNKNOWN	Nimdie
+ohr	ADJA	 UNKNOWN	ohr
+</seg>
+<seg type="newline">
+wang	NN	 UNKNOWN	wang
+vnd	KON	 und	und
+zung	ADJA	 UNKNOWN	zung
+stoß	VVIMP	 stoßen	stoß
+wol	PWAV	 wo	wo
+in	APPR	 in	in
+eim	ADJA	 UNKNOWN	nimb
+Mörser	NN	 Mörser	Mörser
+mit	APPR	 mit	mit
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+brühe	VVFIN	 brühen	brühe
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+mach	VVIMP	 machen	mach
+ab	PTKVZ	 ab	ab
+mit	APPR	 mit	mit
+würtzen	ADJA	 UNKNOWN	würtzen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+geriben	ADJA	 UNKNOWN	geriben
+Lebkuchen	NN	 Lebkuchen	Lebkuchen
+</seg>
+<seg type="newline">
+also	ADV	 also	also
+viel	ADV	 viel	viel
+du	PPER	 du	du
+bedarffest	ADJD	 UNKNOWN	bedarffest
+.	$.	.	$.	 .	|	.
+Leg	VVIMP	 legen	Leg
+die	ART	 d	die
+schwart	NN	 UNKNOWN	schwart
+auff	APPR	 auf	auf
+ein	ART	 ein	ein
+feuchts	ADJA	 UNKNOWN	feuchts
+Pfeffer	NN	 Pfeffer	Pfeffer
+thuch	NN	 UNKNOWN	thuch
+</seg>
+<seg type="newline">
+thu	NE	 Thu	thu
+das	ART	 d	das
+gehäck	NN	 UNKNOWN	gehäck
+in	APPR	 in	in
+ein	ART	 ein	ein
+Mörser	NN	 Mörser	Mörser
+zum	APPRART	 zum	zum
+gemächt	ADJA	 UNKNOWN	gemächt
+der	ART	 d	der
+Lungen	NN	 Lunge	Lungen
+</seg>
+<seg type="newline">
+temperiers	NE	 UNKNOWN	temperiers
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+nicht	PTKNEG	 nicht	nicht
+zu	PTKA	 zu	zu
+dünn	ADJD	 dünn	dünn
+</seg>
+<seg type="newline">
+schlahe	VVFIN	 UNKNOWN	schlahe
+es	PPER	 es	es
+auff	APPR	 auf	auf
+die	ART	 d	die
+schwarten	NN	 Schwarte	schwarten
+</seg>
+<seg type="newline">
+magst	VMFIN	 mögen	magst
+Rosin	NN	 UNKNOWN	Rosin
+darein	ADV	 darein	darein
+thun	NE	 UNKNOWN	thue
+</seg>
+<seg type="newline">
+richts	PTKNEG	 nicht	nicht
+mit	APPR	 mit	mit
+den	ART	 d	den
+händen	NN	 Hand	händen
+auff	APPR	 auf	auf
+dem	ART	 d	dem
+thuch	NN	 UNKNOWN	thuch
+vmb	ADJA	 UNKNOWN	vmb
+vnd	KON	 und	und
+vmb	ADJA	 UNKNOWN	vmb
+</seg>
+<seg type="newline">
+schlah	NE	 UNKNOWN	schlah
+das	ART	 d	das
+tuch	NN	 Tuch	tuch
+wol	PWAV	 wo	wo
+eben	ADV	 eben	eben
+zu	APPR	 zu	zu
+</seg>
+<seg type="newline">
+verheffts	NN	 UNKNOWN	verheffts
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+faden	ADJA	 fade	faden
+</seg>
+<seg type="newline">
+legs	VVFIN	 legen	legt
+alles	PIS	 alle	alles
+in	APPR	 in	in
+ein	ART	 ein	ein
+Preß	NN	 UNKNOWN	Preß
+zwischen	APPR	 zwischen	zwischen
+zwei	CARD	 zwei	zwei
+brether	NE	 UNKNOWN	brether
+</seg>
+<seg type="newline">
+die	ART	 d	die
+breit	ADJD	 breit	breit
+genug	ADV	 genug	genug
+seind	VAFIN	 sein	sind
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+beschwere	VVFIN	 beschweren	beschwere
+es	PPER	 es	es
+mit	PTKVZ	 mit	mit
+steinen	VVFIN	 steinen	steinen
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+tag	VVIMP	 tagen	tag
+vnnd	KON	 und	und
+nacht	PTKVZ	 nacht	nacht
+trucknen	ADJA	 UNKNOWN	trucknen
+</seg>
+<seg type="newline">
+Schneid	NN	 Schneid	Schneid
+stück	VVIMP	 stücken	stück
+darab	NN	 UNKNOWN	darab
+in	APPR	 in	in
+einem	ART	 ein	einem
+pfeffer	NN	 Pfeffer	pfeffer
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

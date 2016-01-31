@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Osnabrueck_1687_29" collection="historical" source="Osnabrueck" url="none" year="1687" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1687:59]">
+<title>
+<seg type="newline">
+Würste	NN	 Wurst	Würste
+von	APPR	 von	von
+Schweine=Leber	NN	 UNKNOWN	Schweine=Leber
+zu	PTKZU	 zu	zu
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nehmt	VVFIN	 nehmen	Nehmt
+Schweine=Lebern	NN	 UNKNOWN	Schweine=Lebern
+</seg>
+<seg type="newline">
+kocht	VVFIN	 kochen	kocht
+sie	PPER	 sie	sie
+gar	ADV	 gar	gar
+</seg>
+<seg type="newline">
+und	KON	 und	und
+schäumet	VVFIN	 UNKNOWN	schäumet
+sie	PPER	 sie	sie
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+wenn	KOUS	 wenn	wenn
+sie	PPER	 sie	sie
+kalt	ADJD	 kalt	kalt
+worden	VAPP	 werden	worden
+</seg>
+<seg type="newline">
+hackt	VVFIN	 hacken	hackt
+sie	PPER	 sie	sie
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+nehmt	VVFIN	 nehmen	nehmt
+denn	KON	 denn	denn
+ein	ART	 ein	ein
+Orth	NE	 UNKNOWN	Orth
+süsser	ADJA	 süß	süsser
+Milch	NN	 Milch	Milch
+</seg>
+<seg type="newline">
+eine	ART	 ein	eine
+Hand	NN	 Hand	Hand
+voll	ADJD	 voll	voll
+alt	ADJD	 alt	alt
+gerieben	VVPP	 reiben	gerieben
+Weiß=Brod	NE	 UNKNOWN	Weiß=Brod
+</seg>
+<seg type="newline">
+und	KON	 und	und
+last	VVFIN	 lesen	last
+es	PPER	 es	es
+als	KOKOM	 als	als
+einen	ART	 ein	einen
+Brey	NE	 UNKNOWN	Brey
+dick	ADJD	 dick	dick
+kochen	VVFIN	 kochen	kochen
+</seg>
+<seg type="newline">
+thut	NE	 UNKNOWN	thue
+auch	ADV	 auch	auch
+ein	ART	 ein	ein
+gut	ADJD	 gut	gut
+Stück	NN	 Stück	Stück
+Butter	NN	 Butter	Butter
+dabey	PTKVZ	 dabei	dabei
+;	$.	;	$.	 ;	|	;
+Wenn	KOUS	 wenn	Wenn
+dieses	PDS	 dies	dieses
+fast	ADV	 fast	fast
+kalt	ADJD	 kalt	kalt
+worden	VAPP	 werden	worden
+</seg>
+<seg type="newline">
+rührt	VVFIN	 rühren	rührt
+es	PPER	 es	es
+unter	APPR	 unter	unter
+die	ART	 d	die
+Leber	NN	 Leber	Leber
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+auch	ADV	 auch	auch
+zehen	NN	 Zeh|Zehe	zehen
+klein	ADJD	 klein	klein
+geschlagene	ADJA	 geschlagen	geschlagene
+Eyer	NE	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+Muscaten=Nüsse	NN	 UNKNOWN	Muscaten=Nüsse
+</seg>
+<seg type="newline">
+Nägelein	NN	 UNKNOWN	Nägelein
+und	KON	 und	und
+Muscaten=Blumen	NN	 UNKNOWN	Muscaten=Blumen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+alle	PIAT	 alle	alle
+klein	ADJD	 klein	klein
+gestossen	VVPP	 stoßen	gestossen
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+etwas	ADV	 etwas	etwas
+von	APPR	 von	von
+geschmoltzener	ADJA	 UNKNOWN	geschmoltzener
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+füllet	VVFIN	 füllen	füllet
+damit	PAV	 damit	damit
+die	ART	 d	die
+Darmen	NN	 UNKNOWN	Darmen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+last	VVFIN	 lesen	last
+sie	PPER	 sie	sie
+eine	ART	 ein	eine
+Stunde	NN	 Stunde	Stunde
+kochen	VVFIN	 kochen	kochen
+</seg>
+<seg type="newline">
+es	PPER	 es	es
+ist	VAFIN	 sein	ist
+delicat	NE	 UNKNOWN	delicat
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

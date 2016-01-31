@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Deckhardt_1611_1" collection="historical" source="Deckhardt" url="none" year="1611" decade="1610-1620" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1611:1f.]">
+<title>
+<seg type="newline">
+Eine	ART	 ein	Eine
+krefftige	ADJA	 UNKNOWN	krefftige
+gesunde	ADJA	 gesund	gesunde
+Rindfleisch	NN	 Rindfleisch	Rindfleisch
+Suppe	NN	 Suppe	Suppe
+mit	APPR	 mit	mit
+verlornen	ADJA	 UNKNOWN	verlornen
+Eyern	NN	 UNKNOWN	Eyern
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nim	VVFIN	 UNKNOWN	nimb
+eine	ART	 ein	eine
+gute	ADJA	 gut	gute
+Rindfleisch	NN	 Rindfleisch	Rindfleisch
+Suppe	NN	 Suppe	Suppe
+oder	KON	 oder	oder
+Brüe	NE	 UNKNOWN	Brüe
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+die	ART	 d	die
+Totter	NN	 UNKNOWN	Totter
+oder	KON	 oder	oder
+das	ART	 d	das
+Gelbe	NN	 Gelbe	Gelbe
+von	APPR	 von	von
+vier	CARD	 vier	vier
+oder	KON	 oder	oder
+sechs	CARD	 sechs	sechs
+Eyern	VVFIN	 UNKNOWN	Eyern
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+der	ART	 d	der
+Suppen	NN	 Suppe	Suppen
+viel	ADV	 viel	viel
+oder	KON	 oder	oder
+wenig	PIS	 wenig	wenig
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+Quirle	NE	 UNKNOWN	Quirle
+es	PPER	 es	es
+wol	PWAV	 wo	wo
+vntereinander	ADV	 untereinander	untereinander
+</seg>
+<seg type="newline">
+So	ADV	 so	So
+man	PIS	 man	man
+wil	VVFIN	 UNKNOWN	wil
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+rüre	VVFIN	 UNKNOWN	rüre
+einen	ART	 ein	einen
+Löffel	NN	 Löffel	Löffel
+vol	PWAV	 wo	wo
+gut	ADJD	 gut	gut
+Mell	ADJD	 UNKNOWN	Mell
+drein	PTKVZ	 drein	drein
+.	$.	.	$.	 .	|	.
+Darnach	ADV	 UNKNOWN	Darnach
+würtze	VVFIN	 würzen	würzt
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Ingwer	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+kleinen	ADJA	 klein	kleinen
+geschnittenen	ADJA	 geschnitten	geschnittenen
+Muscaten	NN	 UNKNOWN	Muscaten
+Blumen	NN	 Blume	Blumen
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+einer	ART	 ein	einer
+geriebenen	ADJA	 gerieben	geriebenen
+Muscatennus	NN	 UNKNOWN	Muscatennus
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+Saffran	NN	 Safran	Safran
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+das	PRELS	 d	das
+sie	PPER	 sie	sie
+wol	PWAV	 wo	wo
+gelbe	ADJA	 gelb	gelbe
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+setze	VVFIN	 setzen	setze
+sie	PPER	 sie	sie
+von	APPR	 von	von
+fernst	ADJD	 UNKNOWN	fernst
+zum	APPRART	 zum	zum
+Fewer	NN	 Feuer	Feuer
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+mache	VVFIN	 machen	mache
+dan	NE	 Dan	dan
+die	ART	 d	die
+verlornen	ADJA	 UNKNOWN	verlornen
+Eyer	NE	 UNKNOWN	Eyer
+also	ADV	 also	also
+.	$.	.	$.	 .	|	.
+Nim	VVFIN	 UNKNOWN	nimb
+eine	ART	 ein	eine
+seichte	ADJA	 seicht	seichte
+Pfanne	NN	 Pfanne	Pfanne
+oder	KON	 oder	oder
+Tigel	NN	 UNKNOWN	Tigel
+</seg>
+<seg type="newline">
+geus	NN	 UNKNOWN	geuß
+zweyer	NE	 UNKNOWN	zweyer
+finger	VVIMP	 fingern	finger
+tieff	ADJA	 UNKNOWN	tieff
+Wasser	NN	 Wasser	Wasser
+drein	PTKVZ	 drein	drein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+setze	VVFIN	 setzen	setze
+es	PPER	 es	es
+vbers	ADJA	 UNKNOWN	vbers
+Fewer	NN	 Feuer	Feuer
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+wenn	KOUS	 wenn	wenn
+das	ART	 d	das
+Wasser	NN	 Wasser	Wasser
+anfehet	VVFIN	 UNKNOWN	anfehet
+zu	PTKVZ	 zu	zu
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+So	ADV	 so	So
+mache	VVFIN	 machen	mache
+ein	ART	 ein	ein
+Ey	NE	 Ey	Ey
+auff	PTKVZ	 auf	auf
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+schütte	VVFIN	 schütten	schütte
+es	PPER	 es	es
+fluxs	ADJD	 UNKNOWN	fluxs
+ins	APPRART	 ins	ins
+siedende	ADJA	 siedend	siedende
+Wasser	NN	 Wasser	Wasser
+.	$.	.	$.	 .	|	.
+Wenn	KOUS	 wenn	Wenn
+du	PPER	 du	du
+nun	ADV	 nun	nun
+siehest	VVFIN	 sehen	siehest
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+daß	KOUS	 daß	daß
+weisse	VVFIN	 weißen	weisse
+am	APPRART	 am	am
+Ey	NE	 Ey	Ey
+fein	ADJD	 fein	fein
+hertlicht	ADJD	 UNKNOWN	hertlicht
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nim	VVFIN	 UNKNOWN	nimb
+es	PPER	 es	es
+heraus	PTKVZ	 heraus	heraus
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+das	PDS	 d	das
+der	ART	 d	der
+Totter	NN	 UNKNOWN	Totter
+weich	ADJD	 weich	weich
+bleibet	VVFIN	 bleiben	bleibet
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+andere	ADJA	 ander	andere
+Eyer	NE	 UNKNOWN	Eyer
+drein	PTKVZ	 drein	drein
+</seg>
+<seg type="newline">
+bis	KON	 bis	bis
+derer	PDS	 d	derer
+gnung	ADJD	 UNKNOWN	gnung
+sein	VAINF	 sein	sein
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+sie	PPER	 sie	sie
+darnach	PAV	 danach	Danach
+auff	APPR	 auf	auf
+eine	ART	 ein	eine
+geschnitne	ADJA	 UNKNOWN	geschnitne
+Semmel	NN	 Semmel	Semmel
+in	APPR	 in	in
+die	ART	 d	die
+Schüssel	NN	 Schüssel	Schüssel
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+geus	NN	 UNKNOWN	geuß
+die	ART	 d	die
+obbemelte	ADJA	 UNKNOWN	obbemelte
+Suppe	NN	 Suppe	Suppe
+warm	ADJD	 warm	warm
+drüber	PAV	 drüber	drüber
+</seg>
+<seg type="newline">
+diß	ADJD	 UNKNOWN	diß
+ist	VAFIN	 sein	ist
+eine	ART	 ein	eine
+gesunde	ADJA	 gesund	gesunde
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+krefftige	ADJA	 UNKNOWN	krefftige
+Suppe	NN	 Suppe	Suppe
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Schuppe_1698_10" collection="historical" source="Schuppe" url="none" year="1698" decade="1690-1700" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1698:46]">
+<title>
+<seg type="newline">
+LXXIX	NE	 UNKNOWN	LXXIX
+.	$.	.	$.	 .	|	.
+Ragou	NE	 UNKNOWN	Ragou
+von	APPR	 von	von
+Kälberpreiß	NN	 UNKNOWN	Kälberpreiß
+oder	KON	 oder	oder
+Milch=Fleisch	NN	 UNKNOWN	Milch=Fleisch
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+den	ART	 d	den
+Kälberpreiß	NN	 UNKNOWN	Kälberpreiß
+</seg>
+<seg type="newline">
+wasche	VVFIN	 waschen	wasche
+ihn	PPER	 er	ihn
+sauber	ADJD	 sauber	sauber
+ab	PTKVZ	 ab	ab
+</seg>
+<seg type="newline">
+setze	VVFIN	 setzen	setze
+ihn	PPER	 er	ihn
+auffs	NE	 UNKNOWN	auffs
+Feuer	NN	 Feuer	Feuer
+</seg>
+<seg type="newline">
+blanchire	NN	 UNKNOWN	blanchire
+und	KON	 und	und
+schneide	VVFIN	 schneiden	schneide
+den	ART	 d	den
+Kälberpreiß	NN	 UNKNOWN	Kälberpreiß
+in	APPR	 in	in
+Stücken	NN	 Stück	Stücken
+</seg>
+<seg type="newline">
+nimButter	NN	 UNKNOWN	nimButter
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+sie	PPER	 sie	sie
+braun	ADJD	 braun	braun
+</seg>
+<seg type="newline">
+thue	NN	 UNKNOWN	thue
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Mehl	NN	 Mehl	Mehl
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+gelb=braun	ADJD	 UNKNOWN	gelb=braun
+werden	VAINF	 werden	werden
+</seg>
+<seg type="newline">
+nimm	VVIMP	 nehmen	nimm
+dann	ADV	 dann	dann
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+gehackte	ADJA	 gehackt	gehackte
+Zwiebeln	NN	 Zwiebel|Zwiebeln	Zwiebeln
+</seg>
+<seg type="newline">
+und	KON	 und	und
+thue	VVFIN	 UNKNOWN	thue
+sie	PPER	 sie	sie
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+sie	PPER	 sie	sie
+braten	VVFIN	 braten	braten
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+den	ART	 d	den
+Kälberpreiß	NN	 UNKNOWN	Kälberpreiß
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Muscaten=Blumen	NN	 UNKNOWN	Muscaten=Blumen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Nägelein	NN	 UNKNOWN	Nägelein
+</seg>
+<seg type="newline">
+gieß	VVIMP	 gießen	gieß
+Fleisch=Brühe	NN	 Fleischbrühe	Fleischbrühe
+darauff	PAV	 drauf	drauf
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+dengahr	NN	 UNKNOWN	dengahr
+kochen	VVINF	 kochen	kochen
+</seg>
+<seg type="newline">
+schmeckt	VVFIN	 schmecken	schmeckt
+es	PPER	 es	es
+nach	APPR	 nach	nach
+dem	ART	 d	dem
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+ist	VAFIN	 sein	ist
+es	PPER	 es	es
+gut	ADJD	 gut	gut
+.	$.	.	$.	 .	|	.
+NB	NE	 NB	NB
+.	$.	.	$.	 .	|	.
+Hane=Kämm	ADJA	 UNKNOWN	Hane=Kämm
+</seg>
+<seg type="newline">
+Ochsen=Maul	NN	 UNKNOWN	Ochsen=Maul
+und	KON	 und	und
+Morcheln	NN	 Morchel	Morcheln
+,	$,	,	$,	 ,	|	,
+samt	APPR	 samt	samt
+den	ART	 d	den
+Krebs=Schwäntzen	NN	 UNKNOWN	Krebs=Schwäntzen
+</seg>
+<seg type="newline">
+kan	ADV	 nun	Nun
+man	PIS	 man	man
+eben	ADV	 eben	eben
+auf	APPR	 auf	auf
+diese	PDAT	 dies	diese
+Manier	NN	 Manier	Manier
+machen	VVFIN	 machen	machen
+.	$.	.	$.	 .	|	.
+Item	ADV	 item	Item
+:	$.	:	$.	 :	|	:
+Kälberpreiß	ADJD	 UNKNOWN	Kälberpreiß
+in	APPR	 in	in
+große	ADJA	 groß	große
+Stücke	NN	 Stück	Stücke
+</seg>
+<seg type="newline">
+gespickt	VVPP	 spicken	gespickt
+</seg>
+<seg type="newline">
+kan	ADV	 nun	Nun
+man	PIS	 man	man
+auch	ADV	 auch	auch
+auff	APPR	 auf	auf
+diese	PDAT	 dies	diese
+Manier	NN	 Manier	Manier
+machen	VVFIN	 machen	machen
+;	$.	;	$.	 ;	|	;
+wann	PWAV	 wann	wann
+er	PPER	 er	er
+angerichtet	VVPP	 anrichten	angerichtet
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+muß	VMFIN	 müssen	muß
+er	PPER	 er	er
+mit	APPR	 mit	mit
+Citronen=Safft	NN	 UNKNOWN	Citronen=Safft
+säuerlich	ADJD	 säuerlich	säuerlich
+gemacht	VVPP	 machen	gemacht
+werden	VAINF	 werden	werden
+.	$.	.	$.	 .	|	.
+Item	ADV	 item	Item
+:	$.	:	$.	 :	|	:
+Ragou	NE	 UNKNOWN	Ragou
+von	APPR	 von	von
+Hane=Kamm	NN	 UNKNOWN	Hane=Kamm
+und	KON	 und	und
+Champignons	NN	 Champignon	Champignons
+auch	ADV	 auch	auch
+auff	APPR	 auf	auf
+diese	PDAT	 dies	diese
+Manier	NN	 Manier	Manier
+gemacht	VVPP	 machen	gemacht
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

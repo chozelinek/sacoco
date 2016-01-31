@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Prasmosfky_1671_10" collection="historical" source="Prasmosfky" url="none" year="1671" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1671:190]">
+<title>
+<seg type="newline">
+577.	ADJA	 @ord@	577.
+Schaub=Hütlein	NN	 UNKNOWN	Schaub=Hütlein
+zu	APPR	 zu	zu
+bachen	NN	 Kochen	Kochen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+etliche	PIS	 etlich	etliche
+Eyerdottern	VVFIN	 UNKNOWN	Eyerdottern
+</seg>
+<seg type="newline">
+zerklopffs	NE	 UNKNOWN	zerklopffs
+</seg>
+<seg type="newline">
+und	KON	 und	und
+thue	NE	 UNKNOWN	thue
+Zucker	NN	 Zucker	Zucker
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Schmaltz	NN	 Schmalz	Schmalz
+</seg>
+<seg type="newline">
+und	KON	 und	und
+saltze	ADJA	 kalt	kalten
+es	PPER	 es	es
+nur	ADV	 nur	nur
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+rühre	VVFIN	 rühren	rühre
+schön	ADJD	 schön	schön
+Meel	NN	 UNKNOWN	Meel
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+und	KON	 und	und
+mache	VVFIN	 machen	mache
+einen	ART	 ein	einen
+Täig	ADJD	 UNKNOWN	Täig
+wie	KOKOM	 wie	wie
+zu	APPR	 zu	zu
+den	ART	 d	den
+Hasenöhrlein	NN	 UNKNOWN	Hasenöhrlein
+</seg>
+<seg type="newline">
+und	KON	 und	und
+schneide	VVFIN	 schneiden	schneide
+den	ART	 d	den
+Täig	ADJD	 UNKNOWN	Täig
+zu	APPR	 zu	zu
+Stücklein	NN	 Stücklein	Stücklein
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+Grösse	NN	 Größe	Grösse
+einer	ART	 ein	einer
+Nuß	NN	 Nuß	Nuß
+</seg>
+<seg type="newline">
+welgers	NN	 UNKNOWN	welgers
+</seg>
+<seg type="newline">
+und	KON	 und	und
+drucks	NN	 Druck	drucks
+in	APPR	 in	in
+den	ART	 d	den
+darzu	PAV	 dazu	dazu
+gehörigen	ADJA	 gehörig	gehörigen
+Model	NN	 Model	Model
+</seg>
+<seg type="newline">
+und	KON	 und	und
+bachs	NN	 Bach	bachs
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+kehrs	VVFIN	 UNKNOWN	kehrs
+bald	ADV	 bald	bald
+um	APPR	 um	um
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+sie	PPER	 sie	sie
+nicht	PTKNEG	 nicht	nicht
+braun	ADJD	 braun	braun
+werden	VAINF	 werden	werden
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

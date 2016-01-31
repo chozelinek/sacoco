@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Wecker_1679_16" collection="historical" source="Wecker" url="none" year="1679" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:225]">
+<title>
+<seg type="newline">
+[	$(	[	$(	 [	|	[
+Ein	ART	 eine	Ein
+gut	ADJD	 gut	gut
+kräfftig	ADJA	 UNKNOWN	kräfftig
+Essen	NN	 Essen	Essen
+für	APPR	 für	für
+die	ART	 d	die
+Krancken	NN	 Tranche	Tranchen
+.	$.	.	$.	 .	|	.
+]	$(	]	$(	 ]	|	]
+Ein	VVIMP	 einen	Ein
+anders	ADV	 anders	anders
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Item	ADV	 item	Item
+nimm	VVIMP	 nehmen	nimm
+die	ART	 d	die
+Milch	NN	 Milch	Milch
+vom	APPRART	 vom	vom
+Reiß	ADJD	 heiß	heiß
+</seg>
+<seg type="newline">
+treib	VVIMP	 treiben	treib
+Mandeln	NN	 Mandel	Mandeln
+mit	APPR	 mit	mit
+durch	APPR	 durch	durch
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+koche	VVFIN	 kochen	koche
+darnach	PAV	 danach	Danach
+alle	PIS	 alle	alle
+vor	PTKVZ	 vor	vor
+vnd	KON	 und	und
+nachgeschriebene	ADJA	 UNKNOWN	nachgeschriebene
+Sachen	NN	 Sache	Sachen
+mit	APPR	 mit	mit
+kalt	ADJD	 kalt	kalt
+vnd	KON	 und	und
+warm	ADJD	 warm	warm
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+so	ADV	 so	so
+du	PPER	 du	du
+wilt	NE	 Wilt	wilt
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+rühre	VVFIN	 rühren	rühre
+vnder	ADJD	 UNKNOWN	vnder
+diese	PDAT	 dies	diese
+milch	NN	 Milch	milch
+allein	ADV	 allein	allein
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+mit	APPR	 mit	mit
+den	ART	 d	den
+mandeln	ADJA	 UNKNOWN	mandeln
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+mit	APPR	 mit	mit
+den	ART	 d	den
+Eyern	ADJA	 UNKNOWN	Eyern
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+ja	ADV	 ja	ja
+beyden	ADJA	 UNKNOWN	beyden
+</seg>
+<seg type="newline">
+süssen	ADJA	 süß	süssen
+Ancken	NN	 UNKNOWN	Ancken
+darunder	VVFIN	 UNKNOWN	darunder
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+kanst	VVFIN	 UNKNOWN	kanst
+du	PPER	 du	du
+auch	ADV	 auch	auch
+etwas	ADV	 etwas	etwas
+durch	APPR	 durch	durch
+die	ART	 d	die
+Spritz	NE	 UNKNOWN	Spritz
+doer	NE	 UNKNOWN	doer
+sonst	ADV	 sonst	sonst
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+auch	ADV	 auch	auch
+den	ART	 d	den
+andern	ADJA	 ander	andern
+Meyenmüseren	NN	 UNKNOWN	Meyenmüseren
+bereiten	VVFIN	 bereiten	bereiten
+</seg>
+<seg type="newline">
+sie	PPER	 sie	sie
+werden	VAFIN	 werden	werden
+vast	ADV	 fast	fast
+zart	ADJD	 zart	zart
+vnd	KON	 und	und
+gut	ADJD	 gut	gut
+</seg>
+<seg type="newline">
+thun	NE	 UNKNOWN	thue
+auch	ADV	 auch	auch
+niemand	PIS	 niemand	niemand
+bald	ADV	 bald	bald
+Schaden	NN	 Schaden	Schaden
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

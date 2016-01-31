@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Keyl_1705_11" collection="historical" source="Keyl" url="none" year="1705" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1705:110]">
+<title>
+<seg type="newline">
+Schaafs	NE	 Schaaf	Schaafs
+Schulter=Braten	NN	 UNKNOWN	Schulter=Braten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Sie	PPER	 Sie|sie	Sie
+wird	VAFIN	 werden	wird
+zuvor	ADV	 zuvor	zuvor
+mit	APPR	 mit	mit
+Oesters	NN	 UNKNOWN	Oesters
+gespicket	VVPP	 UNKNOWN	gespicket
+</seg>
+<seg type="newline">
+und	KON	 und	und
+gar	ADV	 gar	gar
+gebraten	VVPP	 braten	gebraten
+</seg>
+<seg type="newline">
+denn	KON	 denn	denn
+so	ADV	 so	so
+schneide	VVFIN	 schneiden	schneide
+Gurcken	NE	 UNKNOWN	Gurcken
+in	APPR	 in	in
+Scheibchen	NN	 Scheibchen	Scheibchen
+</seg>
+<seg type="newline">
+nimm	VVIMP	 nehmen	nimm
+eine	ART	 ein	eine
+Pfann	NN	 UNKNOWN	Pfann
+mit	APPR	 mit	mit
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+sie	PPER	 sie	sie
+heiß	ADJD	 heiß	heiß
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+die	ART	 d	die
+Gurcken	NE	 UNKNOWN	Gurcken
+darinn	NE	 UNKNOWN	darinn
+gethan	NE	 UNKNOWN	gethan
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+auch	ADV	 auch	auch
+gehackte	ADJA	 gehackt	gehackte
+Petrosilien	NN	 UNKNOWN	Petrosilien
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+sie	PPER	 sie	sie
+damit	PAV	 damit	damit
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+braten	VVINF	 braten	braten
+</seg>
+<seg type="newline">
+und	KON	 und	und
+gib	VVIMP	 geben	gib
+sie	PPER	 sie	sie
+dann	ADV	 dann	dann
+über	APPR	 über	über
+die	ART	 d	die
+Schaafs=Schulter=Braten	NN	 UNKNOWN	Schaafs=Schulter=Braten
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

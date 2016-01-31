@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Keyl_1705_2" collection="historical" source="Keyl" url="none" year="1705" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1705:87]">
+<title>
+<seg type="newline">
+Sauerampfer=Suppe	NN	 UNKNOWN	Sauerampfer=Suppe
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Laß	VVIMP	 lassen	Laß
+das	ART	 d	das
+Sauerampfer	NN	 Sauerampfer	Sauerampfer
+erstlich	ADJD	 UNKNOWN	erstlich
+aufkochen	VVFIN	 aufkochen	aufkochen
+in	APPR	 in	in
+frischer	ADJA	 frisch	frischer
+Rindfleisch=Brühe	NN	 UNKNOWN	Rindfleisch=Brühe
+</seg>
+<seg type="newline">
+wenn	KOUS	 wenn	wenn
+er	PPER	 er	er
+darinn	NN	 UNKNOWN	darinn
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+gekochet	ADJA	 UNKNOWN	gekochet
+hat	VAFIN	 haben	hat
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+geuß	VVPP	 UNKNOWN	geuß
+ihn	PPER	 er	ihn
+durch	APPR	 durch	durch
+einen	ART	 ein	einen
+Durchschlag	NN	 Durchschlag	Durchschlag
+</seg>
+<seg type="newline">
+nimm	VVIMP	 nehmen	nimm
+die	ART	 d	die
+Brühe	NN	 Brühe	Brühe
+und	KON	 und	und
+rühre	VVFIN	 rühren	rühre
+darein	ADV	 darein	darein
+3	CARD	3	CARD	 3	|	3
+oder	KON	 oder	oder
+4	CARD	4	CARD	 4	|	4
+Eyerdötter	NN	 UNKNOWN	Eyerdötter
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+es	PPER	 es	es
+aber	ADV	 aber	aber
+nicht	PTKNEG	 nicht	nicht
+rönnet	VVFIN	 UNKNOWN	rönnet
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+es	PPER	 es	es
+wieder	ADV	 wieder	wieder
+in	APPR	 in	in
+die	ART	 d	die
+Schüssel	NN	 Schüssel	Schüssel
+</seg>
+<seg type="newline">
+und	KON	 und	und
+den	ART	 d	den
+Ampfer	NN	 Ampfer	Ampfer
+darwieder	ADJD	 UNKNOWN	darwieder
+zu	APPR	 zu	zu
+hinein	ADV	 hinein	hinein
+</seg>
+<seg type="newline">
+alsdenn	NN	 UNKNOWN	Alsdann
+ist	VAFIN	 sein	ist
+die	ART	 d	die
+Suppe	NN	 Suppe	Suppe
+gut	ADJD	 gut	gut
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

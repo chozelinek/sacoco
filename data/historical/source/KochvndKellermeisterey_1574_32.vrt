@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Koch_vnd_Kellermeisterey_1574_32" collection="historical" source="Koch_vnd_Kellermeisterey" url="none" year="1574" decade="1570-1580" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[9rf.]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+Torten	NN	 Torte	Torten
+vnd	KON	 und	und
+Krebsen	NN	 Krebs	Krebsen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Ein	ART	 eine	Ein
+Torten	NN	 Torte	Torten
+teyg	NE	 UNKNOWN	teyg
+gelegt	VVPP	 legen	gelegt
+in	APPR	 in	in
+ein	ART	 ein	ein
+feyßte	ADJA	 UNKNOWN	Feißte
+Pfan	NN	 UNKNOWN	Pfan
+</seg>
+<seg type="newline">
+mach	VVIMP	 machen	mach
+ein	PTKVZ	 ein	ein
+füll	VVIMP	 füllen	füll
+von	APPR	 von	von
+eyern	TRUNC	 UNKNOWN	eyern
+vnd	KON	 und	und
+gerieben	VVPP	 reiben	gerieben
+käß	ADJA	 UNKNOWN	käß
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+lebkuchen	ADJA	 UNKNOWN	lebkuchen
+</seg>
+<seg type="newline">
+temperier	NN	 UNKNOWN	temperier
+es	PPER	 es	es
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+nicht	PTKNEG	 nicht	nicht
+zu	PTKA	 zu	zu
+dünn	ADJD	 dünn	dünn
+</seg>
+<seg type="newline">
+schüts	NN	 UNKNOWN	schüts
+in	APPR	 in	in
+die	ART	 d	die
+teyg	ADJD	 UNKNOWN	teyg
+pfann	ADJA	 UNKNOWN	pfann
+</seg>
+<seg type="newline">
+Jsts	NN	 UNKNOWN	Jsts
+zu	PTKA	 zu	zu
+dün	ADJD	 dünn	dünn
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+mischs	VVFIN	 UNKNOWN	mischs
+mit	APPR	 mit	mit
+Milchraum	NN	 UNKNOWN	Milchraum
+</seg>
+<seg type="newline">
+Machs	NN	 UNKNOWN	Machs
+ab	ADV	 ab	ab
+mit	PTKVZ	 mit	mit
+würtz	VVFIN	 würzen	würzt
+vnd	KON	 und	und
+saltz	ADJA	 kalt	kalten
+</seg>
+<seg type="newline">
+Saffran	NN	 Safran	Safran
+vnnd	KON	 und	und
+Peterlin	NE	 UNKNOWN	Peterlin
+.	$.	.	$.	 .	|	.
+Magst	VMFIN	 mögen	Magst
+nemmen	VVFIN	 nehmen	nehmen
+Salbey	NE	 UNKNOWN	Salbey
+</seg>
+<seg type="newline">
+Poley	NE	 Poley	Poley
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+ander	NE	 UNKNOWN	ander
+würtz	VVFIN	 würzen	würzt
+wol	PWAV	 wo	wo
+gehackt	VVPP	 hacken	gehackt
+</seg>
+<seg type="newline">
+temperier	NN	 UNKNOWN	temperier
+die	ART	 d	die
+füll	VVIMP	 füllen	füll
+damit	PAV	 damit	damit
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+stoß	VVIMP	 stoßen	stoß
+die	ART	 d	die
+Krebs	NN	 Krebs	Krebs
+ein	PTKVZ	 ein	ein
+.	$.	.	$.	 .	|	.
+Wiltu	NE	 UNKNOWN	Wiltu
+Byrn	NE	 UNKNOWN	Byrn
+darein	ADV	 darein	darein
+thun	NE	 UNKNOWN	thue
+</seg>
+<seg type="newline">
+Feigen	ADJA	 feige	Feigen
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+süß	ADJD	 süß	süß
+öpffel	NN	 UNKNOWN	öpffel
+</seg>
+<seg type="newline">
+langlecht	ADJD	 waagrecht	waagrecht
+geschnitten	VVPP	 schneiden	geschnitten
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+mit	APPR	 mit	mit
+den	ART	 d	den
+Krebsen	NN	 Krebs	Krebsen
+darein	ADV	 darein	darein
+gestossen	VVPP	 stoßen	gestossen
+</seg>
+<seg type="newline">
+ist	VAFIN	 sein	ist
+gut	ADJD	 gut	gut
+.	$.	.	$.	 .	|	.
+Mach	VVIMP	 machen	Mach
+die	ART	 d	die
+deck	VVIMP	 decken	deck
+vber	VVFIN	 UNKNOWN	vber
+die	ART	 d	die
+Teygpfannen	NN	 UNKNOWN	Teygpfannen
+</seg>
+<seg type="newline">
+Schütt	NN	 UNKNOWN	Schütt
+butter	VVIMP	 buttern	butter
+darauff	PAV	 drauf	drauf
+</seg>
+<seg type="newline">
+setz	VVIMP	 setzen	setz
+vber	VVFIN	 UNKNOWN	vber
+ein	ART	 ein	ein
+klein	ADJD	 klein	klein
+feuwr	ADJA	 UNKNOWN	feuwr
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+je	ADV	 je	je
+baß	ADJD	 baß	baß
+vnd	KON	 und	und
+baß	ADJD	 baß	baß
+</seg>
+<seg type="newline">
+röst	ADJA	 UNKNOWN	röst
+kolen	NN	 UNKNOWN	kolen
+drumb	VVFIN	 UNKNOWN	drumb
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+treib	VVIMP	 treiben	treib
+die	ART	 d	die
+pfann	ADJA	 UNKNOWN	pfann
+vmb	ADJA	 UNKNOWN	vmb
+vnd	KON	 und	und
+vmb	ADJD	 UNKNOWN	vmb
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+wart	VAFIN	 sein	wart
+auff	APPR	 auf	auf
+den	ART	 d	den
+rauch	VVIMP	 rauchen	rauch
+</seg>
+<seg type="newline">
+den	ART	 d	den
+dempff	NN	 UNKNOWN	dempff
+mit	PTKVZ	 mit	mit
+buttern	VVINF	 buttern	buttern
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+wann	PWAV	 wann	wann
+die	ART	 d	die
+deck	VVIMP	 decken	deck
+braun	ADJD	 braun	braun
+wirdt	NE	 UNKNOWN	wirdt
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+hat	VAFIN	 haben	hat
+es	PPER	 es	es
+sein	PPOSAT	 sein	sein
+genug	ADV	 genug	genug
+.	$.	.	$.	 .	|	.
+Setz	VVIMP	 setzen	Setz
+den	ART	 d	den
+teyghafen	NN	 UNKNOWN	teyghafen
+also	ADV	 also	also
+gantz	ADV	 ganz	ganz
+auß	VMFIN	 müssen	muß
+in	APPR	 in	in
+ein	ART	 ein	ein
+weit	ADJD	 weit	weit
+schüssel	NN	 Schüssel	schüssel
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+trags	NN	 UNKNOWN	trags
+für	APPR	 für	für
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+mach	VVIMP	 machen	mach
+dann	ADV	 dann	dann
+stück	VVIMP	 stücken	stück
+darauß	NN	 UNKNOWN	herauß
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+legs	VVFIN	 legen	legt
+den	ART	 d	den
+gästen	NN	 Gast	gästen
+für	APPR	 für	für
+gar	ADV	 gar	gar
+höflich	ADJD	 höflich	höflich
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+stehet	VVFIN	 stehen	stehet
+wol	PWAV	 wo	wo
+von	APPR	 von	von
+Krebsen	NN	 Krebs	Krebsen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

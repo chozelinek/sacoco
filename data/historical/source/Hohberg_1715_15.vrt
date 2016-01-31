@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Hohberg_1715_15" collection="historical" source="Hohberg" url="none" year="1715" decade="1710-1720" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Huhn|" method="|gebraten|" ref="[1715:54f.]">
+<title>
+<seg type="newline">
+Einen	ART	 ein	Einen
+Capaun	NN	 UNKNOWN	Capuns
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+einen	ART	 ein	einen
+Fasan	NN	 Fasan	Fasan
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+jung	ADJD	 jung	jung
+Hun	ADV	 nun	Nun
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+ein	ART	 ein	ein
+Rebhun	NN	 UNKNOWN	Rebhun
+</seg>
+<seg type="newline">
+und	KON	 und	und
+zahme	ADJA	 zahm	zahme
+Tauben	NN	 Taube	Tauben
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+wilde	ADJA	 wild	wilde
+zuzurichten	VVIZU	 zurichten	zuzurichten
+</seg>
+<seg type="newline">
+und	KON	 und	und
+zu	PTKZU	 zu	zu
+braten	VVINF	 braten	braten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Tauben	NN	 Taube	Tauben
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+wilde	ADJA	 wild	wilde
+zuzurichten	VVIZU	 zurichten	zuzurichten
+</seg>
+<seg type="newline">
+und	KON	 und	und
+zu	PTKZU	 zu	zu
+braten	VVINF	 braten	braten
+.	$.	.	$.	 .	|	.
+Siede	NN	 Siede	Siede
+ziemlich	ADV	 ziemlich	ziemlich
+viel	PIAT	 viel	viel
+Wachholder=Beer	NN	 UNKNOWN	Wachholder=Beer
+im	APPRART	 im	im
+starcken	VVFIN	 stocken	stocken
+Wein=Eßig	NN	 UNKNOWN	Wein=Essig
+</seg>
+<seg type="newline">
+und	KON	 und	und
+gieß	VVIMP	 gießen	gieß
+solchen	PIAT	 solch	solchen
+heiß	ADJD	 heiß	heiß
+einem	ART	 ein	einem
+lebendigen	ADJA	 lebendig	lebendigen
+Capaun	NN	 UNKNOWN	Capuns
+in	APPR	 in	in
+den	ART	 d	den
+Halß	NN	 UNKNOWN	Halß
+</seg>
+<seg type="newline">
+vermittelst	VVFIN	 vermitteln	vermittelst
+eines	ART	 ein	eines
+Trüchterleins	NN	 UNKNOWN	Trüchterleins
+</seg>
+<seg type="newline">
+bind	VAFIN	 sein	sind
+den	ART	 d	den
+Hals	NN	 Hals	Hals
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Band	NN	 Band	Band
+zu	PTKVZ	 zu	zu
+</seg>
+<seg type="newline">
+und	KON	 und	und
+häng	VVIMP	 hängen	häng
+ihn	PPER	 er	ihn
+zugleich	ADV	 zugleich	zugleich
+darbey	PAV	 dabei	dabei
+auf	PTKVZ	 auf	auf
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+er	PPER	 er	er
+nun	ADV	 nun	nun
+über	APPR	 über	über
+Nacht	NN	 Nacht	Nacht
+gehangen	VVPP	 hängen	gehangen
+</seg>
+<seg type="newline">
+rupffe	VVFIN	 UNKNOWN	rupffe
+die	ART	 d	die
+Federn	NN	 Feder|Federn	Federn
+trocken	ADJD	 trocken	trocken
+sauber	ADJD	 sauber	sauber
+ab	PTKVZ	 ab	ab
+</seg>
+<seg type="newline">
+nimm	VVIMP	 nehmen	nimm
+das	ART	 d	das
+Eingeweid	NN	 UNKNOWN	Eingeweid
+heraus	PTKVZ	 heraus	heraus
+</seg>
+<seg type="newline">
+wisch	VVIMP	 wischen	wisch
+ihn	PPER	 er	ihn
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Tuch	NN	 Tuch	Tuch
+innwendig	ADV	 UNKNOWN	einwenig
+schön	ADJD	 schön	schön
+aus	PTKVZ	 aus	aus
+</seg>
+<seg type="newline">
+gieß	VVIMP	 gießen	gieß
+siedenden	ADJA	 siedend	siedenden
+Wein=Eßig	NN	 UNKNOWN	Wein=Essig
+</seg>
+<seg type="newline">
+worein	PWAV	 worein	worein
+Wachholder=Beer	ADJA	 UNKNOWN	Wachholder=Beer
+</seg>
+<seg type="newline">
+Negelein	NN	 UNKNOWN	Negelein
+</seg>
+<seg type="newline">
+und	KON	 und	und
+Pfeffer	NN	 Pfeffer	Pfeffer
+gethan	NN	 UNKNOWN	gethan
+worden	VAPP	 werden	worden
+</seg>
+<seg type="newline">
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+lasse	VVFIN	 lassen	lasse
+den	ART	 d	den
+Capaun	NN	 UNKNOWN	Capuns
+2.	ADJA	 2.	2.
+bis	KON	 bis	bis
+3.	ADJA	 3.	3.
+Stunden	NN	 Stunde|Stunden	Stunden
+darinnen	VVINF	 darinnen	darinnen
+liegen	VVFIN	 liegen	liegen
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+spicke	NN	 Speck	Specks
+solchen	PIAT	 solch	solchen
+mit	APPR	 mit	mit
+Speck	NN	 Speck	Speck
+</seg>
+<seg type="newline">
+geschnittenem	ADJA	 geschnitten	geschnittenem
+Zimmet	NN	 Zimt	Zimt
+</seg>
+<seg type="newline">
+und	KON	 und	und
+Negelein	NN	 UNKNOWN	Negelein
+</seg>
+<seg type="newline">
+saltze	ADJA	 kalt	kalten
+und	KON	 und	und
+stecke	VVFIN	 stecken	stecke
+ihn	PPER	 er	ihn
+an	APPR	 an	an
+Spieß	NN	 Spieß	Spieß
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+einen	ART	 ein	einen
+Fasan	NN	 Fasan	Fasan
+</seg>
+<seg type="newline">
+und	KON	 und	und
+wann	PWAV	 wann	wann
+er	PPER	 er	er
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+getrocknet	VVPP	 trocknen	getrocknet
+</seg>
+<seg type="newline">
+betrauffe	VVFIN	 UNKNOWN	betrauffe
+ihn	PPER	 er	ihn
+erstlich	ADJD	 UNKNOWN	erstlich
+heiß	ADJD	 heiß	heiß
+mit	APPR	 mit	mit
+diesem	PDAT	 dies	diesem
+Essig	NN	 Essig	Essig
+</seg>
+<seg type="newline">
+worinnen	VVFIN	 springen	springen
+er	PPER	 er	er
+gelegen	ADJD	 gelegen	gelegen
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+mit	APPR	 mit	mit
+Schmaltz	NN	 Schmalz	Schmalz
+oder	KON	 oder	oder
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+brate	VVFIN	 braten	brate
+ihn	PPER	 er	ihn
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+gebräuchlich	ADJD	 gebräuchlich	gebräuchlich
+</seg>
+<seg type="newline">
+und	KON	 und	und
+beziere	ADJD	 UNKNOWN	Geliert
+solchen	PIAT	 solch	solchen
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+er	PPER	 er	er
+angericht	VVFIN	 UNKNOWN	zugericht
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Citronen	NN	 Citrone	Citronen
+.	$.	.	$.	 .	|	.
+Item	ADV	 item	Item
+</seg>
+<seg type="newline">
+giesse	VVFIN	 gießen	giesse
+einem	ART	 ein	einem
+jungen	ADJA	 jung	jungen
+Hun	ADV	 nun	Nun
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+Trüchterlein	NN	 UNKNOWN	Trüchterleins
+einen	ART	 ein	einen
+Wein=Essig	NN	 UNKNOWN	Wein=Essig
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Pfeffer	NN	 Pfeffer	Pfeffer
+vermischet	VVFIN	 vermischen	vermischen
+in	APPR	 in	in
+den	ART	 d	den
+Halß	NN	 UNKNOWN	Halß
+</seg>
+<seg type="newline">
+bind	VAFIN	 sein	sind
+solchen	PIAT	 solch	solchen
+geschwind	ADJD	 geschwind	geschwind
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Band	NN	 Band	Band
+zu	PTKVZ	 zu	zu
+</seg>
+<seg type="newline">
+und	KON	 und	und
+|	XY	|	XY	 |	|	|
+[	$(	[	$(	 [	|	[
+55	CARD	 @card@	55
+]	$(	]	$(	 ]	|	]
+hang	ADJD	 lang	lang
+das	PDS	 d	das
+Hun	ADV	 nun	Nun
+darbey	PAV	 dabei	dabei
+auf	APPR	 auf	auf
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+verzappeln	VVFIN	 UNKNOWN	verzappeln
+</seg>
+<seg type="newline">
+hernach	ADV	 hernach	hernach
+rupffs	VVFIN	 UNKNOWN	rupffe
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+das	ART	 d	das
+Eingeweid	NN	 UNKNOWN	Eingeweid
+heraus	PTKVZ	 heraus	heraus
+</seg>
+<seg type="newline">
+wasch	VVIMP	 waschen	wasch
+mit	APPR	 mit	mit
+Wein	NN	 Wein	Wein
+aus	APZR	 aus	aus
+</seg>
+<seg type="newline">
+würtz	VVFIN	 würzen	würzt
+innen	ADJD	 innen	innen
+und	KON	 und	und
+aussen	ADJD	 außenßen	aussen
+wohl	ADV	 wohl	wohl
+mit	APPR	 mit	mit
+Negelein	ADJA	 UNKNOWN	Negelein
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Muscatenblüh	NN	 UNKNOWN	Muscatenblüh
+</seg>
+<seg type="newline">
+Cardamomen	NN	 Kardamom	Kardamom
+und	KON	 und	und
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+über	APPR	 über	über
+Nacht	NN	 Nacht	Nacht
+im	APPRART	 im	im
+Keller	NN	 Keller	Keller
+stehen	VVFIN	 stehen	stehen
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+spicke	NN	 Speck	Specks
+die	ART	 d	die
+Brust	NN	 Brust	Brust
+und	KON	 und	und
+Schenckel	NN	 Schenkel	Schenkel
+mit	APPR	 mit	mit
+klein=geschnittenem	ADJA	 kleingeschnitten	kleingeschnittene
+Speck	NN	 Speck	Speck
+</seg>
+<seg type="newline">
+Zimmet	NN	 Zimt	Zimt
+und	KON	 und	und
+Negelein	NN	 UNKNOWN	Negelein
+</seg>
+<seg type="newline">
+betreiffs	VVFIN	 UNKNOWN	betrauffe
+mit	APPR	 mit	mit
+heissem	ADJA	 heiß	heissem
+Schmaltz	NN	 Schmalz	Schmalz
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+betupffs	NN	 UNKNOWN	betupffs
+mit	APPR	 mit	mit
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+brats	VVFIN	 UNKNOWN	brats
+schön	ADJD	 schön	schön
+safftig	ADJD	 saftig	saftig
+ab	PTKVZ	 ab	ab
+</seg>
+<seg type="newline">
+und	KON	 und	und
+trags	NN	 UNKNOWN	trags
+ebenfalls	ADV	 ebenfalls	ebenfalls
+mit	APPR	 mit	mit
+Citronen	NN	 Citrone	Citronen
+bezieret	NN	 UNKNOWN	Geliert
+auf	PTKVZ	 auf	auf
+.	$.	.	$.	 .	|	.
+Man	PIS	 man	Man
+nimmt	VVFIN	 nehmen	nimmt
+</seg>
+<seg type="newline">
+wo	PWAV	 wo	wo
+möglich	ADJD	 möglich	möglich
+</seg>
+<seg type="newline">
+eine	ART	 ein	eine
+Ganß	NN	 UNKNOWN	Ganß
+oder	KON	 oder	oder
+Aenten	ADJA	 fest	festem
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+braune	ADJA	 braun	braune
+Federn	NN	 Feder|Federn	Federn
+hat	VAFIN	 haben	hat
+</seg>
+<seg type="newline">
+schüttet	VVFIN	 schütten	schüttet
+ihr	PPER	 ihr	ihr
+auf	APPR	 auf	auf
+diese	PDAT	 dies	diese
+Art	NN	 Art	Art
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+dem	PDS	 d	dem
+Hun	ADV	 nun	Nun
+</seg>
+<seg type="newline">
+dergleichen	PIS	 dergleichen	dergleichen
+Eßig	NN	 UNKNOWN	Eßig
+in	APPR	 in	in
+Halß	TRUNC	 UNKNOWN	Halß
+</seg>
+<seg type="newline">
+und	KON	 und	und
+lässets	NN	 UNKNOWN	lässets
+also	ADV	 also	also
+aufgehängt	VVPP	 aufhängen	aufgehängt
+2.	ADJA	 2.	2.
+bis	KON	 bis	bis
+3.	ADJA	 3.	3.
+Täg	NE	 UNKNOWN	Täg
+hangen	ADV	 lange	lange
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+wirds	VAFIN	 werden	wird
+gerupfft	ADJD	 UNKNOWN	gerupfft
+biß	VVFIN	 beißen	biß
+an	APPR	 an	an
+den	ART	 d	den
+Hals	NN	 Hals	Hals
+</seg>
+<seg type="newline">
+Flügel	NN	 Flügel	Flügel
+und	KON	 und	und
+Füße	NN	 Fuß	Füße
+bleiben	VVFIN	 bleiben	bleiben
+auch	ADV	 auch	auch
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+folgends	ADJA	 folgend	folgenden
+reibt	VVIMP	 reiben	reibt
+mans	VMFIN	 mögen	mag
+inn=	ADJD	 UNKNOWN	inn=
+und	KON	 und	und
+auswendig	ADV	 auswendig	auswendig
+wohl	ADV	 wohl	wohl
+mit	APPR	 mit	mit
+Negelein	NN	 UNKNOWN	Negelein
+</seg>
+<seg type="newline">
+und	KON	 und	und
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+legts	VVFIN	 legen	legt
+drey	CARD	 drei	drei
+oder	KON	 oder	oder
+vier	CARD	 vier	vier
+Tag	NN	 Tag	Tag
+in	APPR	 in	in
+Wein=Essig	NN	 UNKNOWN	Wein=Essig
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+spickt	VVFIN	 spicken	spickt
+und	KON	 und	und
+bratets	NN	 UNKNOWN	brats
+wie	KOKOM	 wie	wie
+eine	ART	 ein	eine
+Wilde	NN	 Wilde	Wilde
+</seg>
+<seg type="newline">
+und	KON	 und	und
+bringts	VVFIN	 bringen	bringen
+mit	APPR	 mit	mit
+oder	KON	 oder	oder
+ohne	KOUI	 ohne	ohne
+Brüh	ADJD	 früh	früh
+mit	APPR	 mit	mit
+Citronen	NN	 Citrone	Citronen
+und	KON	 und	und
+Blumenwerck	NE	 UNKNOWN	Blumenwerck
+beziert	NN	 UNKNOWN	Geliert
+zu	APPR	 zu	zu
+Tisch	NN	 Tisch	Tisch
+.	$.	.	$.	 .	|	.
+Tauben	NN	 Taube	Tauben
+richtet	VVFIN	 richten	richtet
+man	PIS	 man	man
+eben	ADV	 eben	eben
+also	ADV	 also	also
+zu	PTKVZ	 zu	zu
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

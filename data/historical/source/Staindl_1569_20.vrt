@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Staindl_1569_20" collection="historical" source="Staindl" url="none" year="1569" decade="1560-1570" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[20v]">
+<title>
+<seg type="newline">
+Item	ADV	 item	Item
+ein	ART	 ein	ein
+gespickten	ADJA	 gespickt	gespickten
+Braten	NN	 Braten	Braten
+von	APPR	 von	von
+Vischen	NN	 UNKNOWN	Vischen
+mach	VVIMP	 machen	mach
+also	ADV	 also	also
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimb	NN	 UNKNOWN	nimb
+vnd	KON	 und	und
+schüpp	NN	 UNKNOWN	schüpp
+ein	ART	 ein	ein
+Visch	ADJD	 UNKNOWN	Visch
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+schneyd	ADJD	 UNKNOWN	schneyd
+das	PDS	 d	das
+brät	VVFIN	 braten	brät
+herab	ADV	 herab	herab
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+meinst	VVFIN	 meinen	meinst
+du	PPER	 du	du
+magsts	NN	 UNKNOWN	magsts
+also	ADV	 also	also
+roch	VVFIN	 riechen	roch
+</seg>
+<seg type="newline">
+nimb	ADJD	 UNKNOWN	nimb
+dann	ADV	 dann	dann
+vnd	KON	 und	und
+schneid	VVFIN	 schneiden	schneiden
+den	ART	 d	den
+grad	ADJA	 UNKNOWN	grad
+da	KOUS	 da	da
+das	PDS	 d	das
+ander	ADV	 UNKNOWN	ander
+anhangt	VVFIN	 UNKNOWN	anhangt
+</seg>
+<seg type="newline">
+löß	ADJD	 UNKNOWN	löß
+das	PDS	 d	das
+brät	VVFIN	 braten	brät
+gar	ADV	 gar	gar
+daruon	NN	 UNKNOWN	daruon
+</seg>
+<seg type="newline">
+nimb	VVFIN	 UNKNOWN	nimb
+dann	ADV	 dann	dann
+die	ART	 d	die
+zwey	CARD	 zwei	zwei
+brät	VVFIN	 braten	brät
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+hacks	NN	 UNKNOWN	hacks
+durch	APPR	 durch	durch
+einander	PRF	 einander	einander
+</seg>
+<seg type="newline">
+nimb	ADJA	 UNKNOWN	nimb
+saffran	ADJA	 UNKNOWN	saffran
+vnd	KON	 und	und
+stüpp	NN	 UNKNOWN	stüpps
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+eingeribnen	ADJA	 UNKNOWN	eingeribnen
+semel	NN	 UNKNOWN	semel
+</seg>
+<seg type="newline">
+darunder	ADJA	 UNKNOWN	darunder
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+zwey	CARD	 zwei	zwei
+ayer	NN	 UNKNOWN	ayer
+zu	APPR	 zu	zu
+einer	ART	 ein	einer
+schüssel	NN	 Schüssel	schüssel
+</seg>
+<seg type="newline">
+das	ART	 d	das
+vest	NE	 UNKNOWN	vest
+vnd	KON	 und	und
+starck	NE	 UNKNOWN	starck
+sey	NE	 UNKNOWN	sey
+</seg>
+<seg type="newline">
+Nimb	VVFIN	 UNKNOWN	nimb
+das	ART	 d	das
+gebrät	ADJA	 UNKNOWN	gebrät
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+mach	VVIMP	 machen	mach
+darauß	NN	 UNKNOWN	herauß
+ein	ART	 ein	ein
+Braten	NN	 Braten	Braten
+</seg>
+<seg type="newline">
+das	PRELS	 d	das
+es	PPER	 es	es
+dir	PRF	 du	dir
+gefall	ADJD	 UNKNOWN	gefall
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+laß	ADJD	 laß	laß
+den	ART	 d	den
+Braten	NN	 Braten	Braten
+ab	APPR	 ab	ab
+einem	ART	 ein	einem
+brätlin	NE	 UNKNOWN	brätlin
+fallen	VVFIN	 fallen	fallen
+in	APPR	 in	in
+ein	ART	 ein	ein
+siedens	NN	 UNKNOWN	siedens
+wasser	VVIMP	 wassern	wasser
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+zumal	ADV	 zumal	zumal
+in	APPR	 in	in
+ein	ART	 ein	ein
+Erbeßbrü	NE	 UNKNOWN	Erbeßbrü
+</seg>
+<seg type="newline">
+das	ART	 d	das
+raumb	ADJA	 UNKNOWN	raumb
+hab	VAIMP	 haben	hab
+in	APPR	 in	in
+der	ART	 d	der
+pfannen	NN	 Pfanne	pfannen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+er	PPER	 er	er
+wol	PWAV	 wo	wo
+geseüdt	VVFIN	 UNKNOWN	geseüdt
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+stoß	VVIMP	 stoßen	stoß
+jhn	PPER	 er	ihn
+an	APPR	 an	an
+ein	ART	 ein	ein
+spieß	VVIMP	 spießen	spieß
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+bestreich	VVFIN	 UNKNOWN	bestreich
+jhn	PPER	 er	ihn
+mit	APPR	 mit	mit
+roten	ADJA	 rot	roten
+ayer	NN	 UNKNOWN	ayer
+dotter	ADJD	 UNKNOWN	dotter
+an	APPR	 an	an
+dem	ART	 d	dem
+spieß	VVIMP	 spießen	spieß
+gegen	APPR	 gegen	gegen
+dem	ART	 d	dem
+fewr	NN	 UNKNOWN	fewr
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+nimb	VVFIN	 UNKNOWN	nimb
+ein	ART	 ein	ein
+weyß	ADJA	 UNKNOWN	weyß
+härts	ADJA	 UNKNOWN	härts
+ay	NN	 UNKNOWN	ay
+</seg>
+<seg type="newline">
+schneyd	VVFIN	 UNKNOWN	schneyd
+es	PPER	 es	es
+nach	APPR	 nach	nach
+der	ART	 d	der
+leng	ADJD	 UNKNOWN	leng
+</seg>
+<seg type="newline">
+als	KOKOM	 als	als
+die	ART	 d	die
+specklen	ADJA	 UNKNOWN	specklen
+vnd	KON	 und	und
+spick	VVIMP	 UNKNOWN	spick
+den	ART	 d	den
+Braten	NN	 Braten	Braten
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

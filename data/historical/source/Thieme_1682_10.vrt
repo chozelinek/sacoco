@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Thieme_1682_10" collection="historical" source="Thieme" url="none" year="1682" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[881]">
+<title>
+<seg type="newline">
+Auf	APPR	 auf	Auf
+ein	ART	 ein	ein
+andere	ADJA	 ander	andere
+Art	NN	 Art	Art
+Welsche	ADJA	 welsch	Welsche
+Knack=	NN	 UNKNOWN	Knack=
+oder	KON	 oder	oder
+Zurbonaden=Würste	NN	 UNKNOWN	Zurbonaden=Würste
+zu	PTKZU	 zu	zu
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nehmet	VVFIN	 nehmen	Nehmet
+frisch	ADJD	 frisch	frisch
+Fleisch	NN	 Fleisch	Fleisch
+von	APPR	 von	von
+einem	ART	 ein	einem
+wilden	ADJA	 wild	wilden
+oder	KON	 oder	oder
+einheimischen	ADJA	 einheimisch	einheimischen
+Schwein	NN	 Schwein	Schwein
+</seg>
+<seg type="newline">
+schneidets	NN	 UNKNOWN	schneidets
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+und	KON	 und	und
+nehmet	VVFIN	 nehmen	nehmet
+die	ART	 d	die
+grösten	ADJA	 UNKNOWN	grösten
+Därmer	NN	 UNKNOWN	Därmer
+vom	APPRART	 vom	vom
+Schwein	NN	 Schwein	Schwein
+</seg>
+<seg type="newline">
+schneidet	VVFIN	 schneiden	schneidet
+Fleisch	NN	 Fleisch	Fleisch
+und	KON	 und	und
+Fett	NN	 Fett	Fett
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+nehmet	VVFIN	 nehmen	nehmet
+ein	ART	 ein	ein
+Holz	NN	 Holz	Holz
+</seg>
+<seg type="newline">
+und	KON	 und	und
+zerstossets	NN	 UNKNOWN	zerstossets
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+klopffet	ADJA	 UNKNOWN	klopffet
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+er	PPER	 er	er
+voneinander	ADV	 voneinander	voneinander
+fällt	VVFIN	 fallen|fällen	fällt
+</seg>
+<seg type="newline">
+thut	NE	 UNKNOWN	thue
+ihn	PPER	 er	ihn
+unter	APPR	 unter	unter
+das	ART	 d	das
+Salz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+und	KON	 und	und
+reibt	VVFIN	 reiben	reibt
+das	ART	 d	das
+schweinene	ADJA	 UNKNOWN	schweinene
+Fleisch	NN	 Fleisch	Fleisch
+darmit	NE	 UNKNOWN	darmit
+</seg>
+<seg type="newline">
+bindet	VVFIN	 binden	bindet
+den	ART	 d	den
+Darm	NN	 Darm	Darm
+fest	ADJD	 fest	fest
+übereinander	ADV	 übereinander	übereinander
+</seg>
+<seg type="newline">
+hängets	NN	 UNKNOWN	hängets
+darnach	PAV	 danach	Danach
+auf	PTKVZ	 auf	auf
+</seg>
+<seg type="newline">
+und	KON	 und	und
+lassets	VVFIN	 UNKNOWN	lässets
+trucken	ADJD	 UNKNOWN	trucken
+werden	VAINF	 werden	werden
+</seg>
+<seg type="newline">
+thut	VVFIN	 UNKNOWN	thue
+es	PPER	 es	es
+in	APPR	 in	in
+keine	PIAT	 kein	keine
+Hitz	NN	 UNKNOWN	Hitz
+</seg>
+<seg type="newline">
+sondern	KON	 sondern	sondern
+nur	ADV	 nur	nur
+da	ADV	 da	da
+der	ART	 d	der
+Rauch	NN	 Rauch	Rauch
+hinschlägt	VVFIN	 UNKNOWN	hinschlägt
+.	$.	.	$.	 .	|	.
+Und	KON	 und	Und
+wann	PWAV	 wann	wann
+ihr	PPER	 ihr	ihr
+es	PPER	 es	es
+lang	ADJD	 lang	lang
+wollet	VMFIN	 wollen	wollet
+behalten	VVPP	 behalten	behalten
+</seg>
+<seg type="newline">
+sonderlich	ADJD	 sonderlich	sonderlich
+in	APPR	 in	in
+einer	ART	 ein	einer
+Besatzung	NN	 Besatzung	Besatzung
+oder	KON	 oder	oder
+Feldzug	NN	 Feldzug	Feldzug
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+schmierets	NN	 UNKNOWN	schmierets
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+mit	APPR	 mit	mit
+Baumöhl	NN	 UNKNOWN	Baumöhl
+</seg>
+<seg type="newline">
+schlagts	ADJD	 UNKNOWN	schlagts
+in	APPR	 in	in
+ein	ART	 ein	ein
+Faß	NN	 Faß	Faß
+ein	PTKVZ	 ein	ein
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+könnt	VMFIN	 können	könnt
+ihr	PPER	 ihr	ihr
+eine	ART	 ein	eine
+nach	APPR	 nach	nach
+der	ART	 d	der
+andern	PIS	 ander	andern
+heraus	PTKVZ	 heraus	heraus
+nehmen	VVINF	 nehmen	nehmen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+sieden	VVINF	 sieden	sieden
+lassen	VVFIN	 lassen	lassen
+</seg>
+<seg type="newline">
+ein	PTKVZ	 ein	ein
+Stund	VAFIN	 sein	sind
+drey	CARD	 drei	drei
+oder	KON	 oder	oder
+vier	CARD	 vier	vier
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+die	ART	 d	die
+Wurst	NN	 Wurst	Wurst
+groß	ADJD	 groß	groß
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+lasset	VVFIN	 lassen	lasset
+sie	PPER	 sie	sie
+kalt	ADJD	 kalt	kalt
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+könnet	VMFIN	 können	könnet
+ihr	PPER	 ihr	ihr
+davon	PAV	 davon	davon
+essen	VVFIN	 essen	essen
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+lang	ADJD	 lang	lang
+ihr	PPER	 ihr	ihr
+wollet	VMFIN	 wollen	wollet
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

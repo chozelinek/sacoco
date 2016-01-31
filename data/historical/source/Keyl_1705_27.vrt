@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Keyl_1705_27" collection="historical" source="Keyl" url="none" year="1705" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1705:150]">
+<title>
+<seg type="newline">
+Butter=Teig	NN	 UNKNOWN	Butter=Teig
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Den	ART	 d	Den
+Teig	NN	 Teig	Teig
+mache	VVFIN	 machen	mache
+von	APPR	 von	von
+zwey	CARD	 zwei	zwei
+Eyern	ADJA	 UNKNOWN	Eyern
+und	KON	 und	und
+kalten	ADJA	 kalt	kalten
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+knete	VVFIN	 kneten	knete
+ihn	PPER	 er	ihn
+fein	ADJD	 fein	fein
+hart	ADJD	 hart	hart
+</seg>
+<seg type="newline">
+mandele	VVFIN	 UNKNOWN	mandele
+ihn	PPER	 er	ihn
+mit	APPR	 mit	mit
+einen	ART	 ein	einen
+Holtz	NN	 UNKNOWN	Holtz
+wieder	ADV	 wieder	wieder
+aus	PTKVZ	 aus	aus
+</seg>
+<seg type="newline">
+nimm	VVIMP	 nehmen	nimm
+so	ADV	 so	so
+viel	PIAT	 viel	viel
+Butter	NN	 Butter	Butter
+als	KOKOM	 als	als
+Teig	NN	 Teig	Teig
+</seg>
+<seg type="newline">
+sie	PPER	 sie	sie
+muß	VMFIN	 müssen	muß
+zuvor	ADV	 zuvor	zuvor
+in	APPR	 in	in
+Wasser	NN	 Wasser	Wasser
+geleget	ADJA	 UNKNOWN	geleget
+wergen	NN	 UNKNOWN	wergen
+</seg>
+<seg type="newline">
+damit	PAV	 damit	damit
+kein	PIAT	 kein	kein
+Saltz	NN	 Salz	Salz
+darinnen	VVFIN	 darinnen	darinnen
+sey	NE	 UNKNOWN	sey
+</seg>
+<seg type="newline">
+denn	KON	 denn	denn
+mandele	VVFIN	 UNKNOWN	mandele
+die	ART	 d	die
+Butter	NN	 Butter	Butter
+in	APPR	 in	in
+den	ART	 d	den
+Teig	NN	 Teig	Teig
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+es	PPER	 es	es
+ducheinander	NE	 UNKNOWN	ducheinander
+komme	VVFIN	 kommen	komme
+Man	PIS	 man	Man
+kan	ADV	 nun	Nun
+ihn	PPER	 er	ihn
+zum	APPRART	 zum	zum
+Tarten=Teig	NN	 UNKNOWN	Tarten=Teig
+gebrauchen	VVINF	 gebrauchen	gebrauchen
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+sonsten	ADV	 UNKNOWN	sonsten
+was	PIS	 was	was
+drein	ADV	 drein	drein
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

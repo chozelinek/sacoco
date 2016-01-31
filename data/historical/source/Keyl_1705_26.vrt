@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Keyl_1705_26" collection="historical" source="Keyl" url="none" year="1705" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1705:147]">
+<title>
+<seg type="newline">
+Kirschen=Tarte	NN	 UNKNOWN	Kirschen=Tarte
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Brich	VVIMP	 brechen	Brich
+die	ART	 d	die
+Steine	NN	 Stein	Steine
+heraus	PTKVZ	 heraus	heraus
+</seg>
+<seg type="newline">
+nimm	VVIMP	 nehmen	nimm
+gerieben	VVPP	 reiben	gerieben
+Semmel	NN	 Semmel	Semmel
+</seg>
+<seg type="newline">
+brate	VVFIN	 braten	brate
+ihn	PPER	 er	ihn
+fein	ADJD	 fein	fein
+hart	ADJD	 hart	hart
+in	APPR	 in	in
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+und	KON	 und	und
+wenn	KOUS	 wenn	wenn
+du	PPER	 du	du
+den	ART	 d	den
+Teig	NN	 Teig	Teig
+in	APPR	 in	in
+die	ART	 d	die
+Pfann	NN	 UNKNOWN	Pfann
+geleget	ADJD	 UNKNOWN	geleget
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+streu	ADJD	 UNKNOWN	streu
+von	APPR	 von	von
+der	ART	 d	der
+gebratenen	ADJA	 gebraten	gebratenen
+Semmel	NN	 Semmel	Semmel
+drüber	PAV	 drüber	drüber
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+eine	ART	 ein	eine
+Schicht	NN	 Schicht	Schicht
+Kirschen	NN	 Kirsche	Kirschen
+darauff	PAV	 drauf	drauf
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+Caneel	NN	 Handel	Handel
+</seg>
+<seg type="newline">
+denn	KON	 denn	denn
+wieder	ADV	 wieder	wieder
+Semmel	NN	 Semmel	Semmel
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+Kirschen	NN	 Kirsche	Kirschen
+</seg>
+<seg type="newline">
+Caneel	NN	 Handel	Handel
+</seg>
+<seg type="newline">
+biß	VVFIN	 beißen	biß
+die	ART	 d	die
+Form	NN	 Form	Form
+angefüllet	VVFIN	 UNKNOWN	angefüllet
+.	$.	.	$.	 .	|	.
+Mach	VVIMP	 machen	Mach
+es	PPER	 es	es
+alsdenn	NN	 UNKNOWN	Alsdann
+mit	APPR	 mit	mit
+den	ART	 d	den
+Deckel	NN	 Deckel	Deckel
+zierlich	ADJD	 zierlich	zierlich
+zu	PTKVZ	 zu	zu
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

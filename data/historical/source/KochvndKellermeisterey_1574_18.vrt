@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Koch_vnd_Kellermeisterey_1574_18" collection="historical" source="Koch_vnd_Kellermeisterey" url="none" year="1574" decade="1570-1580" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1574:30r]">
+<title>
+<seg type="newline">
+Knöpfflin	NN	 UNKNOWN	Knöpfflin
+von	APPR	 von	von
+Fleisch	NN	 Fleisch	Fleisch
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Hack	VVIMP	 hacken	Hack
+welcherley	NE	 UNKNOWN	welcherley
+das	ART	 d	das
+ist	VAFIN	 sein	ist
+gar	ADV	 gar	gar
+kleyn	ADJD	 UNKNOWN	kleyn
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Peterlin	NE	 UNKNOWN	Peterlin
+</seg>
+<seg type="newline">
+mach	VVIMP	 machen	mach
+es	PPER	 es	es
+ab	PTKVZ	 ab	ab
+mit	APPR	 mit	mit
+Saltz	NN	 Salz	Salz
+vnd	KON	 und	und
+Würtz	NN	 UNKNOWN	Würtz
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+specklin	ADJA	 UNKNOWN	specklin
+</seg>
+<seg type="newline">
+schlahe	ADJA	 UNKNOWN	schlahe
+zwey	CARD	 zwei	zwei
+rohe	ADJA	 roh	rohe
+Eyer	NE	 UNKNOWN	Eyer
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+mach	VVIMP	 machen	mach
+küchlin	ADJA	 UNKNOWN	küchlin
+darauß	NN	 UNKNOWN	herauß
+</seg>
+<seg type="newline">
+seud	VVFIN	 UNKNOWN	seud
+sie	PPER	 sie	sie
+in	APPR	 in	in
+Hüner	NN	 UNKNOWN	Hünern
+oder	KON	 oder	oder
+jrer	ADJA	 UNKNOWN	jrer
+eygen	NN	 UNKNOWN	eygen
+brühe	VVFIN	 brühen	brühe
+</seg>
+<seg type="newline">
+gilb	VVFIN	 UNKNOWN	gilb
+sie	PPER	 sie	sie
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+richte	VVFIN	 richten	richte
+es	PPER	 es	es
+an	PTKVZ	 an	an
+.	$.	.	$.	 .	|	.
+Man	PIS	 man	Man
+mag	VMFIN	 mögen	mag
+es	PPER	 es	es
+zu	APPR	 zu	zu
+Lebersultzen	NN	 UNKNOWN	Lebersultzen
+legen	VVFIN	 legen	legen
+</seg>
+<seg type="newline">
+damit	PAV	 damit	damit
+vereinigen	VVINF	 vereinigen	vereinigen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

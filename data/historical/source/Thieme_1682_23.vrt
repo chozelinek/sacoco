@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Thieme_1682_23" collection="historical" source="Thieme" url="none" year="1682" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Hecht|" method="|Ungarisch|" ref="[959]">
+<title>
+<seg type="newline">
+Hecht	NN	 Hecht	Hecht
+gelb	ADJD	 gelb	gelb
+auf	APPR	 auf	auf
+Ungarisch	NE	 UNKNOWN	Ungarisch
+gekocht	VVPP	 kochen	gekocht
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nehmet	NE	 Nehmet	Nehmet
+Zwiebeln	NN	 Zwiebel|Zwiebeln	Zwiebeln
+und	KON	 und	und
+Aepffel	NN	 UNKNOWN	Aepffel
+</seg>
+<seg type="newline">
+schneidet	VVFIN	 schneiden	schneidet
+und	KON	 und	und
+hacket	VVFIN	 UNKNOWN	hacket
+sie	PPER	 sie	sie
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+nehmet	VVFIN	 nehmen	nehmet
+eingeweichten	ADJA	 eingeweicht	eingeweichten
+Weck	NN	 Weck	Weck
+oder	KON	 oder	oder
+Semmel	NN	 Semmel	Semmel
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+grün	ADJD	 grün	grün
+Bertram=Kraut	NN	 UNKNOWN	Bertram=Kraut
+</seg>
+<seg type="newline">
+hacket	VVFIN	 UNKNOWN	hacket
+alles	PIS	 alle	alles
+wol	PWAV	 wo	wo
+durcheinander	ADV	 durcheinander	durcheinander
+</seg>
+<seg type="newline">
+lassets	ADJD	 UNKNOWN	lässets
+in	APPR	 in	in
+Wasser	NN	 Wasser	Wasser
+sieden	VVFIN	 sieden	sieden
+bis	APPR	 bis	bis
+die	ART	 d	die
+Zwiebeln	NN	 Zwiebel|Zwiebeln	Zwiebeln
+weich	ADJD	 weich	weich
+werden	VAINF	 werden	werden
+.	$.	.	$.	 .	|	.
+Nehmet	VVFIN	 nehmen	Nehmet
+darnach	PAV	 danach	Danach
+lauter	ADJD	 laut	lauter
+guten	ADJA	 gut	guten
+Wein	NN	 Wein	Wein
+und	KON	 und	und
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Essig	NN	 Essig	Essig
+</seg>
+<seg type="newline">
+lasset	VVFIN	 lassen	lasset
+es	PPER	 es	es
+damit	PAV	 damit	damit
+aufsieden	VVINF	 UNKNOWN	aufsieden
+.	$.	.	$.	 .	|	.
+Alsdann	NN	 UNKNOWN	Alsdann
+den	ART	 d	den
+Hecht	NN	 Hecht	Hecht
+</seg>
+<seg type="newline">
+von	APPR	 von	von
+dem	ART	 d	dem
+zuvor	ADV	 zuvor	zuvor
+die	ART	 d	die
+Haut	NN	 Haut	Haut
+geschnitten	VVPP	 schneiden	geschnitten
+</seg>
+<seg type="newline">
+gewaschen	VVPP	 waschen	gewaschen
+</seg>
+<seg type="newline">
+gesalzen	VVPP	 salzen	gesalzen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+in	APPR	 in	in
+Stücken	NN	 Stück	Stücken
+gehauen	VVPP	 hauen	gehauen
+worden	VAPP	 werden	worden
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+die	ART	 d	die
+Brüh	ADJD	 früh	früh
+geleget	ADJA	 UNKNOWN	geleget
+</seg>
+<seg type="newline">
+und	KON	 und	und
+in	APPR	 in	in
+einer	ART	 ein	einer
+Pfann	NN	 UNKNOWN	Pfann
+oder	KON	 oder	oder
+Fisch=Kessel	NN	 UNKNOWN	Fisch=Kessel
+auf	APPR	 auf	auf
+ein	ART	 ein	ein
+rösch	ADJA	 UNKNOWN	rösch
+Feuer	NN	 Feuer	Feuer
+gesetzet	ADJD	 UNKNOWN	gesetzet
+</seg>
+<seg type="newline">
+und	KON	 und	und
+fein	ADJD	 fein	fein
+risch	ADJD	 UNKNOWN	risch
+sieden	VVINF	 sieden	sieden
+lassen	VVFIN	 lassen	lassen
+</seg>
+<seg type="newline">
+machets	NN	 UNKNOWN	machets
+ab	PTKVZ	 ab	ab
+mit	APPR	 mit	mit
+Gewürz	NN	 Gewürz	Gewürz
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+und	KON	 und	und
+Saffran	NN	 Safran	Safran
+</seg>
+<seg type="newline">
+machets	NN	 UNKNOWN	machets
+wol	PWAV	 wo	wo
+süß	ADJD	 süß	süß
+mit	APPR	 mit	mit
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+thut	NE	 UNKNOWN	thue
+auch	ADV	 auch	auch
+gesalzene	ADJA	 gesalzt	gesalzene
+Lemonien	NN	 UNKNOWN	Lemoni
+</seg>
+<seg type="newline">
+fein	ADJD	 fein	fein
+breit	ADJD	 breit	breit
+Blätz=weis	NN	 UNKNOWN	Blätz=weis
+geschnitten	VVPP	 schneiden	geschnitten
+</seg>
+<seg type="newline">
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+wird	VAFIN	 werden	wird
+die	PDS	 d	die
+Brüh	ADJD	 früh	früh
+fein	ADJD	 fein	fein
+dick	ADJD	 dick	dick
+von	APPR	 von	von
+den	ART	 d	den
+Aepffeln	NN	 UNKNOWN	Aepffeln
+und	KON	 und	und
+Zwiebeln	NN	 Zwiebel|Zwiebeln	Zwiebeln
+</seg>
+<seg type="newline">
+vom	APPRART	 vom	vom
+Brod	NN	 Brot	Brot
+aber	KON	 aber	aber
+wolgeschmack	NN	 UNKNOWN	wolgeschmack
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

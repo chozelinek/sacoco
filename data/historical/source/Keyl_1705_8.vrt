@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Keyl_1705_8" collection="historical" source="Keyl" url="none" year="1705" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1705:102]">
+<title>
+<seg type="newline">
+Wein=Mueß	NE	 UNKNOWN	Wein=Mueß
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Erstlich	ADJD	 UNKNOWN	Erstlich
+nimm	VVIMP	 nehmen	nimm
+Wein	NN	 Wein	Wein
+und	KON	 und	und
+etwas	PIAT	 etwas	etwas
+Wasser	NN	 Wasser	Wasser
+dazu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+gerieben	VVPP	 reiben	gerieben
+Brod	NN	 Brot	Brot
+</seg>
+<seg type="newline">
+drey	CARD	 drei	drei
+Eyer	ADJA	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+rühre	VVFIN	 rühren	rühre
+zusammen	ADV	 zusammen	zusammen
+ab	APPR	 ab	ab
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+und	KON	 und	und
+Caneel	NN	 Handel	Handel
+drüber	PTKVZ	 drüber	drüber
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

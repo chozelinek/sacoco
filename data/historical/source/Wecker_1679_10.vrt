@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Wecker_1679_10" collection="historical" source="Wecker" url="none" year="1679" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:135f.]">
+<title>
+<seg type="newline">
+Barmen	ADJA	 UNKNOWN	Barmen
+Ahlraupen	NN	 UNKNOWN	Ahlraupen
+auch	ADV	 auch	auch
+andere	ADJA	 ander	andere
+Fische	NN	 Fisch	Fische
+in	APPR	 in	in
+einem	ART	 ein	einem
+Buttersödlein	NN	 UNKNOWN	Buttersödlein
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Reiß	VVIMP	 reißen	Reiß
+den	ART	 d	den
+Fisch	NN	 Fisch	Fisch
+</seg>
+<seg type="newline">
+was	PRELS	 was	was
+es	PPER	 es	es
+sey	VVFIN	 UNKNOWN	sey
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+nimm	VVIMP	 nehmen	nimm
+jhn	PPER	 er	ihn
+auß	VMFIN	 müssen	muß
+</seg>
+<seg type="newline">
+seynd	VAFIN	 sein	sind
+sie	PPER	 sie	sie
+groß	ADJD	 groß	groß
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+mache	VVFIN	 machen	mache
+stücke	VVFIN	 stücken	stücke
+darauß	NN	 UNKNOWN	herauß
+</seg>
+<seg type="newline">
+sind	VAFIN	 sein	sind
+sie	PPER	 sie	sie
+aber	ADV	 aber	aber
+mässig	ADJD	 mäßig	mässig
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+laß	ADJD	 laß	laß
+sie	PPER	 sie	sie
+gantz	ADV	 ganz	ganz
+</seg>
+<seg type="newline">
+wasch	VVIMP	 waschen	wasch
+sie	PPER	 sie	sie
+auß	VMFIN	 müssen	muß
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+sie	PPER	 sie	sie
+in	APPR	 in	in
+eine	ART	 ein	eine
+Schüssel	NN	 Schüssel	Schüssel
+</seg>
+<seg type="newline">
+begeuß	VVFIN	 UNKNOWN	begeuß
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Essig	NN	 Essig	Essig
+</seg>
+<seg type="newline">
+der	ART	 d	der
+laulicht	ADJA	 UNKNOWN	laulicht
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+werden	VAFIN	 werden	werden
+sie	PPER	 sie	sie
+hüpsch	ADJA	 UNKNOWN	hüpsch
+blaw	NE	 UNKNOWN	blaw
+</seg>
+<seg type="newline">
+seud	VVFIN	 UNKNOWN	seud
+sie	PPER	 sie	sie
+dann	ADV	 dann	dann
+in	APPR	 in	in
+halb	ADJD	 halb	halb
+Wein	NN	 Wein	Wein
+vnd	KON	 und	und
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+halb	ADJD	 halb	halb
+Essig	NN	 Essig	Essig
+vnd	KON	 und	und
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+saltz	ADJA	 kalt	kalten
+recht	ADJD	 recht	recht
+.	$.	.	$.	 .	|	.
+Wan	VVFIN	 UNKNOWN	Wan
+es	PPER	 es	es
+nun	ADV	 nun	nun
+halb	ADJD	 halb	halb
+eingesotten	ADJA	 UNKNOWN	eingesotten
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+thu	NE	 Thu	thu
+die	ART	 d	die
+Brüh	ADJD	 früh	früh
+zum	APPRART	 zum	zum
+theil	NN	 UNKNOWN	theil
+davon	PAV	 davon	davon
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+ein	ART	 ein	ein
+gut	ADJD	 gut	gut
+Stück	NN	 Stück	Stück
+Butter	NN	 Butter	Butter
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+röste	VVFIN	 UNKNOWN	röste
+auch	ADV	 auch	auch
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+weiß	VVFIN	 wissen	weiß
+Mäl	NN	 UNKNOWN	Mäl
+in	APPR	 in	in
+geschmältztem	ADJA	 UNKNOWN	geschmältztem
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+ein	ART	 ein	ein
+gut	ADJD	 gut	gut
+theil	ADJA	 UNKNOWN	theil
+Ingwer	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+Pfeffer	NN	 Pfeffer	Pfeffer
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+brene	VVFIN	 UNKNOWN	brene
+es	PPER	 es	es
+über	APPR	 über	über
+die	ART	 d	die
+Fisch	NN	 Fisch	Fisch
+mit	APPR	 mit	mit
+dem	ART	 d	dem
+Södlein	NN	 UNKNOWN	Södlein
+an	APPR	 an	an
+</seg>
+<seg type="newline">
+man	PIS	 man	man
+mag	VMFIN	 mögen	mag
+auch	ADV	 auch	auch
+wol	PWAV	 wo	wo
+eingeschnitten	VVPP	 einschneiden	eingeschnitten
+Petersilgen	NE	 UNKNOWN	Petersilgen
+grünes	ADJA	 grün	grünes
+darzu	PAV	 dazu	dazu
+thun	NN	 UNKNOWN	thue
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+Ingwer	NN	 Ingwer	Ingwer
+darüber	PAV	 darüber	darüber
+strewen	VVINF	 UNKNOWN	strewen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

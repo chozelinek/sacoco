@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Buchinger_1700_5" collection="historical" source="Buchinger" url="none" year="1700" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:1f.]">
+<title>
+<seg type="newline">
+813.	ADJA	 @ord@	813.
+Rohte	NN	 UNKNOWN	Rohte
+Rahnen=Wurtzel	NE	 UNKNOWN	Rahnen=Wurtzel
+</seg>
+</title>
+<body>
+<seg type="newline">
+werden	VAFIN	 werden	werden
+sauber	ADJD	 sauber	sauber
+gewaschen	VVPP	 waschen	gewaschen
+</seg>
+<seg type="newline">
+geschabt	VVPP	 geschabt	geschabt
+hernach	ADV	 hernach	hernach
+in	APPR	 in	in
+Wasser	NN	 Wasser	Wasser
+wol	PWAV	 wo	wo
+gesotten	VVPP	 sieden	gesotten
+</seg>
+<seg type="newline">
+alsdann	NN	 UNKNOWN	Alsdann
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+sie	PPER	 sie	sie
+groß	ADJD	 groß	groß
+</seg>
+<seg type="newline">
+zu	APPR	 zu	zu
+Schnitz	NN	 UNKNOWN	Schnitz
+geschnitten	VVPP	 schneiden	geschnitten
+in	APPR	 in	in
+ein	ART	 ein	ein
+irrden	NN	 UNKNOWN	irrden
+oder	KON	 oder	oder
+höltzin	ADJA	 UNKNOWN	höltzin
+Geschierr	NN	 UNKNOWN	Geschierr
+eingelegt	VVPP	 einlegen	eingelegt
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Fenchel	NN	 Fenchel	Fenchel
+und	KON	 und	und
+Saltz	NN	 Salz	Salz
+besprengt	VVFIN	 besprengen	besprengt
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Essig	NN	 Essig	Essig
+begossen	VVPP	 begießen	begossen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+auffgehalten	VVFIN	 UNKNOWN	auffgehalten
+.	$.	.	$.	 .	|	.
+Man	PIS	 man	Man
+kan	ADV	 nun	Nun
+an	APPR	 an	an
+statt	APPR	 statt	statt
+Fenchels	NE	 UNKNOWN	Fenchels
+</seg>
+<seg type="newline">
+Mattenkümich	NE	 UNKNOWN	Mattenkümich
+oder	KON	 oder	oder
+präparierten	VVFIN	 präparieren	präparierten
+Coriander	NE	 UNKNOWN	Coriander
+(	$(	(	$(	 (	|	(
+der	ART	 d	der
+24.	ADJA	 24.	24.
+Stund	VAFIN	 sein	sind
+in	APPR	 in	in
+gutem	ADJA	 gut	gutem
+Essig	NN	 Essig	Essig
+gebeitzt	VVPP	 UNKNOWN	gebeitzt
+gewesen	VAPP	 sein	gewesen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+widerumb	ADJD	 UNKNOWN	widerumb
+getrücknet	VVPP	 UNKNOWN	getrücknet
+worden	VAPP	 werden	worden
+)	$(	)	$(	 )	|	)
+darzu	PAV	 dazu	dazu
+thun	VVFIN	 UNKNOWN	thue
+.	$.	.	$.	 .	|	.
+Man	PIS	 man	Man
+soll	VMFIN	 sollen	soll
+offt	ADV	 oft	oft
+darzu	PAV	 dazu	dazu
+sehen	VVFIN	 sehen	sehen
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+sie	PPER	 sie	sie
+nicht	PTKNEG	 nicht	nicht
+schimlecht	ADJD	 UNKNOWN	schimlecht
+werden	VAINF	 werden	werden
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

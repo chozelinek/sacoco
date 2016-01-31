@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Stockholm_1647_2" collection="historical" source="Stockholm" url="none" year="1647" decade="1640-1650" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1647:56][kein Verb]">
+<body>
+<seg type="newline">
+Gebacken	ADJA	 UNKNOWN	Gebacken
+Milch	NN	 Milch	Milch
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+zusatz	NN	 Zusatz	zusatz
+Eijer	ADJA	 UNKNOWN	Eijer
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+vnd	KON	 und	und
+Mehl	NN	 Mehl	Mehl
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

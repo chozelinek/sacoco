@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Prasmosfky_1671_7" collection="historical" source="Prasmosfky" url="none" year="1671" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1671:220]">
+<title>
+<seg type="newline">
+[	$(	[	$(	 [	|	[
+669.	ADJA	 @ord@	669.
+Weichsel=Dorten	NN	 UNKNOWN	Weichsel=Dorten
+.	$.	.	$.	 .	|	.
+]	$(	]	$(	 ]	|	]
+Oder	KON	 oder	Oder
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+Weichsel	NN	 Weichsel	Weichsel
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+die	ART	 d	die
+Kern	NN	 Kern	Kern
+darvon	PAV	 darin	darin
+</seg>
+<seg type="newline">
+und	KON	 und	und
+nimm	VVIMP	 nehmen	nimm
+Weinbeer	NN	 Weizenbier	Weizenbier
+</seg>
+<seg type="newline">
+Zimmet	NN	 Zimt	Zimt
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+machs	NE	 UNKNOWN	machs
+untereinander	ADV	 untereinander	untereinander
+</seg>
+<seg type="newline">
+und	KON	 und	und
+mache	VVFIN	 machen	mache
+es	PPER	 es	es
+fein	ADJD	 fein	fein
+dick	ADJD	 dick	dick
+wie	KOKOM	 wie	wie
+ein	ART	 ein	ein
+Mus	NN	 Mus	Mus
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+eine	ART	 ein	eine
+Hand	NN	 Hand	Hand
+voll	ADJD	 voll	voll
+weiß	VVFIN	 wissen	weiß
+geröst	ADJA	 UNKNOWN	geröst
+Brod	NN	 Brot	Brot
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+mach	VVIMP	 machen	mach
+einen	ART	 ein	einen
+Boden	NN	 Boden	Boden
+unten	ADV	 unten	unten
+und	KON	 und	und
+oben	ADV	 oben	oben
+</seg>
+<seg type="newline">
+und	KON	 und	und
+bachs	NE	 Bach	bachs
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

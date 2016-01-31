@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Hohberg_1715_20" collection="historical" source="Hohberg" url="none" year="1715" decade="1710-1720" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1715:71]">
+<title>
+<seg type="newline">
+Leber=	NN	 UNKNOWN	Leber=
+und	KON	 und	und
+Mägelein	NN	 UNKNOWN	Mägelein
+zu	PTKZU	 zu	zu
+kochen	VVINF	 kochen	kochen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Putzet	NN	 UNKNOWN	Putzet
+und	KON	 und	und
+waschet	VVFIN	 waschen	waschen
+die	ART	 d	die
+Leber	NN	 Leber	Leber
+und	KON	 und	und
+Mägelein	NN	 UNKNOWN	Mägelein
+sauber	ADJD	 sauber	sauber
+</seg>
+<seg type="newline">
+lasset	VVFIN	 lassen	lasset
+die	ART	 d	die
+Mägelein	NN	 UNKNOWN	Mägelein
+in	APPR	 in	in
+halb	ADJD	 halb	halb
+Fleischbrüh	NN	 Fleischbrühe	Fleischbrühe
+und	KON	 und	und
+Wasser	NN	 Wasser	Wasser
+sieden	VVINF	 sieden	sieden
+</seg>
+<seg type="newline">
+und	KON	 und	und
+wann	PWAV	 wann	wann
+sie	PPER	 sie	sie
+bald	ADV	 bald	bald
+weich	ADJD	 weich	weich
+</seg>
+<seg type="newline">
+leget	ADJD	 UNKNOWN	leget
+die	ART	 d	die
+Leberlein	NN	 UNKNOWN	Leberlein
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+sie	PPER	 sie	sie
+nun	ADV	 nun	nun
+völlig	ADJD	 völlig	völlig
+weich	ADJD	 weich	weich
+</seg>
+<seg type="newline">
+schneidets	ADJD	 UNKNOWN	schneidets
+in	APPR	 in	in
+etliche	PIAT	 etlich	etliche
+Theil	NN	 Teil	Teil
+</seg>
+<seg type="newline">
+thut	NE	 UNKNOWN	thue
+in	APPR	 in	in
+einem	ART	 ein	einem
+stollichten	ADJA	 UNKNOWN	stollichten
+Hafen	NN	 Hafen	Hafen
+</seg>
+<seg type="newline">
+nebst	APPR	 nebst	nebst
+Muscatenblüh	NN	 UNKNOWN	Muscatenblüh
+</seg>
+<seg type="newline">
+Cardamomen	NN	 Kardamom	Kardamom
+und	KON	 und	und
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+gehacktem	ADJA	 gehackt	gehacktem
+Petersillien=Kraut	NN	 UNKNOWN	Petersillien=Kraut
+</seg>
+<seg type="newline">
+etwas	ADV	 etwas	etwas
+Brüh	ADJD	 früh	früh
+</seg>
+<seg type="newline">
+worinnen	VVFIN	 springen	springen
+sie	PPER	 sie	sie
+gesotten	VVPP	 sieden	gesotten
+</seg>
+<seg type="newline">
+und	KON	 und	und
+ziemlich	ADV	 ziemlich	ziemlich
+viel	PIAT	 viel	viel
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+lassets	ADJD	 UNKNOWN	lässets
+ferner	ADJD	 fern	ferner
+aufkochen	VVFIN	 aufkochen	aufkochen
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+die	PDS	 d	die
+Brüh	ADJD	 früh	früh
+dicklicht	ADJD	 UNKNOWN	dicklicht
+wird	VAFIN	 werden	wird
+;	$.	;	$.	 ;	|	;
+wanns	NE	 UNKNOWN	wanns
+angericht	NN	 UNKNOWN	zugericht
+</seg>
+<seg type="newline">
+streuet	VVFIN	 UNKNOWN	streuet
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+gehacktes	ADJA	 gehackt	gehacktes
+Petersillien=Kraut	NN	 UNKNOWN	Petersillien=Kraut
+darauf	PAV	 darauf	darauf
+.	$.	.	$.	 .	|	.
+Man	PIS	 man	Man
+kan	ADV	 nun	Nun
+auch	ADV	 auch	auch
+eine	ART	 ein	eine
+Capern=	NN	 UNKNOWN	Capern=
+oder	KON	 oder	oder
+sonst	ADV	 sonst	sonst
+beliebige	ADJA	 beliebig	beliebige
+Brüh	ADJD	 früh	früh
+darüber	PAV	 darüber	darüber
+machen	VVFIN	 machen	machen
+;	$.	;	$.	 ;	|	;
+Oder	KON	 oder	Oder
+solche	PIS	 solch	solche
+mit	APPR	 mit	mit
+Scorzonera	NE	 UNKNOWN	Scorzonera
+</seg>
+<seg type="newline">
+Spargel	NN	 Spargel	Spargel
+</seg>
+<seg type="newline">
+Küfferbes	NN	 UNKNOWN	Küfferbes
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+sonst	ADV	 sonst	sonst
+anders	ADV	 anders	anders
+zu	APPR	 zu	zu
+Tisch	NN	 Tisch	Tisch
+bringen	VVFIN	 bringen	bringen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

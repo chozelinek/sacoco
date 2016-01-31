@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Buchinger_1700_11" collection="historical" source="Buchinger" url="none" year="1700" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:1f.]">
+<title>
+<seg type="newline">
+609.	ADJA	 @ord@	609.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Oder	KON	 oder	Oder
+man	PIS	 man	man
+mag	VMFIN	 mögen	mag
+selbigen	ADJA	 UNKNOWN	selbigen
+auff	APPR	 auf	auf
+ein	ART	 ein	ein
+höltzinen	ADJA	 UNKNOWN	höltzinen
+Teller	NN	 Teller	Teller
+thun	NE	 UNKNOWN	thue
+</seg>
+<seg type="newline">
+Strützlin	NN	 UNKNOWN	Strützlin
+mit	APPR	 mit	mit
+dem	ART	 d	dem
+Hackmesser	NN	 Hackmesser	Hackmesser
+darauß	NN	 UNKNOWN	herauß
+machen	VVFIN	 machen	machen
+</seg>
+<seg type="newline">
+auff	APPR	 auf	auf
+den	ART	 d	den
+Orten	NN	 Ort|Orten	Orten
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+ritzen	VVFIN	 ritzen	ritzen
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+schmaltz	NE	 UNKNOWN	schmaltz
+sittlich	ADJD	 sittlich	sittlich
+bachen	NN	 Kochen	Kochen
+und	KON	 und	und
+die	ART	 d	die
+Pfannen	NN	 Pfanne	Pfannen
+</seg>
+<seg type="newline">
+damit	PAV	 damit	damit
+sie	PPER	 sie	sie
+auffgehn	VVFIN	 UNKNOWN	auffgehn
+</seg>
+<seg type="newline">
+allzeit	ADV	 allzeit	allzeit
+rüttlen	VVINF	 UNKNOWN	rüttlen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Deckhardt_1611_3" collection="historical" source="Deckhardt" url="none" year="1611" decade="1610-1620" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Huhn|" method="|gebraten|" ref="[1611:19]">
+<title>
+<seg type="newline">
+Gebratene	ADJA	 gebraten	Gebratene
+Hünner	VVFIN	 dünnen	dünne
+in	APPR	 in	in
+einem	ART	 ein	einem
+Trisanet	NE	 UNKNOWN	Trysaneth
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Brate	VVFIN	 braten	Brate
+die	ART	 d	die
+Hünner	ADJA	 dünn	dünne
+erstlichen	ADJD	 UNKNOWN	erstlich
+fein	ADJD	 fein	fein
+mürbe	ADJD	 mürbe	mürbe
+vnd	KON	 und	und
+braun	ADJD	 braun	braun
+abe	PAV	 dabei	dabei
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+las	VVFIN	 lesen	las
+sie	PPER	 sie	sie
+kalt	ADJD	 kalt	kalt
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+behe	CARD	 zehn	zehn
+etzlichen	ADJA	 UNKNOWN	Etliche
+Semmelschnitten	NN	 UNKNOWN	Semmelschnitten
+auch	ADV	 auch	auch
+braun	ADJD	 braun	braun
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+einen	ART	 ein	einen
+guten	ADJA	 gut	guten
+Trisanet	NE	 UNKNOWN	Trysaneth
+von	APPR	 von	von
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+Zimmet	NN	 Zimt	Zimt
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Ingwer	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+guten	ADJA	 gut	guten
+Wein	NN	 Wein	Wein
+.	$.	.	$.	 .	|	.
+Hat	VAFIN	 haben	Hat
+man	PIS	 man	man
+aber	ADV	 aber	aber
+Malvasir	NN	 UNKNOWN	Malvasier
+</seg>
+<seg type="newline">
+Reinfall	NN	 Reinfall	Reinfall
+oder	KON	 oder	oder
+andern	ADJA	 ander	andern
+süssen	ADJA	 süß	süssen
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+wird	VAFIN	 werden	wird
+es	PPER	 es	es
+desto	KON	 desto	desto
+besser	ADJD	 gut	besser
+</seg>
+<seg type="newline">
+weiche	VVFIN	 weichen	weiche
+die	ART	 d	die
+gebeeten	ADJA	 gelegt	gelegten
+Semmelschnitten	NN	 UNKNOWN	Semmelschnitten
+drein	ADV	 drein	drein
+</seg>
+<seg type="newline">
+Nim	VVFIN	 UNKNOWN	nimb
+den	ART	 d	den
+die	ART	 d	die
+Hünner	ADJA	 dünn	dünne
+</seg>
+<seg type="newline">
+zerlege	VVFIN	 UNKNOWN	zerlege
+sie	PPER	 sie	sie
+in	APPR	 in	in
+5	CARD	5	CARD	 5	|	5
+oder	KON	 oder	oder
+6	CARD	6	CARD	 6	|	6
+stücklein	ADJD	 UNKNOWN	stückig
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+richte	VVFIN	 richten	richte
+sie	PPER	 sie	sie
+in	APPR	 in	in
+eine	ART	 ein	eine
+Schüssel	NN	 Schüssel	Schüssel
+an	APZR	 an	an
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+darnach	PAV	 danach	Danach
+die	ART	 d	die
+geweichten	ADJA	 gereicht	gereichten
+Semmeln	NN	 Semmel	Semmeln
+fein	ADJD	 fein	fein
+gantz	ADV	 ganz	ganz
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+geus	NN	 UNKNOWN	geuß
+den	ART	 d	den
+Wein	NN	 Wein	Wein
+so	ADV	 so	so
+viel	ADV	 viel	viel
+die	PDS	 d	die
+notturfft	VVFIN	 UNKNOWN	notturfft
+erfordert	VVPP	 erfordern	erfordert
+</seg>
+<seg type="newline">
+darunter	PAV	 darunter	darunter
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+strewe	VVFIN	 streuen	streuen
+Zucker	NN	 Zucker	Zucker
+vnd	KON	 und	und
+Zimmet	NN	 Zimt	Zimt
+drauff	PAV	 drauf	drauf
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+gib	VVIMP	 geben	gib
+es	PPER	 es	es
+also	ADV	 also	also
+kalt	ADJD	 kalt	kalt
+</seg>
+<seg type="newline">
+es	PPER	 es	es
+ist	VAFIN	 sein	ist
+ein	ART	 ein	ein
+herliches	ADJA	 herrlich	herrliche
+Essen	NN	 Essen	Essen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

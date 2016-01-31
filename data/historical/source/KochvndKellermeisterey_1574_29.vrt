@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Koch_vnd_Kellermeisterey_1574_29" collection="historical" source="Koch_vnd_Kellermeisterey" url="none" year="1574" decade="1570-1580" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1574:14r]">
+<title>
+<seg type="newline">
+Stockfisch	NN	 Stockfisch	Stockfisch
+vnnd	KON	 und	und
+Rheinfisch	NN	 UNKNOWN	Rheinfisch
+zukochen	VVFIN	 UNKNOWN	zukochen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Stockfisch	NN	 Stockfisch	Stockfisch
+muß	VMFIN	 müssen	muß
+man	PIS	 man	man
+bleuwen	VVINF	 UNKNOWN	bleuwen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+einweichen	VVFIN	 einweichen	einweichen
+mit	PTKVZ	 mit	mit
+wein	VVIMP	 weinen	wein
+oder	KON	 oder	oder
+wasser	VVIMP	 wassern	wasser
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+mit	APPR	 mit	mit
+würtz	VVIMP	 würzen	würzt
+abmachen	VVINF	 abmachen	abmachen
+.	$.	.	$.	 .	|	.
+Rheinfisch	NN	 UNKNOWN	Rheinfisch
+vnd	KON	 und	und
+Bolchen	NN	 UNKNOWN	Bolchen
+im	APPRART	 im	im
+wasser	VVIMP	 wassern	wasser
+abgesotten	ADJA	 UNKNOWN	abgesotten
+bey	NE	 Bey	bey
+kraut	ADJA	 UNKNOWN	kraut
+oder	KON	 oder	oder
+salsen	ADJA	 UNKNOWN	salsen
+</seg>
+<seg type="newline">
+Dise	NN	 UNKNOWN	Dise
+vnnd	KON	 und	und
+alle	PIAT	 alle	alle
+gereucht	ADJA	 UNKNOWN	gereucht
+Fisch	NN	 Fisch	Fisch
+mag	VMFIN	 mögen	mag
+man	PIS	 man	man
+an	APPR	 an	an
+Fastagen	NN	 UNKNOWN	Fastagen
+neben	APPR	 neben	neben
+Suppen	NN	 Suppe	Suppen
+oder	KON	 oder	oder
+Kraut	NN	 Kraut	Kraut
+geben	VVINF	 geben	geben
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

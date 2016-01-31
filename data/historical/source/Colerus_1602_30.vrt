@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Colerus_1602_30" collection="historical" source="Colerus" url="none" year="1602" decade="1600-1610" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1602:184]">
+<title>
+<seg type="newline">
+Zum	APPRART	 zum	Zum
+Abendessen	NN	 Abendessen	Abendessen
+ein	PTKVZ	 ein	ein
+gebacken	VVPP	 backen	gebacken
+Hecht	NN	 Hecht	Hecht
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Backe	NN	 Backe	Backe
+den	ART	 d	den
+Hecht	NN	 Hecht	Hecht
+in	APPR	 in	in
+Butter	NN	 Butter	Butter
+oder	KON	 oder	oder
+Oehl	NE	 Oehl	Oehl
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+nim	VVFIN	 UNKNOWN	nimb
+einen	ART	 ein	einen
+süssen	ADJA	 süß	süssen
+Raum	NN	 Raum	Raum
+</seg>
+<seg type="newline">
+schlage	VVFIN	 schlagen	schlage
+darein	ADV	 darein	darein
+zwene	ADJA	 UNKNOWN	zwene
+oder	KON	 oder	oder
+drey	CARD	 drei	drei
+Eyerdötter	NN	 UNKNOWN	Eyerdötter
+</seg>
+<seg type="newline">
+las	VVFIN	 lesen	las
+die	ART	 d	die
+Milch	NN	 Milch	Milch
+mit	APPR	 mit	mit
+den	ART	 d	den
+Töttern	NN	 UNKNOWN	Töttern
+sieden	VVINF	 sieden	sieden
+</seg>
+<seg type="newline">
+mische	VVFIN	 mischen	mische
+das	PDS	 d	das
+sie	PPER	 sie	sie
+nicht	PTKNEG	 nicht	nicht
+zusammen	ADV	 zusammen	zusammen
+leufft	ADJD	 UNKNOWN	leufft
+</seg>
+<seg type="newline">
+würtze	VVFIN	 würzen	würzt
+mit	APPR	 mit	mit
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Ingber	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Muscatenblumen	NN	 UNKNOWN	Muscatenblumen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+Saffran	NN	 Safran	Safran
+</seg>
+<seg type="newline">
+wenn	KOUS	 wenn	wenn
+du	PPER	 du	du
+den	ART	 d	den
+Hecht	NN	 Hecht	Hecht
+gebacken	VVPP	 backen	gebacken
+hast	VAFIN	 haben	hast
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+jn	NE	 UNKNOWN	jn
+auff	APPR	 auf	auf
+die	ART	 d	die
+Schüssel	NN	 Schüssel	Schüssel
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+geus	NN	 UNKNOWN	geuß
+den	ART	 d	den
+Raum	NN	 Raum	Raum
+oben	ADV	 oben	oben
+drauff	PAV	 drauf	drauf
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Colerus_1602_15" collection="historical" source="Colerus" url="none" year="1602" decade="1600-1610" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Huhn|" method="|Limonie|" ref="[1602:147]">
+<title>
+<seg type="newline">
+Junge	NN	 Junge	Junge
+Hünner	VVFIN	 dünnen	dünne
+in	APPR	 in	in
+Lemonien	NE	 UNKNOWN	Lemoni
+zu	PTKZU	 zu	zu
+kochen	VVINF	 kochen	kochen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wiltu	NE	 UNKNOWN	Wiltu
+machen	VVFIN	 machen	machen
+junge	ADJA	 jung	junge
+Hüner	NN	 UNKNOWN	Hünern
+mit	APPR	 mit	mit
+Lemonien	NE	 UNKNOWN	Lemoni
+auff	APPR	 auf	auf
+eine	ART	 ein	eine
+Schüssel	NN	 Schüssel	Schüssel
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nim	ADJD	 UNKNOWN	nimb
+acht	CARD	 acht	acht
+oder	KON	 oder	oder
+zehen	NN	 Zeh|Zehe	zehen
+Lemonien	NE	 UNKNOWN	Lemoni
+</seg>
+<seg type="newline">
+hacke	VVFIN	 hacken	hacke
+sie	PPER	 sie	sie
+klein	ADJD	 klein	klein
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+Weißbrod	NN	 Weißbrot	Weißbrot
+</seg>
+<seg type="newline">
+nim	ADJA	 UNKNOWN	nimb
+kleine	ADJA	 klein	kleine
+Rosincken	NN	 Rosine	Rosinen
+drunter	PAV	 drunter	drunter
+eine	ART	 ein	eine
+gute	ADJA	 gut	gute
+Handvoll	NN	 Handvoll	Handvoll
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+es	PPER	 es	es
+in	APPR	 in	in
+einen	ART	 ein	einen
+Topff	NN	 Topf	Topf
+</seg>
+<seg type="newline">
+geus	VVPP	 UNKNOWN	geuß
+drey	CARD	 drei	drei
+quart	NN	 UNKNOWN	quart
+oder	KON	 oder	oder
+kannen	NN	 Pfanne	Pfanne
+Wein	NN	 Wein	Wein
+drauff	PAV	 drauf	drauf
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+lege	VVFIN	 legen	lege
+darzu	PAV	 dazu	dazu
+gantze	ADV	 ganz	ganz
+gesottene	ADJA	 gesiedet	Gesottenes
+Hüner	NN	 UNKNOWN	Hünern
+</seg>
+<seg type="newline">
+setze	VVFIN	 setzen	setze
+es	PPER	 es	es
+zum	APPRART	 zum	zum
+Fewer	NN	 Feuer	Feuer
+</seg>
+<seg type="newline">
+las	VVFIN	 lesen	las
+es	PPER	 es	es
+wol	PWAV	 wo	wo
+sieden	VVINF	 sieden	sieden
+</seg>
+<seg type="newline">
+würtze	VVFIN	 würzen	würzt
+es	PPER	 es	es
+ab	PTKVZ	 ab	ab
+mit	APPR	 mit	mit
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Ingber	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Muscatenblumen	NN	 UNKNOWN	Muscatenblumen
+</seg>
+<seg type="newline">
+Cinamey	NE	 UNKNOWN	Cinamey
+</seg>
+<seg type="newline">
+Saffaran	NN	 Safran	Safran
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+Zucker	NN	 Zucker	Zucker
+drein	ADV	 drein	drein
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+jhn	PPER	 er	ihn
+einen	ART	 ein	einen
+guten	ADJA	 gut	guten
+schmack	NN	 Schmack	schmack
+</seg>
+<seg type="newline">
+saltze	ADJA	 kalt	kalten
+es	PPER	 es	es
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+koste	VVFIN	 kosen|kosten	koste
+es	PPER	 es	es
+zu	PTKA	 zu	zu
+rechter	ADJD	 recht	rechter
+masse	VVFIN	 maßen	masse
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+gib	VVIMP	 geben	gib
+sie	PPER	 sie	sie
+hin	ADV	 hin	hin
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+einer	ART	 ein	einer
+Cinamey	NE	 UNKNOWN	Cinamey
+bestrewet	VVINF	 bestreuen	bestreuen
+.	$.	.	$.	 .	|	.
+Wil	NE	 Wil	Wil
+man	PIS	 man	man
+junge	ADJA	 jung	junge
+Hüner	NN	 UNKNOWN	Hünern
+mit	APPR	 mit	mit
+Lemonien	NE	 UNKNOWN	Lemoni
+auff	APPR	 auf	auf
+ein	ART	 ein	ein
+andere	PIS	 ander	andere
+weiß	VVFIN	 wissen	weiß
+</seg>
+<seg type="newline">
+gantz	ADV	 ganz	ganz
+vnd	KON	 und	und
+gar	ADV	 gar	gar
+zuschnitten	VVPP	 schneiden	geschnitten
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+viel	ADV	 viel	viel
+du	PPER	 du	du
+jhr	PPER	 er	ihn
+haben	VAFIN	 haben	haben
+wilt	NE	 Wilt	wilt
+</seg>
+<seg type="newline">
+auff	APPR	 auf	auf
+eine	ART	 ein	eine
+Schüssel	NN	 Schüssel	Schüssel
+machen	VVFIN	 machen	machen
+</seg>
+<seg type="newline">
+So	ADV	 so	So
+nim	ADJD	 UNKNOWN	nimb
+darzu	PAV	 dazu	dazu
+sechs	CARD	 sechs	sechs
+Lemonien	NN	 UNKNOWN	Lemoni
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+sie	PPER	 sie	sie
+in	APPR	 in	in
+einen	ART	 ein	einen
+Topff	NN	 Topf	Topf
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+las	VVFIN	 lesen	las
+sie	PPER	 sie	sie
+wol	PWAV	 wo	wo
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+wenn	KOUS	 wenn	wenn
+sie	PPER	 sie	sie
+weich	ADJD	 weich	weich
+gesotten	VVPP	 sieden	gesotten
+sein	VAINF	 sein	sein
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+thue	NN	 UNKNOWN	thue
+die	ART	 d	die
+gesottene	ADJA	 gesiedet	Gesottenes
+Petersilienwurtzel	NN	 Petersilienwurzel	Petersilienwurzel
+vnnd	KON	 und	und
+Lemonien	NN	 UNKNOWN	Lemoni
+in	APPR	 in	in
+einen	ART	 ein	einen
+Reibetopff	NN	 UNKNOWN	Reibetopff
+</seg>
+<seg type="newline">
+nim	ADJD	 UNKNOWN	nimb
+weiß	VVFIN	 wissen	weiß
+Brod	NN	 Brot	Brot
+darunter	PAV	 darunter	darunter
+</seg>
+<seg type="newline">
+reibs	VVFIN	 reiben	reiben
+wol	PWAV	 wo	wo
+kleine	ADJA	 klein	kleine
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+geus	NN	 UNKNOWN	geuß
+das	ART	 d	das
+Hünersoth	NE	 UNKNOWN	Hünersoth
+darauff	PAV	 drauf	drauf
+</seg>
+<seg type="newline">
+treibs	NN	 Kreis	Kreis
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+Sieb	NN	 Sieb	Sieb
+oder	KON	 oder	oder
+Tuch	NN	 Tuch	Tuch
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+geus	NN	 UNKNOWN	geuß
+es	PPER	 es	es
+wider	APPR	 wider	wider
+auff	APPR	 auf	auf
+die	ART	 d	die
+Hüner	NN	 UNKNOWN	Hünern
+in	APPR	 in	in
+den	ART	 d	den
+Topff	NN	 Topf	Topf
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+wol	PWAV	 wo	wo
+auffsieden	ADJD	 UNKNOWN	aufsieden
+</seg>
+<seg type="newline">
+würtze	VVFIN	 würzen	würzt
+es	PPER	 es	es
+ab	PTKVZ	 ab	ab
+mit	APPR	 mit	mit
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Ingber	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Muscatenblumen	NN	 UNKNOWN	Muscatenblumen
+</seg>
+<seg type="newline">
+Saltze	NN	 Salz	Salz
+es	PPER	 es	es
+zu	PTKZU	 zu	zu
+rechter	ADJA	 recht	rechter
+masse	VVFIN	 maßen	masse
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+lege	VVFIN	 legen	lege
+darein	ADV	 darein	darein
+gantze	ADV	 ganz	ganz
+Lemonien	NN	 UNKNOWN	Lemoni
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+zuschneide	VVFIN	 abschneiden	abschneiden
+sie	PPER	 sie	sie
+</seg>
+<seg type="newline">
+wie	KOUS	 wie	wie
+du	PPER	 du	du
+sie	PPER	 sie	sie
+haben	VAFIN	 haben	haben
+wilt	NE	 Wilt	wilt
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+sie	PPER	 sie	sie
+wol	PWAV	 wo	wo
+sieden	VVINF	 sieden	sieden
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+mache	VVFIN	 machen	mache
+jn	NE	 UNKNOWN	jn
+einen	ART	 ein	einen
+guten	ADJA	 gut	guten
+schmack	NN	 Schmack	schmack
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+richte	VVFIN	 richten	richte
+sie	PPER	 sie	sie
+an	PTKVZ	 an	an
+.	$.	.	$.	 .	|	.
+Also	ADV	 also	Also
+magstu	NN	 UNKNOWN	magsts
+auch	ADV	 auch	auch
+die	ART	 d	die
+Söder	NN	 UNKNOWN	Söder
+machen	VVFIN	 machen	machen
+auff	APPR	 auf	auf
+alte	ADJA	 alt	alte
+gantze	ADV	 ganz	ganz
+oder	KON	 oder	oder
+zerschnittene	ADJA	 zerschnitten	zerschnittene
+Hüner	NN	 UNKNOWN	Hünern
+</seg>
+<seg type="newline">
+wie	KOUS	 wie	wie
+du	PPER	 du	du
+sie	PPER	 sie	sie
+am	PTKA	 am	am
+liebsten	ADJD	 lieb	liebsten
+haben	VAFIN	 haben	haben
+wilt	NE	 Wilt	wilt
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

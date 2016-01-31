@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Prasmosfky_1671_9" collection="historical" source="Prasmosfky" url="none" year="1671" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1671:200]">
+<title>
+<seg type="newline">
+609.	ADJA	 @ord@	609.
+Speck=Dorten	NN	 UNKNOWN	Speck=Dorten
+zu	PTKZU	 zu	zu
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Hacke	NN	 Hacke	Hacke
+einen	ART	 ein	einen
+Speck	NN	 Speck	Speck
+</seg>
+<seg type="newline">
+der	ART	 d	der
+nicht	PTKNEG	 nicht	nicht
+zehe	NN	 Zehe	zehe
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+und	KON	 und	und
+nimm	VVIMP	 nehmen	nimm
+gerieben	VVPP	 reiben	gerieben
+weiß	VVFIN	 wissen	weiß
+Brod	NN	 Brot	Brot
+</seg>
+<seg type="newline">
+sechs	CARD	 sechs	sechs
+Eyer	ADJA	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+nimm	VVIMP	 nehmen	nimm
+auch	ADV	 auch	auch
+Zucker	NN	 Zucker	Zucker
+und	KON	 und	und
+Rosenwasser	NN	 Rosenwasser	Rosenwasser
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+Zimmet	NN	 Zimt	Zimt
+</seg>
+<seg type="newline">
+rühre	VVFIN	 rühren	rühre
+es	PPER	 es	es
+untereinander	ADV	 untereinander	untereinander
+</seg>
+<seg type="newline">
+und	KON	 und	und
+leg	VVIMP	 legen	leg
+es	PPER	 es	es
+in	APPR	 in	in
+den	ART	 d	den
+Täig	NN	 UNKNOWN	Täig
+</seg>
+<seg type="newline">
+du	PPER	 du	du
+must	VVFIN	 UNKNOWN	must
+den	ART	 d	den
+Täig	ADJD	 UNKNOWN	Täig
+dicker	ADJA	 dick	dicker
+machen	VVINF	 machen	machen
+</seg>
+<seg type="newline">
+denn	KON	 denn	denn
+zu	APPR	 zu	zu
+andern	ADJA	 ander	andern
+Dorten	NN	 UNKNOWN	Dorten
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+einen	ART	 ein	einen
+Deckel	NN	 Deckel	Deckel
+darauf	PAV	 darauf	darauf
+</seg>
+<seg type="newline">
+und	KON	 und	und
+bachs	NE	 Bach	bachs
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

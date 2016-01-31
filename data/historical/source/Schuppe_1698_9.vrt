@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Schuppe_1698_9" collection="historical" source="Schuppe" url="none" year="1698" decade="1690-1700" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1698:41]">
+<title>
+<seg type="newline">
+LXVII	NE	 UNKNOWN	LXVII
+.	$.	.	$.	 .	|	.
+Kalb=Fleisch	NN	 UNKNOWN	Kalb=Fleisch
+mit	APPR	 mit	mit
+Sardellen	NN	 Sardelle	Sardellen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+das	ART	 d	das
+Kalb=Fleisch	NN	 UNKNOWN	Kalb=Fleisch
+</seg>
+<seg type="newline">
+schneide	VVFIN	 schneiden	schneide
+es	PPER	 es	es
+in	APPR	 in	in
+Stücken	NN	 Stück	Stücken
+</seg>
+<seg type="newline">
+wasche	VVFIN	 waschen	wasche
+es	PPER	 es	es
+wohl	ADV	 wohl	wohl
+aus	APZR	 aus	aus
+</seg>
+<seg type="newline">
+setze	VVFIN	 setzen	setze
+es	PPER	 es	es
+bey	NE	 Bey	bey
+das	ART	 d	das
+Feuer	NN	 Feuer	Feuer
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+kochen	VVINF	 kochen	kochen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+schäume	VVFIN	 schäumen	schäume
+es	PPER	 es	es
+wohl	ADV	 wohl	wohl
+ab	APPR	 ab	ab
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+Muscaten=Blumen	NN	 UNKNOWN	Muscaten=Blumen
+</seg>
+<seg type="newline">
+Saltz	NN	 Salz	Salz
+und	KON	 und	und
+geriebene	ADJA	 gerieben	geriebene
+Semmel	NN	 Semmel	Semmel
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+nimdann	ADJA	 UNKNOWN	nimdann
+Sardellen	NN	 Sardelle	Sardellen
+,	$,	,	$,	 ,	|	,
+und	KON	 und	und
+mache	VVFIN	 machen	mache
+die	ART	 d	die
+Graten	NN	 Grat	Graten
+rein	ADV	 rein	rein
+herauß	NN	 UNKNOWN	herauß
+;	$.	;	$.	 ;	|	;
+Wann	PWAV	 wann	Wann
+das	ART	 d	das
+Fleisch	NN	 Fleisch	Fleisch
+bald	ADV	 bald	bald
+gahr	ADV	 gar	gar
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+thue	VVFIN	 UNKNOWN	thue
+sie	PPER	 sie	sie
+auch	ADV	 auch	auch
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+zusammen	ADV	 zusammen	zusammen
+kochen	VVINF	 kochen	kochen
+</seg>
+<seg type="newline">
+richte	VVFIN	 richten	richte
+es	PPER	 es	es
+an	APPR	 an	an
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+ists	ADJD	 UNKNOWN	ists
+fertig	PTKVZ	 fertig	fertig
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

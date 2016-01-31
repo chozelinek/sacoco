@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Stockholm_1647_1" collection="historical" source="Stockholm" url="none" year="1647" decade="1640-1650" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1647:12]">
+<title>
+<seg type="newline">
+[	$(	[	$(	 [	|	[
+Spinat	NN	 Spinat	Spinat
+]	$(	]	$(	 ]	|	]
+</seg>
+</title>
+<body>
+<seg type="newline">
+So	ADV	 so	So
+man	PIS	 man	man
+wil	VVFIN	 UNKNOWN	wil
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+wird	VAFIN	 werden	wird
+solches	PIS	 solch	solches
+so	ADV	 so	so
+wol	PWAV	 wo	wo
+mit	APPR	 mit	mit
+Süring	NE	 UNKNOWN	Süring
+</seg>
+<seg type="newline">
+ohn	VVFIN	 UNKNOWN	ohn
+einiges	PIAT	 einiges	einiges
+wasser	VVIMP	 wassern	wasser
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+seiner	PPOSAT	 sein	seiner
+eigenen	ADJA	 eigen	eigenen
+krafft	ADJA	 UNKNOWN	krafft
+gekochet	VVPP	 UNKNOWN	gekochet
+;	$.	;	$.	 ;	|	;
+Ist	VAFIN	 sein	Ist
+sehr	ADV	 sehr	sehr
+kräfftig	ADJD	 UNKNOWN	kräfftig
+</seg>
+<seg type="newline">
+nach	APPR	 nach	nach
+dem	ART	 d	dem
+er	PPER	 er	er
+(	$(	(	$(	 (	|	(
+weil	KOUS	 weil	weil
+Sandt	NE	 Sandt	Sandt
+vnd	KON	 und	und
+staub	VVIMP	 stauben	staub
+sich	PRF	 er|es|sie	sich
+gewaltich	ADJD	 UNKNOWN	gewaltich
+darein	ADV	 darein	darein
+verbirget	ADJD	 UNKNOWN	verbirget
+)	$(	)	$(	 )	|	)
+zwey	CARD	 zwei	zwei
+drey	CARD	 drei	drei
+mahl	VVIMP	 mahlen	mahl
+wol	PWAV	 wo	wo
+gewaschen	VVPP	 waschen	gewaschen
+</seg>
+<seg type="newline">
+schneidet	VVFIN	 schneiden	schneidet
+oder	KON	 oder	oder
+hacket	VVFIN	 UNKNOWN	hacket
+man	PIS	 man	man
+jhn	PPER	 er	ihn
+wol	PWAV	 wo	wo
+nach	APPR	 nach	nach
+gerade	ADV	 gerade	gerade
+</seg>
+<seg type="newline">
+Dann	ADV	 dann	Dann
+den	ART	 d	den
+wol	PWAV	 wo	wo
+zerschnittenen	ADJA	 zerschnitten	zerschnittenen
+Spinath	NE	 UNKNOWN	Spinath
+,	$,	,	$,	 ,	|	,
+mit	APPR	 mit	mit
+dem	ART	 d	dem
+Süring	NE	 UNKNOWN	Süring
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+handvol	NN	 UNKNOWN	handvol
+jmmer	ADV	 immer	immer
+mehr	ADV	 mehr	mehr
+vnd	KON	 und	und
+mehr	ADV	 mehr	mehr
+nach	APPR	 nach	nach
+gethan	NE	 UNKNOWN	gethan
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+einem	ART	 ein	einem
+verdecktem	ADJA	 verdeckt	verdecktem
+Topff	NN	 Topf	Topf
+</seg>
+<seg type="newline">
+auff	APPR	 auf	auf
+einem	ART	 ein	einem
+Kohlfewr	NN	 UNKNOWN	Kohlfewr
+vnd	KON	 und	und
+lesset	ADJA	 UNKNOWN	lesset
+jhn	PPER	 er	ihn
+gar	ADV	 gar	gar
+langsam	ADJD	 langsam	langsam
+auffkochen	VVINF	 aufkochen	aufkochen
+</seg>
+<seg type="newline">
+Wird	VAFIN	 werden	Wird
+sonst	ADV	 sonst	sonst
+</seg>
+<seg type="newline">
+wan	NE	 UNKNOWN	wan
+majhn	ADJD	 UNKNOWN	majhn
+im	APPRART	 im	im
+Kochen	NN	 Kochen	Kochen
+vbertreibet	VVFIN	 UNKNOWN	vbertreibet
+</seg>
+<seg type="newline">
+gantz	ADV	 ganz	ganz
+nichts	PIAT	 nichts	nichts
+guts	NN	 Gut	guts
+daraus	PAV	 daraus	daraus
+</seg>
+<seg type="newline">
+wans	NN	 UNKNOWN	wans
+balt	ADJD	 UNKNOWN	balt
+gar	ADV	 gar	gar
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+wierd	NE	 UNKNOWN	wierd
+etwas	PIAT	 etwas	etwas
+butter	VVIMP	 buttern	butter
+vnd	KON	 und	und
+gestossene	ADJA	 gestoßen	gestossene
+Musc	NE	 UNKNOWN	Musc
+.	$.	.	$.	 .	|	.
+Blo	NE	 UNKNOWN	Blo
+.	$.	.	$.	 .	|	.
+mit	APPR	 mit	mit
+eingethan	NE	 UNKNOWN	eingethan
+</seg>
+<seg type="newline">
+hernach	ADV	 hernach	hernach
+wann	PWAV	 wann	wann
+manß	ADJD	 UNKNOWN	manß
+anrichten	VVINF	 anrichten	anrichten
+will	VMFIN	 wollen	will
+</seg>
+<seg type="newline">
+thut	VVFIN	 UNKNOWN	thue
+man	PIS	 man	man
+zwey	CARD	 zwei	zwei
+drey	CARD	 drei	drei
+Corinten	NN	 UNKNOWN	Corinten
+</seg>
+<seg type="newline">
+als	KOKOM	 als	als
+den	PDS	 d	den
+angerchitet	VVFIN	 UNKNOWN	angerchitet
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+gestossen	VVPP	 stoßen	gestossen
+Musc	NE	 UNKNOWN	Musc
+.	$.	.	$.	 .	|	.
+blu	NE	 UNKNOWN	blu
+.	$.	.	$.	 .	|	.
+darüber	PAV	 darüber	darüber
+gestrewet	ADJD	 UNKNOWN	gestrewet
+</seg>
+</body>
+</text>

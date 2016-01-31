@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Koch_vnd_Kellermeisterey_1574_14" collection="historical" source="Koch_vnd_Kellermeisterey" url="none" year="1574" decade="1570-1580" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1574:36r]">
+<title>
+<seg type="newline">
+[	$(	[	$(	 [	|	[
+Ein	VVIMP	 einen	Ein
+angestrichen	VVPP	 anstreichen	angestrichen
+Gebachens	NN	 UNKNOWN	Gebachens
+.	$.	.	$.	 .	|	.
+]	$(	]	$(	 ]	|	]
+Ein	ART	 eine	Ein
+ander	ADV	 UNKNOWN	ander
+Form.	ADJA	 UNKNOWN	Form.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Schneid	NN	 Schneid	Schneid
+den	ART	 d	den
+Teyg	NE	 UNKNOWN	Teyg
+als	KOKOM	 als	als
+glaß	NN	 UNKNOWN	glaß
+rauten	ADJA	 UNKNOWN	rauten
+</seg>
+<seg type="newline">
+Kleeblätter	NN	 Kleeblatt	Kleeblätter
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Rosen	NN	 Rose	Rosen
+</seg>
+<seg type="newline">
+bachs	NE	 Bach	bachs
+also	ADV	 also	also
+.	$.	.	$.	 .	|	.
+Wilt	NE	 Wilt	Wilt
+du	PPER	 du	du
+vergulden	VVFIN	 UNKNOWN	vergulden
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+soll	VMFIN	 sollen	soll
+es	PPER	 es	es
+wol	PWAV	 wo	wo
+kalt	ADJD	 kalt	kalt
+sein	VAINF	 sein	sein
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+bestehet	VVFIN	 UNKNOWN	bestehet
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

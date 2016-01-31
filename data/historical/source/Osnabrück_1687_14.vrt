@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Osnabrueck_1687_14" collection="historical" source="Osnabrueck" url="none" year="1687" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Hecht|" method="|none|" ref="[1687:27]">
+<title>
+<seg type="newline">
+Einen	ART	 ein	Einen
+Hecht	NN	 Hecht	Hecht
+zu	PTKZU	 zu	zu
+kochen	VVINF	 kochen	kochen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nehmt	VVFIN	 nehmen	Nehmt
+einen	ART	 ein	einen
+Ort	NN	 Ort	Ort
+weissen	ADJA	 weiß	weissen
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+anderthalben	ADJA	 UNKNOWN	anderthalben
+Nössel	NN	 UNKNOWN	Nössel
+Wein=Essig	NN	 UNKNOWN	Wein=Essig
+von	APPR	 von	von
+weissen	ADJA	 weiß	weissen
+Wein	NN	 Wein	Wein
+gemacht	VVPP	 machen	gemacht
+</seg>
+<seg type="newline">
+zwey	CARD	 zwei	zwei
+Ort	NN	 Ort	Ort
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+ein	ART	 ein	ein
+Nössel	NN	 UNKNOWN	Nössel
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+eine	ART	 ein	eine
+handvoll	ADJD	 handvoll	handvoll
+Roßmarin	NN	 UNKNOWN	Roßmarin
+und	KON	 und	und
+Timian	NN	 UNKNOWN	Timian
+</seg>
+<seg type="newline">
+last	VVFIN	 lesen	last
+die	ART	 d	die
+Suppe	NN	 Suppe	Suppe
+kochen	VVFIN	 kochen	kochen
+ehe	KOUS	 ehe	ehe
+der	ART	 d	der
+Fisch	NN	 Fisch	Fisch
+darein	ADV	 darein	darein
+gethan	NE	 UNKNOWN	gethan
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+thut	NE	 UNKNOWN	thue
+Kräuter	NN	 Kraut	Kräuter
+</seg>
+<seg type="newline">
+etwas	PIAT	 etwas	etwas
+Mußcaten-Blumen	NN	 UNKNOWN	Mußcaten-Blumen
+und	KON	 und	und
+etliche	PIS	 etlich	etliche
+zwantzig	ADJD	 UNKNOWN	zwantzig
+Pfefferkörner	NE	 Pfefferkörner	Pfefferkörner
+drein	PTKVZ	 drein	drein
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

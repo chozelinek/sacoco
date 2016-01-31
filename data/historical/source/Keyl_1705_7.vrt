@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Keyl_1705_7" collection="historical" source="Keyl" url="none" year="1705" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1705:100]">
+<title>
+<seg type="newline">
+Wein=Supp	NN	 UNKNOWN	Wein=Supp
+mit	APPR	 mit	mit
+gekochten	ADJA	 gekocht	gekochten
+Eydottern	NN	 UNKNOWN	Eydottern
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Die	ART	 d	Die
+Eyer	NE	 UNKNOWN	Eyer
+laß	ADJD	 laß	laß
+mittelmäßig	ADJD	 mittelmäßig	mittelmäßig
+hart	ADJD	 hart	hart
+kochen	VVFIN	 kochen	kochen
+</seg>
+<seg type="newline">
+wenn	KOUS	 wenn	wenn
+sie	PPER	 sie	sie
+gar	ADV	 gar	gar
+seyn	ADJD	 UNKNOWN	seyn
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+mache	VVFIN	 machen	mache
+das	ART	 d	das
+Dotter	NN	 Dotter	Dotter
+heraus	ADV	 heraus	heraus
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+denn	KON	 denn	denn
+eine	ART	 ein	eine
+Suppe	NN	 Suppe	Suppe
+von	APPR	 von	von
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+Caneel	NN	 Handel	Handel
+</seg>
+<seg type="newline">
+weisser	ADJA	 weiß	weisser
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+Muscatenblum	NN	 UNKNOWN	Muscatenblumen
+</seg>
+<seg type="newline">
+4.	ADJA	 4.	4.
+oder	KON	 oder	oder
+5.	ADJA	 5.	5.
+Eydottern	NN	 UNKNOWN	Eydottern
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+das	ART	 d	das
+zusammen	ADV	 zusammen	zusammen
+vor	APPR	 vor	vor
+den	ART	 d	den
+Sode	NN	 UNKNOWN	Sode
+kommen	VVINF	 kommen	kommen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+gib	VVIMP	 geben	gib
+sie	PPER	 sie	sie
+über	APPR	 über	über
+vorgedachte	ADJA	 vorgedacht	vorgedachte
+hartgekochte	ADJA	 hartgekocht	hartgekochte
+Eyerdotter	NN	 UNKNOWN	Eyerdotter
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

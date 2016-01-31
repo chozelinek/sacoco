@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Koch_vnd_Kellermeisterey_1574_27" collection="historical" source="Koch_vnd_Kellermeisterey" url="none" year="1574" decade="1570-1580" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1574:17r]">
+<title>
+<seg type="newline">
+Nüß	VVIMP	 UNKNOWN	Nüß
+frisch	ADJD	 frisch	frisch
+behalten	VVINF	 behalten	behalten
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Leg	VVIMP	 legen	Leg
+sie	PPER	 sie	sie
+in	APPR	 in	in
+einn	ART	 ein	einem
+frischen	ADJA	 frisch	frischen
+sandt	VVFIN	 UNKNOWN	sandt
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+ein	ART	 ein	ein
+eck	VVIMP	 ecken	eck
+eins	CARD	 eins	eins
+trucknen	ADJA	 UNKNOWN	trucknen
+Kellers	NN	 Keller	Kellers
+</seg>
+<seg type="newline">
+nicht	PTKNEG	 nicht	nicht
+in	APPR	 in	in
+häfen	NN	 Hafen	häfen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

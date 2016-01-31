@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Staindl_1569_9" collection="historical" source="Staindl" url="none" year="1569" decade="1560-1570" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[36v]">
+<title>
+<seg type="newline">
+Gebachen	NN	 UNKNOWN	Gebachen
+küchlen	ADJD	 UNKNOWN	küchlen
+im	APPRART	 im	im
+Mörser	NN	 Mörser	Mörser
+zumachen	VVFIN	 zumachen	zumachen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Layne	NN	 UNKNOWN	Layne
+ein	ART	 ein	ein
+Mörser	NN	 Mörser	Mörser
+zum	APPRART	 zum	zum
+fewr	NN	 UNKNOWN	fewr
+</seg>
+<seg type="newline">
+das	PRELS	 d	das
+er	PPER	 er	er
+gantz	ADV	 ganz	ganz
+heiß	ADJD	 heiß	heiß
+werd	ADJD	 UNKNOWN	werd
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+mach	VVIMP	 machen	mach
+ein	ART	 ein	ein
+eingerürts	ADJA	 UNKNOWN	eingerürts
+von	APPR	 von	von
+ayren	ADJA	 UNKNOWN	ayren
+</seg>
+<seg type="newline">
+treybs	NN	 Kreis	Kreis
+gar	ADV	 gar	gar
+wol	PWAV	 wo	wo
+ab	PTKVZ	 ab	ab
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+nimb	VVFIN	 UNKNOWN	nimb
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+geriben	ADJA	 UNKNOWN	geriben
+Semel	NN	 UNKNOWN	Semel
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+thuo	NN	 UNKNOWN	thue
+Weinberlin	NE	 UNKNOWN	Weinberlin
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+setz	VVIMP	 setzen	setz
+den	ART	 d	den
+heissen	ADJA	 heiß	heissen
+Mörser	NN	 Mörser	Mörser
+auff	APPR	 auf	auf
+ein	ART	 ein	ein
+gluot	NN	 UNKNOWN	gluot
+</seg>
+<seg type="newline">
+thuo	NE	 UNKNOWN	thue
+ein	ART	 ein	ein
+schmaltz	NN	 UNKNOWN	schmaltz
+in	APPR	 in	in
+den	ART	 d	den
+heissen	ADJA	 heiß	heissen
+Mörser	NN	 Mörser	Mörser
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+darinn	NN	 UNKNOWN	darinn
+heiß	ADJD	 heiß	heiß
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+thuo	NN	 UNKNOWN	thue
+das	PDS	 d	das
+eingerürt	VVPP	 UNKNOWN	eingerürt
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+thuo	NN	 UNKNOWN	thue
+ein	ART	 ein	ein
+hafendeck	NN	 UNKNOWN	hafendeck
+oben	ADV	 oben	oben
+darauff	PAV	 drauf	drauf
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+glütlin	NE	 UNKNOWN	glütlin
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+gehts	NN	 UNKNOWN	gehts
+hoch	ADJD	 hoch	hoch
+auff	APPR	 auf	auf
+im	APPRART	 im	im
+mörser	ADJA	 UNKNOWN	mörser
+man	PIS	 man	man
+muoß	VVFIN	 UNKNOWN	muoß
+niht	ADJD	 UNKNOWN	niht
+zu	APPR	 zu	zu
+heiß	ADJD	 heiß	heiß
+thuon	ADJA	 UNKNOWN	thuon
+</seg>
+<seg type="newline">
+spänlein	NN	 UNKNOWN	spänlein
+muost	VVFIN	 UNKNOWN	muost
+am	APPRART	 am	am
+ersten	ADJA	 erst	ersten
+in	APPR	 in	in
+Mörser	NN	 Mörser	Mörser
+legen	VVINF	 legen	legen
+</seg>
+<seg type="newline">
+bacht	VVFIN	 UNKNOWN	bacht
+es	PPER	 es	es
+sich	PRF	 er|es|sie	sich
+nicht	PTKNEG	 nicht	nicht
+an	PTKVZ	 an	an
+.	$.	.	$.	 .	|	.
+So	ADV	 so	So
+es	PPER	 es	es
+bachen	NN	 Kochen	Kochen
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+schütt	NN	 UNKNOWN	schütt
+den	ART	 d	den
+Mörser	NN	 Mörser	Mörser
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+lediget	VVFIN	 UNKNOWN	lediget
+es	PPER	 es	es
+sich	PRF	 er|es|sie	sich
+</seg>
+<seg type="newline">
+ker	VVFIN	 UNKNOWN	ker
+den	ART	 d	den
+Mörser	NN	 Mörser	Mörser
+vbersich	NN	 UNKNOWN	vbersich
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+felt	ADJD	 UNKNOWN	felt
+der	ART	 d	der
+kuochen	NN	 UNKNOWN	kuochen
+ausser	APPR	 außer	ausser
+</seg>
+<seg type="newline">
+schneids	VVFIN	 schneiden	schneiden
+zu	APPR	 zu	zu
+stücklin	NE	 UNKNOWN	stücklin
+</seg>
+<seg type="newline">
+gibs	NN	 UNKNOWN	gilbs
+im	APPRART	 im	im
+süpplin	NN	 UNKNOWN	süpplin
+oder	KON	 oder	oder
+gescherb	NN	 UNKNOWN	gescherb
+</seg>
+<seg type="newline">
+die	ART	 d	die
+Kinbetterin	NN	 UNKNOWN	Kinbetterin
+dürffens	ADJD	 UNKNOWN	dürffens
+essen	VVINF	 essen	essen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

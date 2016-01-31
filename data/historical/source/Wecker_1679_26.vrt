@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Wecker_1679_26" collection="historical" source="Wecker" url="none" year="1679" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:376]">
+<title>
+<seg type="newline">
+Pasteten	NN	 Pastete	Pasteten
+von	APPR	 von	von
+Schnecken	NN	 Schnecke	Schnecken
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Bereite	NN	 Bereite	Bereite
+die	ART	 d	die
+Schnecken	NN	 Schnecke	Schnecken
+wie	KOKOM	 wie	wie
+sie	PPER	 sie	sie
+seyn	NE	 UNKNOWN	seyn
+sollen	VMFIN	 sollen	sollen
+</seg>
+<seg type="newline">
+nimm	VVIMP	 nehmen	nimm
+sie	PPER	 sie	sie
+auß	VMFIN	 müssen	muß
+dem	ART	 d	dem
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+schwinge	VVFIN	 schwingen	schwinge
+sie	PPER	 sie	sie
+wie	KOKOM	 wie	wie
+einen	ART	 ein	einen
+Salat	NN	 Salat	Salat
+wol	PWAV	 wo	wo
+in	APPR	 in	in
+einem	ART	 ein	einem
+saubern	ADJA	 UNKNOWN	saubern
+Tuch	NN	 Tuch	Tuch
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+thue	VVFIN	 UNKNOWN	thue
+sie	PPER	 sie	sie
+in	APPR	 in	in
+ein	ART	 ein	ein
+Blatt	NN	 Blatt	Blatt
+oder	KON	 oder	oder
+Schüssel	NN	 Schüssel	Schüssel
+</seg>
+<seg type="newline">
+pfeffers	NN	 Pfeffer	pfeffers
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Nägelein	NN	 UNKNOWN	Nägelein
+</seg>
+<seg type="newline">
+mische	VVFIN	 mischen	mische
+es	PPER	 es	es
+wol	PWAV	 wo	wo
+vnder	VVFIN	 UNKNOWN	vnder
+einander	PRF	 einander	einander
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+dann	ADV	 dann	dann
+der	ART	 d	der
+Hafen	NN	 Hafen	Hafen
+bereit	ADJD	 bereit	bereit
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+thue	NE	 UNKNOWN	thue
+darein	ADV	 darein	darein
+Saltz	NN	 Salz	Salz
+vnd	KON	 und	und
+frischen	ADJA	 frisch	frischen
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+vermachs	ADV	 hernach	hernach
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+bald	ADV	 bald	bald
+der	ART	 d	der
+Hafen	NN	 Hafen	Hafen
+erhartet	VVFIN	 erhalten	erhalten
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+bereite	ADJA	 bereit	bereite
+vnderdeß	NN	 UNKNOWN	vnderdeß
+frische	ADJA	 frisch	frische
+Fleischbrüh	NN	 Fleischbrühe	Fleischbrühe
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+genugsamen	NN	 UNKNOWN	genugsamen
+klein	ADJD	 klein	klein
+geschnittenem	ADJA	 geschnitten	geschnittenem
+Peterlinkraut	NN	 UNKNOWN	Peterlinkraut
+</seg>
+<seg type="newline">
+thu	NN	 UNKNOWN	thu
+wol	PWAV	 wo	wo
+süssen	ADJA	 süß	süssen
+Butter	NN	 Butter	Butter
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+sind	VAFIN	 sein	sind
+die	ART	 d	die
+Schnecken	NN	 Schnecke	Schnecken
+nicht	PTKNEG	 nicht	nicht
+verpfeffert	ADJD	 UNKNOWN	verpfeffert
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+thue	NE	 UNKNOWN	thue
+mehr	ADV	 mehr	mehr
+in	APPR	 in	in
+die	ART	 d	die
+Brüh	ADJD	 früh	früh
+wann	PWAV	 wann	wann
+sie	PPER	 sie	sie
+seudt	NE	 UNKNOWN	seudt
+</seg>
+<seg type="newline">
+geuß	VVPP	 UNKNOWN	geuß
+wie	KOKOM	 wie	wie
+allzeit	ADV	 allzeit	allzeit
+in	APPR	 in	in
+den	ART	 d	den
+Hafen	NN	 Hafen	Hafen
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+ein	ART	 ein	ein
+halbe	ADJA	 halb	halbe
+Stund	VAFIN	 sein	sind
+bachen	NN	 Kochen	Kochen
+</seg>
+<seg type="newline">
+sie	PPER	 sie	sie
+sind	VAFIN	 sein	sind
+auch	ADV	 auch	auch
+sonst	ADV	 sonst	sonst
+keins	PIS	 kein	keins
+wegs	VVFIN	 UNKNOWN	wegs
+besser	ADJD	 gut	besser
+dann	ADV	 dann	dann
+also	ADV	 also	also
+bereit	ADJD	 bereit	bereit
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+in	APPR	 in	in
+die	ART	 d	die
+Häußlin	NN	 UNKNOWN	Häußlin
+gefüllt	VVPP	 füllen	gefüllt
+oder	KON	 oder	oder
+gestossen	VVPP	 stoßen	gestossen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+in	APPR	 in	in
+ein	ART	 ein	ein
+tieffe	NN	 UNKNOWN	tieffe
+Pfann	NN	 UNKNOWN	Pfann
+gestellt	VVPP	 stellen	gestellt
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+über	APPR	 über	über
+das	ART	 d	das
+Feur	NN	 UNKNOWN	Feur
+gethan	NN	 UNKNOWN	gethan
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+wie	KOKOM	 wie	wie
+vorgemeldt	NE	 UNKNOWN	vorgemeldt
+</seg>
+<seg type="newline">
+ein	PTKVZ	 ein	ein
+Brüh	ADJD	 früh	früh
+bereiten	VVINF	 bereiten	bereiten
+vnd	KON	 und	und
+sieden	VVINF	 sieden	sieden
+lassen	VVINF	 lassen	lassen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+die	PDS	 d	die
+überschlagen	VVFIN	 überschlagen	überschlagen
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+nicht	PTKNEG	 nicht	nicht
+zu	PTKA	 zu	zu
+heiß	ADJD	 heiß	heiß
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+daran	PAV	 daran	daran
+schütten	VVFIN	 schütten	schütten
+vnd	KON	 und	und
+sieden	VVINF	 sieden	sieden
+lassen	VVFIN	 lassen	lassen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+lang	ADJD	 lang	lang
+als	KOKOM	 als	als
+harte	ADJA	 hart	harte
+Eyer	NE	 UNKNOWN	Eyer
+vngefehrlich	ADJD	 UNKNOWN	vngefehrlich
+:	$.	:	$.	 :	|	:
+Es	PPER	 es	Es
+ist	VAFIN	 sein	ist
+nicht	PTKNEG	 nicht	nicht
+viel	PIAT	 viel	viel
+nutzliches	ADJA	 UNKNOWN	nutzliches
+an	APPR	 an	an
+den	ART	 d	den
+Schnecken	NN	 Schnecke	Schnecken
+</seg>
+<seg type="newline">
+dienen	VVFIN	 dienen	dienen
+allermeist	ADJD	 UNKNOWN	allermeist
+den	ART	 d	den
+Bulern	NN	 UNKNOWN	Bulern
+</seg>
+<seg type="newline">
+derwegen	VVINF	 UNKNOWN	derwegen
+sollen	VMFIN	 sollen	sollen
+junge	ADJA	 jung	junge
+Leut	NN	 Leute	Leut
+nicht	PTKNEG	 nicht	nicht
+zu	PTKA	 zu	zu
+viel	ADV	 viel	viel
+essen	VVFIN	 essen	essen
+</seg>
+<seg type="newline">
+es	PPER	 es	es
+kan	ADV	 nun	Nun
+sonsten	ADJA	 UNKNOWN	sonsten
+wol	PWAV	 wo	wo
+grosser	ADJA	 groß	grosser
+Schad	NE	 UNKNOWN	Schad
+darauß	NN	 UNKNOWN	herauß
+erwachsen	VVPP	 erwachsen	erwachsen
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+ich	PPER	 ich	ich
+viel	PIAT	 viel	viel
+Exempel	NN	 Exempel	Exempel
+weiß.	ADJA	 UNKNOWN	weiß.
+</seg>
+</body>
+</text>

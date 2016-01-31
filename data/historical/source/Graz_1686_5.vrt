@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Graz_1686_5" collection="historical" source="Graz" url="http://www.uni-giessen.de/gloning/tx/graz2.htm" language="deu" year="1686" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" ingredient="|Huhn|" method="|Suppe|" ref="[]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+Hünlein	NN	 UNKNOWN	Hünlein
+in	APPR	 in	in
+einer	ART	 ein	einer
+schwartzen	ADJA	 UNKNOWN	schwartzen
+Suppen	NN	 Suppe	Suppen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+MAn	PIS	 man	MAn
+soll	VMFIN	 sollen	soll
+den	ART	 d	den
+Schweiß	NN	 Schweiß	Schweiß
+von	APPR	 von	von
+einem	ART	 ein	einem
+Hünlein	NN	 UNKNOWN	Hünlein
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+mehr	ADV	 mehr	mehr
+</seg>
+<seg type="newline">
+in	APPR	 in	in
+Wein	NN	 Wein	Wein
+oder	KON	 oder	oder
+Essig	NN	 Essig	Essig
+auffangen	VVFIN	 auffangen	auffangen
+</seg>
+<seg type="newline">
+das	ART	 d	das
+Hünlein	NN	 UNKNOWN	Hünlein
+zerglidern	VVINF	 zerkleinern	zerkleinern
+</seg>
+<seg type="newline">
+und	KON	 und	und
+in	APPR	 in	in
+heissen	ADJA	 heiß	heissen
+Schmaltz	NN	 Schmalz	Schmalz
+abbräunen	VVFIN	 bräunen	bräunen
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+in	APPR	 in	in
+ein	ART	 ein	ein
+Häfferl	NN	 UNKNOWN	Häckerli
+thun	NE	 UNKNOWN	thue
+</seg>
+<seg type="newline">
+und	KON	 und	und
+ein	ART	 ein	ein
+sauern	ADJA	 sauer	sauern
+Apffel	NN	 Apfel	Apfel
+klein	ADJD	 klein	klein
+hacken	VVFIN	 hacken	hacken
+</seg>
+<seg type="newline">
+im	APPRART	 im	im
+Schmaltz	NN	 Schmalz	Schmalz
+rösten	VVINF	 rösten	rösten
+</seg>
+<seg type="newline">
+und	KON	 und	und
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+geribene	ADJA	 gerieben	geriebenem
+Semmel	NN	 Semmel	Semmel
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+daran	PAV	 daran	daran
+giessen	VVFIN	 gießen	giessen
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+Essig	NN	 Essig	Essig
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+den	ART	 d	den
+Schweiß	NN	 Schweiß	Schweiß
+</seg>
+<seg type="newline">
+und	KON	 und	und
+sieden	VVFIN	 sieden	sieden
+lassen	VVFIN	 lassen	lassen
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+darzu	PAV	 dazu	dazu
+thun	ADJA	 UNKNOWN	thue
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+Zimmet	NN	 Zimt	Zimt
+</seg>
+<seg type="newline">
+und	KON	 und	und
+Nägelstup	NN	 UNKNOWN	Nägelstup
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

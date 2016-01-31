@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Staindl_1569_12" collection="historical" source="Staindl" url="none" year="1569" decade="1560-1570" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Huhn|" method="|none|" ref="[32v]">
+<title>
+<seg type="newline">
+Plutzte	ADJA	 platt	Platte
+Hühner	NN	 Huhn	Hühner
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Item	ADV	 item	Item
+Plutzte	ADJA	 platt	Platte
+Hüner	NN	 UNKNOWN	Hünern
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nimb	ADJD	 UNKNOWN	nimb
+gebraten	VVPP	 braten	gebraten
+Hüner	NN	 UNKNOWN	Hünern
+</seg>
+<seg type="newline">
+sie	PPER	 sie	sie
+seyen	ADJA	 UNKNOWN	seyn
+Kapponen	NN	 UNKNOWN	Kapponen
+oder	KON	 oder	oder
+junge	ADJA	 jung	junge
+Hüner	NN	 UNKNOWN	Hünern
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+mach	VVIMP	 machen	mach
+schnitten	VVFIN	 schneiden	schnitten
+im	APPRART	 im	im
+süssen	ADJA	 süß	süssen
+wein	VVIMP	 weinen	wein
+gewaltzet	ADJD	 UNKNOWN	gewalkt
+</seg>
+<seg type="newline">
+die	ART	 d	die
+für	APPR	 für	für
+gebäwet	ADJD	 UNKNOWN	gebäwet
+sein	VAINF	 sein	sein
+</seg>
+<seg type="newline">
+zerleg	VVFIN	 UNKNOWN	zerlege
+die	ART	 d	die
+braten	VVFIN	 braten	braten
+Hüner	NN	 UNKNOWN	Hünern
+zu	PTKZU	 zu	zu
+stucken	VVINF	 stocken	stocken
+weiß	VVFIN	 wissen	weiß
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+thuo	NE	 UNKNOWN	thue
+etlich	NN	 Rettich	Rettich
+Trieget	VVFIN	 kriegen	kriegen
+an	APPR	 an	an
+die	ART	 d	die
+Hüner	NN	 UNKNOWN	Hünern
+</seg>
+<seg type="newline">
+geüß	ADJD	 UNKNOWN	geüß
+auch	ADV	 auch	auch
+des	ART	 d	des
+süssen	ADJA	 süß	süssen
+weins	NN	 Wein	weins
+an	APPR	 an	an
+die	ART	 d	die
+Hüner	NN	 UNKNOWN	Hünern
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+treffs	NN	 Kreis	Kreis
+dann	ADV	 dann	dann
+</seg>
+<seg type="newline">
+legs	VVFIN	 legen	legt
+dann	ADV	 dann	dann
+auff	APPR	 auf	auf
+die	ART	 d	die
+geweichten	ADJA	 gereicht	gereichten
+schnitten	VVFIN	 schneiden	schnitten
+</seg>
+<seg type="newline">
+gibs	NN	 UNKNOWN	gilbs
+also	ADV	 also	also
+kalt	ADJD	 kalt	kalt
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

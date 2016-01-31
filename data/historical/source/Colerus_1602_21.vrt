@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Colerus_1602_21" collection="historical" source="Colerus" url="none" year="1602" decade="1600-1610" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1602:162]">
+<title>
+<seg type="newline">
+Eine	ART	 ein	Eine
+schwebende	ADJA	 schwebend	schwebende
+Gallart	NN	 UNKNOWN	Gallart
+zu	PTKZU	 zu	zu
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wiltu	NE	 UNKNOWN	Wiltu
+machen	VVFIN	 machen	machen
+eine	ART	 ein	eine
+schwebende	ADJA	 schwebend	schwebende
+Gallart	NN	 UNKNOWN	Gallart
+</seg>
+<seg type="newline">
+die	ART	 d	die
+da	ADV	 da	da
+sol	ADJD	 UNKNOWN	sol
+vber	VVFIN	 UNKNOWN	vber
+die	ART	 d	die
+Schüssel	NN	 Schüssel	Schüssel
+schweben	VVFIN	 schweben	schweben
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+las	VVFIN	 lesen	las
+dir	PRF	 du	dir
+machen	VVFIN	 machen	machen
+in	APPR	 in	in
+die	ART	 d	die
+Schüssel	NN	 Schüssel	Schüssel
+eine	ART	 ein	eine
+Eyserne	ADJA	 UNKNOWN	Eyserne
+rhör	NN	 UNKNOWN	rhör
+</seg>
+<seg type="newline">
+die	ART	 d	die
+da	ADV	 da	da
+gestalt	NN	 Gestalt	gestalt
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+die	PDS	 d	die
+</seg>
+<seg type="newline">
+da	ADV	 da	da
+man	PIS	 man	man
+pfleget	VVFIN	 UNKNOWN	pfleget
+ein	ART	 ein	ein
+gros	NN	 Gros	gros
+Liecht	NN	 UNKNOWN	Liecht
+einzustecken	VVIZU	 einstecken	einzustecken
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+las	VVFIN	 lesen	las
+dir	PRF	 du	dir
+machen	VVFIN	 machen	machen
+ein	ART	 ein	ein
+gitter	VVIMP	 gittern	gitter
+von	APPR	 von	von
+drate	NN	 UNKNOWN	drate
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+breit	ADJD	 breit	breit
+als	KOKOM	 als	als
+die	ART	 d	die
+Schüssel	NN	 Schüssel	Schüssel
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+das	ART	 d	das
+fein	ADJD	 fein	fein
+rund	ADV	 rund	rund
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+mitten	ADV	 mitten	mitten
+durch	APPR	 durch	durch
+das	ART	 d	das
+gegitter	NN	 UNKNOWN	gegitter
+ein	ART	 ein	ein
+holtz	NN	 UNKNOWN	holtz
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+las	VVFIN	 lesen	las
+dir	PRF	 du	dir
+machen	VVFIN	 machen	machen
+ein	ART	 ein	ein
+gerecht	ADJD	 gerecht	gerecht
+schefflein	NN	 UNKNOWN	schefflein
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+das	ART	 d	das
+gegitter	NN	 UNKNOWN	gegitter
+kan	ADV	 nun	Nun
+darein	ADV	 darein	darein
+gelegt	VVPP	 legen	gelegt
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+seud	NE	 UNKNOWN	seud
+Fisch	NN	 Fisch	Fisch
+oder	KON	 oder	oder
+Fleisch	NN	 Fleisch	Fleisch
+abe	PAV	 dabei	dabei
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+mache	VVFIN	 machen	mache
+das	ART	 d	das
+soht	ADJA	 UNKNOWN	soht
+wol	PWAV	 wo	wo
+mit	APPR	 mit	mit
+Hausenblasen	NN	 UNKNOWN	Hausenblasen
+</seg>
+<seg type="newline">
+würtze	VVFIN	 würzen	würzt
+es	PPER	 es	es
+abe	PAV	 dabei	dabei
+mit	APPR	 mit	mit
+allerley	ADJA	 UNKNOWN	allerley
+Würtze	NN	 UNKNOWN	Würtze
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+lege	VVFIN	 legen	lege
+das	PDS	 d	das
+auff	APPR	 auf	auf
+dieses	PDAT	 dies	dieses
+Fleisch	NN	 Fleisch	Fleisch
+oder	KON	 oder	oder
+Fische	NN	 Fisch	Fische
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+geus	NN	 UNKNOWN	geuß
+darauff	PAV	 drauf	drauf
+dieses	PDAT	 dies	dieses
+soht	NN	 UNKNOWN	soht
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+setze	VVFIN	 setzen	setze
+sie	PPER	 sie	sie
+das	PRELS	 d	das
+sie	PPER	 sie	sie
+gerinnet	VVFIN	 UNKNOWN	gerinnet
+</seg>
+<seg type="newline">
+wenn	KOUS	 wenn	wenn
+sie	PPER	 sie	sie
+gerunnen	NN	 UNKNOWN	gerunnen
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+schlag	VVIMP	 schlagen	schlag
+die	ART	 d	die
+Reiffen	NN	 UNKNOWN	Reiffen
+von	APPR	 von	von
+dem	ART	 d	dem
+Fäßlein	NN	 UNKNOWN	Fäßlein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+nim	VVFIN	 UNKNOWN	nimb
+die	ART	 d	die
+Gallart	NN	 UNKNOWN	Gallart
+fein	ADJD	 fein	fein
+heraus	ADV	 heraus	heraus
+</seg>
+<seg type="newline">
+stecke	VVFIN	 stecken	stecke
+sie	PPER	 sie	sie
+auff	APPR	 auf	auf
+die	ART	 d	die
+röhre	NN	 Röhre	röhre
+in	APPR	 in	in
+die	ART	 d	die
+Schüssel	NN	 Schüssel	Schüssel
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+las	VVFIN	 lesen	las
+sie	PPER	 sie	sie
+hübsch	ADJD	 hübsch	hübsch
+vergülden	ADJD	 UNKNOWN	vergülden
+</seg>
+<seg type="newline">
+bestecke	VVFIN	 UNKNOWN	bestecke
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+Mandelkernen	NN	 UNKNOWN	Mandelkernen
+</seg>
+<seg type="newline">
+bestrewe	VVFIN	 bestreuen	bestreuen
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+Rosincken	NN	 Rosine	Rosinen
+</seg>
+<seg type="newline">
+ziere	VVFIN	 zieren	ziere
+sie	PPER	 sie	sie
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+geus	NN	 UNKNOWN	geuß
+rein	PTKVZ	 rein	rein
+wasser	VVIMP	 wassern	wasser
+vnden	VVFIN	 UNKNOWN	vnden
+in	APPR	 in	in
+die	ART	 d	die
+Schüssel	NN	 Schüssel	Schüssel
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+setze	VVFIN	 setzen	setze
+darein	ADV	 darein	darein
+lebendige	ADJA	 lebendig	lebendige
+Gründel	NE	 Gründel	Gründel
+oder	KON	 oder	oder
+Kressen	ADJA	 UNKNOWN	Kressen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+andere	ADJA	 ander	andere
+lebendige	ADJA	 lebendig	lebendige
+Fische	NN	 Fisch	Fische
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+gib	VVIMP	 geben	gib
+sie	PPER	 sie	sie
+hin	ADV	 hin	hin
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+wirstu	NE	 UNKNOWN	wirstu
+haben	VAFIN	 haben	haben
+ein	ART	 ein	ein
+schön	ADJD	 schön	schön
+Essen	NN	 Essen	Essen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

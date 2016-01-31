@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Osnabrueck_1687_28" collection="historical" source="Osnabrueck" url="none" year="1687" decade="1680-1690" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1687:57]">
+<title>
+<seg type="newline">
+Von	APPR	 von	Von
+Füssen	NN	 Fuß	Füssen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wenn	KOUS	 wenn	Wenn
+dieselbe	PDS	 dieselbe	dieselbe
+von	APPR	 von	von
+Haar	NN	 Haar	Haar
+und	KON	 und	und
+Klauen	NN	 Klaue|Klauen	Klauen
+wohl	ADV	 wohl	wohl
+gereinigt	VVPP	 reinigen	gereinigt
+</seg>
+<seg type="newline">
+werden	VAFIN	 werden	werden
+sie	PPER	 sie	sie
+so	ADV	 so	so
+gar	ADV	 gar	gar
+gekocht	VVPP	 kochen	gekocht
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+die	ART	 d	die
+Knochen	NN	 Knochen	Knochen
+herauß	NN	 UNKNOWN	herauß
+fallen	VVINF	 fallen	fallen
+</seg>
+<seg type="newline">
+denschneidet	VVFIN	 UNKNOWN	denschneidet
+man	PIS	 man	man
+sie	PPER	 sie	sie
+in	APPR	 in	in
+die	ART	 d	die
+Länge	NN	 Länge	Länge
+durch	PTKVZ	 durch	durch
+</seg>
+<seg type="newline">
+und	KON	 und	und
+so	ADV	 so	so
+es	PPER	 es	es
+euch	PPER	 ihr	euch
+beliebet	VVFIN	 UNKNOWN	beliebet
+</seg>
+<seg type="newline">
+könnet	VMFIN	 können	könnet
+ihr	PPER	 ihr	ihr
+sie	PPER	 sie	sie
+außpressen	ADJA	 UNKNOWN	außpressen
+daß	KOUS	 daß	daß
+aller	PIAT	 alle	aller
+Safft	NE	 UNKNOWN	Safft
+davon	PAV	 davon	davon
+gehe	VVFIN	 gehen	gehe
+</seg>
+<seg type="newline">
+und	KON	 und	und
+werden	VAFIN	 werden	werden
+wie	KOKOM	 wie	wie
+andere	ADJA	 ander	andere
+Eingeweide	NN	 Eingeweide	Eingeweide
+verwahrt	VVPP	 verwahren	verwahrt
+.	$.	.	$.	 .	|	.
+Wenn	KOUS	 wenn	Wenn
+man	PIS	 man	man
+sie	PPER	 sie	sie
+gebrauchen	VVFIN	 gebrauchen	gebrauchen
+wil	NE	 Wil	wil
+</seg>
+<seg type="newline">
+kocht	VVFIN	 kochen	kocht
+man	PIS	 man	man
+sie	PPER	 sie	sie
+im	APPRART	 im	im
+Wasser	NN	 Wasser	Wasser
+etwas	ADV	 etwas	etwas
+auff	PTKVZ	 auf	auf
+</seg>
+<seg type="newline">
+und	KON	 und	und
+macht	VVFIN	 machen	macht
+eine	ART	 ein	eine
+Suppe	NN	 Suppe	Suppe
+von	APPR	 von	von
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+Essig	NN	 Essig	Essig
+und	KON	 und	und
+Zucker	NN	 Zucker	Zucker
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+man	PIS	 man	man
+bratet	VVFIN	 UNKNOWN	bratet
+sie	PPER	 sie	sie
+auch	ADV	 auch	auch
+wohl	ADV	 wohl	wohl
+in	APPR	 in	in
+der	ART	 d	der
+Pfanne	NN	 Pfanne	Pfanne
+und	KON	 und	und
+giest	VVFIN	 geben	gibt
+jetzt	ADV	 jetzt	jetzt
+gedachte	ADJA	 gedacht	gedachte
+Suppe	NN	 Suppe	Suppe
+darüber	PAV	 darüber	darüber
+.	$.	.	$.	 .	|	.
+Man	PIS	 man	Man
+kocht	VVFIN	 kochen	kocht
+sie	PPER	 sie	sie
+auch	ADV	 auch	auch
+wohl	ADV	 wohl	wohl
+mit	APPR	 mit	mit
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+Corinthen	NN	 Korinthe	Korinthen
+und	KON	 und	und
+gestossenen	ADJA	 gestoßen	gestossenen
+Nägelein	NN	 UNKNOWN	Nägelein
+.	$.	.	$.	 .	|	.
+Ebener	ADJA	 eben	Ebener
+masser	NN	 UNKNOWN	masser
+verfährt	VVFIN	 verfahren	verfährt
+man	PIS	 man	man
+mit	APPR	 mit	mit
+dem	ART	 d	dem
+Maul	NN	 Maul	Maul
+.	$.	.	$.	 .	|	.
+Schweine=Füsse	NN	 UNKNOWN	Schweine=Füsse
+werden	VAFIN	 werden	werden
+gekocht	VVPP	 kochen	gekocht
+und	KON	 und	und
+in	APPR	 in	in
+Essig	NN	 Essig	Essig
+verwahrt	VVPP	 verwahren	verwahrt
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

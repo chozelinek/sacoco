@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Deckhardt_1611_26" collection="historical" source="Deckhardt" url="none" year="1611" decade="1610-1620" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1611:225]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+Erdbeermuhs	NN	 UNKNOWN	Erdbeermuhs
+zumachen	VVFIN	 zumachen	zumachen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimb	ADJA	 UNKNOWN	nimb
+Erdbeer	NN	 UNKNOWN	Erdbeer
+</seg>
+<seg type="newline">
+treibe	VVFIN	 treiben	treibe
+es	PPER	 es	es
+durch	APPR	 durch	durch
+mit	APPR	 mit	mit
+Weine	NN	 Wein	Weine
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+Zucker	NN	 Zucker	Zucker
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+man	PIS	 man	man
+es	PPER	 es	es
+gerne	ADV	 gerne	gerne
+süsse	ADJA	 süß	süsse
+haben	VAFIN	 haben	haben
+wil	VVPP	 UNKNOWN	wil
+</seg>
+<seg type="newline">
+Vnd	KON	 und	und
+wenn	KOUS	 wenn	wenn
+es	PPER	 es	es
+zu	APPR	 zu	zu
+dünne	ADJA	 dünn	dünne
+seyn	NE	 UNKNOWN	seyn
+wil	NE	 Wil	wil
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+reibe	VVFIN	 reiben	reibe
+ein	ART	 ein	ein
+Semmelmehl	NN	 Semmelmehl	Semmelmehl
+oder	KON	 oder	oder
+Pfefferkuchen	NN	 Pfefferkuchen	Pfefferkuchen
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+seuds	VVIMP	 UNKNOWN	seuds
+biß	VVFIN	 beißen	biß
+starck	NE	 UNKNOWN	starck
+wird	VAFIN	 werden	wird
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

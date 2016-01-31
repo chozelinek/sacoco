@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Schuppe_1698_17" collection="historical" source="Schuppe" url="none" year="1698" decade="1690-1700" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1698:81f.]">
+<title>
+<seg type="newline">
+CL	NE	 CL	CL
+.	$.	.	$.	 .	|	.
+Blut=Würste	NN	 UNKNOWN	Blut=Würste
+zu	PTKZU	 zu	zu
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Erstlich	ADJD	 UNKNOWN	Erstlich
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+die	ART	 d	die
+Schweine	NN	 Schwein	Schweine
+geschlachtet	VVPP	 schlachten	geschlachtet
+werden	VAINF	 werden	werden
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nimden	ADJA	 UNKNOWN	nimden
+Stich	NN	 Stich	Stich
+und	KON	 und	und
+den	ART	 d	den
+Bauch	NN	 Bauch	Bauch
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+ausgeschnitten	VVPP	 ausschneiden	ausgeschnitten
+wird	VAFIN	 werden	wird
+mit	APPR	 mit	mit
+dem	ART	 d	dem
+Kragen	NN	 Kragen	Kragen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+koch	VVIMP	 kochen	koch
+es	PPER	 es	es
+gahr	ADV	 gar	gar
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+aber	ADV	 aber	aber
+vorher	ADV	 vorher	vorher
+eine	ART	 ein	eine
+Stunde	NN	 Stunde	Stunde
+im	APPRART	 im	im
+Wasser	NN	 Wasser	Wasser
+liegen	VVINF	 liegen	liegen
+;	$.	;	$.	 ;	|	;
+wanns	NE	 UNKNOWN	wanns
+gahr	ADV	 gar	gar
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nimms	NN	 UNKNOWN	nimms
+heraus	PTKVZ	 heraus	heraus
+</seg>
+<seg type="newline">
+und	KON	 und	und
+schneide	VVFIN	 schneiden	schneide
+das	ART	 d	das
+Fette	NN	 Fett	Fette
+herunter	ADV	 herunter	herunter
+von	APPR	 von	von
+der	ART	 d	der
+Schwarten	NN	 Schwarte	Schwarten
+</seg>
+<seg type="newline">
+schneide	VVFIN	 schneiden	schneide
+es	PPER	 es	es
+in	APPR	 in	in
+Würffeln	NN	 UNKNOWN	Würffeln
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+hack	VVIMP	 hacken	hack
+es	PPER	 es	es
+</seg>
+<seg type="newline">
+aber	ADV	 aber	aber
+nicht	PTKNEG	 nicht	nicht
+gar	ADV	 gar	gar
+zu	PTKA	 zu	zu
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+thu	VVFIN	 UNKNOWN	thue
+es	PPER	 es	es
+in	APPR	 in	in
+einen	ART	 ein	einen
+Kessel	NN	 Kessel	Kessel
+</seg>
+<seg type="newline">
+und	KON	 und	und
+gieß	VVIMP	 gießen	gieß
+1	CARD	1	CARD	 1	|	1
+Kanne	NN	 Kanne	Kanne
+Schweins=Blut	NN	 UNKNOWN	Schweins=Blut
+</seg>
+<seg type="newline">
+2	CARD	2	CARD	 2	|	2
+Nößel	NN	 UNKNOWN	Nößel
+Flott=	NN	 UNKNOWN	Flott=
+oder	KON	 oder	oder
+2	CARD	2	CARD	 2	|	2
+Nößel	NN	 UNKNOWN	Nößel
+Milch	NN	 Milch	Milch
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+es	PPER	 es	es
+fein	ADJD	 fein	fein
+delicat	NE	 UNKNOWN	delicat
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+und	KON	 und	und
+würtze	VVFIN	 würzen	würzt
+es	PPER	 es	es
+ab	PTKVZ	 ab	ab
+mit	APPR	 mit	mit
+gestossenem	ADJA	 gestoßen	gestossenem
+Coriander	NE	 UNKNOWN	Coriander
+</seg>
+<seg type="newline">
+Fenchel	NN	 Fenchel	Fenchel
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Muscaten=Blumen	NN	 UNKNOWN	Muscaten=Blumen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Nägelein	NN	 UNKNOWN	Nägelein
+</seg>
+<seg type="newline">
+hacke	VVFIN	 hacken	hacke
+Timian	NE	 UNKNOWN	Timian
+</seg>
+<seg type="newline">
+Majoran	NN	 Majoran	Majoran
+</seg>
+<seg type="newline">
+Braunsillie	NE	 UNKNOWN	Braunsillie
+</seg>
+<seg type="newline">
+Salvey	NE	 UNKNOWN	Salvey
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+das	ART	 d	das
+alles	PIS	 alle	alles
+daran	PAV	 daran	daran
+</seg>
+<seg type="newline">
+aber	ADV	 aber	aber
+saltz	ADJA	 kalt	kalten
+es	PPER	 es	es
+nicht	PTKNEG	 nicht	nicht
+zu	PTKA	 zu	zu
+viel	ADV	 viel	viel
+</seg>
+<seg type="newline">
+hacke	VVFIN	 hacken	hacke
+Zwiebeln	NN	 Zwiebel|Zwiebeln	Zwiebeln
+</seg>
+<seg type="newline">
+brate	VVFIN	 braten	brate
+sie	PPER	 sie	sie
+in	APPR	 in	in
+Schmaltz	NN	 Schmalz	Schmalz
+</seg>
+<seg type="newline">
+rühre	VVFIN	 rühren	rühre
+die	ART	 d	die
+darunter	PAV	 darunter	darunter
+</seg>
+<seg type="newline">
+nimm	VVIMP	 nehmen	nimm
+gute	ADJA	 gut	gute
+Schweins=Därmer	NN	 UNKNOWN	Schweins=Därmer
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+lang	ADJD	 lang	lang
+als	KOKOM	 als	als
+sie	PPER	 sie	sie
+seyn	ADJD	 UNKNOWN	seyn
+</seg>
+<seg type="newline">
+schabe	VVFIN	 schabe	schabe
+sie	PPER	 sie	sie
+rein	ADV	 rein	rein
+aus	APPR	 aus	aus
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+sie	PPER	 sie	sie
+klar	ADJD	 klar	klar
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+und	KON	 und	und
+mache	VVFIN	 machen	mache
+die	ART	 d	die
+Därmer	NN	 UNKNOWN	Därmer
+auff	APPR	 auf	auf
+einen	ART	 ein	einen
+Trichter	NN	 Trichter	Trichter
+</seg>
+<seg type="newline">
+ehe	KOUS	 ehe	ehe
+du	PPER	 du	du
+es	PPER	 es	es
+darein	ADV	 darein	darein
+thust	VVFIN	 UNKNOWN	thust
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+setz	VVIMP	 setzen	setz
+es	PPER	 es	es
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+auffs	NN	 UNKNOWN	auffs
+Feuer	NN	 Feuer	Feuer
+</seg>
+<seg type="newline">
+und	KON	 und	und
+rühre	VVFIN	 rühren	rühre
+es	PPER	 es	es
+</seg>
+<seg type="newline">
+das	PDS	 d	das
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+warm	ADJD	 warm	warm
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+fülle	VVFIN	 füllen	fülle
+die	ART	 d	die
+Därmer	NN	 UNKNOWN	Därmer
+alsdann	NN	 UNKNOWN	Alsdann
+damit	PAV	 damit	damit
+</seg>
+<seg type="newline">
+und	KON	 und	und
+binde	VVFIN	 binden	binde
+sie	PPER	 sie	sie
+zu	PTKVZ	 zu	zu
+</seg>
+<seg type="newline">
+koche	VVFIN	 kochen	koche
+sie	PPER	 sie	sie
+in	APPR	 in	in
+der	ART	 d	der
+Brühe	NN	 Brühe	Brühe
+</seg>
+<seg type="newline">
+darinn	NN	 UNKNOWN	darinn
+das	ART	 d	das
+Fleisch	NN	 Fleisch	Fleisch
+gekochet	VVPP	 UNKNOWN	gekochet
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+eine	ART	 ein	eine
+halbe	ADJA	 halb	halbe
+viertel	ADJA	 Viertel	viertel
+Stunde	NN	 Stunde	Stunde
+</seg>
+<seg type="newline">
+zeuch	VVFIN	 UNKNOWN	zeuch
+sie	PPER	 sie	sie
+denn	ADV	 denn	denn
+heraus	ADV	 heraus	heraus
+auf	APPR	 auf	auf
+ein	ART	 ein	ein
+rein	ADV	 rein	rein
+Laacken	NN	 UNKNOWN	Laacken
+</seg>
+<seg type="newline">
+decke	VVFIN	 decken	decke
+sie	PPER	 sie	sie
+zu	APPR	 zu	zu
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+sie	PPER	 sie	sie
+kalt	ADJD	 kalt	kalt
+werden	VAINF	 werden	werden
+.	$.	.	$.	 .	|	.
+NB	NE	 NB	NB
+.	$.	.	$.	 .	|	.
+Du	PPER	 du	Du
+kanst	VVFIN	 UNKNOWN	kanst
+auch	ADV	 auch	auch
+wol	PWAV	 wo	wo
+welche	PWAT	 welch	welche
+machen	VVFIN	 machen	machen
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+du	PPER	 du	du
+die	ART	 d	die
+Flaumen	NN	 UNKNOWN	Flaumen
+nur	ADV	 nur	nur
+bloß	ADJD	 bloß	bloß
+dazu	PAV	 dazu	dazu
+nimmst	VVFIN	 nehmen	nimmst
+</seg>
+<seg type="newline">
+aber	KON	 aber	aber
+sie	PPER	 sie	sie
+müssen	VMFIN	 müssen	müssen
+fein	ADJD	 fein	fein
+in	APPR	 in	in
+Würffeln	NN	 UNKNOWN	Würffeln
+geschnitten	VVPP	 schneiden	geschnitten
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+doch	KON	 doch	doch
+nicht	PTKNEG	 nicht	nicht
+gar	ADV	 gar	gar
+zu	PTKA	 zu	zu
+klein	ADJD	 klein	klein
+;	$.	;	$.	 ;	|	;
+Sonst	ADV	 sonst	Sonst
+werden	VAFIN	 werden	werden
+sie	PPER	 sie	sie
+ebenso	ADV	 ebenso	ebenso
+gemacht	VVPP	 machen	gemacht
+wie	KOKOM	 wie	wie
+die	ART	 d	die
+andern	PIS	 ander	andern
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+so	ADV	 so	so
+gekocht	VVPP	 kochen	gekocht
+und	KON	 und	und
+gebraten	VVPP	 braten	gebraten
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

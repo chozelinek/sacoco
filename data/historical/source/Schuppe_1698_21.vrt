@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Schuppe_1698_21" collection="historical" source="Schuppe" url="none" year="1698" decade="1690-1700" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1698:101]">
+<title>
+<seg type="newline">
+CXCII	NE	 UNKNOWN	CXCII
+.	$.	.	$.	 .	|	.
+Schilt=Kröten	NN	 UNKNOWN	Schilt=Kröten
+zu	PTKZU	 zu	zu
+kochen	VVINF	 kochen	kochen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Die	ART	 d	Die
+Schilt=Kröten	NN	 UNKNOWN	Schilt=Kröten
+koche	VVFIN	 kochen	koche
+erstlich	ADJD	 UNKNOWN	erstlich
+gar	ADV	 gar	gar
+in	APPR	 in	in
+bloßem	ADJA	 bloß	bloßem
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+Köpffe	NN	 UNKNOWN	Köpffe
+</seg>
+<seg type="newline">
+Füße	NN	 Fuß	Füße
+und	KON	 und	und
+Schwäntze	NN	 UNKNOWN	Schwäntze
+haue	VVFIN	 hauen	haue
+vorher	ADV	 vorher	vorher
+ab	PTKVZ	 ab	ab
+</seg>
+<seg type="newline">
+und	KON	 und	und
+wenn	KOUS	 wenn	wenn
+sie	PPER	 sie	sie
+denn	ADV	 denn	denn
+gar	ADV	 gar	gar
+seyn	ADJD	 UNKNOWN	seyn
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+passire	VVFIN	 UNKNOWN	passire
+sie	PPER	 sie	sie
+in	APPR	 in	in
+einem	ART	 ein	einem
+Ragou	NE	 UNKNOWN	Ragou
+oder	KON	 oder	oder
+Fricassée	NE	 UNKNOWN	Fricassée
+,	$,	,	$,	 ,	|	,
+und	KON	 und	und
+laß	VVIMP	 lassen	laß
+sie	PPER	 sie	sie
+gahr	ADV	 gar	gar
+kochen	VVINF	 kochen	kochen
+</seg>
+<seg type="newline">
+schneide	VVFIN	 schneiden	schneide
+sie	PPER	 sie	sie
+denn	ADV	 denn	denn
+in	APPR	 in	in
+Stücken	NN	 Stück	Stücken
+</seg>
+<seg type="newline">
+aber	KON	 aber	aber
+die	ART	 d	die
+Galle	NN	 Galle	Galle
+muß	VMFIN	 müssen	muß
+von	APPR	 von	von
+der	ART	 d	der
+Leber	NN	 Leber	Leber
+abgenommen	VVPP	 abnehmen	abgenommen
+werden	VAINF	 werden	werden
+</seg>
+<seg type="newline">
+sonst	ADV	 sonst	sonst
+wird	VAFIN	 werden	wird
+es	PPER	 es	es
+zu	PTKA	 zu	zu
+bitter	ADJD	 bitter	bitter
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+sie	PPER	 sie	sie
+vorher	ADV	 vorher	vorher
+nicht	PTKNEG	 nicht	nicht
+zu	PTKA	 zu	zu
+gahr	ADV	 gar	gar
+werden	VAINF	 werden	werden
+</seg>
+<seg type="newline">
+daß	KOUS	 daß	daß
+du	PPER	 du	du
+sie	PPER	 sie	sie
+schneiden	VVINF	 schneiden	schneiden
+kanst	VVFIN	 UNKNOWN	kanst
+;	$.	;	$.	 ;	|	;
+wenn	KOUS	 wenn	wenn
+du	PPER	 du	du
+sie	PPER	 sie	sie
+anrichtest	VVFIN	 UNKNOWN	anrichtest
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+setze	VVFIN	 setzen	setze
+die	ART	 d	die
+Schaalen	NN	 UNKNOWN	Schaalen
+darauf	PAV	 darauf	darauf
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+ist	VAFIN	 sein	ist
+es	PPER	 es	es
+fertig	ADJD	 fertig	fertig
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

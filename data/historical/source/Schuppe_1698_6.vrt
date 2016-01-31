@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Schuppe_1698_6" collection="historical" source="Schuppe" url="none" year="1698" decade="1690-1700" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1698:26]">
+<title>
+<seg type="newline">
+XXXVIII	NE	 UNKNOWN	XXXVIII
+.	$.	.	$.	 .	|	.
+Beuf	ADJA	 UNKNOWN	Beuf
+à	FM	à	FM	 à	|	à
+la	FM	 la	la
+mode	NN	 Mode	mode
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+ein	ART	 ein	ein
+Stück	NN	 Stück	Stück
+schön	ADJD	 schön	schön
+Rind=Fleisch	NN	 UNKNOWN	Rind=Fleisch
+aus	APPR	 aus	aus
+den	ART	 d	den
+Lenden	NN	 Lende	Lenden
+</seg>
+<seg type="newline">
+schneide	VVFIN	 schneiden	schneide
+es	PPER	 es	es
+in	APPR	 in	in
+zwey	CARD	 zwei	zwei
+oder	KON	 oder	oder
+drey	CARD	 drei	drei
+Stücke	NN	 Stück	Stücke
+</seg>
+<seg type="newline">
+klopffe	VVFIN	 UNKNOWN	klopffe
+es	PPER	 es	es
+danein	VVFIN	 UNKNOWN	danein
+wenig	PIAT	 wenig	wenig
+</seg>
+<seg type="newline">
+spicke	NN	 Speck	Specks
+es	PPER	 es	es
+mit	APPR	 mit	mit
+großem	ADJA	 groß	großem
+Speck	NN	 Speck	Speck
+</seg>
+<seg type="newline">
+wenn	KOUS	 wenn	wenn
+es	PPER	 es	es
+zuvor	ADV	 zuvor	zuvor
+mit	APPR	 mit	mit
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Muscaten=Blumen	NN	 UNKNOWN	Muscaten=Blumen
+</seg>
+<seg type="newline">
+Nägelein	NN	 UNKNOWN	Nägelein
+und	KON	 und	und
+Saltz	NN	 Salz	Salz
+bestreuet	VVINF	 bestreuen	bestreuen
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+schneide	VVFIN	 schneiden	schneide
+Speck	NN	 Speck	Speck
+in	APPR	 in	in
+breite	ADJA	 breit	breite
+Scheiben	NN	 Scheibe	Scheiben
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+es	PPER	 es	es
+in	APPR	 in	in
+einen	ART	 ein	einen
+Kessel	NN	 Kessel	Kessel
+und	KON	 und	und
+das	ART	 d	das
+Fleisch	NN	 Fleisch	Fleisch
+darzu	PAV	 dazu	dazu
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+Lorber=Blätter	NN	 UNKNOWN	Lorber=Blätter
+</seg>
+<seg type="newline">
+Muscaten=Blumen	NN	 UNKNOWN	Muscaten=Blumen
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+und	KON	 und	und
+drey	CARD	 drei	drei
+oder	KON	 oder	oder
+vier	CARD	 vier	vier
+gantze	ADV	 ganz	ganz
+Zwiebeln	NN	 Zwiebel|Zwiebeln	Zwiebeln
+;	$.	;	$.	 ;	|	;
+nimm	VVIMP	 nehmen	nimm
+dann	ADV	 dann	dann
+einen	ART	 ein	einen
+Deckel	NN	 Deckel	Deckel
+</seg>
+<seg type="newline">
+welcher	PRELS	 welch	welcher
+sich	PRF	 er|es|sie	sich
+auff	APPR	 auf	auf
+den	ART	 d	den
+Kessel	NN	 Kessel	Kessel
+passet	ADJD	 UNKNOWN	passet
+oder	KON	 oder	oder
+schicket	ADJD	 UNKNOWN	schicket
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+ihn	PPER	 er	ihn
+feste	ADJA	 fest	feste
+zu	APPR	 zu	zu
+mit	APPR	 mit	mit
+groben	ADJA	 grob	groben
+Teig	NN	 Teig	Teig
+</seg>
+<seg type="newline">
+das	ART	 d	das
+kein	PIAT	 kein	kein
+Brodem	NN	 UNKNOWN	Brodem
+daraus	PAV	 daraus	daraus
+gehet	VVFIN	 gehen	gehet
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+dann	ADV	 dann	dann
+eine	ART	 ein	eine
+Stunde	NN	 Stunde	Stunde
+oder	KON	 oder	oder
+8.	ADJA	 @ord@	8.
+stehen	VVFIN	 stehen	stehen
+</seg>
+<seg type="newline">
+und	KON	 und	und
+schwitzen	VVFIN	 schwitzen	schwitzen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+wird	VAFIN	 werden	wird
+es	PPER	 es	es
+gar	ADV	 gar	gar
+.	$.	.	$.	 .	|	.
+NB	NE	 NB	NB
+.	$.	.	$.	 .	|	.
+Man	PIS	 man	Man
+kan	ADV	 nun	Nun
+auch	ADV	 auch	auch
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+wenn	KOUS	 wenn	wenn
+es	PPER	 es	es
+soll	VMFIN	 sollen	soll
+angerichtet	VVPP	 anrichten	angerichtet
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+rothen	NE	 UNKNOWN	rothen
+Wein=Essig	NN	 UNKNOWN	Wein=Essig
+oder	KON	 oder	oder
+Bouillon	NN	 Bouillon	Bouillon
+daran	PAV	 daran	daran
+thun	NN	 UNKNOWN	thue
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+es	PPER	 es	es
+ein	ART	 ein	ein
+jeder	PIS	 jed	jeder
+gerne	ADV	 gerne	gerne
+zu	PTKZU	 zu	zu
+essen	VVINF	 essen	essen
+vermag	VVFIN	 vermag	vermag
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

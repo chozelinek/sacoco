@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Prasmosfky_1671_8" collection="historical" source="Prasmosfky" url="none" year="1671" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1671:210]">
+<title>
+<seg type="newline">
+643.	ADJA	 @ord@	643.
+Suppen	NN	 Suppe	Suppen
+vor	APPR	 vor	vor
+dem	ART	 d	dem
+Durst	NN	 Durst	Durst
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wann	PWAV	 wann	Wann
+ein	ART	 ein	ein
+Kranckes	NN	 UNKNOWN	Kranckes
+oder	KON	 oder	oder
+Kindbetterin	NN	 UNKNOWN	Kindbetterin
+fast	ADV	 fast	fast
+Durst	NN	 Durst	Durst
+hat	VAFIN	 haben	hat
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+gieß	VVIMP	 gießen	gieß
+ein	ART	 ein	ein
+paar	PIAT	 paar	paar
+Löffel	NN	 Löffel	Löffel
+voll	ADJD	 voll	voll
+Wein	NN	 Wein	Wein
+über	APPR	 über	über
+ein	ART	 ein	ein
+Brod	NN	 Brot	Brot
+</seg>
+<seg type="newline">
+richte	VVFIN	 richten	richte
+ein	ART	 ein	ein
+siedende	ADJA	 siedend	siedende
+Hühner=	NN	 UNKNOWN	Hühner=
+oder	KON	 oder	oder
+Fleischbrühe	NN	 Fleischbrühe	Fleischbrühe
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+gibs	NN	 UNKNOWN	gilbs
+zu	PTKZU	 zu	zu
+essen	VVINF	 essen	essen
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+den	ART	 d	den
+Krancken	NN	 Tranche	Tranchen
+eine	ART	 ein	eine
+Weil	KON	 weil	Weil
+darauf	PAV	 darauf	darauf
+ruhen	VVFIN	 ruhen	ruhen
+</seg>
+<seg type="newline">
+der	ART	 d	der
+Durst	NN	 Durst	Durst
+wird	VAFIN	 werden	wird
+sich	PRF	 er|es|sie	sich
+legen	VVINF	 legen	legen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Buchinger_1700_19" collection="historical" source="Buchinger" url="none" year="1700" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:1f.]">
+<title>
+<seg type="newline">
+371.	ADJA	 @ord@	371.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Oder	KON	 oder	Oder
+man	PIS	 man	man
+macht	VVFIN	 machen	macht
+ein	ART	 ein	ein
+brühlin	NN	 UNKNOWN	brühlin
+darüber	PAV	 darüber	darüber
+mit	APPR	 mit	mit
+gewürffelt	ADJA	 UNKNOWN	gewürffelt
+geschnittenem	ADJA	 geschnitten	geschnittenem
+Brodt	NN	 UNKNOWN	Brodt
+in	APPR	 in	in
+Schmaltz	NN	 Schmalz	Schmalz
+geröstet	VVPP	 rösten	geröstet
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Zusatz	NN	 Zusatz	Zusatz
+der	ART	 d	der
+Brühe	NN	 Brühe	Brühe
+darinn	NN	 UNKNOWN	darinn
+der	ART	 d	der
+Fisch	NN	 Fisch	Fisch
+gesotten	VVPP	 sieden	gesotten
+</seg>
+<seg type="newline">
+und	KON	 und	und
+nach	APPR	 nach	nach
+Nothurfft	NN	 UNKNOWN	Nothurfft
+mehr	PIAT	 mehr	mehr
+Imber	NN	 UNKNOWN	Imber
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Saltz	NN	 Salz	Salz
+rc	NE	 UNKNOWN	rc
+.	$.	.	$.	 .	|	.
+und	KON	 und	und
+laß	ADJD	 laß	laß
+es	PPER	 es	es
+</seg>
+<seg type="newline">
+ehe	KOUS	 ehe	ehe
+mans	VMFIN	 mögen	mag
+über	APPR	 über	über
+den	ART	 d	den
+Fisch	NN	 Fisch	Fisch
+schüttet	VVFIN	 schütten	schüttet
+noch	ADV	 noch	noch
+eine	ART	 ein	eine
+gute	ADJA	 gut	gute
+Wahl	NN	 Wahl	Wahl
+sieden	VVINF	 sieden	sieden
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Wecker_1679_14" collection="historical" source="Wecker" url="none" year="1679" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:195f.]">
+<title>
+<seg type="newline">
+[	$(	[	$(	 [	|	[
+Folget	NN	 UNKNOWN	Folget
+ein	ART	 ein	ein
+vast	ADV	 fast	fast
+gut	ADJD	 gut	gut
+Muß	NN	 Muß	Muß
+oder	KON	 oder	oder
+Brey	NE	 UNKNOWN	Brey
+für	APPR	 für	für
+die	ART	 d	die
+Krancken	NN	 Tranche	Tranchen
+.	$.	.	$.	 .	|	.
+]	$(	]	$(	 ]	|	]
+Ein	ART	 eine	Ein
+andere	ADJA	 ander	andere
+Form.	NN	 UNKNOWN	Form.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Mach	VVIMP	 machen	Mach
+ein	ART	 ein	ein
+gute	ADJA	 gut	gute
+Mandelmilch	NN	 Mandelmilch	Mandelmilch
+von	APPR	 von	von
+Wasser	NN	 Wasser	Wasser
+oder	KON	 oder	oder
+milch	NN	 Milch	milch
+</seg>
+<seg type="newline">
+nach	APPR	 nach	nach
+dem	ART	 d	dem
+der	ART	 d	der
+Krancke	NE	 UNKNOWN	Krancke
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+den	ART	 d	den
+Schwindsüchtigen	NN	 UNKNOWN	Schwindsüchtigen
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+in	APPR	 in	in
+der	ART	 d	der
+rohten	ADJA	 UNKNOWN	rohten
+Ruhr	NE	 Ruhr	Ruhr
+</seg>
+<seg type="newline">
+da	ADV	 da	da
+Eyter	NN	 UNKNOWN	Eyter
+vnd	KON	 und	und
+Blut	NN	 Blut	Blut
+gehet	VVFIN	 gehen	gehet
+</seg>
+<seg type="newline">
+welches	PIS	 welch	welches
+von	APPR	 von	von
+Geschwären	NN	 UNKNOWN	Geschwären
+in	APPR	 in	in
+den	ART	 d	den
+Därmen	NN	 Darm	Därmen
+herkommet	NE	 UNKNOWN	herkommet
+(	$(	(	$(	 (	|	(
+wann	PWAV	 wann	wann
+nicht	PTKNEG	 nicht	nicht
+besondere	ADJA	 besonder	besondere
+faule	ADJA	 faul	faule
+Fieber	NN	 Fieber	Fieber
+mit	APPR	 mit	mit
+vnderlauffen	ADJA	 UNKNOWN	vnderlauffen
+)	$(	)	$(	 )	|	)
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+sag	VVIMP	 sagen	sag
+ich	PPER	 ich	ich
+</seg>
+<seg type="newline">
+die	ART	 d	die
+Milch	NN	 Milch	Milch
+nutz	ADV	 nutz	nutz
+</seg>
+<seg type="newline">
+insonderheit	NN	 UNKNOWN	insonderheit
+Geiß	NN	 UNKNOWN	Geiß
+vnd	KON	 und	und
+Schaafmilch	NN	 UNKNOWN	Schaafmilch
+hat	VAFIN	 haben	hat
+für	APPR	 für	für
+allen	PIS	 alle	allen
+den	ART	 d	den
+Preiß	NN	 UNKNOWN	Preiß
+.	$.	.	$.	 .	|	.
+Nimm	VVIMP	 nehmen	Nimm
+schöne	ADJA	 schön	schöne
+vnd	KON	 und	und
+geklaubte	ADJA	 UNKNOWN	geklaubte
+Gersten	NN	 Gerste	Gersten
+</seg>
+<seg type="newline">
+wäsche	VVFIN	 UNKNOWN	wäsche
+sie	PPER	 sie	sie
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+warmen	ADJA	 warm	warmen
+Wasser	NN	 Wasser	Wasser
+sauber	ADJD	 sauber	sauber
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+geuß	NN	 UNKNOWN	geuß
+ein	ART	 ein	ein
+siedend	ADJD	 siedend	siedend
+Wasser	NN	 Wasser	Wasser
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+stehen	VVINF	 stehen	stehen
+biß	VVFIN	 beißen	biß
+du	PPER	 du	du
+es	PPER	 es	es
+an	APPR	 an	an
+den	ART	 d	den
+Händen	NN	 Hand	Händen
+leyden	ADJD	 UNKNOWN	leyden
+kanst	VVFIN	 UNKNOWN	kanst
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+reibe	VVFIN	 reiben	reibe
+vnd	KON	 und	und
+wäsche	VVFIN	 UNKNOWN	wäsche
+sie	PPER	 sie	sie
+wol	PWAV	 wo	wo
+ein	PTKVZ	 ein	ein
+mal	ADV	 mal	mal
+oder	KON	 oder	oder
+drey	CARD	 drei	drei
+</seg>
+<seg type="newline">
+ist	VAFIN	 sein	ist
+sie	PPER	 sie	sie
+grob	ADJD	 grob	grob
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+hat	VAFIN	 haben	hat
+noch	ADV	 noch	noch
+etwas	ADV	 etwas	etwas
+von	APPR	 von	von
+den	ART	 d	den
+Hülsen	NN	 Hülse	Hülsen
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+nimm	VVIMP	 nehmen	nimm
+einen	ART	 ein	einen
+Mörsel	NN	 UNKNOWN	Mörsel
+</seg>
+<seg type="newline">
+stampff	VVFIN	 UNKNOWN	stampff
+vnd	KON	 und	und
+stoß	VVIMP	 stoßen	stoß
+es	PPER	 es	es
+</seg>
+<seg type="newline">
+dann	ADV	 dann	dann
+thue	VVFIN	 UNKNOWN	thue
+es	PPER	 es	es
+in	APPR	 in	in
+ein	ART	 ein	ein
+siedend	ADJD	 siedend	siedend
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+sieden	VVFIN	 sieden	sieden
+die	ART	 d	die
+Hülsen	NN	 Hülse	Hülsen
+davon	PAV	 davon	davon
+empor	ADV	 empor	empor
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+hebs	NN	 UNKNOWN	hebs
+mit	APPR	 mit	mit
+dem	ART	 d	dem
+Schaumlöffel	NN	 Schaumlöffel	Schaumlöffel
+ab	APPR	 ab	ab
+</seg>
+<seg type="newline">
+etwan	NE	 UNKNOWN	etwan
+ist	VAFIN	 sein	ist
+sie	PPER	 sie	sie
+so	ADV	 so	so
+schön	ADJD	 schön	schön
+wie	KOKOM	 wie	wie
+ein	ART	 ein	ein
+Reiß	ADJD	 heiß	heiß
+</seg>
+<seg type="newline">
+die	ART	 d	die
+darffstu	NE	 UNKNOWN	darffstu
+nicht	PTKNEG	 nicht	nicht
+mehr	ADV	 mehr	mehr
+als	KOKOM	 als	als
+ein	CARD	 ein	ein
+mal	ADV	 mal	mal
+brühen	VVFIN	 brühen	brühen
+mit	APPR	 mit	mit
+dem	ART	 d	dem
+siedenden	ADJA	 siedend	siedenden
+Wasser	NN	 Wasser	Wasser
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+sie	PPER	 sie	sie
+trocken	ADJD	 trocken	trocken
+ohn	ADJD	 UNKNOWN	ohn
+anbrennen	VVINF	 anbrennen	anbrennen
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+hierzwischen	ADV	 UNKNOWN	hierzwischen
+man	PIS	 man	man
+die	ART	 d	die
+Mandelmilch	NN	 Mandelmilch	Mandelmilch
+siedheiß	ADJD	 UNKNOWN	siedheiß
+mit	APPR	 mit	mit
+stätem	NN	 UNKNOWN	stätem
+rühren	VVINF	 rühren	rühren
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+vor	PTKVZ	 vor	vor
+gelehrt	VVPP	 lehren	gelehrt
+</seg>
+<seg type="newline">
+thue	NE	 UNKNOWN	thue
+gesottene	ADJA	 gesiedet	Gesottenes
+Gersten	NN	 Gerste	Gersten
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+gar	ADV	 gar	gar
+heissen	ADJA	 heiß	heissen
+Schmaltz	NN	 Schmalz	Schmalz
+oder	KON	 oder	oder
+süssen	ADJA	 süß	süssen
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+nach	APPR	 nach	nach
+gelegenheit	NN	 Gelegenheit	gelegenheit
+</seg>
+<seg type="newline">
+rühre	VVFIN	 rühren	rühre
+es	PPER	 es	es
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+ein	ART	 ein	ein
+vierthel	ADJA	 UNKNOWN	vierthel
+stund	NN	 Stand	Stand
+kochen	VVFIN	 kochen	kochen
+</seg>
+<seg type="newline">
+sie	PPER	 sie	sie
+soll	VMFIN	 sollen	soll
+dick	ADJD	 dick	dick
+werden	VAFIN	 werden	werden
+wie	KOKOM	 wie	wie
+ein	ART	 ein	ein
+Reiß	ADJD	 heiß	heiß
+:	$.	:	$.	 :	|	:
+Doch	ADV	 doch	Doch
+magst	VMFIN	 mögen	magst
+du	PPER	 du	du
+auch	ADV	 auch	auch
+die	ART	 d	die
+suppen	NN	 Suppe	suppen
+dick	ADJD	 dick	dick
+machen	VVINF	 machen	machen
+</seg>
+<seg type="newline">
+wilt	VMFIN	 wollen	will
+du	PPER	 du	du
+es	PPER	 es	es
+zückern	VVFIN	 UNKNOWN	zückern
+</seg>
+<seg type="newline">
+wans	NE	 UNKNOWN	wans
+gekocht	VVPP	 kochen	gekocht
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+magst	VMFIN	 mögen	magst
+du	PPER	 du	du
+es	PPER	 es	es
+wie	KOKOM	 wie	wie
+ein	ART	 ein	ein
+Reiß	ADJD	 heiß	heiß
+im	APPRART	 im	im
+schmaltz	NN	 UNKNOWN	schmaltz
+präglen	VVINF	 UNKNOWN	präglen
+.	$.	.	$.	 .	|	.
+Alles	PIAT	 alle	Alles
+beschreib	VVIMP	 beschreiben	beschreib
+ich	PPER	 ich	ich
+auff	APPR	 auf	auf
+mancherley	NE	 UNKNOWN	mancherley
+weiß	VVFIN	 wissen	weiß
+von	APPR	 von	von
+wegen	APPR	 wegen	wegen
+der	ART	 d	der
+krancken	NN	 UNKNOWN	krancken
+</seg>
+<seg type="newline">
+heilt	VVFIN	 heilen	heilt
+so	ADV	 so	so
+</seg>
+<seg type="newline">
+morgen	ADV	 morgen	morgen
+auff	APPR	 auf	auf
+ein	ART	 ein	ein
+besondere	ADJA	 besonder	besondere
+weiß	VVFIN	 wissen	weiß
+zu	APPR	 zu	zu
+bereiten	ADJA	 bereit	bereiten
+</seg>
+<seg type="newline">
+alßdann	NN	 UNKNOWN	Alsdann
+meynen	VVFIN	 UNKNOWN	meynen
+sie	PPER	 sie	sie
+jmmer	ADV	 immer	immer
+</seg>
+<seg type="newline">
+es	PPER	 es	es
+sey	NE	 UNKNOWN	sey
+anders	ADV	 anders	anders
+.	$.	.	$.	 .	|	.
+Vnd	KON	 und	und
+alle	PIAT	 alle	alle
+diese	PDAT	 dies	diese
+gattungen	NN	 Gattung	gattungen
+kan	ADV	 nun	Nun
+man	PIS	 man	man
+vom	APPRART	 vom	vom
+Reiß	ADJD	 heiß	heiß
+zurichten	VVINF	 zurichten	zurichten
+</seg>
+<seg type="newline">
+aber	KON	 aber	aber
+in	APPR	 in	in
+grosser	ADJA	 groß	grosser
+Hitz	NN	 UNKNOWN	Hitz
+kühlen	VVFIN	 kühlen	kühlen
+diese	PDS	 dies	diese
+auch	ADV	 auch	auch
+</seg>
+<seg type="newline">
+weichen	VVINF	 weichen	weichen
+vnd	KON	 und	und
+heilen	VVFIN	 heilen	heilen
+mehr	ADV	 mehr	mehr
+.	$.	.	$.	 .	|	.
+Dann	ADV	 dann	Dann
+reiß	VVIMP	 reißen	reiß
+ist	VAFIN	 sein	ist
+an	APPR	 an	an
+jhm	PPER	 er	ihn
+selbs	ADJD	 UNKNOWN	selbs
+kräfftiger	ADJD	 UNKNOWN	kräfftiger
+</seg>
+<seg type="newline">
+doch	KON	 doch	doch
+muß	VMFIN	 müssen	muß
+man	PIS	 man	man
+thun	NN	 UNKNOWN	thue
+nach	APPR	 nach	nach
+gelegenheit	NN	 Gelegenheit	gelegenheit
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

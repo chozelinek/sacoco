@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Stockholm_1647_20" collection="historical" source="Stockholm" url="none" year="1647" decade="1640-1650" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1647:224]">
+<body>
+<seg type="newline">
+Wann	PWAV	 wann	Wann
+man	PIS	 man	man
+sie	PPER	 sie	sie
+kochen	VVINF	 kochen	kochen
+will	VMFIN	 wollen	will
+</seg>
+<seg type="newline">
+muß	VMFIN	 müssen	muß
+man	PIS	 man	man
+sie	PPER	 sie	sie
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+vor	APPR	 vor	vor
+von	APPR	 von	von
+den	ART	 d	den
+andern	ADJA	 ander	andern
+Saltzen	NN	 UNKNOWN	Saltzen
+Fischen	NN	 Fisch|Fischen	Fischen
+gesagt	VVPP	 sagen	gesagt
+</seg>
+<seg type="newline">
+auch	ADV	 auch	auch
+wol	PWAV	 wo	wo
+wässern	VVINF	 wässern	wässern
+vnd	KON	 und	und
+hernacher	NN	 UNKNOWN	hernacher
+</seg>
+<seg type="newline">
+wann	PWAV	 wann	wann
+daß	KOUS	 daß	daß
+Wasser	NN	 Wasser	Wasser
+davon	PAV	 davon	davon
+gegossen	VVPP	 gießen	gegossen
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Essig	NN	 Essig	Essig
+oder	KON	 oder	oder
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+Wasser	NN	 Wasser	Wasser
+vnd	KON	 und	und
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+kochen	VVINF	 kochen	kochen
+vnd	KON	 und	und
+anrichten	VVFIN	 anrichten	anrichten
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+mit	APPR	 mit	mit
+Sänff	NN	 UNKNOWN	Sänff
+vnd	KON	 und	und
+Butter	NN	 Butter	Butter
+zum	APPRART	 zum	zum
+Beysatz	NN	 UNKNOWN	Beysatz
+</seg>
+<seg type="newline">
+Oder	KON	 oder	Oder
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Finnischen	ADJA	 finnisch	Finnischen
+Rüben	NN	 Rübe	Rüben
+</seg>
+<seg type="newline">
+etc.	ADV	 etc.	etc.
+Man	PIS	 man	Man
+kan	ADV	 nun	Nun
+sie	PPER	 sie	sie
+auch	ADV	 auch	auch
+in	APPR	 in	in
+einer	ART	 ein	einer
+Polnischen	ADJA	 polnisch	Polnischen
+Brühe	NN	 Brühe	Brühe
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+Erbißmeel	ADJA	 UNKNOWN	Erbißmeel
+</seg>
+<seg type="newline">
+Zwiebelen	NN	 UNKNOWN	Zwiebelen
+vnd	KON	 und	und
+Apfel	NN	 Apfel	Apfel
+Gemüse	NN	 Gemüse	Gemüse
+</seg>
+<seg type="newline">
+etc.	ADV	 etc.	etc.
+Mit	APPR	 mit	Mit
+was	PIS	 was	was
+farben	ADJD	 UNKNOWN	farben
+kan	ADV	 nun	Nun
+will	VMFIN	 wollen	will
+</seg>
+<seg type="newline">
+gelb	ADJD	 gelb	gelb
+oder	KON	 oder	oder
+schwartz	NE	 UNKNOWN	schwartz
+bereiten	VVINF	 bereiten	bereiten
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

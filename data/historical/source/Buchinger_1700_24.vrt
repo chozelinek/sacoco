@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Buchinger_1700_24" collection="historical" source="Buchinger" url="none" year="1700" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:1f.]">
+<title>
+<seg type="newline">
+201.	ADJA	 @ord@	201.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Oder	KON	 oder	Oder
+man	PIS	 man	man
+macht	VVFIN	 machen	macht
+selbigen	ADJA	 UNKNOWN	selbigen
+in	APPR	 in	in
+Pasteten	NN	 Pastete	Pasteten
+.	$.	.	$.	 .	|	.
+Besihe	NN	 UNKNOWN	Besihe
+Num	NN	 UNKNOWN	Num
+.	$.	.	$.	 .	|	.
+334.	ADJA	 @ord@	334.
+NB	NE	 NB	NB
+.	$.	.	$.	 .	|	.
+Wann	PWAV	 wann	Wann
+solcher	PIAT	 solch	solcher
+alt	ADJD	 alt	alt
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+mag	VMFIN	 mögen	mag
+man	PIS	 man	man
+ihn	PPER	 er	ihn
+schwellen	VVFIN	 schwellen	schwellen
+</seg>
+<seg type="newline">
+doch	ADV	 doch	doch
+nicht	PTKNEG	 nicht	nicht
+zu	PTKA	 zu	zu
+lang	ADJD	 lang	lang
+und	KON	 und	und
+in	APPR	 in	in
+kaltem	ADJA	 kalt	kaltem
+wasser	VVIMP	 wassern	wasser
+widerumb	ADJD	 UNKNOWN	widerumb
+abkühlen	VVINF	 abkühlen	abkühlen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

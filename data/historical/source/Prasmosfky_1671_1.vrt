@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Prasmosfky_1671_1" collection="historical" source="Prasmosfky" url="none" year="1671" decade="1670-1680" period="1650-1700" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1671:280]">
+<title>
+<seg type="newline">
+819.	ADJA	 @ord@	819.
+Zucker=Zelten	NN	 UNKNOWN	Zucker=Zelten
+zu	PTKZU	 zu	zu
+machen	VVINF	 machen	machen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Nimm	VVIMP	 nehmen	Nimm
+ein	ART	 ein	ein
+halb	ADJD	 halb	halb
+Pfund	NN	 Pfund	Pfund
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+und	KON	 und	und
+läutere	VVFIN	 UNKNOWN	läutere
+ihn	PPER	 er	ihn
+rein	ADV	 rein	rein
+</seg>
+<seg type="newline">
+durch	APPR	 durch	durch
+einen	ART	 ein	einen
+weissen	ADJA	 weiß	weissen
+wüllenen	ADJA	 UNKNOWN	wüllenen
+Sack	NN	 Sack	Sack
+</seg>
+<seg type="newline">
+alsdenn	NE	 UNKNOWN	Alsdann
+siebe	VVFIN	 sieben	siebe
+ihn	PPER	 er	ihn
+wieder	ADV	 wieder	wieder
+</seg>
+<seg type="newline">
+bis	APPR	 bis	bis
+er	PPER	 er	er
+grosse	ADJA	 groß	grosse
+Blasen	NN	 Blase|Blasen	Blasen
+gewinnet	VVFIN	 UNKNOWN	gewinnet
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+nimm	VVIMP	 nehmen	nimm
+weissen	ADJA	 weiß	weissen
+Ingwer	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+anderthalb	ADJA	 anderthalb	anderthalb
+Loth	NE	 Loth	Loth
+Zimmet	NN	 Zimt	Zimt
+</seg>
+<seg type="newline">
+Muscatblühe	NN	 UNKNOWN	Muscatblühe
+und	KON	 und	und
+Muscatnuß	NN	 UNKNOWN	Muscatnuß
+</seg>
+<seg type="newline">
+jedes	PIAT	 jed	jedes
+ein	ART	 ein	ein
+Loth	NE	 Loth	Loth
+</seg>
+<seg type="newline">
+Galgant	NN	 UNKNOWN	Galgant
+ein	ART	 ein	ein
+Loth	NE	 Loth	Loth
+</seg>
+<seg type="newline">
+zerstosse	VVFIN	 UNKNOWN	zerstosse
+die	ART	 d	die
+</seg>
+<seg type="newline">
+bis	APPR	 bis	bis
+sie	PPER	 sie	sie
+hart	ADJD	 hart	hart
+wird	VAFIN	 werden	wird
+</seg>
+<seg type="newline">
+und	KON	 und	und
+lasse	VVFIN	 lassen	lasse
+sie	PPER	 sie	sie
+sieden	VVFIN	 sieden	sieden
+</seg>
+<seg type="newline">
+darnach	PAV	 danach	Danach
+geuß	NN	 UNKNOWN	geuß
+es	PPER	 es	es
+auf	APPR	 auf	auf
+einen	ART	 ein	einen
+zinnernen	ADJA	 UNKNOWN	zinnernen
+Teller	NN	 Teller	Teller
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+auf	APPR	 auf	auf
+einen	ART	 ein	einen
+steinern	ADJD	 steinern	steinern
+Tisch	NN	 Tisch	Tisch
+</seg>
+<seg type="newline">
+und	KON	 und	und
+zerschneide	VVFIN	 zerschneiden	zerschneide
+es	PPER	 es	es
+zu	APPR	 zu	zu
+Stücken	NN	 Stück	Stücken
+</seg>
+<seg type="newline">
+ist	VAFIN	 sein	ist
+es	PPER	 es	es
+aber	ADV	 aber	aber
+zu	PTKA	 zu	zu
+hart	ADJD	 hart	hart
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+giesse	VVFIN	 gießen	giesse
+Lavenelwasser	NN	 UNKNOWN	Lavenelwasser
+darüber	PAV	 darüber	darüber
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+wird	VAFIN	 werden	wird
+es	PPER	 es	es
+wiederum	ADV	 wiederum	wiederum
+weich	ADJD	 weich	weich
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

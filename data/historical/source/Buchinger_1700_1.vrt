@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Buchinger_1700_1" collection="historical" source="Buchinger" url="none" year="1700" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="none">
+<title>
+<seg type="newline">
+Manus	NE	 UNKNOWN	Manus
+Christi	NE	 Christi	Christi
+Täffelin	NN	 UNKNOWN	Täffelin
+.	$.	.	$.	 .	|	.
+1017.	ADJA	 @ord@	1017.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Werden	NN	 Werden	Werden
+auß	VMFIN	 müssen	muß
+clarificiertem	ADJA	 UNKNOWN	clarificiertem
+Zucker	NN	 Zucker	Zucker
+mit	APPR	 mit	mit
+zusatz	NN	 Zusatz	zusatz
+des	ART	 d	des
+dritten	ADJA	 dritt	dritten
+theil	ADJA	 UNKNOWN	theil
+Roßwasser	NN	 UNKNOWN	Roßwasser
+gesotten	VVPP	 sieden	gesotten
+</seg>
+<seg type="newline">
+bis	KON	 bis	bis
+der	ART	 d	der
+Zucker	NN	 Zucker	Zucker
+dick	ADJD	 dick	dick
+worden	VAPP	 werden	worden
+</seg>
+<seg type="newline">
+und	KON	 und	und
+sich	PRF	 er|es|sie	sich
+laßt	VVFIN	 lassen	laßt
+auff	APPR	 auf	auf
+einem	ART	 ein	einem
+Marmor	NN	 Marmor	Marmor
+oder	KON	 oder	oder
+Zinnen	NN	 UNKNOWN	Zinnen
+Plat	NN	 UNKNOWN	Plat
+durch	APPR	 durch	durch
+einen	ART	 ein	einen
+Confect	NN	 UNKNOWN	Confect
+Löffel	NN	 Löffel	Löffel
+zu	APPR	 zu	zu
+Täffelin	NN	 UNKNOWN	Täffelin
+giessen	VVINF	 gießen	giessen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

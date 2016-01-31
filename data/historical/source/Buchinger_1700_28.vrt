@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Buchinger_1700_28" collection="historical" source="Buchinger" url="none" year="1700" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:1f.]">
+<title>
+<seg type="newline">
+99	CARD	 99	99
+Kalbfleisch	NN	 Kalbfleisch	Kalbfleisch
+</seg>
+</title>
+<body>
+<seg type="newline">
+so	ADV	 so	so
+wol	PWAV	 wo	wo
+fleischig	ADJD	 fleischig	fleischig
+</seg>
+<seg type="newline">
+und	KON	 und	und
+trucken	ADJD	 UNKNOWN	trucken
+</seg>
+<seg type="newline">
+zu	APPR	 zu	zu
+riemen	ADJD	 UNKNOWN	riemen
+geschnitten	VVPP	 schneiden	geschnitten
+</seg>
+<seg type="newline">
+ritzt	VVFIN	 ritzen	ritzt
+man	PIS	 man	man
+mit	APPR	 mit	mit
+dem	ART	 d	dem
+Messer	NN	 Messer	Messer
+</seg>
+<seg type="newline">
+und	KON	 und	und
+bestreichts	NN	 UNKNOWN	bestreichts
+mit	APPR	 mit	mit
+gehacktem	ADJA	 gehackt	gehacktem
+speck	NN	 Speck	speck
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+Rindermarck	NN	 UNKNOWN	Rindermarck
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+sonsten	ADJA	 UNKNOWN	sonsten
+Feißte	NN	 UNKNOWN	Feißte
+von	APPR	 von	von
+Rinder	NN	 Rind	Rinder
+</seg>
+<seg type="newline">
+Kälber	NN	 Kalb	Kälber
+oder	KON	 oder	oder
+Schaafen	NN	 UNKNOWN	Schaafen
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+klein	ADJD	 klein	klein
+geschnittenen	ADJA	 geschnitten	geschnittenen
+Peterlin	NE	 UNKNOWN	Peterlin
+</seg>
+<seg type="newline">
+Roßmarin	NE	 UNKNOWN	Roßmarin
+</seg>
+<seg type="newline">
+Majeron	NE	 UNKNOWN	Majeron
+</seg>
+<seg type="newline">
+Salbey	NE	 UNKNOWN	Salbey
+oder	KON	 oder	oder
+gestossenen	ADJA	 gestoßen	gestossenen
+Wachholderbeer	NN	 UNKNOWN	Wachholderbeer
+</seg>
+<seg type="newline">
+Imber	NN	 UNKNOWN	Imber
+</seg>
+<seg type="newline">
+Pfeffer	NN	 Pfeffer	Pfeffer
+</seg>
+<seg type="newline">
+Saltz	NN	 Salz	Salz
+vermischt	VVPP	 vermischen	vermischt
+</seg>
+<seg type="newline">
+wicklets	VVFIN	 UNKNOWN	wicklets
+über	APPR	 über	über
+einander	PRF	 einander	einander
+wie	KOKOM	 wie	wie
+Wecken	NN	 Wecken	Wecken
+</seg>
+<seg type="newline">
+steckts	NN	 UNKNOWN	steckts
+an	APPR	 an	an
+Spißlin	NN	 UNKNOWN	Spißlin
+</seg>
+<seg type="newline">
+laßts	NN	 UNKNOWN	laßts
+sanfft	ADJD	 UNKNOWN	sanfft
+braten	VVINF	 braten	braten
+</seg>
+<seg type="newline">
+und	KON	 und	und
+gibts	NN	 UNKNOWN	gibts
+in	APPR	 in	in
+einem	ART	 ein	einem
+brühlin	NN	 UNKNOWN	brühlin
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+gar	ADV	 gar	gar
+trucken	VVINF	 UNKNOWN	trucken
+.	$.	.	$.	 .	|	.
+Man	PIS	 man	Man
+solls	VVFIN	 UNKNOWN	solls
+im	APPRART	 im	im
+braten	VVFIN	 braten	braten
+mit	APPR	 mit	mit
+schmaltz	ADJA	 UNKNOWN	schmaltz
+oder	KON	 oder	oder
+feißter	ADJA	 UNKNOWN	feißter
+Brühe	NN	 Brühe	Brühe
+begiessen	VVINF	 begießen	begiessen
+.	$.	.	$.	 .	|	.
+Man	PIS	 man	Man
+spickts	VVFIN	 UNKNOWN	spickts
+auch	ADV	 auch	auch
+mit	APPR	 mit	mit
+Speck	NN	 Speck	Speck
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+Krametsvögel	NN	 UNKNOWN	Krametsvögel
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

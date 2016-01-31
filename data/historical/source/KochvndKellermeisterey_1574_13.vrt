@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Koch_vnd_Kellermeisterey_1574_13" collection="historical" source="Koch_vnd_Kellermeisterey" url="none" year="1574" decade="1570-1580" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1574:38r]">
+<title>
+<seg type="newline">
+Gute	ADJA	 gut	Gute
+Krapffen	NN	 UNKNOWN	Krapffen
+von	APPR	 von	von
+öpffel	NN	 UNKNOWN	öpffel
+vnd	KON	 und	und
+Byrn	NN	 UNKNOWN	Byrn
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Brat	VVFIN	 UNKNOWN	Brat
+sie	PPER	 sie	sie
+vor	PTKVZ	 vor	vor
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+schlahe	VVFIN	 UNKNOWN	schlahe
+ein	ART	 ein	ein
+ey	NE	 ey	ey
+oder	KON	 oder	oder
+zwey	CARD	 zwei	zwei
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+saltz	ADJA	 kalt	kalten
+vnd	KON	 und	und
+würtz	VVIMP	 würzen	würzt
+</seg>
+<seg type="newline">
+stoß	VVIMP	 stoßen	stoß
+wol	PWAV	 wo	wo
+in	APPR	 in	in
+einem	ART	 ein	einem
+Mörser	NN	 Mörser	Mörser
+</seg>
+<seg type="newline">
+fülls	NN	 UNKNOWN	fülls
+in	APPR	 in	in
+die	ART	 d	die
+krapffen	NN	 UNKNOWN	krapffen
+.	$.	.	$.	 .	|	.
+Ander	NE	 UNKNOWN	Ander
+Krapffen	NN	 UNKNOWN	Krapffen
+mach	VVIMP	 machen	mach
+von	APPR	 von	von
+Eyern	ADJA	 UNKNOWN	Eyern
+</seg>
+<seg type="newline">
+Peterlin	NE	 UNKNOWN	Peterlin
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+andere	PIS	 ander	andere
+gute	ADJA	 gut	gute
+Kräuter	NN	 Kraut	Kräuter
+darein	ADV	 darein	darein
+gehackt	VVPP	 hacken	gehackt
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+einem	ART	 ein	einem
+rohen	ADJA	 roh	rohen
+Ey	NE	 Ey	Ey
+verknetten	NN	 UNKNOWN	verknetten
+</seg>
+<seg type="newline">
+gewürtzt	ADJA	 UNKNOWN	gewürtzt
+</seg>
+<seg type="newline">
+gesaltzen	TRUNC	 UNKNOWN	gesaltzen
+vnd	KON	 und	und
+eingefüllt	VVPP	 einfüllen	eingefüllt
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

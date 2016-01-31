@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Stockholm_1647_26" collection="historical" source="Stockholm" url="none" year="1647" decade="1640-1650" period="1600-1650" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1647:264] [das T: steht wohl für Torte, oft heißt es auch P:, wohl für Pastete]">
+<body>
+<seg type="newline">
+T	NN	T	NN	 T	|	T
+:	$.	:	$.	 :	|	:
+Grosse	ADJA	 groß	Grosse
+Fladen	NN	 Fladen	Fladen
+</seg>
+<seg type="newline">
+Als	KOKOM	 als	Als
+der	ART	 d	der
+Ofenmundt	NE	 UNKNOWN	Ofenmundt
+groß	ADJD	 groß	groß
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+Hefen	NN	 Hefe	Hefen
+</seg>
+<seg type="newline">
+Eyer	NE	 UNKNOWN	Eyer
+</seg>
+<seg type="newline">
+Butter	NN	 Butter	Butter
+Saltz	NN	 Salz	Salz
+</seg>
+<seg type="newline">
+zu	APPR	 zu	zu
+dünnen	ADJA	 dünn	dünnen
+teige	ADJA	 UNKNOWN	teige
+außgewelgert	ADJA	 UNKNOWN	außgewelgert
+auff	APPR	 auf	auf
+bemehlet	ADJA	 UNKNOWN	bemehlet
+Regal	NN	 Regal	Regal
+Pappier	NN	 UNKNOWN	Pappier
+eingeschoben	VVPP	 einschieben	eingeschoben
+</seg>
+<seg type="newline">
+gahr	ADV	 gar	gar
+gebacken	VVPP	 backen	gebacken
+</seg>
+<seg type="newline">
+mit	APPR	 mit	mit
+Butter	NN	 Butter	Butter
+bestrichen	VVPP	 bestreichen	bestrichen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+mit	APPR	 mit	mit
+Zucker	NN	 Zucker	Zucker
+bestrewet	VVFIN	 bestreuen	bestreuen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

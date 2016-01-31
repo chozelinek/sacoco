@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Buchinger_1700_27" collection="historical" source="Buchinger" url="none" year="1700" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1679:1f.]">
+<title>
+<seg type="newline">
+116.	ADJA	 @ord@	116.
+Schaaf=fleisch	NN	 UNKNOWN	Schaaf=fleisch
+</seg>
+</title>
+<body>
+<seg type="newline">
+wird	VAFIN	 werden	wird
+eingemacht	VVPP	 einmachen	eingemacht
+</seg>
+<seg type="newline">
+gekocht	VVPP	 kochen	gekocht
+</seg>
+<seg type="newline">
+gedämpfft	ADJD	 UNKNOWN	gedämpfft
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+Kalbfleisch	NN	 Kalbfleisch	Kalbfleisch
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+Num	NN	 UNKNOWN	Num
+.	$.	.	$.	 .	|	.
+73/74/75/76/77.79	CARD	 @card@	73/74/75/76/77.79
+.	$.	.	$.	 .	|	.
+zusehen	VVINF	 zusehen	zusehen
+ist	VAFIN	 sein	ist
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

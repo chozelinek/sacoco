@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Staindl_1569_18" collection="historical" source="Staindl" url="none" year="1569" decade="1560-1570" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[23v]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+suppen	NN	 Suppe	suppen
+mit	APPR	 mit	mit
+geschelten	ADJA	 UNKNOWN	geschelten
+Vischen	NN	 UNKNOWN	Vischen
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+So	ADV	 so	So
+tracht	ADJD	 UNKNOWN	tracht
+vmb	VVFIN	 UNKNOWN	vmb
+ein	ART	 ein	ein
+guote	ADJA	 UNKNOWN	guote
+lautere	ADJA	 laut	lautere
+Erbeßbrü	NE	 UNKNOWN	Erbeßbrü
+</seg>
+<seg type="newline">
+die	ART	 d	die
+thuo	NN	 UNKNOWN	thue
+in	APPR	 in	in
+ein	ART	 ein	ein
+saubern	ADJA	 UNKNOWN	saubern
+Hafen	NN	 Hafen	Hafen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+nimb	ADJA	 UNKNOWN	nimb
+Petersil	NN	 UNKNOWN	Petersil
+wurtzen	VVFIN	 UNKNOWN	wurtzen
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+sieden	VVINF	 sieden	sieden
+biß	VVFIN	 beißen	biß
+die	ART	 d	die
+wurtzen	ADJA	 UNKNOWN	wurtzen
+weich	ADJD	 weich	weich
+werden	VAFIN	 werden	werden
+</seg>
+<seg type="newline">
+als	KOKOM	 als	als
+dann	ADV	 dann	dann
+gewürtz	NN	 UNKNOWN	Gewürtz
+mit	APPR	 mit	mit
+gestossenem	ADJA	 gestoßen	gestossenem
+pfeffer	NN	 Pfeffer	pfeffer
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+gantz	ADV	 ganz	ganz
+Muscsatblü	NE	 UNKNOWN	Muscsatblü
+</seg>
+<seg type="newline">
+thuo	NE	 UNKNOWN	thue
+schmaltz	NE	 UNKNOWN	schmaltz
+darein	ADV	 darein	darein
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+nimb	VVFIN	 UNKNOWN	nimb
+dann	ADV	 dann	dann
+geschelt	VVFIN	 UNKNOWN	geschelt
+visch	ADJD	 UNKNOWN	visch
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+seüds	ADJD	 UNKNOWN	seüds
+in	APPR	 in	in
+der	ART	 d	der
+Erbeßbrü	NE	 UNKNOWN	Erbeßbrü
+biß	VVFIN	 beißen	biß
+sie	PPER	 sie	sie
+sein	PPOSAT	 sein	sein
+genuog	NN	 UNKNOWN	genuog
+haben	VAFIN	 haben	haben
+</seg>
+<seg type="newline">
+gilb	ADJD	 UNKNOWN	gilb
+die	ART	 d	die
+brü	NE	 UNKNOWN	brü
+ein	ART	 ein	ein
+wenig	PIS	 wenig	wenig
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+die	ART	 d	die
+Kappon	NN	 UNKNOWN	Kappon
+</seg>
+<seg type="newline">
+richts	PTKNEG	 nicht	nicht
+auffs	NE	 UNKNOWN	auffs
+bät	NN	 UNKNOWN	bät
+brot	NN	 Brot	Brot
+an	APPR	 an	an
+</seg>
+<seg type="newline">
+ob	KOUS	 ob	ob
+man	PIS	 man	man
+will	VMFIN	 wollen	will
+</seg>
+<seg type="newline">
+so	ADV	 so	so
+mag	VMFIN	 mögen	mag
+man	PIS	 man	man
+ein	ART	 ein	ein
+wenig	PIAT	 wenig	wenig
+Krän	NN	 UNKNOWN	Krän
+mit	APPR	 mit	mit
+Mandel	NN	 Mandel	Mandel
+stossen	VVINF	 stoßen	stossen
+</seg>
+<seg type="newline">
+vnnd	KON	 und	und
+auff	APPR	 auf	auf
+die	ART	 d	die
+schüssel	NN	 Schüssel	schüssel
+der	ART	 d	der
+visch	ADJD	 UNKNOWN	visch
+thuon	NN	 UNKNOWN	thuon
+</seg>
+<seg type="newline">
+wie	KOKOM	 wie	wie
+auff	APPR	 auf	auf
+ein	ART	 ein	ein
+digen	ADJA	 UNKNOWN	digen
+flaisch	NN	 UNKNOWN	flaisch
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

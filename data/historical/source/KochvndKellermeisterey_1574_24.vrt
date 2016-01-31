@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Koch_vnd_Kellermeisterey_1574_24" collection="historical" source="Koch_vnd_Kellermeisterey" url="none" year="1574" decade="1570-1580" period="1550-1600" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|none|" method="|none|" ref="[1574:21r]">
+<title>
+<seg type="newline">
+Ein	ART	 eine	Ein
+höflicher	ADJA	 höflich	höflicher
+Ziger	NN	 UNKNOWN	Ziger
+von	APPR	 von	von
+Mandeln	NN	 Mandel	Mandeln
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Stoß	VVIMP	 stoßen	Stoß
+Mandel	NN	 Mandel	Mandel
+klein	ADJD	 klein	klein
+</seg>
+<seg type="newline">
+streichs	NN	 Streich	streichs
+durch	APPR	 durch	durch
+ein	ART	 ein	ein
+thuch	NN	 UNKNOWN	thuch
+mit	PTKVZ	 mit	mit
+wasser	VVIMP	 wassern	wasser
+</seg>
+<seg type="newline">
+mach	VVIMP	 machen	mach
+die	ART	 d	die
+Milch	NN	 Milch	Milch
+warm	ADJD	 warm	warm
+in	APPR	 in	in
+einem	ART	 ein	einem
+hafen	NN	 Hafen	hafen
+</seg>
+<seg type="newline">
+rüre	VVFIN	 UNKNOWN	rüre
+sie	PPER	 sie	sie
+gar	ADV	 gar	gar
+wol	PWAV	 wo	wo
+</seg>
+<seg type="newline">
+Nimein	NN	 UNKNOWN	Nimein
+geläbt	VVFIN	 UNKNOWN	geläbt
+brühe	VVFIN	 brühen	brühe
+von	NE	 von	von
+fischen	VVINF	 fischen	fischen
+vnnd	KON	 und	und
+Bersig	ADJD	 UNKNOWN	Bersig
+gesotten	VVPP	 sieden	gesotten
+</seg>
+<seg type="newline">
+oder	KON	 oder	oder
+von	APPR	 von	von
+Kälbern	NN	 Kalb	Kälbern
+oder	KON	 oder	oder
+Schafffüssen	NN	 UNKNOWN	Schafffüssen
+gesotten	VVPP	 sieden	gesotten
+</seg>
+<seg type="newline">
+wol	PWAV	 wo	wo
+lauter	ADJD	 laut	lauter
+gestanden	VVPP	 gestehen|stehen	gestanden
+</seg>
+<seg type="newline">
+abgesaltzen	VVPP	 UNKNOWN	abgesaltzen
+</seg>
+<seg type="newline">
+vnd	KON	 und	und
+mit	APPR	 mit	mit
+Mandeln	NN	 Mandel	Mandeln
+milch	ADJD	 UNKNOWN	milch
+</seg>
+<seg type="newline">
+damit	PAV	 damit	damit
+vermischt	VVFIN	 vermischen	vermischt
+</seg>
+<seg type="newline">
+laß	ADJD	 laß	laß
+erkalten	VVINF	 erkalten	erkalten
+vnd	KON	 und	und
+gestehn	VVFIN	 UNKNOWN	gestehn
+</seg>
+<seg type="newline">
+rc	NE	 UNKNOWN	rc
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>

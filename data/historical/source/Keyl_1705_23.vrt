@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE text SYSTEM "sacoco.dtd">
+<text id="Keyl_1705_23" collection="historical" source="Keyl" url="none" year="1705" decade="1700-1710" period="1700-1750" type="|none|" course="|none|" cuisine="|none|" language="deu" ingredient="|Huhn|" method="|Pastete|" ref="[1705:140]">
+<title>
+<seg type="newline">
+Pasteten	NN	 Pastete	Pasteten
+mit	APPR	 mit	mit
+jungen	ADJA	 jung	jungen
+Hünern	NN	 UNKNOWN	Hünern
+.	$.	.	$.	 .	|	.
+</seg>
+</title>
+<body>
+<seg type="newline">
+Wenn	KOUS	 wenn	Wenn
+du	PPER	 du	du
+die	ART	 d	die
+Form	NN	 Form	Form
+gemacht	VVPP	 machen	gemacht
+</seg>
+<seg type="newline">
+lege	VVFIN	 legen	lege
+die	ART	 d	die
+Hüner	NN	 UNKNOWN	Hünern
+in	APPR	 in	in
+Muscatenblumen	NN	 UNKNOWN	Muscatenblumen
+</seg>
+<seg type="newline">
+Citronen	NN	 Citrone	Citronen
+</seg>
+<seg type="newline">
+wenig	PIAT	 wenig	wenig
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+Ingber	NN	 Ingwer	Ingwer
+</seg>
+<seg type="newline">
+Capers	NN	 Kaper|Kapern	Kapern
+</seg>
+<seg type="newline">
+lange	ADJA	 lang	lange
+Rosinen	NN	 Rosine	Rosinen
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+es	PPER	 es	es
+mit	APPR	 mit	mit
+einen	ART	 ein	einen
+Deckel	NN	 Deckel	Deckel
+zu	PTKVZ	 zu	zu
+.	$.	.	$.	 .	|	.
+Wann	PWAV	 wann	Wann
+sie	PPER	 sie	sie
+gar	ADV	 gar	gar
+ist	VAFIN	 sein	ist
+</seg>
+<seg type="newline">
+mache	VVFIN	 machen	mache
+einen	ART	 ein	einen
+Brühe	NN	 Brühe	Brühe
+darauff	PAV	 drauf	drauf
+von	APPR	 von	von
+Wein	NN	 Wein	Wein
+</seg>
+<seg type="newline">
+Eydotter	NN	 Eidotter	Eidotter
+</seg>
+<seg type="newline">
+Muscatenblumen	NN	 UNKNOWN	Muscatenblumen
+</seg>
+<seg type="newline">
+Zucker	NN	 Zucker	Zucker
+</seg>
+<seg type="newline">
+Butter	NN	 Butter	Butter
+</seg>
+<seg type="newline">
+Citronen=Safft	NN	 UNKNOWN	Citronen=Safft
+</seg>
+<seg type="newline">
+zusammen	ADV	 zusammen	zusammen
+abgerühret	VVFIN	 UNKNOWN	abgebrühet
+</seg>
+<seg type="newline">
+und	KON	 und	und
+in	APPR	 in	in
+die	ART	 d	die
+Pastete	NN	 Pastete	Pastete
+gegossen	VVPP	 gießen	gegossen
+.	$.	.	$.	 .	|	.
+</seg>
+</body>
+</text>
