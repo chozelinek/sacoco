@@ -412,7 +412,6 @@ In the previous section we created the VRT files with the required positional in
 We will have to prepare our data for the CQPweb through a series of very simple steps:
 
 1. adding the metadata to the VRT files
-1. concatenating all texts in a single corpus file
 1. generate a metadata file for the CQPweb
 
 ### Add the metadata to the VRT files
@@ -469,29 +468,9 @@ python3 addmetadata.py -i data/historical/vrt -m data/metadata/sacoco-metadata.c
 > TIP: for development/testing purposes, if you just run `python3 addmetadata.py -t historical`, it will work on the testing dataset stored in the test folder.
 ```
 
-### Concatenate all texts in a single corpus VRT file
-
-We need a single XML file containing all texts. `texts2corpus.py` helps us to ease the task.
-
-`texts2corpus.py`:
-
-- finds all `.vrt` files contained in the input folders
-- gets the `<text>` nodes
-- appends the `<text>` nodes to a parent element called `<corpus>`
-- saves `<corpus>` as a single XML file
-
-Its usage is pretty simple, just provide the path to the folders containing the `.vrt` files with metadata, and the path to the output folder:
-
-```bash
-python3 texts2corpus.py -i data/contemporary/meta data/historical/meta -o data/sacoco.vrt
-```
-
-> TIP: for development/testing purposes, if you just run `python3 texts2corpus.py`, it will work on the testing dataset stored in the test folder.
-```
-
 ### Generate the metadata file for CQPweb
 
-CQPweb helps us to calculate distributions across different subcorpora. Typically, this subcorpora are the result of splitting our corpus according to some variable contained in the metadata. To achieve this we only need to pass once a metadata file containing for each text the value of the fields we are interested in.
+CQPweb helps us to calculate distributions across different subcorpora. Typically, this subcorpora are the result of splitting our corpus according to some variables contained in the metadata. To achieve this we only need to pass once a metadata file containing for each text the value of the fields we are interested in.
 
 We have already generated two metadata tables:
 
@@ -506,7 +485,9 @@ We will merge them and will extract only those fields whose distributions shall 
 - collection
 - source
 
-To get this file we use the command `meta2cqpweb.py`.
+Moreover, we will add the title of the recipe as a free text field (it won't be used for the distributions).
+
+To get this file we use the script `meta2cqpweb.py`.
 
 `meta2cqpweb.py`:
 
@@ -528,7 +509,7 @@ python3 metadata4cqpweb.py -i data/metadata/contemporary-metadata.csv data/metad
 
 We have all materials needed to set up a corpus in CQPweb:
 
-- a single XML file for the whole corpus
+- the texts in VRT format
 - a metadata file
 
 You need now to have access to a CQPweb installation as administrator. There are different options to get CQPweb running listed in decreasing order of difficulty:
@@ -557,49 +538,110 @@ You need now to have access to a CQPweb installation as administrator. There are
         - you have to give us the corpus and the metadata in the right format (but... wait! You have just learnt how to do it!)
         - we work together to *clarinify* the resource (not too bad either, see the section on [*clarinifying*](#integration-of-the-resource-in-the-clarin-d-infrastructure) a corpus).
 
-Let's assume that you have administrator access to a CQPweb installation. We will guide you in the following lines through the process of setting up the corpus.
+Let's assume that you have:
 
-#### Log in as admin
+- `cqp` installed in your computer
+- administrator access to a CQPweb installation
+- root access to the server where the CQPweb lives
+
+If you don't fullfil all this requirements and/or you don't have experience enough, do not worry. Just jump to section <!-- -->
+
+Nevertheless, we document below all the steps to get SaCoCo encoded and installed in CQPweb.
+
+#### Encode the corpus for the CWB
+
+The first thing we need to do is to encode the corpus. This process will create a number of files that will enable to use the CQP language to query the corpus.
+
+Once we have the texts in VRT format, encoding the corpus for the CWB is relatively easy.
+
+Check that you have the corpus work bench installed in the computer, if not, download it and follow these [instructions](http://cwb.sourceforge.net/download.php). We compiled from source version 3.4.8.
+
+Now, run the following commands:
+
+```bash
+# create the target folder for encoded data
+mkdir -p data/cqp/data
+# run the command
+cwb-encode -c utf8 -d data/cqp/sacoco -F data/contemporary/meta/ -F data/historical/meta -R data/cqp -xsB -S text:0+id+collection+source+url+year+decade+period+title+authors/+cuisines/+ingredients/+methods/+tools/ -S p:0 -S s:0 -P pos -P lemma -P norm
+# generate the registry file
+cwb-make -r data/cqp -V SACOCO
+```
+
+The `cwb-encode`'s parameters explained:
+
+- `-c` to the declare the character encoding
+- `-d` path to the target directory were the output will be stored
+- `-F` path to the input directory were the VRT files are located
+- `-R` path to the registry file
+- `-xsB`
+    - `x` for XML compatibility mode (recognises default entities and
+skips comments as well as an XML declaration)
+    - `s` to skip blank lines in the input
+    - `B` to strip whitespace from tokens
+- `-S` to declare a structural attribute, example:
+    - `-S text:0+id+authors/`
+    - `text`, structural attribute to be declared
+    - `0` embedding levels
+    - `id` will be an attribute of `text` containing some value
+    - `authors/` is also an attribute of `text` but the slash tells `cqp` to treate it as a feature set.
+- `-P` to declare positional attributes
+
+Get extensive information on how to encode corpora for the CWB in the [encoding tutorial](http://cwb.sourceforge.net/files/CWB_Encoding_Tutorial.pdf).
+
+> TIP: for development/testing purposes, just run the command below on the test files.
+
+```bash
+# create the target folder for encoded data
+mkdir -p test/cqp/data
+# run the command
+cwb-encode -c utf8 -d test/cqp/sacoco -F test/contemporary/meta/ -F test/historical/meta -R test/cqp -xsB -S text:0+id+collection+source+url+year+decade+period+title+authors/+cuisines/+ingredients/+methods/+tools/ -S p:0 -S s:0 -P pos -P lemma -P norm
+# generate the registry file
+cwb-make -r test/cqp -V SACOCO
+```
+
+#### Upload the corpus to the server and set permissions
+
+Once you have the data you have to upload the file to the server where CQPweb is installed. In our case is the machine `fedora.clarin-d.uni-saarland.de`.
+
+In our case, one needs to connet to the server as `root` user. There are different methods to upload the files:
+
+- via the command line with tools like `scp` or `rsync` which use the `ssh` protocol
+- via a FTP client like [Filezilla](https://filezilla-project.org)
+
+Upload the local folder `data/cqp/sacoco/` to the remote folder (in the server) `/data2/cqpweb/indexed`, and the registry file `data/cqp/sacoco` to the folder `/data2/cqpweb/registry`.
+
+Once all files are uploaded, you have to check the ownership of the folder/file:
+
+- the owner should be `wwwrun`
+- the group should be `www`
+
+If not just run a couple of commands:
+
+```bash
+chown -R wwwrun:www /data2/cqpweb/indexed/sacoco
+chown wwwrun:www /data2/cqpweb/registry/sacoco
+```
+
+Then, modify the registry file `/data2/cqpweb/registry/sacoco` to indicate the location of the corpus in the server `/data2/cqpweb/indexed/sacoco`.
+
+#### Log in as admin in CQPweb
 
 1. Type the URL to your CQPweb installation (e.g. <https://fedora.clarin-d.uni-saarland.de/cqpweb/>)
 1. log in with an administrator account, you are redirected to your user account
 1. click on `Go to admin control panel` in the lefthand menu **Account actions**.
 
-#### Upload files
-
-We need to upload the corpus file (`sacoco.vrt`) and the metadata file (`sacoco.meta`). 
-
-For each file:
-
-1. click on `Upload a file` in the left menu **Uploads**.
-1. click on `Choose File`, a dialogue window will open, pick the file you want to upload.
-1. click on `Upload File`.
-
 #### Installing the corpus
 
 We can now start installing the corpus:
 
-1. click on Install a new corpus in the left menu **Corpora**
-1. in install new corpus section
-    1. provide a MySQL name for the corpus: `sacoco`
-    1. provide a name for the corpus: `sacoco`
-    1. provide the full name of the corpus: `Saarbrücken Cookbook Corpus`
-1. in `Select files` section
-    1. select `sacoco.vrt`
-1. in `S-attributes` section
-    1. check the option on the left `Use custom setup`
-    1. and then add in the boxes on the right:
-        1. `text:0+id+collection+source+url+year+decade+period+title+authors/+cuisine/+ingredients/+methods/+tools/`
-        1. `p:0`
-        1. `s:0`
-1. in `P-attributes` section
-    1. check the option on the left `Use custom setup`
-    1. set the first row as `Primary`
-    1. add the following three positional attributes, each value is a field:
-        1. *Handle:* pos; *Description:* Part-Of-Speech; *Tagset:* STTS; *External URL:* <http://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/TagSets/stts-table.html>
-        1. *Handle:* lemma; *Description:* lemma; *Tagset:* leave it empty; *External URL:* leave it empty.
-        1. *Handle:* norm; *Description:* orthographic correction by CAB, *Tagset:* leave it empty; *External URL:* <http://www.deutschestextarchiv.de/doku/software#cab>
-1. click on `Install corpus with settings above` at the bottom of the page.
+1. click on `Install a new corpus` in the left menu **Corpora**
+1. click on the link `Click here to install a corpus you have already indexed in CWB.` which you will find in the grey row at the top of the page.
+1. Fill in the fields
+    1. Specify a MySQL name for this corpus: `sacoco`
+    1. Enter the full name of the corpus: `Saarbrücken Cookbook Corpus`
+    1. Specify the CWB name (lowercase format): `sacoco`
+1. Click on the button `Install corpus with settings above` that you will find at the bottom of the page.
+
 
 A new page will load:
 
@@ -614,54 +656,49 @@ A new page will load:
     1. period
     1. collection
     1. source
+    1. title
+1. Mark `collection` as the primary category.
+1. Set `title` as free text
 1. Select `Yes please` in section `Do you want to automatically run frequency-list setup?`
 1. Finally, click on the button `install metadata table using the settings above`
 
-#### Admin tools
+Now set up the annotation (positional attributes):
 
-- Corpus settings: probably nothing to do here; has been set during the installation process
-- Manage access: to add user groups for your corpus (otherwise only the superuser can access the corpus!)
-- Manage metadata: probably nothing to do here; has been set during the installation process
-- Manage text categories: here you can add more "speaking" descriptions for your text categories
-- Manage annotation: add descriptions / URLs of documentations for your positional attributes; specify primary/secondary/... annotations for the CQP Simple Query language; specifying annotations here makes them available for restrictions throughout CQPweb (e.g. for the collocation function)
-- Manage priviliges: Scroll to end of page and generate default privileges for the corpus; select than "Manage group grants", scroll to end of page and select a group and grant it privileges of that particular corpus (normally normal privileges are choosen)
+1. click on `Manage annotation`, you will find it in the left menu, in section `Admin Tools`.
+1. complete the annotation metadata information at the bottom:
+    1. lemma: *Description:* lemma
+    1. click on `Go!`
+    1. pos: *Description:* pos; *Tagset name:* STTS; *External URL:* <http://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/TagSets/stts-table.html>
+    1. click on `Go!`
+    1. norm: *Description* norm; *External URL:* <http://www.deutschestextarchiv.de/doku/software#cab>
+    1. click on `Go!`
+    1. set `pos` as `Primary annotation` above
+    1. click on `Update annotation settings`.
 
-### Encode the data for CWB
 
-Once we have the texts in VRT format, encoding the corpus for the CWB is relatively easy.
+Check corpus settings:
 
-Check that you have the corpus work bench installed in the computer, if not, download it and follow these [instructions](http://cwb.sourceforge.net/download.php). We compiled from source version 3.4.8.
+1. go to `Corpus settings` in `Admin tools`
+1. in `General options`:
+    1. assign a category in field `The corpus is currently in the following category:` Historical corpora
+    1. click on the `Update` button
+    1. provide an external URL: <http://hdl.handle.net/11858/00-246C-0000-001F-7C43-1>
+    1. clik on the `Update` button
 
-Now, run the following command:
+We set the access to this corpus open for everybody:
 
-```bash
-# create the target folder for encoded data
-mkdir -p test/cqp/data
-# run the command
-cwb-encode -c utf8 -d test/cqp/sacoco -F test/contemporary/meta/ -F test/historical/meta -R test/cqp -xsB -S text:0+id+collection+source+url+year+decade+period+title+authors/+cuisines/+ingredients/+methods/+tools/ -S p:0 -S s:0 -P pos -P lemma # -P norm
-# generate the registry file
-cwb-make -r test/cqp -V SACOCO
-```
+1. go to `Admin Control Panel` in `Admin tools`
+1. go to `Manage privileges` in `Users and privileges`
+1. scroll to the bottom of the page, there
+    1. select `sacoco` from list `Generate default privileges for corpus...`
+    1. click on button `Generate default privileges for this corpus`.
+1. go to `Manage group grants` in `Users and privileges`
+    1. scroll to the bottom, in section `Grant new privilege to group`
+    1. Select group `everybody`
+    1. Select a privilege `Normal access privilege for corpus [sacoco]`
+    1. click on `Grant privilege to group!`
 
-The `cwb-encode`'s parameters explained:
-
-- `-c` to the declare the character encoding
-- `-d` path to the target directory were the output will be stored
-- `-F` path to the input directory were the VRT files are located
-- `-R` path to the registry file
-- `-xSB`
-    - `x`
-    - `S`
-    - `B`
-- `-S` to declare a structural attribute, example:
-    - `-S text:0+id+authors/`
-    - `text`, structural attribute to be declared
-    - `0` embedding levels
-    - `id` will be an attribute of `text` containing some value
-    - `authors/` is also an attribute of `text` but the slash tells `cqp` to treate it as a feature set.
-- `-P` to declare positional attributes
-
-Get extensive information on how to encode corpora for the CWB in the [encoding tutorial](http://cwb.sourceforge.net/files/CWB_Encoding_Tutorial.pdf).
+Hurraaaaah! Corpus ready to be queried!
 
 ## Integration of the resource in the CLARIN-D infrastructure
 
@@ -692,6 +729,10 @@ Our diachronic corpus of cooking recipes in German is now ready to be used. We w
 1. We will visualize and analyse the data with CQPweb/R.
 1. We will describe very briefly our corpus with CQPweb/R.
 
+If you want to follow along, you will need to get a user for our [CQPweb installation](https://fedora.clarin-d.uni-saarland.de/cqpweb).
+
+Go to this [URL](https://fedora.clarin-d.uni-saarland.de/cqpweb/usr/?thisQ=create&uT=y) to create a new account. Follow the instructions and in a few minutes you will have access to SaCoCo.
+
 ## Research question
 
 > Has the realisation of the conative function evolved along the time in the cooking recipe register?
@@ -715,7 +756,7 @@ We know that German can use different means to convey the conative function. Amo
 
 The next step is to design how we can retreive this features in a systematic and effective way making use of the linguistic annotaton we have added with WebLicht.
 
-Basically, we will quantify how many instances of these features we can find per text. Firt, we need to find the instances, then, we will count them. And, finally, we will describe the results and check if historical recipes significantly differ from their contemporary counterparts.
+Basically, we will quantify how many instances of these features can be found per text. Firt, we need to find the instances, then, we will count them. And, finally, we will describe the results and check if historical recipes significantly differ from their contemporary counterparts.
 
 ### Personal pronouns
 
@@ -747,6 +788,10 @@ second person pronouns
 <!-- macros -->
 
 ### CQPweb: query, explore, export
+
+Now, let's get on with it!
+
+First, you will need access to our CQPweb installation
 
 <!-- step-by-step sequence -->
 
