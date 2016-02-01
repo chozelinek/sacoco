@@ -98,51 +98,27 @@ img {
 <div id="TOC">
 <ul>
 <li><a href="#corpus-compilation"><span class="toc-section-number">1</span> Corpus compilation</a><ul>
-<li><a href="#data-acquisition-and-preprocessing"><span class="toc-section-number">1.1</span> Data acquisition and preprocessing</a><ul>
-<li><a href="#contemporary-component"><span class="toc-section-number">1.1.1</span> Contemporary component</a></li>
-<li><a href="#historical-component"><span class="toc-section-number">1.1.2</span> Historical component</a></li>
-</ul></li>
-<li><a href="#data-processing-with-weblicht"><span class="toc-section-number">1.2</span> Data processing with WebLicht</a><ul>
-<li><a href="#logging-into-weblicht"><span class="toc-section-number">1.2.1</span> Logging into WebLicht</a></li>
-<li><a href="#building-the-tool-chain-to-process-contemporary-data"><span class="toc-section-number">1.2.2</span> Building the tool chain to process contemporary data</a></li>
-<li><a href="#building-the-tool-chain-to-process-historical-data"><span class="toc-section-number">1.2.3</span> Building the tool chain to process historical data</a></li>
-<li><a href="#using-weblicht-as-a-service"><span class="toc-section-number">1.2.4</span> Using WebLicht as a service</a></li>
-<li><a href="#processing-the-contemporary-recipes"><span class="toc-section-number">1.2.5</span> Processing the contemporary recipes</a></li>
-<li><a href="#processing-the-historical-recipes"><span class="toc-section-number">1.2.6</span> Processing the historical recipes</a></li>
-</ul></li>
-<li><a href="#corpus-encoding-for-cqpweb"><span class="toc-section-number">1.3</span> Corpus encoding for CQPweb</a><ul>
-<li><a href="#add-the-metadata-to-the-vrt-files"><span class="toc-section-number">1.3.1</span> Add the metadata to the VRT files</a></li>
-<li><a href="#generate-the-metadata-file-for-cqpweb"><span class="toc-section-number">1.3.2</span> Generate the metadata file for CQPweb</a></li>
-<li><a href="#set-up-a-corpus-in-cqpweb"><span class="toc-section-number">1.3.3</span> Set up a corpus in CQPweb</a></li>
-</ul></li>
+<li><a href="#data-acquisition-and-preprocessing"><span class="toc-section-number">1.1</span> Data acquisition and preprocessing</a></li>
+<li><a href="#data-processing-with-weblicht"><span class="toc-section-number">1.2</span> Data processing with WebLicht</a></li>
+<li><a href="#corpus-encoding-for-cqpweb"><span class="toc-section-number">1.3</span> Corpus encoding for CQPweb</a></li>
 <li><a href="#integration-of-the-resource-in-the-clarin-d-infrastructure"><span class="toc-section-number">1.4</span> Integration of the resource in the CLARIN-D infrastructure</a></li>
 </ul></li>
 <li><a href="#corpus-exploitation"><span class="toc-section-number">2</span> Corpus exploitation</a><ul>
 <li><a href="#research-question"><span class="toc-section-number">2.1</span> Research question</a></li>
-<li><a href="#operationalisation"><span class="toc-section-number">2.2</span> Operationalisation</a><ul>
-<li><a href="#personal-pronouns"><span class="toc-section-number">2.2.1</span> Personal pronouns</a></li>
-<li><a href="#indefinite-pronouns"><span class="toc-section-number">2.2.2</span> Indefinite pronouns</a></li>
-<li><a href="#imperatives"><span class="toc-section-number">2.2.3</span> Imperatives</a></li>
-<li><a href="#infinitives"><span class="toc-section-number">2.2.4</span> Infinitives</a></li>
+<li><a href="#operationalisation"><span class="toc-section-number">2.2</span> Operationalisation</a></li>
+<li><a href="#feature-extraction"><span class="toc-section-number">2.3</span> Feature extraction</a></li>
+<li><a href="#visualization-and-analysis-of-results"><span class="toc-section-number">2.4</span> Visualization and analysis of results</a></li>
 </ul></li>
-<li><a href="#feature-extraction"><span class="toc-section-number">2.3</span> Feature extraction</a><ul>
-<li><a href="#queries"><span class="toc-section-number">2.3.1</span> Queries</a></li>
-<li><a href="#cqpweb-query-explore-export"><span class="toc-section-number">2.3.2</span> CQPweb: query, explore, export</a></li>
-</ul></li>
-<li><a href="#visualization-and-analysis-of-results"><span class="toc-section-number">2.4</span> Visualization and analysis of results</a><ul>
-<li><a href="#corpus-description"><span class="toc-section-number">2.4.1</span> Corpus description</a></li>
-<li><a href="#results"><span class="toc-section-number">2.4.2</span> Results</a></li>
-</ul></li>
-</ul></li>
-<li><a href="#bibliography"><span class="toc-section-number">3</span> Bibliography</a></li>
 </ul>
 </div>
 
 <p><a href="http://hdl.handle.net/11858/00-246C-0000-001F-7C43-1"><img src="tutorial_files/img/sacoco-logo.png" title="Saarbrücken Cookbook Corpus&#39; logo" alt="sacoco logo" /></a></p>
-<p>This tutorial will show you step-by-step how to use the CLARIN-D infrastructure to compile a diachronic corpus of German cooking recipes. Afterwards, you will learn how to exploit this resource to discover how the conative function has evolved in this genre during the last centuries.</p>
+<p>This tutorial will show you step-by-step how to use the CLARIN-D infrastructure to compile a diachronic corpus of German cooking recipes. Afterwards, you will learn how to exploit this resource to discover how the conative function has evolved in this register during the last centuries.</p>
 <p>In order to reproduce succesfully this showcase, you will need to satisfy the following requirements:</p>
 <ul>
-<li>a UNIX OS</li>
+<li>a Mac, Linux, Windows operative system (tested on Mac OS X, Linux Ubuntu)</li>
+<li><a href="http://www.xmlsoft.org/downloads.html">libxml2 and libxslt</a></li>
+<li>7z</li>
 <li>Python 3, and some packages (<code>pip3 install -r requirements.txt</code>)
 <ul>
 <li>lxml</li>
@@ -150,7 +126,12 @@ img {
 <li>regex</li>
 <li>requests</li>
 </ul></li>
-<li>R</li>
+<li>R, and some packages
+<ul>
+<li>reshape2</li>
+<li>dplyr</li>
+<li>ggplot2</li>
+</ul></li>
 <li>internet connection</li>
 </ul>
 <p>You also need the materials. Go to our GitHub <a href="https://github.com/chozelinek/sacoco">repo</a> and clone it.</p>
@@ -168,14 +149,14 @@ img {
 <li>contemporary</li>
 <li>historical</li>
 </ul>
-<p><strong>Historical</strong> recipes were transcribed and digitised manually by Andrea Wurm. Moreover, we completed this dataset with some transcriptions done by Glonning et al. In parallel, we obtained a set of <strong>contemporary</strong> recipes from a wiki site devoted to cooking recipes –<code>rezeptewiki.org</code>, today <a href="http://www.kochwiki.org/wiki/Hauptseite">kochwiki.org</a>. Luckily, a XML dump of this site is available at the <a href="https://archive.org/download/wiki-rezeptewikiorg">Internet Archive</a>.</p>
+<p>The <strong>historical</strong> recipes were transcribed and digitised manually by Andrea Wurm. We complemented this dataset with some transcriptions done by Glonning et al.<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a>. In parallel, we obtained a set of <strong>contemporary</strong> recipes from a wiki site devoted to cooking recipes <a href="http://www.kochwiki.org/wiki/Hauptseite">kochwiki.org</a>. Luckily, a XML dump of this site is available at the <a href="https://archive.org/download/wiki-rezeptewikiorg">Internet Archive</a>.</p>
 <p>Due to the different nature of our historical and contemporary datasets. The corpus compilation methodology althoug following a similar outline is slightly different.</p>
 <div id="data-acquisition-and-preprocessing" class="section level2">
 <h2><span class="header-section-number">1.1</span> Data acquisition and preprocessing</h2>
 <p>Our goal at this stage is to obtain the data in digital form. And afterwards, preprocess the material to obtain a homogenous minimalistic TEI/XML format, that we can easily integrate in our pipeline, namely: WebLicht and CQP.</p>
 <div id="contemporary-component" class="section level3">
 <h3><span class="header-section-number">1.1.1</span> Contemporary component</h3>
-<p>Download a wiki dump from <a href="https://archive.org/download/wiki-rezeptewikiorg" class="uri">https://archive.org/download/wiki-rezeptewikiorg</a>.</p>
+<p>Download a wiki dump from <a href="https://archive.org/download/wiki-rezeptewikiorg" class="uri">https://archive.org/download/wiki-rezeptewikiorg</a>. The file to be downloaded from the archive is 19.8M and gets huge when extracted (1.21G). That’s the reason why we don’t include it. The GitHub repo you downloaded includes a smaller test file, so you don’t have to download the original file for testing, if you don’t want to.</p>
 <div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="co"># dowload the dump to the data/contemporary/source folder</span>
 <span class="kw">wget</span> -P data/contemporary/source https://archive.org/download/wiki-rezeptewikiorg/rezeptewikiorg-20140325-history.xml.7z
 <span class="co"># unzip the file</span>
@@ -183,12 +164,12 @@ img {
 <blockquote>
 <p>TIP: if you are just testing, you can skip this step. You can find an excerpt of this file in the <code>test/conteporary/source/</code> folder.</p>
 </blockquote>
-<p>The relatively small 19.8M file becomes a monster of 1.21G. This figure can give you an slight idea of the daunting task of extracting manually information from this file. We use a python script instead (<code>wikiextractor.py</code>) to automatically extract and structure the following information:</p>
+<p>The size of the extracted file can give you a slight idea of the daunting task of extracting information manually from this file. Thus, we use a python script instead (<code>wikiextractor.py</code>) to automatically structure the data and extract the following information:</p>
 <ul>
-<li>a minimal <strong>TEI/XML</strong> file for each page containing:
+<li>a minimal <strong>TEI/XML</strong> file for each reciope containing:
 <ul>
 <li>title, and</li>
-<li>cooking instructions</li>
+<li>cooking instructions (only the section where the actual cooking procedure is described, no comments, no history of the dish…)</li>
 </ul></li>
 <li>a CSV file containing metadata for each page such as:
 <ul>
@@ -200,7 +181,7 @@ img {
 <li>URL</li>
 </ul></li>
 </ul>
-<p>The input for this script is the huge file <code>rezeptewikiorg-20140325-history.xml</code>. It contains thousands of <code>page</code> nodes, its <code>revision</code>s and the actual <code>text</code>.</p>
+<p>The input for this script is the huge file <code>rezeptewikiorg-20140325-history.xml</code>. It contains thousands of <code>page</code> nodes, their <code>revisions</code> and the actual <code>texts</code>. See an example page below.</p>
 <div class="sourceCode"><pre class="sourceCode xml"><code class="sourceCode xml"><span class="kw">&lt;page&gt;</span>
   <span class="kw">&lt;title&gt;</span><span class="dv">&amp;quot;</span>Krömpele<span class="dv">&amp;quot;</span>-Suppe<span class="kw">&lt;/title&gt;</span>
   <span class="kw">&lt;ns&gt;</span>0<span class="kw">&lt;/ns&gt;</span>
@@ -281,7 +262,7 @@ img {
 <blockquote>
 <p>TIP: for development/testing purposes, if you just run <code>python3 wikiextractor.py</code>, it will work on the testing dataset stored in the <code>test</code> folder.</p>
 </blockquote>
-<p>This is one of the TEI files <code>wiki-188908.xml</code>:</p>
+<p>An example for the result TEI files is <code>wiki_188908.xml</code> given below (I would include this as an example in the test directory, also a sample metadata file):</p>
 <div class="sourceCode"><pre class="sourceCode xml"><code class="sourceCode xml"><span class="kw">&lt;?xml</span> version=&#39;1.0&#39; encoding=&#39;UTF-8&#39;<span class="kw">?&gt;</span>
 <span class="kw">&lt;?xml-model</span> href=&quot;http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng&quot; type=&quot;application/xml&quot; schematypens=&quot;http://relaxng.org/ns/structure/1.0&quot;<span class="kw">?&gt;</span>
 <span class="kw">&lt;TEI</span><span class="ot"> xmlns=</span><span class="st">&quot;http://www.tei-c.org/ns/1.0&quot;</span><span class="ot"> xml:lang=</span><span class="st">&quot;de&quot;</span><span class="kw">&gt;</span>
@@ -430,15 +411,15 @@ img {
 </div>
 <div id="data-processing-with-weblicht" class="section level2">
 <h2><span class="header-section-number">1.2</span> Data processing with WebLicht</h2>
-<p>In the previous section, we have seen how to <em>shape</em> our data for ulterior stages. Once that we have a homogenous format for both collections, it is time to process the texts with <strong>WebLicht</strong>.</p>
-<p>At this point, we still have to work separately with the contemporary and historical collections. In both cases, we will perform these steps:</p>
+<p>In the previous section, we have seen how to <em>shape</em> our data. Once that we have a homogenous format for both collections, we can start to process the texts with <a href="http://weblicht.sfs.uni-tuebingen.de/weblichtwiki/index.php/Main_Page"><strong>WebLicht</strong></a>.</p>
+<p>We have to process the two collections (historical and contemporary) separatly in WebLicht as we need two slightly different pipelines. In both cases, we have to perform the following steps:</p>
 <ol style="list-style-type: decimal">
 <li>design a chain in WebLicht
 <ol style="list-style-type: decimal">
 <li>authenticate</li>
 <li>build a tool chain</li>
 </ol></li>
-<li>process all recipes with this chain using WaaS
+<li>process all recipes with this chain using WaaS (WebLicht as a Service)
 <ol style="list-style-type: decimal">
 <li>get an API key for WaaS</li>
 <li>use a python wrapper to interact with WebLicht</li>
@@ -474,12 +455,10 @@ img {
 <li>Berlin: Tokenizer and Sentence</li>
 <li>Berlin: Part-of-Speech Tagger</li>
 </ol></li>
-<li>Click on <code>Run Tools</code></li>
-<li>Explore the results</li>
 <li>Download the chain by clicking on <code>Download chain</code></li>
-<li>Save the XML file as <code>chain_contemporary.xml</code> in the folder <code>scripts</code> of our repo.</li>
+<li>Save the XML file as <code>chain_contemporary.xml</code> in the folder <code>utils</code> of our repo.</li>
 </ol>
-<p>If the instructions weren’t clear enough, watch this video explaining how to design a tool chain.</p>
+<p>For informations on how to design a tool chain you can also watch the following video.</p>
 <video width="640" height="360" autobuffer controls preload="auto">
 <source src="http://weblicht.sfs.uni-tuebingen.de/weblichtwiki/extensions/HTML5video/videos/SimpleToolChain.mp4" type="video/mp4"/>
 <source src="http://weblicht.sfs.uni-tuebingen.de/weblichtwiki/extensions/HTML5video/videos/SimpleToolChain.ogv" type="video/ogg"/>
@@ -500,15 +479,13 @@ img {
 <li>Berlin: Tokenizer and Sentence</li>
 <li>Berlin: CAB historical text</li>
 </ol></li>
-<li>Click on <code>Run Tools</code></li>
-<li>Explore the results</li>
 <li>Download the chain by clicking on <code>Download chain</code></li>
 <li>Save the XML file as <code>chain_historical.xml</code> in the folder <code>scripts</code> of our repo.</li>
 </ol>
 </div>
 <div id="using-weblicht-as-a-service" class="section level3">
 <h3><span class="header-section-number">1.2.4</span> Using WebLicht as a service</h3>
-<p>We could process our texts directly through the user-friendly WebLicht GUI. However, we have thousands of recipes to be processed. That would be a formidable amount of time wasted in a repetitive task. Fortunately, WebLicht developers devised <a href="https://weblicht.sfs.uni-tuebingen.de/WaaS/"><strong>WaaS</strong></a>.</p>
+<p>We could now process our texts directly through the user-friendly WebLicht GUI. However, if you have thousands of recipes to be annotated, it is more efficient to use <a href="https://weblicht.sfs.uni-tuebingen.de/WaaS/"><strong>WaaS</strong></a> (WebLicht as a Service) to execute our WebLicht chains.</p>
 <blockquote>
 <p>WebLicht as a Service (WaaS) is a REST service that executes WebLicht chains. This allows you to run WebLicht chains from your UNIX shell, scripts, or programs.</p>
 </blockquote>
@@ -516,15 +493,15 @@ img {
 <p>We need at least two things:</p>
 <ol style="list-style-type: decimal">
 <li>a WebLicht chain</li>
-<li>an API key</li>
+<li>an API key (a kind of “password” to be passed to WaaS)</li>
 </ol>
-<p>The first item is already solved. For the second, go to the <a href="https://weblicht.sfs.uni-tuebingen.de/WaaS">WaaS home page</a>, click on the rigthmost menu item at the top of the page called <code>API Key</code>. You will be redirected to the already familiar authentication page, choose your institution (<code>clarin.eu website account</code> for us), provide your credentials and a new page will load. If you hit on the button <code>Generate</code> a long string will appear where it reads <code>Your API key</code>. Copy the key in a safe place.</p>
+<p>We already have our WebLicht chains. For the second, go to the <a href="https://weblicht.sfs.uni-tuebingen.de/WaaS">WaaS home page</a>, click on the rigthmost menu item at the top of the page called <code>API Key</code>. You will be redirected to the already familiar authentication page, choose your institution (<code>clarin.eu website account</code> for us), provide your credentials and a new page will load. If you hit on the button <code>Generate</code> a long string will appear where it reads <code>Your API key</code>. Copy the key in a safe place and treat it like it was a password.</p>
 <p>Time to actually process our XML files with <code>WaaS</code>!</p>
 </div>
 <div id="processing-the-contemporary-recipes" class="section level3">
 <h3><span class="header-section-number">1.2.5</span> Processing the contemporary recipes</h3>
 <p>We have created a python script to process the recipes with WaaS (<code>weblichtwrapper.py</code>).</p>
-<p>The goal of the script is to process all TEI/XML files in a folder with WebLicht and save the results in VRT files for their ulterior encoding as a corpus for the Corpus WorkBench (CWB).</p>
+<p>The goal of the script is to process all TEI/XML files in a folder with WebLicht and save the results in VRT files for their encoding as a corpus for the Corpus WorkBench (CWB).</p>
 <p>The input is tipically a folder with the TEI/XML files we created in previous sections. But in fact we could use any XML file.</p>
 <p>The script does the following:</p>
 <ol style="list-style-type: decimal">
@@ -532,7 +509,7 @@ img {
 <li>find all nodes containing text to be processed</li>
 <li>send to WaaS a request to process the text of a node with the provided chain</li>
 <li>convert the WaaS response in TCF format to VRT</li>
-<li>saves the VRT files in the target directorys</li>
+<li>saves the VRT files in the target directory</li>
 </ol>
 <p>To run the script you need to invoke the following commands from the terminal</p>
 <div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">python3</span> waaswrapper.py -i data/contemporary/tei -c utils/chain_contemporary.xml -o data/contemporary/vrt</code></pre></div>
@@ -544,7 +521,7 @@ img {
 <div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">python3</span> waaswrapper.py -h</code></pre></div>
 <p>The output is a VRT file (one token per line and positional attributes separated by a tabulation).</p>
 <div class="sourceCode"><pre class="sourceCode xml"><code class="sourceCode xml"><span class="kw">&lt;?xml</span> version=&#39;1.0&#39; encoding=&#39;UTF-8&#39;<span class="kw">?&gt;</span>
-<span class="kw">&lt;text</span><span class="ot"> id=</span><span class="st">&quot;wiki-244969&quot;</span><span class="kw">&gt;</span>
+<span class="kw">&lt;text</span><span class="ot"> id=</span><span class="st">&quot;wiki_244969&quot;</span><span class="kw">&gt;</span>
 <span class="kw">&lt;p&gt;</span>
 <span class="kw">&lt;s&gt;</span>
 Das ART d
@@ -622,9 +599,9 @@ servieren   VVINF   servieren
 <p><code>addmetadata.py</code>:</p>
 <ol style="list-style-type: decimal">
 <li>obtains of a list of all files to be transformed</li>
-<li>parses of the metadata</li>
+<li>parses the metadata</li>
 <li>finds all nodes where the metadata fields will be added as attributes</li>
-<li>adds to each node its corresponding metadata using the <code>text id</code> as key</li>
+<li>adds to each node its corresponding metadata using the <code>text ID</code> as key</li>
 <li>saves the VRT files in the target directory</li>
 </ol>
 <p>The output should look like this:</p>
@@ -671,9 +648,8 @@ hacken  VVINF   hacken
 <li>decade</li>
 <li>period</li>
 <li>collection</li>
-<li>source</li>
 </ul>
-<p>Moreover, we will add the title of the recipe as a free text field (it won’t be used for the distributions).</p>
+<p>Moreover, we will add the source and the title of the recipe as a free text field (they won’t be used for the distributions).</p>
 <p>To get this file we use the script <code>meta2cqpweb.py</code>.</p>
 <p><code>meta2cqpweb.py</code>:</p>
 <ul>
@@ -1529,15 +1505,18 @@ data[<span class="kw">is.na</span>(data)] =<span class="st"> </span><span class=
 </tr>
 </tbody>
 </table>
-</div>
-</div>
-</div>
-<div id="bibliography" class="section level1">
-<h1><span class="header-section-number">3</span> Bibliography</h1>
-<p><a href="https://en.wikipedia.org/wiki/Operationalization" class="uri">https://en.wikipedia.org/wiki/Operationalization</a></p>
+<!-- # Bibliography -->
 <div id="refs" class="references">
 
 </div>
+</div>
+</div>
+</div>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p><a href="http://www.staff.uni-giessen.de/gloning/kobu.htm" class="uri">http://www.staff.uni-giessen.de/gloning/kobu.htm</a><a href="#fnref1">↩</a></p></li>
+</ol>
 </div>
 
 

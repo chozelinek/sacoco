@@ -4,17 +4,22 @@ Universität des Saarlandes
 
 [![sacoco logo](tutorial_files/img/sacoco-logo.png "Saarbrücken Cookbook Corpus' logo")](http://hdl.handle.net/11858/00-246C-0000-001F-7C43-1)
 
-This tutorial will show you step-by-step how to use the CLARIN-D infrastructure to compile a diachronic corpus of German cooking recipes. Afterwards, you will learn how to exploit this resource to discover how the conative function has evolved in this genre during the last centuries.
+This tutorial will show you step-by-step how to use the CLARIN-D infrastructure to compile a diachronic corpus of German cooking recipes. Afterwards, you will learn how to exploit this resource to discover how the conative function has evolved in this register during the last centuries.
 
 In order to reproduce succesfully this showcase, you will need to satisfy the following requirements:
 
-- a UNIX OS
+- a Mac, Linux, Windows operative system (tested on Mac OS X, Linux Ubuntu)
+- [libxml2 and libxslt](<http://www.xmlsoft.org/downloads.html>)
+- 7z
 - Python 3, and some packages (`pip3 install -r requirements.txt`)
-    - lxml
+    - lxml 
     - pandas
     - regex
     - requests
-- R
+- R, and some packages
+    - reshape2
+    - dplyr
+    - ggplot2
 - internet connection
 
 You also need the materials. Go to our GitHub [repo](https://github.com/chozelinek/sacoco) and clone it.
@@ -34,7 +39,9 @@ We have two different sources of data:
 - contemporary
 - historical
 
-**Historical** recipes were transcribed and digitised manually by Andrea Wurm. Moreover, we completed this dataset with some transcriptions done by Glonning et al. In parallel, we obtained a set of **contemporary** recipes from a wiki site devoted to cooking recipes --`rezeptewiki.org`, today [kochwiki.org](http://www.kochwiki.org/wiki/Hauptseite). Luckily, a XML dump of this site is available at the [Internet Archive](https://archive.org/download/wiki-rezeptewikiorg).
+The **historical** recipes were transcribed and digitised manually by Andrea Wurm. We complemented this dataset with some transcriptions done by Glonning et al.[^glonning]. In parallel, we obtained a set of **contemporary** recipes from a wiki site devoted to cooking recipes [kochwiki.org](http://www.kochwiki.org/wiki/Hauptseite). Luckily, a XML dump of this site is available at the [Internet Archive](https://archive.org/download/wiki-rezeptewikiorg).
+
+[^glonning]: <http://www.staff.uni-giessen.de/gloning/kobu.htm>
 
 Due to the different nature of our historical and contemporary datasets. The corpus compilation methodology althoug following a similar outline is slightly different.
 
@@ -44,7 +51,7 @@ Our goal at this stage is to obtain the data in digital form. And afterwards, pr
 
 ### Contemporary component
 
-Download a wiki dump from <https://archive.org/download/wiki-rezeptewikiorg>.
+Download a wiki dump from <https://archive.org/download/wiki-rezeptewikiorg>. The file to be downloaded from the archive is 19.8M and gets huge when extracted (1.21G). That's the reason why we don't include it. The GitHub repo you downloaded includes a smaller test file, so you don't have to download the original file for testing, if you don't want to.
 
 ```bash
 # dowload the dump to the data/contemporary/source folder
@@ -55,11 +62,11 @@ wget -P data/contemporary/source https://archive.org/download/wiki-rezeptewikior
 
 > TIP: if you are just testing, you can skip this step. You can find an excerpt of this file in the `test/conteporary/source/` folder.
 
-The relatively small 19.8M file becomes a monster of 1.21G. This figure can give you an slight idea of the daunting task of extracting manually information from this file. We use a python script instead (`wikiextractor.py`) to automatically extract and structure the following information:
+The size of the extracted file can give you a slight idea of the daunting task of extracting information manually from this file. Thus, we use a python script instead (`wikiextractor.py`) to automatically structure the data and extract the following information:
 
-- a minimal **TEI/XML** file for each page containing:
+- a minimal **TEI/XML** file for each reciope containing:
     - title, and
-    - cooking instructions
+    - cooking instructions (only the section where the actual cooking procedure is described, no comments, no history of the dish...)
 - a CSV file containing metadata for each page such as:
     - authors
     - ingredients
@@ -68,7 +75,7 @@ The relatively small 19.8M file becomes a monster of 1.21G. This figure can give
     - cuisines
     - URL
     
-The input for this script is the huge file `rezeptewikiorg-20140325-history.xml`. It contains thousands of `page` nodes, its `revision`s and the actual `text`.
+The input for this script is the huge file `rezeptewikiorg-20140325-history.xml`. It contains thousands of `page` nodes, their `revisions` and the actual `texts`. See an example page below.
 
 ```xml
 <page>
@@ -154,7 +161,7 @@ python3 wikiextractor.py -i data/contemporary/source/rezeptewikiorg-20140325-his
 
 > TIP: for development/testing purposes, if you just run `python3 wikiextractor.py`, it will work on the testing dataset stored in the `test` folder.
 
-This is one of the TEI files `wiki-188908.xml`:
+An example for the result TEI files is `wiki_188908.xml` given below (I would include this as an example in the test directory, also a sample metadata file):
 
 ```xml
 <?xml version='1.0' encoding='UTF-8'?>
@@ -264,14 +271,14 @@ for i in test/historical/tei/*.xml; do xmllint --noout --relaxng utils/tei_lite.
 
 ## Data processing with WebLicht
 
-In the previous section, we have seen how to *shape* our data for ulterior stages. Once that we have a homogenous format for both collections, it is time to process the texts with **WebLicht**.
+In the previous section, we have seen how to *shape* our data. Once that we have a homogenous format for both collections, we can start to process the texts with [**WebLicht**](http://weblicht.sfs.uni-tuebingen.de/weblichtwiki/index.php/Main_Page).
 
-At this point, we still have to work separately with the contemporary and historical collections. In both cases, we will perform these steps:
+We have to process the two collections (historical and contemporary) separatly in WebLicht as we need two slightly different pipelines. In both cases, we have to perform the following steps:
 
 1. design a chain in WebLicht
     1. authenticate
     1. build a tool chain
-1. process all recipes with this chain using WaaS
+1. process all recipes with this chain using WaaS (WebLicht as a Service)
     1. get an API key for WaaS
     1. use a python wrapper to interact with WebLicht
 
@@ -300,12 +307,10 @@ If you run into problems, read the [FAQ explaining how to loggin into WebLicht](
 1. Choose the tools:
     1. Berlin: Tokenizer and Sentence
     1. Berlin: Part-of-Speech Tagger
-1. Click on `Run Tools`
-1. Explore the results
 1. Download the chain by clicking on `Download chain`
-1. Save the XML file as `chain_contemporary.xml` in the folder `scripts` of our repo.
+1. Save the XML file as `chain_contemporary.xml` in the folder `utils` of our repo.
 
-If the instructions weren't clear enough, watch this video explaining how to design a tool chain.
+For informations on how to design a tool chain you can also watch the following video.
 
 <video width="640" height="360" autobuffer controls preload="auto"><source src="http://weblicht.sfs.uni-tuebingen.de/weblichtwiki/extensions/HTML5video/videos/SimpleToolChain.mp4" type="video/mp4"/><source src="http://weblicht.sfs.uni-tuebingen.de/weblichtwiki/extensions/HTML5video/videos/SimpleToolChain.ogv" type="video/ogg"/><source src="http://weblicht.sfs.uni-tuebingen.de/weblichtwiki/extensions/HTML5video/videos/SimpleToolChain.webm" type="video/webm"/></video>
 
@@ -321,14 +326,12 @@ The process is exactly the same as we used before.
 1. Choose the tools:
     1. Berlin: Tokenizer and Sentence
     1. Berlin: CAB historical text
-1. Click on `Run Tools`
-1. Explore the results
 1. Download the chain by clicking on `Download chain`
 1. Save the XML file as `chain_historical.xml` in the folder `scripts` of our repo.
 
 ### Using WebLicht as a service
 
-We could process our texts directly through the user-friendly WebLicht GUI. However, we have thousands of recipes to be processed. That would be a formidable amount of time wasted in a repetitive task. Fortunately, WebLicht developers devised [**WaaS**](https://weblicht.sfs.uni-tuebingen.de/WaaS/).
+We could now process our texts directly through the user-friendly WebLicht GUI. However, if you have thousands of recipes to be annotated, it is more efficient to use [**WaaS**](https://weblicht.sfs.uni-tuebingen.de/WaaS/) (WebLicht as a Service) to execute our WebLicht chains.
 
 > WebLicht as a Service (WaaS) is a REST service that executes WebLicht chains. This allows you to run WebLicht chains from your UNIX shell, scripts, or programs.
 
@@ -337,9 +340,9 @@ It means that we can write a script to automatize our interaction with WebLicht!
 We need at least two things:
 
 1. a WebLicht chain
-1. an API key
+1. an API key (a kind of "password" to be passed to WaaS)
 
-The first item is already solved. For the second, go to the [WaaS home page](https://weblicht.sfs.uni-tuebingen.de/WaaS), click on the rigthmost menu item at the top of the page called `API Key`. You will be redirected to the already familiar authentication page, choose your institution (`clarin.eu website account` for us), provide your credentials and a new page will load. If you hit on the button `Generate` a long string will appear where it reads `Your API key`. Copy the key in a safe place.
+We already have our WebLicht chains. For the second, go to the [WaaS home page](https://weblicht.sfs.uni-tuebingen.de/WaaS), click on the rigthmost menu item at the top of the page called `API Key`. You will be redirected to the already familiar authentication page, choose your institution (`clarin.eu website account` for us), provide your credentials and a new page will load. If you hit on the button `Generate` a long string will appear where it reads `Your API key`. Copy the key in a safe place and treat it like it was a password.
 
 Time to actually process our XML files with `WaaS`!
 
@@ -347,7 +350,7 @@ Time to actually process our XML files with `WaaS`!
 
 We have created a python script to process the recipes with WaaS (`weblichtwrapper.py`).
 
-The goal of the script is to process all TEI/XML files in a folder with WebLicht and save the results in VRT files for their ulterior encoding as a corpus for the Corpus WorkBench (CWB).
+The goal of the script is to process all TEI/XML files in a folder with WebLicht and save the results in VRT files for their encoding as a corpus for the Corpus WorkBench (CWB).
 
 The input is tipically a folder with the TEI/XML files we created in previous sections. But in fact we could use any XML file.
 
@@ -357,7 +360,7 @@ The script does the following:
 1. find all nodes containing text to be processed
 1. send to WaaS a request to process the text of a node with the provided chain
 1. convert the WaaS response in TCF format to VRT
-1. saves the VRT files in the target directorys
+1. saves the VRT files in the target directory
 
 To run the script you need to invoke the following commands from the terminal
 
@@ -379,7 +382,7 @@ The output is a VRT file (one token per line and positional attributes separated
 
 ```xml
 <?xml version='1.0' encoding='UTF-8'?>
-<text id="wiki-244969">
+<text id="wiki_244969">
 <p>
 <s>
 Das	ART	d
@@ -461,9 +464,9 @@ To add the metadata as structural attributes we need:
 `addmetadata.py`:
 
 1. obtains of a list of all files to be transformed
-1. parses of the metadata
+1. parses the metadata
 1. finds all nodes where the metadata fields will be added as attributes
-1. adds to each node its corresponding metadata using the `text id` as key
+1. adds to each node its corresponding metadata using the `text ID` as key
 1. saves the VRT files in the target directory
 
 The output should look like this:
@@ -518,9 +521,8 @@ We will merge them and will extract only those fields whose distributions shall 
 - decade
 - period
 - collection
-- source
 
-Moreover, we will add the title of the recipe as a free text field (it won't be used for the distributions).
+Moreover, we will add the source and the title of the recipe as a free text field (they won't be used for the distributions).
 
 To get this file we use the script `meta2cqpweb.py`.
 
@@ -1060,6 +1062,4 @@ buchinger_11   historical      1700     1700   1700  Buchinger        34       0
 buchinger_12   historical      1700     1700   1700  Buchinger        37       0      2       0       0
 buchinger_13   historical      1700     1700   1700  Buchinger        43       0      2       0       1
 
-# Bibliography
-
-<https://en.wikipedia.org/wiki/Operationalization>
+<!-- # Bibliography -->
