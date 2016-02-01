@@ -10,7 +10,7 @@ bibliography: SaCoCo.bib
 
 This tutorial will show you step-by-step how to use the CLARIN-D infrastructure to compile a diachronic corpus of German cooking recipes. Afterwards, you will learn how to exploit this resource to discover how the conative function has evolved in this register during the last centuries.
 
-In order to reproduce succesfully this showcase, you will need to satisfy the following requirements:
+In order to reproduce successfully this showcase, you will need to satisfy the following requirements:
 
 - a Mac, Linux, Windows operative system (tested on Mac OS X, Linux Ubuntu)
 - [libxml2 and libxslt](<http://www.xmlsoft.org/downloads.html>)
@@ -43,19 +43,19 @@ We have two different sources of data:
 - contemporary
 - historical
 
-The **historical** recipes were transcribed and digitised manually by Andrea Wurm. We complemented this dataset with some transcriptions done by Glonning et al.[^glonning]. In parallel, we obtained a set of **contemporary** recipes from a wiki site devoted to cooking recipes [kochwiki.org](http://www.kochwiki.org/wiki/Hauptseite). Luckily, a XML dump of this site is available at the [Internet Archive](https://archive.org/download/wiki-rezeptewikiorg).
+The **historical** recipes were transcribed and digitised manually by Andrea Wurm. We complemented this data set with some transcriptions done by Glonning et al.[^glonning]. In parallel, we obtained a set of **contemporary** recipes from a wiki site devoted to cooking recipes [kochwiki.org](http://www.kochwiki.org/wiki/Hauptseite). Luckily, a XML dump of this site is available at the [Internet Archive](https://archive.org/download/wiki-rezeptewikiorg).
 
 [^glonning]: <http://www.staff.uni-giessen.de/gloning/kobu.htm>
 
-Due to the different nature of our historical and contemporary datasets. The corpus compilation methodology althoug following a similar outline is slightly different.
+Due to the different nature of our historical and contemporary datasets. The corpus compilation methodology although following a similar outline is slightly different.
 
 ## Data acquisition and preprocessing {.tabset .tabset-fade .tabset-pills}
 
-Our goal at this stage is to obtain the data in digital form. And afterwards, preprocess the material to obtain a homogenous minimalistic TEI/XML format, that we can easily integrate in our pipeline, namely: WebLicht and CQP.
+Our goal at this stage is to obtain the data in digital form. And afterwards, preprocess the material to obtain a homogeneous minimalist TEI/XML format, that we can easily integrate in our pipeline, namely: WebLicht and CQP.
 
 ### Contemporary data
 
-Download a wiki dump from <https://archive.org/download/wiki-rezeptewikiorg>. The file to be downloaded from the archive is 19.8M and gets huge when extracted (1.21G). That's the reason why we don't include it. The GitHub repo you downloaded includes a smaller test file, so you don't have to download the original file for testing, if you don't want to.
+Download a wiki dump from <https://archive.org/download/wiki-rezeptewikiorg>. The file to be downloaded from the archive is 19.8M and gets huge when extracted (1.21G). That's the reason why we don't include it. The GitHub repository you downloaded includes a smaller test file, so you don't have to download the original file for testing, if you don't want to.
 
 ```bash
 # dowload the dump to the data/contemporary/source folder
@@ -68,7 +68,7 @@ wget -P data/contemporary/source https://archive.org/download/wiki-rezeptewikior
 
 The size of the extracted file can give you a slight idea of the daunting task of extracting information manually from this file. Thus, we use a python script instead (`wikiextractor.py`) to automatically structure the data and extract the following information:
 
-- a minimal **TEI/XML** file for each reciope containing:
+- a minimal **TEI/XML** file for each recipe containing:
     - title, and
     - cooking instructions (only the section where the actual cooking procedure is described, no comments, no history of the dish...)
 - a CSV file containing metadata for each page such as:
@@ -217,7 +217,7 @@ wiki-142256 | wiki | 2010 | Salziger Wähenteig mit saurer Sahne | Vran01, Jozei
 wiki-150044 | wiki | 2010 | Punschglasur | Jozeil | Österreichische Küche | Eiweiß, Zucker, Orangensaft, Rum | Glasieren | Schüssel, Schneebesen
 wiki-158731 | wiki | 2010 | Riebelesuppe | Vran01, Hombre, Jozeil, Daniel Beyer | Schwäbische Küche | Weizenmehl, Brühwürfel, Ei, Salz, Pfeffer, Meersalz | Abschmecken | Schüssel, Topf, Küchenreibe
 
-You can check from the commandline if the TEI files are alright:
+You can check from the command line if the TEI files are alright:
 
 ```bash
 for i in data/contemporary/tei/*.xml; do xmllint --noout --relaxng utils/tei_lite.rng $i; done
@@ -259,7 +259,7 @@ python3 xmlextractor.py -i data/historical/source -x data/historical/tei -m data
 
 > TIP: for development/testing purposes, if you just run `python3 xmlextractor.py`, it will work on the testing dataset stored in the `test` folder.
 
-You can check from the commandline if the TEI files are alright:
+You can check from the command line if the TEI files are alright:
 
 ```bash
 for i in data/historical/tei/*.xml; do xmllint --noout --relaxng utils/tei_lite.rng $i; done
@@ -273,9 +273,9 @@ for i in test/historical/tei/*.xml; do xmllint --noout --relaxng utils/tei_lite.
 
 ## Data processing with WebLicht
 
-In the previous section, we have seen how to *shape* our data. Once that we have a homogenous format for both collections, we can start to process the texts with [**WebLicht**](http://weblicht.sfs.uni-tuebingen.de/weblichtwiki/index.php/Main_Page).
+In the previous section, we have seen how to *shape* our data. Once that we have a homogeneous format for both collections, we can start to process the texts with [**WebLicht**](http://weblicht.sfs.uni-tuebingen.de/weblichtwiki/index.php/Main_Page).
 
-We have to process the two collections (historical and contemporary) separatly in WebLicht as we need two slightly different pipelines. In both cases, we have to perform the following steps:
+We have to process the two collections (historical and contemporary) separately in WebLicht as we need two slightly different pipelines. In both cases, we have to perform the following steps:
 
 1. design a chain in WebLicht
     1. authenticate
@@ -312,7 +312,7 @@ If you run into problems, read the [FAQ explaining how to loggin into WebLicht](
     1. Berlin: Tokenizer and Sentence
     1. Berlin: Part-of-Speech Tagger
 1. Download the chain by clicking on `Download chain`
-1. Save the XML file as `chain_contemporary.xml` in the folder `utils` of our repo.
+1. Save the XML file as `chain_contemporary.xml` in the folder `utils` of our repository.
 
 For information on how to design a tool chain you can also watch the following video.
 
@@ -331,7 +331,7 @@ The process is exactly the same as we used before.
     1. Berlin: Tokenizer and Sentence
     1. Berlin: CAB historical text
 1. Download the chain by clicking on `Download chain`
-1. Save the XML file as `chain_historical.xml` in the folder `scripts` of our repo.
+1. Save the XML file as `chain_historical.xml` in the folder `scripts` of our repository.
 
 ### Using WebLicht as a service {.tabset .tabset-fade .tabset-pills}
 
@@ -346,7 +346,7 @@ We need at least two things:
 1. a WebLicht chain
 1. an API key (a kind of "password" to be passed to WaaS)
 
-We already have our WebLicht chains. For the second, go to the [WaaS home page](https://weblicht.sfs.uni-tuebingen.de/WaaS), click on the rigthmost menu item at the top of the page called `API Key`. You will be redirected to the already familiar authentication page, choose your institution (`clarin.eu website account` for us), provide your credentials and a new page will load. If you hit on the button `Generate` a long string will appear where it reads `Your API key`. Copy the key in a safe place and treat it like it was a password.
+We already have our WebLicht chains. For the second, go to the [WaaS home page](https://weblicht.sfs.uni-tuebingen.de/WaaS), click on the rightmost menu item at the top of the page called `API Key`. You will be redirected to the already familiar authentication page, choose your institution (`clarin.eu website account` for us), provide your credentials and a new page will load. If you hit on the button `Generate` a long string will appear where it reads `Your API key`. Copy the key in a safe place and treat it like it was a password.
 
 Time to actually process our XML files with `WaaS`!
 
@@ -356,14 +356,14 @@ We have created a python script to process the recipes with WaaS (`weblichtwrapp
 
 The goal of the script is to process all TEI/XML files in a folder with WebLicht and save the results in VRT files for their encoding as a corpus for the Corpus WorkBench (CWB).
 
-The input is tipically a folder with the TEI/XML files we created in previous sections. But in fact we could use any XML file.
+The input is typically a folder with the TEI/XML files we created in previous sections. But in fact we could use any XML file.
 
 The script does the following:
 
-1. obtention of a list of all files to be transformed
-1. find all nodes containing text to be processed
-1. send to WaaS a request to process the text of a node with the provided chain
-1. convert the WaaS response in TCF format to VRT
+1. gets a list of all files to be transformed
+1. finds all nodes containing text to be processed
+1. sends to WaaS a request to process the text of a node with the provided chain
+1. converts the WaaS response in TCF format to VRT
 1. saves the VRT files in the target directory
 
 To run the script you need to invoke the following commands from the terminal
@@ -562,7 +562,7 @@ You need now to have access to a CQPweb installation as administrator. There are
         - you have maximum control
         - you can share with other people if it is installed in a server
     - CONS:
-        - difficult to install, you need expert knowledge to admin a LAMP stack (Apache, MySQL, PhP), check the [administrator's manual](http://cwb.sourceforge.net/files/CQPwebAdminManual.pdf)
+        - difficult to install, you need expert knowledge to admin a LAMP stack (Apache, MySQL, PHP), check the [administrator's manual](http://cwb.sourceforge.net/files/CQPwebAdminManual.pdf)
 - use [CQPwebInABox](http://cwb.sourceforge.net/cqpweb.php#inabox):
     - PROS:
         - no installation required, just run a Virtual Machine
@@ -579,7 +579,7 @@ You need now to have access to a CQPweb installation as administrator. There are
         - you have to give us the corpus and the metadata in the right format (but... wait! You have just learnt how to do it!)
         - we work together to *clarinify* the resource (not too bad either, see the section on [*clarinifying*](#integration-of-the-resource-in-the-clarin-d-infrastructure) a corpus).
 
-If you don't fullfil all this requirements and/or you don't have experience enough, do not worry. Just jump to the section on [*clarinifying*](#integration-of-the-resource-in-the-clarin-d-infrastructure) and leave the gory details for us.
+If you don't fulfill all this requirements and/or you don't have experience enough, do not worry. Just jump to the section on [*clarinifying*](#integration-of-the-resource-in-the-clarin-d-infrastructure) and leave the gory details for us.
 
 Nevertheless, we document under a separate cover all the steps to get SaCoCo encoded and installed in CQPweb. Check [CQPweb setup tutorial](cqpwebsetup.html).
 
@@ -640,9 +640,9 @@ We know that German can use different means to convey the conative function. Amo
     
 Of course, there are more features that could help us to describe better this phenomenon. Can you think of them? How would you operationalise them? Contributions to extend this tutorial are welcome!!!
 
-The next step is to design how we can retreive this features in a systematic and effective way making use of the linguistic annotation that we have added with WebLicht.
+The next step is to design how we can retrieve this features in a systematic and effective way making use of the linguistic annotation that we have added with WebLicht.
 
-Basically, we will quantify how many instances of these features can be found per text. Firt, we need to find the instances, then, we will count them. And, finally, we will describe the results and check if the historical recipes significantly differ from their contemporary counterparts.
+Basically, we will quantify how many instances of these features can be found per text. First, we need to find the instances, then, we will count them. And, finally, we will describe the results and check if the historical recipes significantly differ from their contemporary counterparts.
 
 ### Personal pronouns
 
@@ -655,7 +655,7 @@ Second person pronouns are a pronominal indicator of the overt intentions of the
 
 ### Indefinite pronouns
 
-Indefinite pronous like *man*, *jemand*, etc. are a pronominal resource that writers can use to avoid addressing directly to the reader, but still use active voice forms.
+Indefinite pronouns like *man*, *jemand*, etc. are a pronominal resource that writers can use to avoid addressing directly to the reader, but still use active voice forms.
 
 - *substituierendes Indefinitpronomen*
 
@@ -675,13 +675,13 @@ The usage of infinitives is a strategy to convey verbal instructions without usi
 
 OK, we know what we are looking for. Let's see how.
 
-The CWB comes with a query language that enables the interrogation of large text collections using linguistic patterns to retrieve relevant information. We will use it to find the different features that we have discused above.
+The CWB comes with a query language that enables the interrogation of large text collections using linguistic patterns to retrieve relevant information. We will use it to find the different features that we have discussed above.
 
 Our next mission is to define the queries that will allow us to find in our corpus the phenomena discussed above.
 
 ### Queries
 
-CQP is a corpus query language which resambles to regular expressions, in the sense that one can define patterns aimed at capturing interesting information. The difference here is that we are not limited to write patterns only relying on word forms. We can combine any linguistic information like lemma and POS to construct more sophisticated patterns.
+CQP is a corpus query language which resembles to regular expressions, in the sense that one can define patterns aimed at capturing interesting information. The difference here is that we are not limited to write patterns only relying on word forms. We can combine any linguistic information like lemma and POS to construct more sophisticated patterns.
 
 We will illustrate here only the queries used for personal pronouns. If you want to check all of them see file `sacoco.cqp`.
 
@@ -696,7 +696,7 @@ This macro is aimed at finding personal pronouns, second person. We will look fo
 ##### Personal pronouns second person
 
 - personal pronouns second person singular
-- personal pronouns second person sigular appended to a verbal form
+- personal pronouns second person singular appended to a verbal form
 - personal pronouns second person plural
 
 This query aims at finding second person singular personal pronouns. We know that second person singular is a token whose lemma is `du`, and its PoS tag is `PPER`, or a token whose surface form can be `du`, `Du`, `tu`, `thu`, etc.
@@ -862,7 +862,7 @@ data = cqpReader('results/pers2.csv', 'pers2', data)
 data[is.na(data)] = 0
 ```
 
-We can know check visually the differences between contemporary and historical recipes grouping the results by period. You probably have seen that samples are not equal in size. For this reason, we also calculated the relative frequecy for each group:
+We can know check visually the differences between contemporary and historical recipes grouping the results by period. You probably have seen that samples are not equal in size. For this reason, we also calculated the relative frequency for each group:
 
 ```{r}
 # load ggplot2 library to plot graphs

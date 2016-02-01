@@ -55,7 +55,7 @@ The `cwb-encode`'s parameters explained:
     - `x` for XML compatibility mode (recognises default entities and
 skips comments as well as an XML declaration)
     - `s` to skip blank lines in the input
-    - `B` to strip whitespace from tokens
+    - `B` to strip white spaces from tokens
 - `-S` to declare a structural attribute, example:
     - `-S text:0+id+authors/`
     - `text`, structural attribute to be declared
@@ -80,7 +80,7 @@ cwb-make -r test/cqp -V SACOCO
 
 Once you have the data you have to upload the file to the server where CQPweb is installed. In our case is the machine `fedora.clarin-d.uni-saarland.de`.
 
-In our case, one needs to connet to the server as `root` user. There are different methods to upload the files:
+In our case, one needs to connect to the server as `root` user. There are different methods to upload the files:
 
 - via the command line with tools like `scp` or `rsync` which use the `ssh` protocol
 - via a FTP client like [Filezilla](https://filezilla-project.org)
@@ -105,7 +105,7 @@ Then, modify the registry file `/data2/cqpweb/registry/sacoco` to indicate the l
 
 1. Type the URL to your CQPweb installation (e.g. <https://fedora.clarin-d.uni-saarland.de/cqpweb/>)
 1. log in with an administrator account, you are redirected to your user account
-1. click on `Go to admin control panel` in the lefthand menu **Account actions**.
+1. click on `Go to admin control panel` in the left-hand menu **Account actions**.
 
 ### Installing the corpus
 
@@ -160,7 +160,7 @@ Check corpus settings:
     1. assign a category in field `The corpus is currently in the following category:` Historical corpora
     1. click on the `Update` button
     1. provide an external URL: <http://hdl.handle.net/11858/00-246C-0000-001F-7C43-1>
-    1. clik on the `Update` button
+    1. click on the `Update` button
 
 We set the access to this corpus open for everybody:
 
@@ -205,7 +205,7 @@ python3 texts2corpus.py -i data/contemporary/meta data/historical/meta -o data/s
 
 1. Type the URL to your CQPweb installation (e.g. <https://fedora.clarin-d.uni-saarland.de/cqpweb/>)
 1. log in with an administrator account, you are redirected to your user account
-1. click on `Go to admin control panel` in the lefthand menu **Account actions**.
+1. click on `Go to admin control panel` in the left-hand menu **Account actions**.
 
 ### Upload files
 
@@ -264,5 +264,5 @@ A new page will load:
 - Manage metadata: probably nothing to do here; has been set during the installation process
 - Manage text categories: here you can add more "speaking" descriptions for your text categories
 - Manage annotation: add descriptions / URLs of documentations for your positional attributes; specify primary/secondary/... annotations for the CQP Simple Query language; specifying annotations here makes them available for restrictions throughout CQPweb (e.g. for the collocation function)
-- Manage priviliges: Scroll to end of page and generate default privileges for the corpus; select than "Manage group grants", scroll to end of page and select a group and grant it privileges of that particular corpus (normally normal privileges are choosen)
+- Manage privileges: Scroll to end of page and generate default privileges for the corpus; select than "Manage group grants", scroll to end of page and select a group and grant it privileges of that particular corpus (normally normal privileges are chosen)
 
