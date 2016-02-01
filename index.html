@@ -129,8 +129,10 @@ img {
 <li><a href="#queries"><span class="toc-section-number">2.3.1</span> Queries</a></li>
 <li><a href="#cqpweb-query-explore-export"><span class="toc-section-number">2.3.2</span> CQPweb: query, explore, export</a></li>
 </ul></li>
-<li><a href="#visualization-and-analysis-of-results"><span class="toc-section-number">2.4</span> Visualization and analysis of results</a></li>
-<li><a href="#corpus-description"><span class="toc-section-number">2.5</span> Corpus description</a></li>
+<li><a href="#visualization-and-analysis-of-results"><span class="toc-section-number">2.4</span> Visualization and analysis of results</a><ul>
+<li><a href="#corpus-description"><span class="toc-section-number">2.4.1</span> Corpus description</a></li>
+<li><a href="#results"><span class="toc-section-number">2.4.2</span> Results</a></li>
+</ul></li>
 </ul></li>
 <li><a href="#bibliography"><span class="toc-section-number">3</span> Bibliography</a></li>
 </ul>
@@ -510,7 +512,7 @@ img {
 <blockquote>
 <p>WebLicht as a Service (WaaS) is a REST service that executes WebLicht chains. This allows you to run WebLicht chains from your UNIX shell, scripts, or programs.</p>
 </blockquote>
-<p>It means that we can write a script to automatize our interaction with WebLicht! (Sigh of relief!)</p>
+<p>It means that we can write a script to automatize our interaction with WebLicht!</p>
 <p>We need at least two things:</p>
 <ol style="list-style-type: decimal">
 <li>a WebLicht chain</li>
@@ -651,7 +653,7 @@ hacken  VVINF   hacken
 <p>We need to run the command also on the historical recipes indicating the corresponding metadata file, the location of the input files, and the path for the output.</p>
 <div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">python3</span> addmetadata.py -i data/historical/vrt -m data/metadata/historical-metadata.csv -o data/historical/meta</code></pre></div>
 <blockquote>
-<p>TIP: for development/testing purposes, if you just run <code>python3 addmetadata.py -t historical</code>, it will work on the testing dataset stored in the test folder. ```</p>
+<p>TIP: for development/testing purposes, if you just run <code>python3 addmetadata.py -t historical</code>, it will work on the testing dataset stored in the test folder.</p>
 </blockquote>
 </div>
 </div>
@@ -938,10 +940,11 @@ hacken  VVINF   hacken
 <blockquote>
 <p>Has the realisation of the conative function evolved along the time in the cooking recipe register?</p>
 </blockquote>
-<p>We think that this register has evolved. Our hypothesis is:</p>
+<p>Our hypothesis is:</p>
 <blockquote>
 <p>Contemporary cooking recipes show lower linguistic means to address directly to the reader than historical ones.</p>
 </blockquote>
+<p>Wurm already discovered that historical texts showed differences in the way the author addressed the reader.</p>
 </div>
 <div id="operationalisation" class="section level2">
 <h2><span class="header-section-number">2.2</span> Operationalisation</h2>
@@ -961,58 +964,572 @@ hacken  VVINF   hacken
 <li>infinitives (indirect)</li>
 </ul></li>
 </ul>
-<p>The next step is to design how we can retreive this features in a systematic and effective way making use of the linguistic annotaton we have added with WebLicht.</p>
-<p>Basically, we will quantify how many instances of these features can be found per text. Firt, we need to find the instances, then, we will count them. And, finally, we will describe the results and check if historical recipes significantly differ from their contemporary counterparts.</p>
+<p>Of course, there are more features that could help us to describe better this phenomenon. Can you think of them? How would you operationalise them? Contributions to extend this tutorial are welcome!!!</p>
+<p>The next step is to design how we can retreive this features in a systematic and effective way making use of the linguistic annotation that we have added with WebLicht.</p>
+<p>Basically, we will quantify how many instances of these features can be found per text. Firt, we need to find the instances, then, we will count them. And, finally, we will describe the results and check if the historical recipes significantly differ from their contemporary counterparts.</p>
 <div id="personal-pronouns" class="section level3">
 <h3><span class="header-section-number">2.2.1</span> Personal pronouns</h3>
-<p>second person pronouns</p>
+<p>Second person pronouns are a pronominal indicator of the overt intentions of the writer to engage directly with the reader.</p>
 <ul>
-<li>irreflexives Personalpronomen</li>
-<li>substituirendes Possessivpronomen</li>
-<li>attribuirendes Possessivpronomen</li>
-<li>reflexives Personalpronomen</li>
+<li><em>irreflexives Personalpronomen</em></li>
+<li><em>substituirendes Possessivpronomen</em></li>
+<li><em>attribuirendes Possessivpronomen</em></li>
+<li><em>reflexives Personalpronomen</em></li>
 </ul>
 </div>
 <div id="indefinite-pronouns" class="section level3">
 <h3><span class="header-section-number">2.2.2</span> Indefinite pronouns</h3>
+<p>Indefinite pronous like <em>man</em>, <em>jemand</em>, etc. are a pronominal resource that writers can use to avoid addressing directly to the reader, but still use active voice forms.</p>
 <ul>
-<li>substituierendes Indefinitpronomen</li>
+<li><em>substituierendes Indefinitpronomen</em></li>
 </ul>
 </div>
 <div id="imperatives" class="section level3">
 <h3><span class="header-section-number">2.2.3</span> Imperatives</h3>
+<p>The imperative is a verbal device that addresses directly to the reader, it is an order.</p>
 <ul>
-<li>imperatives</li>
+<li><em>Imperativ</em></li>
 </ul>
 </div>
 <div id="infinitives" class="section level3">
 <h3><span class="header-section-number">2.2.4</span> Infinitives</h3>
+<p>The usage of infinitives is a strategy to convey verbal instructions without using the imperative in a more impersonal fashion.</p>
 <ul>
-<li>infinitives: VVINF (full verb infinitives), VAINF (auxiliary verb infinitives), VMINF (modal verb infinitives)</li>
+<li><em>Infinitiv</em></li>
 </ul>
 </div>
 </div>
 <div id="feature-extraction" class="section level2">
 <h2><span class="header-section-number">2.3</span> Feature extraction</h2>
+<p>OK, we know what we are looking for. Let’s see how.</p>
+<p>The CWB comes with a query language that enables the interrogation of large text collections using linguistic patterns to retrieve relevant information. We will use it to find the different features that we have discused above.</p>
+<p>Our next mission is to define the queries that will allow us to find in our corpus the phenomena discussed above.</p>
 <div id="queries" class="section level3">
 <h3><span class="header-section-number">2.3.1</span> Queries</h3>
-<!-- queries -->
-<!-- macros -->
+<p>CQP is a corpus query language which resambles to regular expressions, in the sense that one can define patterns aimed at capturing interesting information. The difference here is that we are not limited to write patterns only relying on word forms. We can combine any linguistic information like lemma and POS to construct more sophisticated patterns.</p>
+<p>We will illustrate here only the queries used for personal pronouns. If you want to check all of them see file <code>sacoco.cqp</code>.</p>
+<div id="personal-pronouns-1" class="section level4">
+<h4><span class="header-section-number">2.3.1.1</span> Personal pronouns</h4>
+<p>This macro is aimed at finding personal pronouns, second person. We will look for:</p>
+<ul>
+<li>personal pronouns, second person</li>
+<li>possessive pronouns, second person</li>
+<li>reflexive pronouns</li>
+</ul>
+<div id="personal-pronouns-second-person" class="section level5">
+<h5><span class="header-section-number">2.3.1.1.1</span> Personal pronouns second person</h5>
+<ul>
+<li>personal pronouns second person singular</li>
+<li>personal pronouns second person sigular appended to a verbal form</li>
+<li>personal pronouns second person plural</li>
+</ul>
+<p>This query aims at finding second person singular personal pronouns. We know that second person singular is a token whose lemma is <code>du</code>, and its PoS tag is <code>PPER</code>, or a token whose surface form can be <code>du</code>, <code>Du</code>, <code>tu</code>, <code>thu</code>, etc.</p>
+<div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">(</span>[<span class="ot">lemma=</span><span class="st">&quot;du&quot;</span> <span class="kw">&amp;</span> <span class="ot">pos=</span><span class="st">&quot;PPER&quot;</span>] <span class="kw">|</span> [<span class="ot">word=</span><span class="st">&quot;[d|t]h?u&quot;</span> <span class="kw">%c</span>]<span class="kw">)</span></code></pre></div>
+<p>You can check the results at <a href="https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/concordance.php?qname=f0jfreteeu&amp;uT=y" class="uri">https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/concordance.php?qname=f0jfreteeu&amp;uT=y</a></p>
+<p>This one looks for tokens ending in du/tu/thu…</p>
+<div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash">[<span class="ot">word=</span><span class="st">&quot;.+[t|d]h?u&quot;</span> <span class="kw">%c</span>]</code></pre></div>
+<p>It returns 35 matches in 24 different texts <a href="https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/concordance.php?qname=f0jfsqg6x5&amp;uT=y" class="uri">https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/concordance.php?qname=f0jfsqg6x5&amp;uT=y</a></p>
+<p>And, finally, this one just looks for tokens whose lemma is <code>ihr</code> and their PoS is <code>PPER</code>.</p>
+<div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash">[<span class="ot">lemma=</span><span class="st">&quot;ihr&quot;</span> <span class="kw">&amp;</span> <span class="ot">pos=</span><span class="st">&quot;PPER&quot;</span>]</code></pre></div>
+<p>This turns to be a quite rare phenomenon, just 3 hits in the whole corpus <a href="https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/concordance.php?qname=f0jglv8w52&amp;uT=y" class="uri">https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/concordance.php?qname=f0jglv8w52&amp;uT=y</a>.</p>
+<p>We have followed the same procedure with the rest of submacros and features.</p>
+</div>
+</div>
 </div>
 <div id="cqpweb-query-explore-export" class="section level3">
 <h3><span class="header-section-number">2.3.2</span> CQPweb: query, explore, export</h3>
 <p>Now, let’s get on with it!</p>
-<p>First, you will need access to our CQPweb installation</p>
+<p>First, you will need access to our CQPweb installation.</p>
+<p>Choose the corpus</p>
+<p>Run a query</p>
+<p>Number of hits in number of texts</p>
+<p>Get more context</p>
+<p>Get info about the text</p>
+<p>Get the distributions</p>
+<p>Save the results with tabulate</p>
 <!-- step-by-step sequence -->
 </div>
 </div>
 <div id="visualization-and-analysis-of-results" class="section level2">
 <h2><span class="header-section-number">2.4</span> Visualization and analysis of results</h2>
-<!-- putting all together with R -->
-</div>
-<div id="corpus-description" class="section level2">
-<h2><span class="header-section-number">2.5</span> Corpus description</h2>
+<p>So, in the last section we have seen how to use CQPweb to test our queries, imrpoved them, and also save the results.</p>
+<p>For reproducibility purposes, and to speed up the process, you can also interact with CQP from the command line.</p>
+<p>If you managed to encode the corpus, you can extract all four features (2n person personal pronouns, indefinite pronouns, imperatives, infinitives) with a <code>sacoco.cqp</code>.</p>
+<div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="co"># create a directory to save the results</span>
+<span class="kw">mkdir</span> -p results/
+<span class="co"># run the cqp script to get all the extractions</span>
+<span class="kw">cqp</span> -c <span class="kw">&lt;</span> sacoco.cqp</code></pre></div>
+<p>In CQPweb we can see the result of a query at a time. But what if we want to get different representations?</p>
+<p>Well, then you can use R for that. Let’s describe very briefly our corpus and the results.</p>
+<div id="corpus-description" class="section level3">
+<h3><span class="header-section-number">2.4.1</span> Corpus description</h3>
+<p>We will read the <code>results/meta.csv</code> which is a table where each row is a text, and the columns are from left to right: text ID, collection, period, decade, year, source.</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># import library to format output</span>
+<span class="kw">library</span>(knitr)
+<span class="co"># read metadata</span>
+data =<span class="st"> </span><span class="kw">read.csv</span>(<span class="st">&#39;results/meta.csv&#39;</span>, <span class="dt">sep =</span> <span class="st">&#39;</span><span class="ch">\t</span><span class="st">&#39;</span>,  <span class="dt">encoding =</span> <span class="st">&#39;utf-8&#39;</span>, <span class="dt">header =</span> F, <span class="dt">strip.white =</span> T)
+<span class="co"># rename columns</span>
+<span class="kw">names</span>(data) =<span class="st"> </span><span class="kw">c</span>(<span class="st">&#39;text_id&#39;</span>,<span class="st">&#39;collection&#39;</span>,<span class="st">&#39;period&#39;</span>,<span class="st">&#39;decade&#39;</span>,<span class="st">&#39;year&#39;</span>,<span class="st">&#39;source&#39;</span>)
+<span class="co"># print the first 5 rows to check</span>
+<span class="kw">kable</span>(<span class="kw">head</span>(data,<span class="dv">5</span>))</code></pre></div>
+<table>
+<thead>
+<tr class="header">
+<th align="left">text_id</th>
+<th align="left">collection</th>
+<th align="right">period</th>
+<th align="right">decade</th>
+<th align="right">year</th>
+<th align="left">source</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">wiki_111588</td>
+<td align="left">contemporary</td>
+<td align="right">2000</td>
+<td align="right">2000</td>
+<td align="right">2009</td>
+<td align="left">wiki</td>
+</tr>
+<tr class="even">
+<td align="left">wiki_128114</td>
+<td align="left">contemporary</td>
+<td align="right">2000</td>
+<td align="right">2000</td>
+<td align="right">2009</td>
+<td align="left">wiki</td>
+</tr>
+<tr class="odd">
+<td align="left">wiki_128124</td>
+<td align="left">contemporary</td>
+<td align="right">2000</td>
+<td align="right">2000</td>
+<td align="right">2009</td>
+<td align="left">wiki</td>
+</tr>
+<tr class="even">
+<td align="left">wiki_132233</td>
+<td align="left">contemporary</td>
+<td align="right">2000</td>
+<td align="right">2000</td>
+<td align="right">2009</td>
+<td align="left">wiki</td>
+</tr>
+<tr class="odd">
+<td align="left">wiki_137144</td>
+<td align="left">contemporary</td>
+<td align="right">2000</td>
+<td align="right">2000</td>
+<td align="right">2009</td>
+<td align="left">wiki</td>
+</tr>
+</tbody>
+</table>
+<p>Then we read the table for the number of tokens:</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># import library to manipulate tables</span>
+<span class="kw">library</span>(dplyr)
+<span class="co"># we write a function to read CQP output</span>
+cqpReader =<span class="st"> </span>function(filename, feature, data){
+  <span class="co"># read file</span>
+  df =<span class="st"> </span><span class="kw">read.csv</span>(filename, <span class="dt">sep =</span> <span class="st">&#39;</span><span class="ch">\t</span><span class="st">&#39;</span>, <span class="dt">encoding =</span> <span class="st">&#39;utf-8&#39;</span>, <span class="dt">header =</span> F, <span class="dt">strip.white =</span> T)
+  <span class="co"># count the number of hits per text</span>
+  df =<span class="st"> </span><span class="kw">group_by</span>(df, V1) %&gt;%<span class="st"> </span><span class="kw">summarise</span>(<span class="dt">feature =</span> <span class="kw">n</span>())
+  <span class="co"># rename first column</span>
+  <span class="kw">names</span>(df) =<span class="st"> </span><span class="kw">c</span>(<span class="st">&#39;text_id&#39;</span>,feature)
+  <span class="co"># merge with the original table</span>
+  data =<span class="st"> </span><span class="kw">merge</span>(data,df,<span class="st">&#39;text_id&#39;</span>,<span class="dt">sort=</span>T, <span class="dt">all=</span>T)
+}
+
+<span class="co"># read tokens</span>
+data =<span class="st"> </span><span class="kw">cqpReader</span>(<span class="st">&#39;results/tokens.csv&#39;</span>, <span class="st">&#39;tokens&#39;</span>, data)
+data[<span class="kw">is.na</span>(data)] =<span class="st"> </span><span class="dv">0</span>
+<span class="kw">kable</span>(<span class="kw">head</span>(data,<span class="dv">5</span>))</code></pre></div>
+<table>
+<thead>
+<tr class="header">
+<th align="left">text_id</th>
+<th align="left">collection</th>
+<th align="right">period</th>
+<th align="right">decade</th>
+<th align="right">year</th>
+<th align="left">source</th>
+<th align="right">tokens</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">buchinger_1</td>
+<td align="left">historical</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="left">Buchinger</td>
+<td align="right">33</td>
+</tr>
+<tr class="even">
+<td align="left">buchinger_10</td>
+<td align="left">historical</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="left">Buchinger</td>
+<td align="right">65</td>
+</tr>
+<tr class="odd">
+<td align="left">buchinger_11</td>
+<td align="left">historical</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="left">Buchinger</td>
+<td align="right">34</td>
+</tr>
+<tr class="even">
+<td align="left">buchinger_12</td>
+<td align="left">historical</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="left">Buchinger</td>
+<td align="right">37</td>
+</tr>
+<tr class="odd">
+<td align="left">buchinger_13</td>
+<td align="left">historical</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="left">Buchinger</td>
+<td align="right">43</td>
+</tr>
+</tbody>
+</table>
 <!-- We can show this with CQPweb -->
+</div>
+<div id="results" class="section level3">
+<h3><span class="header-section-number">2.4.2</span> Results</h3>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># read personal pronouns</span>
+data =<span class="st"> </span><span class="kw">cqpReader</span>(<span class="st">&#39;results/pers2.csv&#39;</span>, <span class="st">&#39;pers2&#39;</span>, data)
+data[<span class="kw">is.na</span>(data)] =<span class="st"> </span><span class="dv">0</span>
+<span class="co"># print</span>
+<span class="kw">kable</span>(<span class="kw">head</span>(data,<span class="dv">5</span>))</code></pre></div>
+<table>
+<thead>
+<tr class="header">
+<th align="left">text_id</th>
+<th align="left">collection</th>
+<th align="right">period</th>
+<th align="right">decade</th>
+<th align="right">year</th>
+<th align="left">source</th>
+<th align="right">tokens</th>
+<th align="right">pers2</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">buchinger_1</td>
+<td align="left">historical</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="left">Buchinger</td>
+<td align="right">33</td>
+<td align="right">0</td>
+</tr>
+<tr class="even">
+<td align="left">buchinger_10</td>
+<td align="left">historical</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="left">Buchinger</td>
+<td align="right">65</td>
+<td align="right">0</td>
+</tr>
+<tr class="odd">
+<td align="left">buchinger_11</td>
+<td align="left">historical</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="left">Buchinger</td>
+<td align="right">34</td>
+<td align="right">0</td>
+</tr>
+<tr class="even">
+<td align="left">buchinger_12</td>
+<td align="left">historical</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="left">Buchinger</td>
+<td align="right">37</td>
+<td align="right">0</td>
+</tr>
+<tr class="odd">
+<td align="left">buchinger_13</td>
+<td align="left">historical</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="left">Buchinger</td>
+<td align="right">43</td>
+<td align="right">0</td>
+</tr>
+</tbody>
+</table>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># read indefinite pronouns</span>
+data =<span class="st"> </span><span class="kw">cqpReader</span>(<span class="st">&#39;results/pisp.csv&#39;</span>, <span class="st">&#39;pisp&#39;</span>, data)
+data[<span class="kw">is.na</span>(data)] =<span class="st"> </span><span class="dv">0</span>
+<span class="co"># print</span>
+<span class="kw">kable</span>(<span class="kw">head</span>(data,<span class="dv">5</span>))</code></pre></div>
+<table>
+<thead>
+<tr class="header">
+<th align="left">text_id</th>
+<th align="left">collection</th>
+<th align="right">period</th>
+<th align="right">decade</th>
+<th align="right">year</th>
+<th align="left">source</th>
+<th align="right">tokens</th>
+<th align="right">pers2</th>
+<th align="right">pisp</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">buchinger_1</td>
+<td align="left">historical</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="left">Buchinger</td>
+<td align="right">33</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr class="even">
+<td align="left">buchinger_10</td>
+<td align="left">historical</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="left">Buchinger</td>
+<td align="right">65</td>
+<td align="right">0</td>
+<td align="right">3</td>
+</tr>
+<tr class="odd">
+<td align="left">buchinger_11</td>
+<td align="left">historical</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="left">Buchinger</td>
+<td align="right">34</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr class="even">
+<td align="left">buchinger_12</td>
+<td align="left">historical</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="left">Buchinger</td>
+<td align="right">37</td>
+<td align="right">0</td>
+<td align="right">2</td>
+</tr>
+<tr class="odd">
+<td align="left">buchinger_13</td>
+<td align="left">historical</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="left">Buchinger</td>
+<td align="right">43</td>
+<td align="right">0</td>
+<td align="right">2</td>
+</tr>
+</tbody>
+</table>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># read imperatives</span>
+data =<span class="st"> </span><span class="kw">cqpReader</span>(<span class="st">&#39;results/vfimp.csv&#39;</span>, <span class="st">&#39;vfimp&#39;</span>, data)
+data[<span class="kw">is.na</span>(data)] =<span class="st"> </span><span class="dv">0</span>
+<span class="co"># print</span>
+<span class="kw">kable</span>(<span class="kw">head</span>(data,<span class="dv">5</span>))</code></pre></div>
+<table>
+<thead>
+<tr class="header">
+<th align="left">text_id</th>
+<th align="left">collection</th>
+<th align="right">period</th>
+<th align="right">decade</th>
+<th align="right">year</th>
+<th align="left">source</th>
+<th align="right">tokens</th>
+<th align="right">pers2</th>
+<th align="right">pisp</th>
+<th align="right">vfimp</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">buchinger_1</td>
+<td align="left">historical</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="left">Buchinger</td>
+<td align="right">33</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr class="even">
+<td align="left">buchinger_10</td>
+<td align="left">historical</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="left">Buchinger</td>
+<td align="right">65</td>
+<td align="right">0</td>
+<td align="right">3</td>
+<td align="right">0</td>
+</tr>
+<tr class="odd">
+<td align="left">buchinger_11</td>
+<td align="left">historical</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="left">Buchinger</td>
+<td align="right">34</td>
+<td align="right">0</td>
+<td align="right">1</td>
+<td align="right">0</td>
+</tr>
+<tr class="even">
+<td align="left">buchinger_12</td>
+<td align="left">historical</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="left">Buchinger</td>
+<td align="right">37</td>
+<td align="right">0</td>
+<td align="right">2</td>
+<td align="right">0</td>
+</tr>
+<tr class="odd">
+<td align="left">buchinger_13</td>
+<td align="left">historical</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="left">Buchinger</td>
+<td align="right">43</td>
+<td align="right">0</td>
+<td align="right">2</td>
+<td align="right">0</td>
+</tr>
+</tbody>
+</table>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># read infinitives</span>
+data =<span class="st"> </span><span class="kw">cqpReader</span>(<span class="st">&#39;results/vfinf.csv&#39;</span>, <span class="st">&#39;vfinf&#39;</span>, data)
+data[<span class="kw">is.na</span>(data)] =<span class="st"> </span><span class="dv">0</span>
+<span class="co"># print</span>
+<span class="kw">kable</span>(<span class="kw">head</span>(data,<span class="dv">5</span>))</code></pre></div>
+<table>
+<thead>
+<tr class="header">
+<th align="left">text_id</th>
+<th align="left">collection</th>
+<th align="right">period</th>
+<th align="right">decade</th>
+<th align="right">year</th>
+<th align="left">source</th>
+<th align="right">tokens</th>
+<th align="right">pers2</th>
+<th align="right">pisp</th>
+<th align="right">vfimp</th>
+<th align="right">vfinf</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">buchinger_1</td>
+<td align="left">historical</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="left">Buchinger</td>
+<td align="right">33</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr class="even">
+<td align="left">buchinger_10</td>
+<td align="left">historical</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="left">Buchinger</td>
+<td align="right">65</td>
+<td align="right">0</td>
+<td align="right">3</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr class="odd">
+<td align="left">buchinger_11</td>
+<td align="left">historical</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="left">Buchinger</td>
+<td align="right">34</td>
+<td align="right">0</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr class="even">
+<td align="left">buchinger_12</td>
+<td align="left">historical</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="left">Buchinger</td>
+<td align="right">37</td>
+<td align="right">0</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr class="odd">
+<td align="left">buchinger_13</td>
+<td align="left">historical</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="right">1700</td>
+<td align="left">Buchinger</td>
+<td align="right">43</td>
+<td align="right">0</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+</tbody>
+</table>
+</div>
 </div>
 </div>
 <div id="bibliography" class="section level1">
