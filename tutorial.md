@@ -763,7 +763,6 @@ Our diachronic corpus of cooking recipes in German is now ready to be used. We w
 1. We will design the operationalisation of this research question.
 1. We will actually extract the features with CQPweb.
 1. We will visualize and analyse the data with CQPweb/R.
-1. We will describe very briefly our corpus with CQPweb/R.
 
 If you want to reproduce every step that we will show you below, you will need to get a user for our [CQPweb installation](https://fedora.clarin-d.uni-saarland.de/cqpweb).
 
@@ -880,7 +879,9 @@ This turns to be a quite rare phenomenon, just 3 hits in the whole corpus <https
 
 We have followed the same procedure with the rest of submacros and features.
 
-### CQPweb: query, explore, export
+## Exploration and visualization {.tabset .tabset-fade .tabset-pills}
+
+### CQPweb
 
 Now, let's get on with it!
 
@@ -902,9 +903,9 @@ Save the results with tabulate
 
 <!-- step-by-step sequence -->
 
-## Visualization and analysis of results
+### R 
 
-So, in the last section we have seen how to use CQPweb to test our queries, imrpoved them, and also save the results.
+So, in the last section we have seen how to use CQPweb to test our queries, improved them, and also save the results.
 
 For reproducibility purposes, and to speed up the process, you can also interact with CQP from the command line.
 
@@ -921,7 +922,7 @@ In CQPweb we can see the result of a query at a time. But what if we want to get
 
 Well, then you can use R for that. Let's describe very briefly our corpus and the results.
 
-### Corpus description
+#### Corpus description
 
 We will read the `results/meta.csv` which is a table where each row is a text, and the columns are from left to right: text ID, collection, period, decade, year, source.
 
@@ -933,19 +934,34 @@ library(knitr)
 data = read.csv('results/meta.csv', sep = '\t',  encoding = 'utf-8', header = F, strip.white = T)
 # rename columns
 names(data) = c('text_id','collection','period','decade','year','source')
-# print the first 5 rows to check
-kable(head(data,5))
+# as factors
+data$collection = as.factor(data$collection)
+data$period = as.factor(data$period)
+data$decade = as.factor(data$decade)
+data$year = as.factor(data$year)
+data$source = as.factor(data$source)
+# print summary
+summary(data)
 ```
 
-
-
-text_id       collection      period   decade   year  source 
-------------  -------------  -------  -------  -----  -------
-wiki_111588   contemporary      2000     2000   2009  wiki   
-wiki_128114   contemporary      2000     2000   2009  wiki   
-wiki_128124   contemporary      2000     2000   2009  wiki   
-wiki_132233   contemporary      2000     2000   2009  wiki   
-wiki_137144   contemporary      2000     2000   2009  wiki   
+```
+##          text_id            collection    period         decade    
+##  buchinger_1 :   1   contemporary:2033   1550:  63   2010   :2028  
+##  buchinger_10:   1   historical  : 434   1600:  90   1680   :  64  
+##  buchinger_11:   1                       1650: 154   1670   :  60  
+##  buchinger_12:   1                       1700: 120   1700   :  60  
+##  buchinger_13:   1                       1750:   3   1570   :  33  
+##  buchinger_14:   1                       1800:   4   1560   :  30  
+##  (Other)     :2461                       2000:2033   (Other): 192  
+##       year                        source    
+##  2013   :859   wiki                  :2033  
+##  2014   :776   KochvndKellermeisterey:  33  
+##  2011   :183   Thieme                :  31  
+##  2012   :168   Buchinger             :  30  
+##  2010   : 42   Colerus               :  30  
+##  1574   : 33   Danckwerth            :  30  
+##  (Other):406   (Other)               : 280
+```
 
 Then we read the table for the number of tokens:
 
@@ -968,98 +984,156 @@ cqpReader = function(filename, feature, data){
 # read tokens
 data = cqpReader('results/tokens.csv', 'tokens', data)
 data[is.na(data)] = 0
-kable(head(data,5))
+```
+
+Then, we get an overview of the size of our corpus by collection:
+
+
+```r
+texts_and_tokens_x_collection = group_by(data, collection) %>% summarise(texts = n(), tokens = sum(tokens))
+kable(texts_and_tokens_x_collection, align = 'l')
 ```
 
 
 
-text_id        collection    period   decade   year  source       tokens
--------------  -----------  -------  -------  -----  ----------  -------
-buchinger_1    historical      1700     1700   1700  Buchinger        33
-buchinger_10   historical      1700     1700   1700  Buchinger        65
-buchinger_11   historical      1700     1700   1700  Buchinger        34
-buchinger_12   historical      1700     1700   1700  Buchinger        37
-buchinger_13   historical      1700     1700   1700  Buchinger        43
+collection     texts   tokens 
+-------------  ------  -------
+contemporary   2033    388956 
+historical     434     42705  
 
+By period:
+
+
+```r
+texts_and_tokens_x_period = group_by(data, period) %>% summarise(texts = n(), tokens = sum(tokens))
+kable(texts_and_tokens_x_period, align = 'l')
+```
+
+
+
+period   texts   tokens 
+-------  ------  -------
+1550     63      6016   
+1600     90      8806   
+1650     154     14708  
+1700     120     12154  
+1750     3       655    
+1800     4       366    
+2000     2033    388956 
+
+By decade:
+
+
+```r
+texts_and_tokens_x_decade = group_by(data, decade) %>% summarise(texts = n(), tokens = sum(tokens))
+kable(texts_and_tokens_x_decade, align = 'l')
+```
+
+
+
+decade   texts   tokens 
+-------  ------  -------
+1560     30      3223   
+1570     33      2793   
+1600     30      3703   
+1610     30      3689   
+1640     30      1414   
+1670     60      6579   
+1680     64      4647   
+1690     30      3482   
+1700     60      2925   
+1710     30      6511   
+1720     30      2718   
+1780     3       655    
+1800     4       366    
+2000     5       633    
+2010     2028    388323 
 
 <!-- We can show this with CQPweb -->
 
-### Results
+#### Results
+
+We read the file for the personal pronouns:
 
 
 ```r
 # read personal pronouns
 data = cqpReader('results/pers2.csv', 'pers2', data)
+# set NA cells to 0
 data[is.na(data)] = 0
-# print
-kable(head(data,5))
 ```
 
+We can know check visually the differences between contemporary and historical recipes grouping the results by period. You probably have seen that samples are not equal in size. For this reason, we also calculated the relative frequecy for each group:
 
 
-text_id        collection    period   decade   year  source       tokens   pers2
--------------  -----------  -------  -------  -----  ----------  -------  ------
-buchinger_1    historical      1700     1700   1700  Buchinger        33       0
-buchinger_10   historical      1700     1700   1700  Buchinger        65       0
-buchinger_11   historical      1700     1700   1700  Buchinger        34       0
-buchinger_12   historical      1700     1700   1700  Buchinger        37       0
-buchinger_13   historical      1700     1700   1700  Buchinger        43       0
+```r
+# load ggplot2 library to plot graphs
+library(ggplot2)
+# calculate the relative frequency for pers2
+data.rel = group_by(data, period) %>% transform(pers2.rel = (pers2/tokens)*1000 )
+# plot lines binding means
+ggplot(data=data.rel, aes(x=period, y=pers2.rel, group=period)) +
+  stat_summary(fun.y=mean, geom="line", linetype = "dotted", aes(group = 1)) +
+  stat_summary(fun.y=mean, geom="point", size = 3, aes(shape = collection, colour = collection)) +
+  theme_bw() +
+  theme(legend.position="bottom")
+```
+
+![](tutorial_files/figure-html/unnamed-chunk-7-1.png)
+
+We repeat the same procedure for indefinite pronouns:
 
 
 ```r
 # read indefinite pronouns
 data = cqpReader('results/pisp.csv', 'pisp', data)
 data[is.na(data)] = 0
-# print
-kable(head(data,5))
+data.rel = group_by(data, period) %>% transform(pisp.rel = (pisp/tokens)*1000 )
+ggplot(data=data.rel, aes(x=period, y=pisp.rel, group=period)) +
+  stat_summary(fun.y=mean, geom="line", linetype = "dotted", aes(group = 1)) +
+  stat_summary(fun.y=mean, geom="point", size = 3, aes(shape = collection, colour = collection)) +
+  theme_bw() +
+  theme(legend.position="bottom")
 ```
 
+![](tutorial_files/figure-html/unnamed-chunk-8-1.png)
 
-
-text_id        collection    period   decade   year  source       tokens   pers2   pisp
--------------  -----------  -------  -------  -----  ----------  -------  ------  -----
-buchinger_1    historical      1700     1700   1700  Buchinger        33       0      0
-buchinger_10   historical      1700     1700   1700  Buchinger        65       0      3
-buchinger_11   historical      1700     1700   1700  Buchinger        34       0      1
-buchinger_12   historical      1700     1700   1700  Buchinger        37       0      2
-buchinger_13   historical      1700     1700   1700  Buchinger        43       0      2
+Imperatives:
 
 
 ```r
 # read imperatives
 data = cqpReader('results/vfimp.csv', 'vfimp', data)
 data[is.na(data)] = 0
-# print
-kable(head(data,5))
+data.rel = group_by(data, period) %>% transform(vfimp.rel = (vfimp/tokens)*1000 )
+ggplot(data=data.rel, aes(x=period, y=vfimp.rel, group=period)) +
+  stat_summary(fun.y=mean, geom="line", linetype = "dotted", aes(group = 1)) +
+  stat_summary(fun.y=mean, geom="point", size = 3, aes(shape = collection, colour = collection)) +
+  theme_bw() +
+  theme(legend.position="bottom")
 ```
 
+![](tutorial_files/figure-html/unnamed-chunk-9-1.png)
 
-
-text_id        collection    period   decade   year  source       tokens   pers2   pisp   vfimp
--------------  -----------  -------  -------  -----  ----------  -------  ------  -----  ------
-buchinger_1    historical      1700     1700   1700  Buchinger        33       0      0       0
-buchinger_10   historical      1700     1700   1700  Buchinger        65       0      3       0
-buchinger_11   historical      1700     1700   1700  Buchinger        34       0      1       0
-buchinger_12   historical      1700     1700   1700  Buchinger        37       0      2       0
-buchinger_13   historical      1700     1700   1700  Buchinger        43       0      2       0
+And infinitives:
 
 
 ```r
 # read infinitives
 data = cqpReader('results/vfinf.csv', 'vfinf', data)
 data[is.na(data)] = 0
-# print
-kable(head(data,5))
+data.rel = group_by(data, period) %>% transform(vfinf.rel = (vfinf/tokens)*1000 )
+ggplot(data=data.rel, aes(x=period, y=vfinf.rel, group=period)) +
+  stat_summary(fun.y=mean, geom="line", linetype = "dotted", aes(group = 1)) +
+  stat_summary(fun.y=mean, geom="point", size = 3, aes(shape = collection, colour = collection)) +
+  theme_bw() +
+  theme(legend.position="bottom")
 ```
 
+![](tutorial_files/figure-html/unnamed-chunk-10-1.png)
+
+Let's put all this together to be able to compare better the evolution of this phenomena:
 
 
-text_id        collection    period   decade   year  source       tokens   pers2   pisp   vfimp   vfinf
--------------  -----------  -------  -------  -----  ----------  -------  ------  -----  ------  ------
-buchinger_1    historical      1700     1700   1700  Buchinger        33       0      0       0       1
-buchinger_10   historical      1700     1700   1700  Buchinger        65       0      3       0       1
-buchinger_11   historical      1700     1700   1700  Buchinger        34       0      1       0       0
-buchinger_12   historical      1700     1700   1700  Buchinger        37       0      2       0       0
-buchinger_13   historical      1700     1700   1700  Buchinger        43       0      2       0       1
 
 <!-- # Bibliography -->

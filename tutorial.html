@@ -7,6 +7,7 @@
 <meta charset="utf-8">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <meta name="author" content="Universität des Saarlandes" />
 
@@ -14,12 +15,15 @@
 
 <title>Saarbrücken Cookbook Corpus: a recipe for a diachronic study à la CLARIN-D</title>
 
-<script src="tutorial_files/jquery-1.11.0/jquery.min.js"></script>
+<script src="tutorial_files/jquery-1.11.3/jquery.min.js"></script>
+<script src="tutorial_files/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="tutorial_files/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="tutorial_files/tocify-1.9.1/jquery.tocify.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="tutorial_files/bootstrap-3.3.1/css/cerulean.min.css" rel="stylesheet" />
-<script src="tutorial_files/bootstrap-3.3.1/js/bootstrap.min.js"></script>
-<script src="tutorial_files/bootstrap-3.3.1/shim/html5shiv.min.js"></script>
-<script src="tutorial_files/bootstrap-3.3.1/shim/respond.min.js"></script>
+<link href="tutorial_files/bootstrap-3.3.5/css/cerulean.min.css" rel="stylesheet" />
+<script src="tutorial_files/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="tutorial_files/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="tutorial_files/bootstrap-3.3.5/shim/respond.min.js"></script>
 
 
 <style type="text/css">code{white-space: pre;}</style>
@@ -66,7 +70,6 @@ code > span.in { color: #808080; font-weight: bold; font-style: italic; } /* Inf
 </style>
 
 
-
 </head>
 
 <body>
@@ -81,36 +84,151 @@ code {
   color: inherit;
   background-color: rgba(0, 0, 0, 0.04);
 }
-img { 
-  max-width:100%; 
-  height: auto; 
+img {
+  max-width:100%;
+  height: auto;
+}
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
 }
 </style>
 <div class="container-fluid main-container">
 
+<!-- tabsets -->
+<script src="tutorial_files/navigation/tabsets.js"></script>
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
 
-<div id="header">
+<!-- code folding -->
+
+
+
+
+<script>
+$(document).ready(function ()  {
+    // establish options
+    var options = {
+      selectors: "h1,h2",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: "h1.title, .toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.9em;
+  padding-left: 5px;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="fluid-row" id="header">
+
+
 <h1 class="title">Saarbrücken Cookbook Corpus: a recipe for a diachronic study <em>à la CLARIN-D</em></h1>
 <h4 class="author"><em>Universität des Saarlandes</em></h4>
 <h4 class="date"><em>29 January 2016</em></h4>
+
 </div>
 
-<div id="TOC">
-<ul>
-<li><a href="#corpus-compilation"><span class="toc-section-number">1</span> Corpus compilation</a><ul>
-<li><a href="#data-acquisition-and-preprocessing"><span class="toc-section-number">1.1</span> Data acquisition and preprocessing</a></li>
-<li><a href="#data-processing-with-weblicht"><span class="toc-section-number">1.2</span> Data processing with WebLicht</a></li>
-<li><a href="#corpus-encoding-for-cqpweb"><span class="toc-section-number">1.3</span> Corpus encoding for CQPweb</a></li>
-<li><a href="#integration-of-the-resource-in-the-clarin-d-infrastructure"><span class="toc-section-number">1.4</span> Integration of the resource in the CLARIN-D infrastructure</a></li>
-</ul></li>
-<li><a href="#corpus-exploitation"><span class="toc-section-number">2</span> Corpus exploitation</a><ul>
-<li><a href="#research-question"><span class="toc-section-number">2.1</span> Research question</a></li>
-<li><a href="#operationalisation"><span class="toc-section-number">2.2</span> Operationalisation</a></li>
-<li><a href="#feature-extraction"><span class="toc-section-number">2.3</span> Feature extraction</a></li>
-<li><a href="#visualization-and-analysis-of-results"><span class="toc-section-number">2.4</span> Visualization and analysis of results</a></li>
-</ul></li>
-</ul>
-</div>
 
 <p><a href="http://hdl.handle.net/11858/00-246C-0000-001F-7C43-1"><img src="tutorial_files/img/sacoco-logo.png" title="Saarbrücken Cookbook Corpus&#39; logo" alt="sacoco logo" /></a></p>
 <p>This tutorial will show you step-by-step how to use the CLARIN-D infrastructure to compile a diachronic corpus of German cooking recipes. Afterwards, you will learn how to exploit this resource to discover how the conative function has evolved in this register during the last centuries.</p>
@@ -907,7 +1025,6 @@ hacken  VVINF   hacken
 <li>We will design the operationalisation of this research question.</li>
 <li>We will actually extract the features with CQPweb.</li>
 <li>We will visualize and analyse the data with CQPweb/R.</li>
-<li>We will describe very briefly our corpus with CQPweb/R.</li>
 </ol>
 <p>If you want to reproduce every step that we will show you below, you will need to get a user for our <a href="https://fedora.clarin-d.uni-saarland.de/cqpweb">CQPweb installation</a>.</p>
 <p>Go to this <a href="https://fedora.clarin-d.uni-saarland.de/cqpweb/usr/?thisQ=create&amp;uT=y">URL</a> to create a new account. Follow the instructions, and you will have access to SaCoCo in a few minutes.</p>
@@ -1012,8 +1129,11 @@ hacken  VVINF   hacken
 </div>
 </div>
 </div>
-<div id="cqpweb-query-explore-export" class="section level3">
-<h3><span class="header-section-number">2.3.2</span> CQPweb: query, explore, export</h3>
+</div>
+<div id="exploration-and-visualization" class="section level2 tabset tabset-fade tabset-pills">
+<h2><span class="header-section-number">2.4</span> Exploration and visualization</h2>
+<div id="cqpweb" class="section level3">
+<h3><span class="header-section-number">2.4.1</span> CQPweb</h3>
 <p>Now, let’s get on with it!</p>
 <p>First, you will need access to our CQPweb installation.</p>
 <p>Choose the corpus</p>
@@ -1025,10 +1145,9 @@ hacken  VVINF   hacken
 <p>Save the results with tabulate</p>
 <!-- step-by-step sequence -->
 </div>
-</div>
-<div id="visualization-and-analysis-of-results" class="section level2">
-<h2><span class="header-section-number">2.4</span> Visualization and analysis of results</h2>
-<p>So, in the last section we have seen how to use CQPweb to test our queries, imrpoved them, and also save the results.</p>
+<div id="r" class="section level3">
+<h3><span class="header-section-number">2.4.2</span> R</h3>
+<p>So, in the last section we have seen how to use CQPweb to test our queries, improved them, and also save the results.</p>
 <p>For reproducibility purposes, and to speed up the process, you can also interact with CQP from the command line.</p>
 <p>If you managed to encode the corpus, you can extract all four features (2n person personal pronouns, indefinite pronouns, imperatives, infinitives) with a <code>sacoco.cqp</code>.</p>
 <div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="co"># create a directory to save the results</span>
@@ -1037,8 +1156,8 @@ hacken  VVINF   hacken
 <span class="kw">cqp</span> -c <span class="kw">&lt;</span> sacoco.cqp</code></pre></div>
 <p>In CQPweb we can see the result of a query at a time. But what if we want to get different representations?</p>
 <p>Well, then you can use R for that. Let’s describe very briefly our corpus and the results.</p>
-<div id="corpus-description" class="section level3">
-<h3><span class="header-section-number">2.4.1</span> Corpus description</h3>
+<div id="corpus-description" class="section level4">
+<h4><span class="header-section-number">2.4.2.1</span> Corpus description</h4>
 <p>We will read the <code>results/meta.csv</code> which is a table where each row is a text, and the columns are from left to right: text ID, collection, period, decade, year, source.</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># import library to format output</span>
 <span class="kw">library</span>(knitr)
@@ -1046,62 +1165,30 @@ hacken  VVINF   hacken
 data =<span class="st"> </span><span class="kw">read.csv</span>(<span class="st">&#39;results/meta.csv&#39;</span>, <span class="dt">sep =</span> <span class="st">&#39;</span><span class="ch">\t</span><span class="st">&#39;</span>,  <span class="dt">encoding =</span> <span class="st">&#39;utf-8&#39;</span>, <span class="dt">header =</span> F, <span class="dt">strip.white =</span> T)
 <span class="co"># rename columns</span>
 <span class="kw">names</span>(data) =<span class="st"> </span><span class="kw">c</span>(<span class="st">&#39;text_id&#39;</span>,<span class="st">&#39;collection&#39;</span>,<span class="st">&#39;period&#39;</span>,<span class="st">&#39;decade&#39;</span>,<span class="st">&#39;year&#39;</span>,<span class="st">&#39;source&#39;</span>)
-<span class="co"># print the first 5 rows to check</span>
-<span class="kw">kable</span>(<span class="kw">head</span>(data,<span class="dv">5</span>))</code></pre></div>
-<table>
-<thead>
-<tr class="header">
-<th align="left">text_id</th>
-<th align="left">collection</th>
-<th align="right">period</th>
-<th align="right">decade</th>
-<th align="right">year</th>
-<th align="left">source</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="left">wiki_111588</td>
-<td align="left">contemporary</td>
-<td align="right">2000</td>
-<td align="right">2000</td>
-<td align="right">2009</td>
-<td align="left">wiki</td>
-</tr>
-<tr class="even">
-<td align="left">wiki_128114</td>
-<td align="left">contemporary</td>
-<td align="right">2000</td>
-<td align="right">2000</td>
-<td align="right">2009</td>
-<td align="left">wiki</td>
-</tr>
-<tr class="odd">
-<td align="left">wiki_128124</td>
-<td align="left">contemporary</td>
-<td align="right">2000</td>
-<td align="right">2000</td>
-<td align="right">2009</td>
-<td align="left">wiki</td>
-</tr>
-<tr class="even">
-<td align="left">wiki_132233</td>
-<td align="left">contemporary</td>
-<td align="right">2000</td>
-<td align="right">2000</td>
-<td align="right">2009</td>
-<td align="left">wiki</td>
-</tr>
-<tr class="odd">
-<td align="left">wiki_137144</td>
-<td align="left">contemporary</td>
-<td align="right">2000</td>
-<td align="right">2000</td>
-<td align="right">2009</td>
-<td align="left">wiki</td>
-</tr>
-</tbody>
-</table>
+<span class="co"># as factors</span>
+data$collection =<span class="st"> </span><span class="kw">as.factor</span>(data$collection)
+data$period =<span class="st"> </span><span class="kw">as.factor</span>(data$period)
+data$decade =<span class="st"> </span><span class="kw">as.factor</span>(data$decade)
+data$year =<span class="st"> </span><span class="kw">as.factor</span>(data$year)
+data$source =<span class="st"> </span><span class="kw">as.factor</span>(data$source)
+<span class="co"># print summary</span>
+<span class="kw">summary</span>(data)</code></pre></div>
+<pre><code>##          text_id            collection    period         decade    
+##  buchinger_1 :   1   contemporary:2033   1550:  63   2010   :2028  
+##  buchinger_10:   1   historical  : 434   1600:  90   1680   :  64  
+##  buchinger_11:   1                       1650: 154   1670   :  60  
+##  buchinger_12:   1                       1700: 120   1700   :  60  
+##  buchinger_13:   1                       1750:   3   1570   :  33  
+##  buchinger_14:   1                       1800:   4   1560   :  30  
+##  (Other)     :2461                       2000:2033   (Other): 192  
+##       year                        source    
+##  2013   :859   wiki                  :2033  
+##  2014   :776   KochvndKellermeisterey:  33  
+##  2011   :183   Thieme                :  31  
+##  2012   :168   Buchinger             :  30  
+##  2010   : 42   Colerus               :  30  
+##  1574   : 33   Danckwerth            :  30  
+##  (Other):406   (Other)               : 280</code></pre>
 <p>Then we read the table for the number of tokens:</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># import library to manipulate tables</span>
 <span class="kw">library</span>(dplyr)
@@ -1119,395 +1206,228 @@ cqpReader =<span class="st"> </span>function(filename, feature, data){
 
 <span class="co"># read tokens</span>
 data =<span class="st"> </span><span class="kw">cqpReader</span>(<span class="st">&#39;results/tokens.csv&#39;</span>, <span class="st">&#39;tokens&#39;</span>, data)
-data[<span class="kw">is.na</span>(data)] =<span class="st"> </span><span class="dv">0</span>
-<span class="kw">kable</span>(<span class="kw">head</span>(data,<span class="dv">5</span>))</code></pre></div>
+data[<span class="kw">is.na</span>(data)] =<span class="st"> </span><span class="dv">0</span></code></pre></div>
+<p>Then, we get an overview of the size of our corpus by collection:</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">texts_and_tokens_x_collection =<span class="st"> </span><span class="kw">group_by</span>(data, collection) %&gt;%<span class="st"> </span><span class="kw">summarise</span>(<span class="dt">texts =</span> <span class="kw">n</span>(), <span class="dt">tokens =</span> <span class="kw">sum</span>(tokens))
+<span class="kw">kable</span>(texts_and_tokens_x_collection, <span class="dt">align =</span> <span class="st">&#39;l&#39;</span>)</code></pre></div>
 <table>
 <thead>
 <tr class="header">
-<th align="left">text_id</th>
 <th align="left">collection</th>
-<th align="right">period</th>
-<th align="right">decade</th>
-<th align="right">year</th>
-<th align="left">source</th>
-<th align="right">tokens</th>
+<th align="left">texts</th>
+<th align="left">tokens</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td align="left">buchinger_1</td>
-<td align="left">historical</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="left">Buchinger</td>
-<td align="right">33</td>
+<td align="left">contemporary</td>
+<td align="left">2033</td>
+<td align="left">388956</td>
 </tr>
 <tr class="even">
-<td align="left">buchinger_10</td>
 <td align="left">historical</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="left">Buchinger</td>
-<td align="right">65</td>
+<td align="left">434</td>
+<td align="left">42705</td>
 </tr>
+</tbody>
+</table>
+<p>By period:</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">texts_and_tokens_x_period =<span class="st"> </span><span class="kw">group_by</span>(data, period) %&gt;%<span class="st"> </span><span class="kw">summarise</span>(<span class="dt">texts =</span> <span class="kw">n</span>(), <span class="dt">tokens =</span> <span class="kw">sum</span>(tokens))
+<span class="kw">kable</span>(texts_and_tokens_x_period, <span class="dt">align =</span> <span class="st">&#39;l&#39;</span>)</code></pre></div>
+<table>
+<thead>
+<tr class="header">
+<th align="left">period</th>
+<th align="left">texts</th>
+<th align="left">tokens</th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
-<td align="left">buchinger_11</td>
-<td align="left">historical</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="left">Buchinger</td>
-<td align="right">34</td>
+<td align="left">1550</td>
+<td align="left">63</td>
+<td align="left">6016</td>
 </tr>
 <tr class="even">
-<td align="left">buchinger_12</td>
-<td align="left">historical</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="left">Buchinger</td>
-<td align="right">37</td>
+<td align="left">1600</td>
+<td align="left">90</td>
+<td align="left">8806</td>
 </tr>
 <tr class="odd">
-<td align="left">buchinger_13</td>
-<td align="left">historical</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="left">Buchinger</td>
-<td align="right">43</td>
+<td align="left">1650</td>
+<td align="left">154</td>
+<td align="left">14708</td>
+</tr>
+<tr class="even">
+<td align="left">1700</td>
+<td align="left">120</td>
+<td align="left">12154</td>
+</tr>
+<tr class="odd">
+<td align="left">1750</td>
+<td align="left">3</td>
+<td align="left">655</td>
+</tr>
+<tr class="even">
+<td align="left">1800</td>
+<td align="left">4</td>
+<td align="left">366</td>
+</tr>
+<tr class="odd">
+<td align="left">2000</td>
+<td align="left">2033</td>
+<td align="left">388956</td>
+</tr>
+</tbody>
+</table>
+<p>By decade:</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">texts_and_tokens_x_decade =<span class="st"> </span><span class="kw">group_by</span>(data, decade) %&gt;%<span class="st"> </span><span class="kw">summarise</span>(<span class="dt">texts =</span> <span class="kw">n</span>(), <span class="dt">tokens =</span> <span class="kw">sum</span>(tokens))
+<span class="kw">kable</span>(texts_and_tokens_x_decade, <span class="dt">align =</span> <span class="st">&#39;l&#39;</span>)</code></pre></div>
+<table>
+<thead>
+<tr class="header">
+<th align="left">decade</th>
+<th align="left">texts</th>
+<th align="left">tokens</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">1560</td>
+<td align="left">30</td>
+<td align="left">3223</td>
+</tr>
+<tr class="even">
+<td align="left">1570</td>
+<td align="left">33</td>
+<td align="left">2793</td>
+</tr>
+<tr class="odd">
+<td align="left">1600</td>
+<td align="left">30</td>
+<td align="left">3703</td>
+</tr>
+<tr class="even">
+<td align="left">1610</td>
+<td align="left">30</td>
+<td align="left">3689</td>
+</tr>
+<tr class="odd">
+<td align="left">1640</td>
+<td align="left">30</td>
+<td align="left">1414</td>
+</tr>
+<tr class="even">
+<td align="left">1670</td>
+<td align="left">60</td>
+<td align="left">6579</td>
+</tr>
+<tr class="odd">
+<td align="left">1680</td>
+<td align="left">64</td>
+<td align="left">4647</td>
+</tr>
+<tr class="even">
+<td align="left">1690</td>
+<td align="left">30</td>
+<td align="left">3482</td>
+</tr>
+<tr class="odd">
+<td align="left">1700</td>
+<td align="left">60</td>
+<td align="left">2925</td>
+</tr>
+<tr class="even">
+<td align="left">1710</td>
+<td align="left">30</td>
+<td align="left">6511</td>
+</tr>
+<tr class="odd">
+<td align="left">1720</td>
+<td align="left">30</td>
+<td align="left">2718</td>
+</tr>
+<tr class="even">
+<td align="left">1780</td>
+<td align="left">3</td>
+<td align="left">655</td>
+</tr>
+<tr class="odd">
+<td align="left">1800</td>
+<td align="left">4</td>
+<td align="left">366</td>
+</tr>
+<tr class="even">
+<td align="left">2000</td>
+<td align="left">5</td>
+<td align="left">633</td>
+</tr>
+<tr class="odd">
+<td align="left">2010</td>
+<td align="left">2028</td>
+<td align="left">388323</td>
 </tr>
 </tbody>
 </table>
 <!-- We can show this with CQPweb -->
 </div>
-<div id="results" class="section level3">
-<h3><span class="header-section-number">2.4.2</span> Results</h3>
+<div id="results" class="section level4">
+<h4><span class="header-section-number">2.4.2.2</span> Results</h4>
+<p>We read the file for the personal pronouns:</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># read personal pronouns</span>
 data =<span class="st"> </span><span class="kw">cqpReader</span>(<span class="st">&#39;results/pers2.csv&#39;</span>, <span class="st">&#39;pers2&#39;</span>, data)
-data[<span class="kw">is.na</span>(data)] =<span class="st"> </span><span class="dv">0</span>
-<span class="co"># print</span>
-<span class="kw">kable</span>(<span class="kw">head</span>(data,<span class="dv">5</span>))</code></pre></div>
-<table>
-<thead>
-<tr class="header">
-<th align="left">text_id</th>
-<th align="left">collection</th>
-<th align="right">period</th>
-<th align="right">decade</th>
-<th align="right">year</th>
-<th align="left">source</th>
-<th align="right">tokens</th>
-<th align="right">pers2</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="left">buchinger_1</td>
-<td align="left">historical</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="left">Buchinger</td>
-<td align="right">33</td>
-<td align="right">0</td>
-</tr>
-<tr class="even">
-<td align="left">buchinger_10</td>
-<td align="left">historical</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="left">Buchinger</td>
-<td align="right">65</td>
-<td align="right">0</td>
-</tr>
-<tr class="odd">
-<td align="left">buchinger_11</td>
-<td align="left">historical</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="left">Buchinger</td>
-<td align="right">34</td>
-<td align="right">0</td>
-</tr>
-<tr class="even">
-<td align="left">buchinger_12</td>
-<td align="left">historical</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="left">Buchinger</td>
-<td align="right">37</td>
-<td align="right">0</td>
-</tr>
-<tr class="odd">
-<td align="left">buchinger_13</td>
-<td align="left">historical</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="left">Buchinger</td>
-<td align="right">43</td>
-<td align="right">0</td>
-</tr>
-</tbody>
-</table>
+<span class="co"># set NA cells to 0</span>
+data[<span class="kw">is.na</span>(data)] =<span class="st"> </span><span class="dv">0</span></code></pre></div>
+<p>We can know check visually the differences between contemporary and historical recipes grouping the results by period. You probably have seen that samples are not equal in size. For this reason, we also calculated the relative frequecy for each group:</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># load ggplot2 library to plot graphs</span>
+<span class="kw">library</span>(ggplot2)
+<span class="co"># calculate the relative frequency for pers2</span>
+data.rel =<span class="st"> </span><span class="kw">group_by</span>(data, period) %&gt;%<span class="st"> </span><span class="kw">transform</span>(<span class="dt">pers2.rel =</span> (pers2/tokens)*<span class="dv">1000</span> )
+<span class="co"># plot lines binding means</span>
+<span class="kw">ggplot</span>(<span class="dt">data=</span>data.rel, <span class="kw">aes</span>(<span class="dt">x=</span>period, <span class="dt">y=</span>pers2.rel, <span class="dt">group=</span>period)) +
+<span class="st">  </span><span class="kw">stat_summary</span>(<span class="dt">fun.y=</span>mean, <span class="dt">geom=</span><span class="st">&quot;line&quot;</span>, <span class="dt">linetype =</span> <span class="st">&quot;dotted&quot;</span>, <span class="kw">aes</span>(<span class="dt">group =</span> <span class="dv">1</span>)) +
+<span class="st">  </span><span class="kw">stat_summary</span>(<span class="dt">fun.y=</span>mean, <span class="dt">geom=</span><span class="st">&quot;point&quot;</span>, <span class="dt">size =</span> <span class="dv">3</span>, <span class="kw">aes</span>(<span class="dt">shape =</span> collection, <span class="dt">colour =</span> collection)) +
+<span class="st">  </span><span class="kw">theme_bw</span>() +
+<span class="st">  </span><span class="kw">theme</span>(<span class="dt">legend.position=</span><span class="st">&quot;bottom&quot;</span>)</code></pre></div>
+<p><img src="tutorial_files/figure-html/unnamed-chunk-7-1.png" /></p>
+<p>We repeat the same procedure for indefinite pronouns:</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># read indefinite pronouns</span>
 data =<span class="st"> </span><span class="kw">cqpReader</span>(<span class="st">&#39;results/pisp.csv&#39;</span>, <span class="st">&#39;pisp&#39;</span>, data)
 data[<span class="kw">is.na</span>(data)] =<span class="st"> </span><span class="dv">0</span>
-<span class="co"># print</span>
-<span class="kw">kable</span>(<span class="kw">head</span>(data,<span class="dv">5</span>))</code></pre></div>
-<table>
-<thead>
-<tr class="header">
-<th align="left">text_id</th>
-<th align="left">collection</th>
-<th align="right">period</th>
-<th align="right">decade</th>
-<th align="right">year</th>
-<th align="left">source</th>
-<th align="right">tokens</th>
-<th align="right">pers2</th>
-<th align="right">pisp</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="left">buchinger_1</td>
-<td align="left">historical</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="left">Buchinger</td>
-<td align="right">33</td>
-<td align="right">0</td>
-<td align="right">0</td>
-</tr>
-<tr class="even">
-<td align="left">buchinger_10</td>
-<td align="left">historical</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="left">Buchinger</td>
-<td align="right">65</td>
-<td align="right">0</td>
-<td align="right">3</td>
-</tr>
-<tr class="odd">
-<td align="left">buchinger_11</td>
-<td align="left">historical</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="left">Buchinger</td>
-<td align="right">34</td>
-<td align="right">0</td>
-<td align="right">1</td>
-</tr>
-<tr class="even">
-<td align="left">buchinger_12</td>
-<td align="left">historical</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="left">Buchinger</td>
-<td align="right">37</td>
-<td align="right">0</td>
-<td align="right">2</td>
-</tr>
-<tr class="odd">
-<td align="left">buchinger_13</td>
-<td align="left">historical</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="left">Buchinger</td>
-<td align="right">43</td>
-<td align="right">0</td>
-<td align="right">2</td>
-</tr>
-</tbody>
-</table>
+data.rel =<span class="st"> </span><span class="kw">group_by</span>(data, period) %&gt;%<span class="st"> </span><span class="kw">transform</span>(<span class="dt">pisp.rel =</span> (pisp/tokens)*<span class="dv">1000</span> )
+<span class="kw">ggplot</span>(<span class="dt">data=</span>data.rel, <span class="kw">aes</span>(<span class="dt">x=</span>period, <span class="dt">y=</span>pisp.rel, <span class="dt">group=</span>period)) +
+<span class="st">  </span><span class="kw">stat_summary</span>(<span class="dt">fun.y=</span>mean, <span class="dt">geom=</span><span class="st">&quot;line&quot;</span>, <span class="dt">linetype =</span> <span class="st">&quot;dotted&quot;</span>, <span class="kw">aes</span>(<span class="dt">group =</span> <span class="dv">1</span>)) +
+<span class="st">  </span><span class="kw">stat_summary</span>(<span class="dt">fun.y=</span>mean, <span class="dt">geom=</span><span class="st">&quot;point&quot;</span>, <span class="dt">size =</span> <span class="dv">3</span>, <span class="kw">aes</span>(<span class="dt">shape =</span> collection, <span class="dt">colour =</span> collection)) +
+<span class="st">  </span><span class="kw">theme_bw</span>() +
+<span class="st">  </span><span class="kw">theme</span>(<span class="dt">legend.position=</span><span class="st">&quot;bottom&quot;</span>)</code></pre></div>
+<p><img src="tutorial_files/figure-html/unnamed-chunk-8-1.png" /></p>
+<p>Imperatives:</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># read imperatives</span>
 data =<span class="st"> </span><span class="kw">cqpReader</span>(<span class="st">&#39;results/vfimp.csv&#39;</span>, <span class="st">&#39;vfimp&#39;</span>, data)
 data[<span class="kw">is.na</span>(data)] =<span class="st"> </span><span class="dv">0</span>
-<span class="co"># print</span>
-<span class="kw">kable</span>(<span class="kw">head</span>(data,<span class="dv">5</span>))</code></pre></div>
-<table>
-<thead>
-<tr class="header">
-<th align="left">text_id</th>
-<th align="left">collection</th>
-<th align="right">period</th>
-<th align="right">decade</th>
-<th align="right">year</th>
-<th align="left">source</th>
-<th align="right">tokens</th>
-<th align="right">pers2</th>
-<th align="right">pisp</th>
-<th align="right">vfimp</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="left">buchinger_1</td>
-<td align="left">historical</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="left">Buchinger</td>
-<td align="right">33</td>
-<td align="right">0</td>
-<td align="right">0</td>
-<td align="right">0</td>
-</tr>
-<tr class="even">
-<td align="left">buchinger_10</td>
-<td align="left">historical</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="left">Buchinger</td>
-<td align="right">65</td>
-<td align="right">0</td>
-<td align="right">3</td>
-<td align="right">0</td>
-</tr>
-<tr class="odd">
-<td align="left">buchinger_11</td>
-<td align="left">historical</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="left">Buchinger</td>
-<td align="right">34</td>
-<td align="right">0</td>
-<td align="right">1</td>
-<td align="right">0</td>
-</tr>
-<tr class="even">
-<td align="left">buchinger_12</td>
-<td align="left">historical</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="left">Buchinger</td>
-<td align="right">37</td>
-<td align="right">0</td>
-<td align="right">2</td>
-<td align="right">0</td>
-</tr>
-<tr class="odd">
-<td align="left">buchinger_13</td>
-<td align="left">historical</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="left">Buchinger</td>
-<td align="right">43</td>
-<td align="right">0</td>
-<td align="right">2</td>
-<td align="right">0</td>
-</tr>
-</tbody>
-</table>
+data.rel =<span class="st"> </span><span class="kw">group_by</span>(data, period) %&gt;%<span class="st"> </span><span class="kw">transform</span>(<span class="dt">vfimp.rel =</span> (vfimp/tokens)*<span class="dv">1000</span> )
+<span class="kw">ggplot</span>(<span class="dt">data=</span>data.rel, <span class="kw">aes</span>(<span class="dt">x=</span>period, <span class="dt">y=</span>vfimp.rel, <span class="dt">group=</span>period)) +
+<span class="st">  </span><span class="kw">stat_summary</span>(<span class="dt">fun.y=</span>mean, <span class="dt">geom=</span><span class="st">&quot;line&quot;</span>, <span class="dt">linetype =</span> <span class="st">&quot;dotted&quot;</span>, <span class="kw">aes</span>(<span class="dt">group =</span> <span class="dv">1</span>)) +
+<span class="st">  </span><span class="kw">stat_summary</span>(<span class="dt">fun.y=</span>mean, <span class="dt">geom=</span><span class="st">&quot;point&quot;</span>, <span class="dt">size =</span> <span class="dv">3</span>, <span class="kw">aes</span>(<span class="dt">shape =</span> collection, <span class="dt">colour =</span> collection)) +
+<span class="st">  </span><span class="kw">theme_bw</span>() +
+<span class="st">  </span><span class="kw">theme</span>(<span class="dt">legend.position=</span><span class="st">&quot;bottom&quot;</span>)</code></pre></div>
+<p><img src="tutorial_files/figure-html/unnamed-chunk-9-1.png" /></p>
+<p>And infinitives:</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># read infinitives</span>
 data =<span class="st"> </span><span class="kw">cqpReader</span>(<span class="st">&#39;results/vfinf.csv&#39;</span>, <span class="st">&#39;vfinf&#39;</span>, data)
 data[<span class="kw">is.na</span>(data)] =<span class="st"> </span><span class="dv">0</span>
-<span class="co"># print</span>
-<span class="kw">kable</span>(<span class="kw">head</span>(data,<span class="dv">5</span>))</code></pre></div>
-<table>
-<thead>
-<tr class="header">
-<th align="left">text_id</th>
-<th align="left">collection</th>
-<th align="right">period</th>
-<th align="right">decade</th>
-<th align="right">year</th>
-<th align="left">source</th>
-<th align="right">tokens</th>
-<th align="right">pers2</th>
-<th align="right">pisp</th>
-<th align="right">vfimp</th>
-<th align="right">vfinf</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="left">buchinger_1</td>
-<td align="left">historical</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="left">Buchinger</td>
-<td align="right">33</td>
-<td align="right">0</td>
-<td align="right">0</td>
-<td align="right">0</td>
-<td align="right">1</td>
-</tr>
-<tr class="even">
-<td align="left">buchinger_10</td>
-<td align="left">historical</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="left">Buchinger</td>
-<td align="right">65</td>
-<td align="right">0</td>
-<td align="right">3</td>
-<td align="right">0</td>
-<td align="right">1</td>
-</tr>
-<tr class="odd">
-<td align="left">buchinger_11</td>
-<td align="left">historical</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="left">Buchinger</td>
-<td align="right">34</td>
-<td align="right">0</td>
-<td align="right">1</td>
-<td align="right">0</td>
-<td align="right">0</td>
-</tr>
-<tr class="even">
-<td align="left">buchinger_12</td>
-<td align="left">historical</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="left">Buchinger</td>
-<td align="right">37</td>
-<td align="right">0</td>
-<td align="right">2</td>
-<td align="right">0</td>
-<td align="right">0</td>
-</tr>
-<tr class="odd">
-<td align="left">buchinger_13</td>
-<td align="left">historical</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="right">1700</td>
-<td align="left">Buchinger</td>
-<td align="right">43</td>
-<td align="right">0</td>
-<td align="right">2</td>
-<td align="right">0</td>
-<td align="right">1</td>
-</tr>
-</tbody>
-</table>
+data.rel =<span class="st"> </span><span class="kw">group_by</span>(data, period) %&gt;%<span class="st"> </span><span class="kw">transform</span>(<span class="dt">vfinf.rel =</span> (vfinf/tokens)*<span class="dv">1000</span> )
+<span class="kw">ggplot</span>(<span class="dt">data=</span>data.rel, <span class="kw">aes</span>(<span class="dt">x=</span>period, <span class="dt">y=</span>vfinf.rel, <span class="dt">group=</span>period)) +
+<span class="st">  </span><span class="kw">stat_summary</span>(<span class="dt">fun.y=</span>mean, <span class="dt">geom=</span><span class="st">&quot;line&quot;</span>, <span class="dt">linetype =</span> <span class="st">&quot;dotted&quot;</span>, <span class="kw">aes</span>(<span class="dt">group =</span> <span class="dv">1</span>)) +
+<span class="st">  </span><span class="kw">stat_summary</span>(<span class="dt">fun.y=</span>mean, <span class="dt">geom=</span><span class="st">&quot;point&quot;</span>, <span class="dt">size =</span> <span class="dv">3</span>, <span class="kw">aes</span>(<span class="dt">shape =</span> collection, <span class="dt">colour =</span> collection)) +
+<span class="st">  </span><span class="kw">theme_bw</span>() +
+<span class="st">  </span><span class="kw">theme</span>(<span class="dt">legend.position=</span><span class="st">&quot;bottom&quot;</span>)</code></pre></div>
+<p><img src="tutorial_files/figure-html/unnamed-chunk-10-1.png" /></p>
+<p>Let’s put all this together to be able to compare better the evolution of this phenomena:</p>
 <!-- # Bibliography -->
 <div id="refs" class="references">
 
+</div>
 </div>
 </div>
 </div>
@@ -1519,6 +1439,10 @@ data[<span class="kw">is.na</span>(data)] =<span class="st"> </span><span class=
 </ol>
 </div>
 
+
+
+</div>
+</div>
 
 </div>
 
