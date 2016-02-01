@@ -15,15 +15,15 @@
 
 <title>Saarbrücken Cookbook Corpus: a recipe for a diachronic study à la CLARIN-D</title>
 
-<script src="tutorial_files/jquery-1.11.3/jquery.min.js"></script>
-<script src="tutorial_files/jqueryui-1.11.4/jquery-ui.min.js"></script>
-<link href="tutorial_files/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
-<script src="tutorial_files/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="index_files/jquery-1.11.3/jquery.min.js"></script>
+<script src="index_files/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="index_files/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="index_files/tocify-1.9.1/jquery.tocify.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="tutorial_files/bootstrap-3.3.5/css/cerulean.min.css" rel="stylesheet" />
-<script src="tutorial_files/bootstrap-3.3.5/js/bootstrap.min.js"></script>
-<script src="tutorial_files/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
-<script src="tutorial_files/bootstrap-3.3.5/shim/respond.min.js"></script>
+<link href="index_files/bootstrap-3.3.5/css/cerulean.min.css" rel="stylesheet" />
+<script src="index_files/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="index_files/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="index_files/bootstrap-3.3.5/shim/respond.min.js"></script>
 
 
 <style type="text/css">code{white-space: pre;}</style>
@@ -119,7 +119,7 @@ button.code-folding-btn:focus {
 <div class="container-fluid main-container">
 
 <!-- tabsets -->
-<script src="tutorial_files/navigation/tabsets.js"></script>
+<script src="index_files/navigation/tabsets.js"></script>
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
@@ -135,7 +135,7 @@ $(document).ready(function () {
 $(document).ready(function ()  {
     // establish options
     var options = {
-      selectors: "h1,h2",
+      selectors: "h1,h2,h3",
       theme: "bootstrap3",
       context: '.toc-content',
       hashGenerator: function (text) {
@@ -230,7 +230,7 @@ div.tocify {
 </div>
 
 
-<p><a href="http://hdl.handle.net/11858/00-246C-0000-001F-7C43-1"><img src="tutorial_files/img/sacoco-logo.png" title="Saarbrücken Cookbook Corpus&#39; logo" alt="sacoco logo" /></a></p>
+<p><a href="http://hdl.handle.net/11858/00-246C-0000-001F-7C43-1"><img src="index_files/img/sacoco-logo.png" title="Saarbrücken Cookbook Corpus&#39; logo" alt="sacoco logo" /></a></p>
 <p>This tutorial will show you step-by-step how to use the CLARIN-D infrastructure to compile a diachronic corpus of German cooking recipes. Afterwards, you will learn how to exploit this resource to discover how the conative function has evolved in this register during the last centuries.</p>
 <p>In order to reproduce succesfully this showcase, you will need to satisfy the following requirements:</p>
 <ul>
@@ -787,8 +787,9 @@ hacken  VVINF   hacken
 <p>TIP: for development/testing purposes, if you just run <code>python3 metadata4cqpweb.py</code>, it will work on the testing dataset stored in the test folder.</p>
 </blockquote>
 </div>
-<div id="set-up-a-corpus-in-cqpweb" class="section level3">
-<h3>Set up a corpus in CQPweb</h3>
+</div>
+<div id="set-up-a-corpus-in-cqpweb" class="section level2">
+<h2>Set up a corpus in CQPweb</h2>
 <p>We have all materials needed to set up a corpus in CQPweb:</p>
 <ul>
 <li>the texts in VRT format</li>
@@ -838,169 +839,11 @@ hacken  VVINF   hacken
 </ul></li>
 </ul></li>
 </ul>
-<p>Let’s assume that you have:</p>
-<ul>
-<li><code>cqp</code> installed in your computer</li>
-<li>administrator access to a CQPweb installation</li>
-<li>root access to the server where the CQPweb lives</li>
-</ul>
 <p>If you don’t fullfil all this requirements and/or you don’t have experience enough, do not worry. Just jump to the section on <a href="#integration-of-the-resource-in-the-clarin-d-infrastructure"><em>clarinifying</em></a> and leave the gory details for us.</p>
-<p>Nevertheless, we document below all the steps to get SaCoCo encoded and installed in CQPweb.</p>
-<div id="encode-the-corpus-for-the-cwb" class="section level4">
-<h4>Encode the corpus for the CWB</h4>
-<p>The first thing we need to do is to encode the corpus. This process will create a number of files that will enable to use the CQP language to query the corpus.</p>
-<p>Once we have the texts in VRT format, encoding the corpus for the CWB is relatively easy.</p>
-<p>Check that you have the corpus work bench installed in the computer, if not, download it and follow these <a href="http://cwb.sourceforge.net/download.php">instructions</a>. We compiled from source version 3.4.8.</p>
-<p>Now, run the following commands:</p>
-<div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="co"># create the target folder for encoded data</span>
-<span class="kw">mkdir</span> -p data/cqp/data
-<span class="co"># run the command</span>
-<span class="kw">cwb-encode</span> -c utf8 -d data/cqp/data -F data/contemporary/meta/ -F data/historical/meta -R data/cqp/sacoco -xsB -S text:0+id+collection+source+year+decade+period+title -S p:0 -S s:0 -P pos -P lemma -P norm
-<span class="co"># generate the registry file</span>
-<span class="kw">cwb-make</span> -r data/cqp -V SACOCO</code></pre></div>
-<p>The <code>cwb-encode</code>’s parameters explained:</p>
-<ul>
-<li><code>-c</code> to the declare the character encoding</li>
-<li><code>-d</code> path to the target directory were the output will be stored</li>
-<li><code>-F</code> path to the input directory were the VRT files are located</li>
-<li><code>-R</code> path to the registry file</li>
-<li><code>-xsB</code>
-<ul>
-<li><code>x</code> for XML compatibility mode (recognises default entities and skips comments as well as an XML declaration)</li>
-<li><code>s</code> to skip blank lines in the input</li>
-<li><code>B</code> to strip whitespace from tokens</li>
-</ul></li>
-<li><code>-S</code> to declare a structural attribute, example:
-<ul>
-<li><code>-S text:0+id+authors/</code></li>
-<li><code>text</code>, structural attribute to be declared</li>
-<li><code>0</code> embedding levels</li>
-<li><code>id</code> will be an attribute of <code>text</code> containing some value</li>
-</ul></li>
-<li><code>-P</code> to declare positional attributes</li>
-</ul>
-<p>Get extensive information on how to encode corpora for the CWB in the <a href="http://cwb.sourceforge.net/files/CWB_Encoding_Tutorial.pdf">encoding tutorial</a>.</p>
-<blockquote>
-<p>TIP: for development/testing purposes, just run the command below on the test files.</p>
-</blockquote>
-<div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="co"># create the target folder for encoded data</span>
-<span class="kw">mkdir</span> -p test/cqp/data
-<span class="co"># run the command</span>
-<span class="kw">cwb-encode</span> -c utf8 -d test/cqp/data -F test/contemporary/meta/ -F test/historical/meta -R test/cqp/sacoco -xsB -S text:0+id+collection+source+year+decade+period+title -S p:0 -S s:0 -P pos -P lemma -P norm
-<span class="co"># generate the registry file</span>
-<span class="kw">cwb-make</span> -r test/cqp -V SACOCO</code></pre></div>
+<p>Nevertheless, we document under a separate cover all the steps to get SaCoCo encoded and installed in CQPweb. Check <a href="cqpwebsetup.html">CQPweb setup tutorial</a>.</p>
 </div>
-<div id="upload-the-corpus-to-the-server-and-set-permissions" class="section level4">
-<h4>Upload the corpus to the server and set permissions</h4>
-<p>Once you have the data you have to upload the file to the server where CQPweb is installed. In our case is the machine <code>fedora.clarin-d.uni-saarland.de</code>.</p>
-<p>In our case, one needs to connet to the server as <code>root</code> user. There are different methods to upload the files:</p>
-<ul>
-<li>via the command line with tools like <code>scp</code> or <code>rsync</code> which use the <code>ssh</code> protocol</li>
-<li>via a FTP client like <a href="https://filezilla-project.org">Filezilla</a></li>
-</ul>
-<p>Upload the local folder <code>data/cqp/sacoco/</code> to the remote folder (in the server) <code>/data2/cqpweb/indexed</code>, and the registry file <code>data/cqp/sacoco</code> to the folder <code>/data2/cqpweb/registry</code>.</p>
-<p>Once all files are uploaded, you have to check the ownership of the folder/file:</p>
-<ul>
-<li>the owner should be <code>wwwrun</code></li>
-<li>the group should be <code>www</code></li>
-</ul>
-<p>If not just run a couple of commands:</p>
-<div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">chown</span> -R wwwrun:www /data2/cqpweb/indexed/sacoco
-<span class="kw">chown</span> wwwrun:www /data2/cqpweb/registry/sacoco</code></pre></div>
-<p>Then, modify the registry file <code>/data2/cqpweb/registry/sacoco</code> to indicate the location of the corpus in the server <code>/data2/cqpweb/indexed/sacoco</code>.</p>
-</div>
-<div id="log-in-as-admin-in-cqpweb" class="section level4">
-<h4>Log in as admin in CQPweb</h4>
-<ol style="list-style-type: decimal">
-<li>Type the URL to your CQPweb installation (e.g. <a href="https://fedora.clarin-d.uni-saarland.de/cqpweb/" class="uri">https://fedora.clarin-d.uni-saarland.de/cqpweb/</a>)</li>
-<li>log in with an administrator account, you are redirected to your user account</li>
-<li>click on <code>Go to admin control panel</code> in the lefthand menu <strong>Account actions</strong>.</li>
-</ol>
-</div>
-<div id="installing-the-corpus" class="section level4">
-<h4>Installing the corpus</h4>
-<p>We can now start installing the corpus:</p>
-<ol style="list-style-type: decimal">
-<li>click on <code>Install a new corpus</code> in the left menu <strong>Corpora</strong></li>
-<li>click on the link <code>Click here to install a corpus you have already indexed in CWB.</code> which you will find in the grey row at the top of the page.</li>
-<li>Fill in the fields
-<ol style="list-style-type: decimal">
-<li>Specify a MySQL name for this corpus: <code>sacoco</code></li>
-<li>Enter the full name of the corpus: <code>Saarbrücken Cookbook Corpus</code></li>
-<li>Specify the CWB name (lowercase format): <code>sacoco</code></li>
-</ol></li>
-<li>Click on the button <code>Install corpus with settings above</code> that you will find at the bottom of the page.</li>
-</ol>
-<p>A new page will load:</p>
-<ol style="list-style-type: decimal">
-<li>click on <code>Design and insert a text-metadata table for the corpus</code></li>
-</ol>
-<p>A new page will load:</p>
-<ol style="list-style-type: decimal">
-<li>Choose <code>sacoco.meta</code> in section <code>Choose the file containing the metadata</code></li>
-<li>Fill in the field rows in <code>Describe the contents of the file you have selected</code>, providing for <em>Handle</em> and <em>Description</em>:
-<ol style="list-style-type: decimal">
-<li>year</li>
-<li>decade</li>
-<li>period</li>
-<li>collection</li>
-<li>source</li>
-<li>title</li>
-</ol></li>
-<li>Mark <code>collection</code> as the primary category.</li>
-<li>Set <code>title</code> as free text</li>
-<li>Select <code>Yes please</code> in section <code>Do you want to automatically run frequency-list setup?</code></li>
-<li>Finally, click on the button <code>install metadata table using the settings above</code></li>
-</ol>
-<p>Now set up the annotation (positional attributes):</p>
-<ol style="list-style-type: decimal">
-<li>click on <code>Manage annotation</code>, you will find it in the left menu, in section <code>Admin Tools</code>.</li>
-<li>complete the annotation metadata information at the bottom:
-<ol style="list-style-type: decimal">
-<li>lemma: <em>Description:</em> lemma</li>
-<li>click on <code>Go!</code></li>
-<li>pos: <em>Description:</em> pos; <em>Tagset name:</em> STTS; <em>External URL:</em> <a href="http://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/TagSets/stts-table.html" class="uri">http://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/TagSets/stts-table.html</a></li>
-<li>click on <code>Go!</code></li>
-<li>norm: <em>Description</em> norm; <em>External URL:</em> <a href="http://www.deutschestextarchiv.de/doku/software#cab" class="uri">http://www.deutschestextarchiv.de/doku/software#cab</a></li>
-<li>click on <code>Go!</code></li>
-<li>set <code>pos</code> as <code>Primary annotation</code> above</li>
-<li>click on <code>Update annotation settings</code>.</li>
-</ol></li>
-</ol>
-<p>Check corpus settings:</p>
-<ol style="list-style-type: decimal">
-<li>go to <code>Corpus settings</code> in <code>Admin tools</code></li>
-<li>in <code>General options</code>:
-<ol style="list-style-type: decimal">
-<li>assign a category in field <code>The corpus is currently in the following category:</code> Historical corpora</li>
-<li>click on the <code>Update</code> button</li>
-<li>provide an external URL: <a href="http://hdl.handle.net/11858/00-246C-0000-001F-7C43-1" class="uri">http://hdl.handle.net/11858/00-246C-0000-001F-7C43-1</a></li>
-<li>clik on the <code>Update</code> button</li>
-</ol></li>
-</ol>
-<p>We set the access to this corpus open for everybody:</p>
-<ol style="list-style-type: decimal">
-<li>go to <code>Admin Control Panel</code> in <code>Admin tools</code></li>
-<li>go to <code>Manage privileges</code> in <code>Users and privileges</code></li>
-<li>scroll to the bottom of the page, there
-<ol style="list-style-type: decimal">
-<li>select <code>sacoco</code> from list <code>Generate default privileges for corpus...</code></li>
-<li>click on button <code>Generate default privileges for this corpus</code>.</li>
-</ol></li>
-<li>go to <code>Manage group grants</code> in <code>Users and privileges</code>
-<ol style="list-style-type: decimal">
-<li>scroll to the bottom, in section <code>Grant new privilege to group</code></li>
-<li>Select group <code>everybody</code></li>
-<li>Select a privilege <code>Normal access privilege for corpus [sacoco]</code></li>
-<li>click on <code>Grant privilege to group!</code></li>
-</ol></li>
-</ol>
-<p>Hurraaaaah! Corpus ready to be queried!</p>
-</div>
-</div>
-</div>
-<div id="integration-of-the-resource-in-the-clarin-d-infrastructure" class="section level2">
-<h2>Integration of the resource in the CLARIN-D infrastructure</h2>
+<div id="integration-in-the-clarin-d-infrastructure" class="section level2">
+<h2>Integration in the CLARIN-D infrastructure</h2>
 <p>We have created our resource. Now, we can <em>clarinify</em> it by:</p>
 <ul>
 <li>getting a <a href="http://www.clarin.eu/content/persistent-identifiers">PID</a> (Persistent IDentifier) for the corpus</li>
@@ -1401,7 +1244,7 @@ data.rel =<span class="st"> </span><span class="kw">group_by</span>(data, period
 <span class="st">  </span><span class="kw">stat_summary</span>(<span class="dt">fun.y=</span>mean, <span class="dt">geom=</span><span class="st">&quot;point&quot;</span>, <span class="dt">size =</span> <span class="dv">3</span>, <span class="kw">aes</span>(<span class="dt">shape =</span> collection, <span class="dt">colour =</span> collection)) +
 <span class="st">  </span><span class="kw">theme_bw</span>() +
 <span class="st">  </span><span class="kw">theme</span>(<span class="dt">legend.position=</span><span class="st">&quot;bottom&quot;</span>)</code></pre></div>
-<p><img src="tutorial_files/figure-html/unnamed-chunk-7-1.png" /></p>
+<p><img src="index_files/figure-html/unnamed-chunk-7-1.png" /></p>
 <p>We repeat the same procedure for indefinite pronouns:</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># read indefinite pronouns</span>
 data =<span class="st"> </span><span class="kw">cqpReader</span>(<span class="st">&#39;results/pisp.csv&#39;</span>, <span class="st">&#39;pisp&#39;</span>, data)
@@ -1412,7 +1255,7 @@ data.rel =<span class="st"> </span><span class="kw">group_by</span>(data, period
 <span class="st">  </span><span class="kw">stat_summary</span>(<span class="dt">fun.y=</span>mean, <span class="dt">geom=</span><span class="st">&quot;point&quot;</span>, <span class="dt">size =</span> <span class="dv">3</span>, <span class="kw">aes</span>(<span class="dt">shape =</span> collection, <span class="dt">colour =</span> collection)) +
 <span class="st">  </span><span class="kw">theme_bw</span>() +
 <span class="st">  </span><span class="kw">theme</span>(<span class="dt">legend.position=</span><span class="st">&quot;bottom&quot;</span>)</code></pre></div>
-<p><img src="tutorial_files/figure-html/unnamed-chunk-8-1.png" /></p>
+<p><img src="index_files/figure-html/unnamed-chunk-8-1.png" /></p>
 <p>Imperatives:</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># read imperatives</span>
 data =<span class="st"> </span><span class="kw">cqpReader</span>(<span class="st">&#39;results/vfimp.csv&#39;</span>, <span class="st">&#39;vfimp&#39;</span>, data)
@@ -1423,7 +1266,7 @@ data.rel =<span class="st"> </span><span class="kw">group_by</span>(data, period
 <span class="st">  </span><span class="kw">stat_summary</span>(<span class="dt">fun.y=</span>mean, <span class="dt">geom=</span><span class="st">&quot;point&quot;</span>, <span class="dt">size =</span> <span class="dv">3</span>, <span class="kw">aes</span>(<span class="dt">shape =</span> collection, <span class="dt">colour =</span> collection)) +
 <span class="st">  </span><span class="kw">theme_bw</span>() +
 <span class="st">  </span><span class="kw">theme</span>(<span class="dt">legend.position=</span><span class="st">&quot;bottom&quot;</span>)</code></pre></div>
-<p><img src="tutorial_files/figure-html/unnamed-chunk-9-1.png" /></p>
+<p><img src="index_files/figure-html/unnamed-chunk-9-1.png" /></p>
 <p>And infinitives:</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># read infinitives</span>
 data =<span class="st"> </span><span class="kw">cqpReader</span>(<span class="st">&#39;results/vfinf.csv&#39;</span>, <span class="st">&#39;vfinf&#39;</span>, data)
@@ -1434,7 +1277,7 @@ data.rel =<span class="st"> </span><span class="kw">group_by</span>(data, period
 <span class="st">  </span><span class="kw">stat_summary</span>(<span class="dt">fun.y=</span>mean, <span class="dt">geom=</span><span class="st">&quot;point&quot;</span>, <span class="dt">size =</span> <span class="dv">3</span>, <span class="kw">aes</span>(<span class="dt">shape =</span> collection, <span class="dt">colour =</span> collection)) +
 <span class="st">  </span><span class="kw">theme_bw</span>() +
 <span class="st">  </span><span class="kw">theme</span>(<span class="dt">legend.position=</span><span class="st">&quot;bottom&quot;</span>)</code></pre></div>
-<p><img src="tutorial_files/figure-html/unnamed-chunk-10-1.png" /></p>
+<p><img src="index_files/figure-html/unnamed-chunk-10-1.png" /></p>
 <p>Let’s put all this together to be able to compare better the evolution of this phenomena:</p>
 <!-- # Bibliography -->
 <div id="refs" class="references">

@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta name="author" content="José Manuel Martínez Martínez" />
+
+
+<title>Get your corpus in CQPweb: a tutorial</title>
+
+<script src="index_files/jquery-1.11.3/jquery.min.js"></script>
+<script src="index_files/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="index_files/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="index_files/tocify-1.9.1/jquery.tocify.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="index_files/bootstrap-3.3.5/css/cerulean.min.css" rel="stylesheet" />
+<script src="index_files/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="index_files/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="index_files/bootstrap-3.3.5/shim/respond.min.js"></script>
+
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+div.sourceCode { overflow-x: auto; }
+table.sourceCode, tr.sourceCode, td.lineNumbers, td.sourceCode {
+  margin: 0; padding: 0; vertical-align: baseline; border: none; }
+table.sourceCode { width: 100%; line-height: 100%; }
+td.lineNumbers { text-align: right; padding-right: 4px; padding-left: 4px; background-color: #dddddd; }
+td.sourceCode { padding-left: 5px; }
+code > span.kw { font-weight: bold; } /* Keyword */
+code > span.dt { color: #800000; } /* DataType */
+code > span.dv { color: #0000ff; } /* DecVal */
+code > span.bn { color: #0000ff; } /* BaseN */
+code > span.fl { color: #800080; } /* Float */
+code > span.ch { color: #ff00ff; } /* Char */
+code > span.st { color: #dd0000; } /* String */
+code > span.co { color: #808080; font-style: italic; } /* Comment */
+code > span.al { color: #00ff00; font-weight: bold; } /* Alert */
+code > span.fu { color: #000080; } /* Function */
+code > span.er { color: #ff0000; font-weight: bold; } /* Error */
+code > span.wa { color: #ff0000; font-weight: bold; } /* Warning */
+code > span.cn { color: #000000; } /* Constant */
+code > span.sc { color: #ff00ff; } /* SpecialChar */
+code > span.vs { color: #dd0000; } /* VerbatimString */
+code > span.ss { color: #dd0000; } /* SpecialString */
+code > span.im { } /* Import */
+code > span.va { } /* Variable */
+code > span.cf { } /* ControlFlow */
+code > span.op { } /* Operator */
+code > span.bu { } /* BuiltIn */
+code > span.ex { } /* Extension */
+code > span.pp { font-weight: bold; } /* Preprocessor */
+code > span.at { } /* Attribute */
+code > span.do { color: #808080; font-style: italic; } /* Documentation */
+code > span.an { color: #808080; font-weight: bold; font-style: italic; } /* Annotation */
+code > span.cv { color: #808080; font-weight: bold; font-style: italic; } /* CommentVar */
+code > span.in { color: #808080; font-weight: bold; font-style: italic; } /* Information */
+</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script src="index_files/navigation/tabsets.js"></script>
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+<script>
+$(document).ready(function ()  {
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: "h1.title, .toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.9em;
+  padding-left: 5px;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="fluid-row" id="header">
+
+
+<h1 class="title">Get your corpus in CQPweb: a tutorial</h1>
+<h4 class="author"><em>José Manuel Martínez Martínez</em></h4>
+<h4 class="date"><em>1 February 2016</em></h4>
+
+</div>
+
+
+<div id="introduction" class="section level1 tabset tabset-fade tabset-pills">
+<h1>Introduction</h1>
+<p>If you are reading this, you probably come from the <a href="index.html">SaCoCo tutorial</a>, you have access to a CQPweb installation as administrator, and you want to encode the corpus. We document below two approaches:</p>
+<ol style="list-style-type: decimal">
+<li>advanced</li>
+<li>“easy”</li>
+</ol>
+<p>The first approach is more involved, but allows for much more control and freedom. The second might be helpful, specially if you are a beginner, and the annotation of your corpus is pretty basic.</p>
+<div id="advanced" class="section level2">
+<h2>Advanced</h2>
+<p>Let’s assume that you have:</p>
+<ul>
+<li><code>cqp</code> installed in your computer</li>
+<li>administrator access to a CQPweb installation</li>
+<li>root access to the server where the CQPweb lives</li>
+</ul>
+<div id="encode-the-corpus-for-the-cwb" class="section level3">
+<h3>Encode the corpus for the CWB</h3>
+<p>The first thing we need to do is to encode the corpus. This process will create a number of files that will enable to use the CQP language to query the corpus.</p>
+<p>Once we have the texts in VRT format, encoding the corpus for the CWB is relatively easy.</p>
+<p>Check that you have the corpus work bench installed in the computer, if not, download it and follow these <a href="http://cwb.sourceforge.net/download.php">instructions</a>. We compiled from source version 3.4.8.</p>
+<p>Now, run the following commands:</p>
+<div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="co"># create the target folder for encoded data</span>
+<span class="kw">mkdir</span> -p data/cqp/data
+<span class="co"># run the command</span>
+<span class="kw">cwb-encode</span> -c utf8 -d data/cqp/data -F data/contemporary/meta/ -F data/historical/meta -R data/cqp/sacoco -xsB -S text:0+id+collection+source+year+decade+period+title -S p:0 -S s:0 -P pos -P lemma -P norm
+<span class="co"># generate the registry file</span>
+<span class="kw">cwb-make</span> -r data/cqp -V SACOCO</code></pre></div>
+<p>The <code>cwb-encode</code>’s parameters explained:</p>
+<ul>
+<li><code>-c</code> to the declare the character encoding</li>
+<li><code>-d</code> path to the target directory were the output will be stored</li>
+<li><code>-F</code> path to the input directory were the VRT files are located</li>
+<li><code>-R</code> path to the registry file</li>
+<li><code>-xsB</code>
+<ul>
+<li><code>x</code> for XML compatibility mode (recognises default entities and skips comments as well as an XML declaration)</li>
+<li><code>s</code> to skip blank lines in the input</li>
+<li><code>B</code> to strip whitespace from tokens</li>
+</ul></li>
+<li><code>-S</code> to declare a structural attribute, example:
+<ul>
+<li><code>-S text:0+id+authors/</code></li>
+<li><code>text</code>, structural attribute to be declared</li>
+<li><code>0</code> embedding levels</li>
+<li><code>id</code> will be an attribute of <code>text</code> containing some value</li>
+</ul></li>
+<li><code>-P</code> to declare positional attributes</li>
+</ul>
+<p>Get extensive information on how to encode corpora for the CWB in the <a href="http://cwb.sourceforge.net/files/CWB_Encoding_Tutorial.pdf">encoding tutorial</a>.</p>
+<blockquote>
+<p>TIP: for development/testing purposes, just run the command below on the test files.</p>
+</blockquote>
+<div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="co"># create the target folder for encoded data</span>
+<span class="kw">mkdir</span> -p test/cqp/data
+<span class="co"># run the command</span>
+<span class="kw">cwb-encode</span> -c utf8 -d test/cqp/data -F test/contemporary/meta/ -F test/historical/meta -R test/cqp/sacoco -xsB -S text:0+id+collection+source+year+decade+period+title -S p:0 -S s:0 -P pos -P lemma -P norm
+<span class="co"># generate the registry file</span>
+<span class="kw">cwb-make</span> -r test/cqp -V SACOCO</code></pre></div>
+</div>
+<div id="upload-the-corpus-to-the-server-and-set-permissions" class="section level3">
+<h3>Upload the corpus to the server and set permissions</h3>
+<p>Once you have the data you have to upload the file to the server where CQPweb is installed. In our case is the machine <code>fedora.clarin-d.uni-saarland.de</code>.</p>
+<p>In our case, one needs to connet to the server as <code>root</code> user. There are different methods to upload the files:</p>
+<ul>
+<li>via the command line with tools like <code>scp</code> or <code>rsync</code> which use the <code>ssh</code> protocol</li>
+<li>via a FTP client like <a href="https://filezilla-project.org">Filezilla</a></li>
+</ul>
+<p>Upload the local folder <code>data/cqp/sacoco/</code> to the remote folder (in the server) <code>/data2/cqpweb/indexed</code>, and the registry file <code>data/cqp/sacoco</code> to the folder <code>/data2/cqpweb/registry</code>.</p>
+<p>Once all files are uploaded, you have to check the ownership of the folder/file:</p>
+<ul>
+<li>the owner should be <code>wwwrun</code></li>
+<li>the group should be <code>www</code></li>
+</ul>
+<p>If not just run a couple of commands:</p>
+<div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">chown</span> -R wwwrun:www /data2/cqpweb/indexed/sacoco
+<span class="kw">chown</span> wwwrun:www /data2/cqpweb/registry/sacoco</code></pre></div>
+<p>Then, modify the registry file <code>/data2/cqpweb/registry/sacoco</code> to indicate the location of the corpus in the server <code>/data2/cqpweb/indexed/sacoco</code>.</p>
+</div>
+<div id="log-in-as-admin-in-cqpweb" class="section level3">
+<h3>Log in as admin in CQPweb</h3>
+<ol style="list-style-type: decimal">
+<li>Type the URL to your CQPweb installation (e.g. <a href="https://fedora.clarin-d.uni-saarland.de/cqpweb/" class="uri">https://fedora.clarin-d.uni-saarland.de/cqpweb/</a>)</li>
+<li>log in with an administrator account, you are redirected to your user account</li>
+<li>click on <code>Go to admin control panel</code> in the lefthand menu <strong>Account actions</strong>.</li>
+</ol>
+</div>
+<div id="installing-the-corpus" class="section level3">
+<h3>Installing the corpus</h3>
+<p>We can now start installing the corpus:</p>
+<ol style="list-style-type: decimal">
+<li>click on <code>Install a new corpus</code> in the left menu <strong>Corpora</strong></li>
+<li>click on the link <code>Click here to install a corpus you have already indexed in CWB.</code> which you will find in the grey row at the top of the page.</li>
+<li>Fill in the fields
+<ol style="list-style-type: decimal">
+<li>Specify a MySQL name for this corpus: <code>sacoco</code></li>
+<li>Enter the full name of the corpus: <code>Saarbrücken Cookbook Corpus</code></li>
+<li>Specify the CWB name (lowercase format): <code>sacoco</code></li>
+</ol></li>
+<li>Click on the button <code>Install corpus with settings above</code> that you will find at the bottom of the page.</li>
+</ol>
+<p>A new page will load:</p>
+<ol style="list-style-type: decimal">
+<li>click on <code>Design and insert a text-metadata table for the corpus</code></li>
+</ol>
+<p>A new page will load:</p>
+<ol style="list-style-type: decimal">
+<li>Choose <code>sacoco.meta</code> in section <code>Choose the file containing the metadata</code></li>
+<li>Fill in the field rows in <code>Describe the contents of the file you have selected</code>, providing for <em>Handle</em> and <em>Description</em>:
+<ol style="list-style-type: decimal">
+<li>year</li>
+<li>decade</li>
+<li>period</li>
+<li>collection</li>
+<li>source</li>
+<li>title</li>
+</ol></li>
+<li>Mark <code>collection</code> as the primary category.</li>
+<li>Set <code>title</code> as free text</li>
+<li>Select <code>Yes please</code> in section <code>Do you want to automatically run frequency-list setup?</code></li>
+<li>Finally, click on the button <code>install metadata table using the settings above</code></li>
+</ol>
+<p>Now set up the annotation (positional attributes):</p>
+<ol style="list-style-type: decimal">
+<li>click on <code>Manage annotation</code>, you will find it in the left menu, in section <code>Admin Tools</code>.</li>
+<li>complete the annotation metadata information at the bottom:
+<ol style="list-style-type: decimal">
+<li>lemma: <em>Description:</em> lemma</li>
+<li>click on <code>Go!</code></li>
+<li>pos: <em>Description:</em> pos; <em>Tagset name:</em> STTS; <em>External URL:</em> <a href="http://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/TagSets/stts-table.html" class="uri">http://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/TagSets/stts-table.html</a></li>
+<li>click on <code>Go!</code></li>
+<li>norm: <em>Description</em> norm; <em>External URL:</em> <a href="http://www.deutschestextarchiv.de/doku/software#cab" class="uri">http://www.deutschestextarchiv.de/doku/software#cab</a></li>
+<li>click on <code>Go!</code></li>
+<li>set <code>pos</code> as <code>Primary annotation</code> above</li>
+<li>click on <code>Update annotation settings</code>.</li>
+</ol></li>
+</ol>
+<p>Check corpus settings:</p>
+<ol style="list-style-type: decimal">
+<li>go to <code>Corpus settings</code> in <code>Admin tools</code></li>
+<li>in <code>General options</code>:
+<ol style="list-style-type: decimal">
+<li>assign a category in field <code>The corpus is currently in the following category:</code> Historical corpora</li>
+<li>click on the <code>Update</code> button</li>
+<li>provide an external URL: <a href="http://hdl.handle.net/11858/00-246C-0000-001F-7C43-1" class="uri">http://hdl.handle.net/11858/00-246C-0000-001F-7C43-1</a></li>
+<li>clik on the <code>Update</code> button</li>
+</ol></li>
+</ol>
+<p>We set the access to this corpus open for everybody:</p>
+<ol style="list-style-type: decimal">
+<li>go to <code>Admin Control Panel</code> in <code>Admin tools</code></li>
+<li>go to <code>Manage privileges</code> in <code>Users and privileges</code></li>
+<li>scroll to the bottom of the page, there
+<ol style="list-style-type: decimal">
+<li>select <code>sacoco</code> from list <code>Generate default privileges for corpus...</code></li>
+<li>click on button <code>Generate default privileges for this corpus</code>.</li>
+</ol></li>
+<li>go to <code>Manage group grants</code> in <code>Users and privileges</code>
+<ol style="list-style-type: decimal">
+<li>scroll to the bottom, in section <code>Grant new privilege to group</code></li>
+<li>Select group <code>everybody</code></li>
+<li>Select a privilege <code>Normal access privilege for corpus [sacoco]</code></li>
+<li>click on <code>Grant privilege to group!</code></li>
+</ol></li>
+</ol>
+<p>Hurraaaaah! Corpus ready to be queried!</p>
+</div>
+</div>
+<div id="easy" class="section level2">
+<h2>“Easy”</h2>
+</div>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+$(document).ready(function () {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+});
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

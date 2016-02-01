@@ -2,7 +2,7 @@
 Universität des Saarlandes  
 29 January 2016  
 
-[![sacoco logo](tutorial_files/img/sacoco-logo.png "Saarbrücken Cookbook Corpus' logo")](http://hdl.handle.net/11858/00-246C-0000-001F-7C43-1)
+[![sacoco logo](index_files/img/sacoco-logo.png "Saarbrücken Cookbook Corpus' logo")](http://hdl.handle.net/11858/00-246C-0000-001F-7C43-1)
 
 This tutorial will show you step-by-step how to use the CLARIN-D infrastructure to compile a diachronic corpus of German cooking recipes. Afterwards, you will learn how to exploit this resource to discover how the conative function has evolved in this register during the last centuries.
 
@@ -542,7 +542,7 @@ python3 metadata4cqpweb.py -i data/metadata/contemporary-metadata.csv data/metad
 
 > TIP: for development/testing purposes, if you just run `python3 metadata4cqpweb.py`, it will work on the testing dataset stored in the test folder.
 
-### Set up a corpus in CQPweb
+## Set up a corpus in CQPweb
 
 We have all materials needed to set up a corpus in CQPweb:
 
@@ -575,168 +575,11 @@ You need now to have access to a CQPweb installation as administrator. There are
         - you have to give us the corpus and the metadata in the right format (but... wait! You have just learnt how to do it!)
         - we work together to *clarinify* the resource (not too bad either, see the section on [*clarinifying*](#integration-of-the-resource-in-the-clarin-d-infrastructure) a corpus).
 
-Let's assume that you have:
-
-- `cqp` installed in your computer
-- administrator access to a CQPweb installation
-- root access to the server where the CQPweb lives
-
 If you don't fullfil all this requirements and/or you don't have experience enough, do not worry. Just jump to the section on [*clarinifying*](#integration-of-the-resource-in-the-clarin-d-infrastructure) and leave the gory details for us.
 
-Nevertheless, we document below all the steps to get SaCoCo encoded and installed in CQPweb.
+Nevertheless, we document under a separate cover all the steps to get SaCoCo encoded and installed in CQPweb. Check [CQPweb setup tutorial](cqpwebsetup.html).
 
-#### Encode the corpus for the CWB
-
-The first thing we need to do is to encode the corpus. This process will create a number of files that will enable to use the CQP language to query the corpus.
-
-Once we have the texts in VRT format, encoding the corpus for the CWB is relatively easy.
-
-Check that you have the corpus work bench installed in the computer, if not, download it and follow these [instructions](http://cwb.sourceforge.net/download.php). We compiled from source version 3.4.8.
-
-Now, run the following commands:
-
-```bash
-# create the target folder for encoded data
-mkdir -p data/cqp/data
-# run the command
-cwb-encode -c utf8 -d data/cqp/data -F data/contemporary/meta/ -F data/historical/meta -R data/cqp/sacoco -xsB -S text:0+id+collection+source+year+decade+period+title -S p:0 -S s:0 -P pos -P lemma -P norm
-# generate the registry file
-cwb-make -r data/cqp -V SACOCO
-```
-
-The `cwb-encode`'s parameters explained:
-
-- `-c` to the declare the character encoding
-- `-d` path to the target directory were the output will be stored
-- `-F` path to the input directory were the VRT files are located
-- `-R` path to the registry file
-- `-xsB`
-    - `x` for XML compatibility mode (recognises default entities and
-skips comments as well as an XML declaration)
-    - `s` to skip blank lines in the input
-    - `B` to strip whitespace from tokens
-- `-S` to declare a structural attribute, example:
-    - `-S text:0+id+authors/`
-    - `text`, structural attribute to be declared
-    - `0` embedding levels
-    - `id` will be an attribute of `text` containing some value
-- `-P` to declare positional attributes
-
-Get extensive information on how to encode corpora for the CWB in the [encoding tutorial](http://cwb.sourceforge.net/files/CWB_Encoding_Tutorial.pdf).
-
-> TIP: for development/testing purposes, just run the command below on the test files.
-
-```bash
-# create the target folder for encoded data
-mkdir -p test/cqp/data
-# run the command
-cwb-encode -c utf8 -d test/cqp/data -F test/contemporary/meta/ -F test/historical/meta -R test/cqp/sacoco -xsB -S text:0+id+collection+source+year+decade+period+title -S p:0 -S s:0 -P pos -P lemma -P norm
-# generate the registry file
-cwb-make -r test/cqp -V SACOCO
-```
-
-#### Upload the corpus to the server and set permissions
-
-Once you have the data you have to upload the file to the server where CQPweb is installed. In our case is the machine `fedora.clarin-d.uni-saarland.de`.
-
-In our case, one needs to connet to the server as `root` user. There are different methods to upload the files:
-
-- via the command line with tools like `scp` or `rsync` which use the `ssh` protocol
-- via a FTP client like [Filezilla](https://filezilla-project.org)
-
-Upload the local folder `data/cqp/sacoco/` to the remote folder (in the server) `/data2/cqpweb/indexed`, and the registry file `data/cqp/sacoco` to the folder `/data2/cqpweb/registry`.
-
-Once all files are uploaded, you have to check the ownership of the folder/file:
-
-- the owner should be `wwwrun`
-- the group should be `www`
-
-If not just run a couple of commands:
-
-```bash
-chown -R wwwrun:www /data2/cqpweb/indexed/sacoco
-chown wwwrun:www /data2/cqpweb/registry/sacoco
-```
-
-Then, modify the registry file `/data2/cqpweb/registry/sacoco` to indicate the location of the corpus in the server `/data2/cqpweb/indexed/sacoco`.
-
-#### Log in as admin in CQPweb
-
-1. Type the URL to your CQPweb installation (e.g. <https://fedora.clarin-d.uni-saarland.de/cqpweb/>)
-1. log in with an administrator account, you are redirected to your user account
-1. click on `Go to admin control panel` in the lefthand menu **Account actions**.
-
-#### Installing the corpus
-
-We can now start installing the corpus:
-
-1. click on `Install a new corpus` in the left menu **Corpora**
-1. click on the link `Click here to install a corpus you have already indexed in CWB.` which you will find in the grey row at the top of the page.
-1. Fill in the fields
-    1. Specify a MySQL name for this corpus: `sacoco`
-    1. Enter the full name of the corpus: `Saarbrücken Cookbook Corpus`
-    1. Specify the CWB name (lowercase format): `sacoco`
-1. Click on the button `Install corpus with settings above` that you will find at the bottom of the page.
-
-
-A new page will load:
-
-1. click on `Design and insert a text-metadata table for the corpus`
-
-A new page will load:
-
-1. Choose `sacoco.meta` in section `Choose the file containing the metadata`
-1. Fill in the field rows in `Describe the contents of the file you have selected`, providing for *Handle* and *Description*:
-    1. year
-    1. decade
-    1. period
-    1. collection
-    1. source
-    1. title
-1. Mark `collection` as the primary category.
-1. Set `title` as free text
-1. Select `Yes please` in section `Do you want to automatically run frequency-list setup?`
-1. Finally, click on the button `install metadata table using the settings above`
-
-Now set up the annotation (positional attributes):
-
-1. click on `Manage annotation`, you will find it in the left menu, in section `Admin Tools`.
-1. complete the annotation metadata information at the bottom:
-    1. lemma: *Description:* lemma
-    1. click on `Go!`
-    1. pos: *Description:* pos; *Tagset name:* STTS; *External URL:* <http://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/TagSets/stts-table.html>
-    1. click on `Go!`
-    1. norm: *Description* norm; *External URL:* <http://www.deutschestextarchiv.de/doku/software#cab>
-    1. click on `Go!`
-    1. set `pos` as `Primary annotation` above
-    1. click on `Update annotation settings`.
-
-
-Check corpus settings:
-
-1. go to `Corpus settings` in `Admin tools`
-1. in `General options`:
-    1. assign a category in field `The corpus is currently in the following category:` Historical corpora
-    1. click on the `Update` button
-    1. provide an external URL: <http://hdl.handle.net/11858/00-246C-0000-001F-7C43-1>
-    1. clik on the `Update` button
-
-We set the access to this corpus open for everybody:
-
-1. go to `Admin Control Panel` in `Admin tools`
-1. go to `Manage privileges` in `Users and privileges`
-1. scroll to the bottom of the page, there
-    1. select `sacoco` from list `Generate default privileges for corpus...`
-    1. click on button `Generate default privileges for this corpus`.
-1. go to `Manage group grants` in `Users and privileges`
-    1. scroll to the bottom, in section `Grant new privilege to group`
-    1. Select group `everybody`
-    1. Select a privilege `Normal access privilege for corpus [sacoco]`
-    1. click on `Grant privilege to group!`
-
-Hurraaaaah! Corpus ready to be queried!
-
-## Integration of the resource in the CLARIN-D infrastructure
+## Integration in the CLARIN-D infrastructure
 
 We have created our resource. Now, we can *clarinify* it by:
 
@@ -1103,7 +946,7 @@ ggplot(data=data.rel, aes(x=period, y=pers2.rel, group=period)) +
   theme(legend.position="bottom")
 ```
 
-![](tutorial_files/figure-html/unnamed-chunk-7-1.png)
+![](index_files/figure-html/unnamed-chunk-7-1.png)
 
 We repeat the same procedure for indefinite pronouns:
 
@@ -1120,7 +963,7 @@ ggplot(data=data.rel, aes(x=period, y=pisp.rel, group=period)) +
   theme(legend.position="bottom")
 ```
 
-![](tutorial_files/figure-html/unnamed-chunk-8-1.png)
+![](index_files/figure-html/unnamed-chunk-8-1.png)
 
 Imperatives:
 
@@ -1137,7 +980,7 @@ ggplot(data=data.rel, aes(x=period, y=vfimp.rel, group=period)) +
   theme(legend.position="bottom")
 ```
 
-![](tutorial_files/figure-html/unnamed-chunk-9-1.png)
+![](index_files/figure-html/unnamed-chunk-9-1.png)
 
 And infinitives:
 
@@ -1154,7 +997,7 @@ ggplot(data=data.rel, aes(x=period, y=vfinf.rel, group=period)) +
   theme(legend.position="bottom")
 ```
 
-![](tutorial_files/figure-html/unnamed-chunk-10-1.png)
+![](index_files/figure-html/unnamed-chunk-10-1.png)
 
 Let's put all this together to be able to compare better the evolution of this phenomena:
 

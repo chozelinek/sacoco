@@ -1,0 +1,10 @@
+html_document:
+  highlight: kate
+  keep_md: yes
+  number_sections: no
+  self_contained: no
+  theme: cerulean
+  toc: yes
+  toc_depth: 3
+  toc_float: true
+  lib_dir: index_files
