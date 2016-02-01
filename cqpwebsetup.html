@@ -15,9 +15,6 @@
 <title>Get your corpus in CQPweb: a tutorial</title>
 
 <script src="index_files/jquery-1.11.3/jquery.min.js"></script>
-<script src="index_files/jqueryui-1.11.4/jquery-ui.min.js"></script>
-<link href="index_files/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
-<script src="index_files/tocify-1.9.1/jquery.tocify.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="index_files/bootstrap-3.3.5/css/cerulean.min.css" rel="stylesheet" />
 <script src="index_files/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -128,93 +125,6 @@ $(document).ready(function () {
 <!-- code folding -->
 
 
-
-
-<script>
-$(document).ready(function ()  {
-    // establish options
-    var options = {
-      selectors: "h1,h2,h3",
-      theme: "bootstrap3",
-      context: '.toc-content',
-      hashGenerator: function (text) {
-        return text.replace(/[.\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
-      },
-      ignoreSelector: "h1.title, .toc-ignore",
-      scrollTo: 0
-    };
-    options.showAndHide = true;
-    options.smoothScroll = true;
-
-    // tocify
-    var toc = $("#TOC").tocify(options).data("toc-tocify");
-});
-</script>
-
-<style type="text/css">
-
-#TOC {
-  margin: 25px 0px 20px 0px;
-}
-@media (max-width: 768px) {
-#TOC {
-  position: relative;
-  width: 100%;
-}
-}
-
-.toc-content {
-  padding-left: 30px;
-  padding-right: 40px;
-}
-
-div.main-container {
-  max-width: 1200px;
-}
-
-div.tocify {
-  width: 20%;
-  max-width: 260px;
-  max-height: 85%;
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-  div.tocify {
-    width: 25%;
-  }
-}
-
-@media (max-width: 767px) {
-  div.tocify {
-    width: 100%;
-    max-width: none;
-  }
-}
-
-.tocify ul, .tocify li {
-  line-height: 20px;
-}
-
-.tocify-subheader .tocify-item {
-  font-size: 0.9em;
-  padding-left: 5px;
-}
-
-.tocify .list-group-item {
-  border-radius: 0px;
-}
-
-
-</style>
-
-<!-- setup 3col/9col grid for toc_float and main content  -->
-<div class="row-fluid">
-<div class="col-xs-12 col-sm-4 col-md-3">
-<div id="TOC" class="tocify">
-</div>
-</div>
-
-<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -399,13 +309,112 @@ div.tocify {
 </div>
 <div id="easy" class="section level2">
 <h2>“Easy”</h2>
+<p>Let’s assume that you have administrator access to a CQPweb installation. We will guide you in the following lines through the process of setting up the corpus.</p>
+<div id="concatenate-all-texts-in-a-single-corpus-vrt-file" class="section level3">
+<h3>Concatenate all texts in a single corpus VRT file</h3>
+<p>We need a single XML file containing all texts. <code>texts2corpus.py</code> helps us to ease the task.</p>
+<p><code>texts2corpus.py</code>:</p>
+<ul>
+<li>finds all <code>.vrt</code> files contained in the input folders</li>
+<li>gets the <code>&lt;text&gt;</code> nodes</li>
+<li>appends the <code>&lt;text&gt;</code> nodes to a parent element called <code>&lt;corpus&gt;</code></li>
+<li>saves <code>&lt;corpus&gt;</code> as a single XML file</li>
+</ul>
+<p>Its usage is pretty simple, just provide the path to the folders containing the <code>.vrt</code> files with metadata, and the path to the output folder:</p>
+<div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">python3</span> texts2corpus.py -i data/contemporary/meta data/historical/meta -o data/sacoco.vrt</code></pre></div>
+<blockquote>
+<p>TIP: for development/testing purposes, if you just run <code>python3 texts2corpus.py</code>, it will work on the testing dataset stored in the test folder. ```</p>
+</blockquote>
+</div>
+<div id="log-in-as-admin" class="section level3">
+<h3>Log in as admin</h3>
+<ol style="list-style-type: decimal">
+<li>Type the URL to your CQPweb installation (e.g. <a href="https://fedora.clarin-d.uni-saarland.de/cqpweb/" class="uri">https://fedora.clarin-d.uni-saarland.de/cqpweb/</a>)</li>
+<li>log in with an administrator account, you are redirected to your user account</li>
+<li>click on <code>Go to admin control panel</code> in the lefthand menu <strong>Account actions</strong>.</li>
+</ol>
+</div>
+<div id="upload-files" class="section level3">
+<h3>Upload files</h3>
+<p>We need to upload the corpus file (<code>sacoco.vrt</code>) and the metadata file (<code>sacoco.meta</code>).</p>
+<p>For each file:</p>
+<ol style="list-style-type: decimal">
+<li>click on <code>Upload a file</code> in the left menu <strong>Uploads</strong>.</li>
+<li>click on <code>Choose File</code>, a dialogue window will open, pick the file you want to upload.</li>
+<li>click on <code>Upload File</code>.</li>
+</ol>
+</div>
+<div id="installing-the-corpus-1" class="section level3">
+<h3>Installing the corpus</h3>
+<p>We can now start installing the corpus:</p>
+<ol style="list-style-type: decimal">
+<li>click on Install a new corpus in the left menu <strong>Corpora</strong></li>
+<li>in install new corpus section
+<ol style="list-style-type: decimal">
+<li>provide a MySQL name for the corpus: <code>sacoco</code></li>
+<li>provide a name for the corpus: <code>sacoco</code></li>
+<li>provide the full name of the corpus: <code>Saarbrücken Cookbook Corpus</code></li>
+</ol></li>
+<li>in <code>Select files</code> section
+<ol style="list-style-type: decimal">
+<li>select <code>sacoco.vrt</code></li>
+</ol></li>
+<li>in <code>S-attributes</code> section
+<ol style="list-style-type: decimal">
+<li>check the option on the left <code>Use custom setup</code></li>
+<li>and then add in the boxes on the right:
+<ol style="list-style-type: decimal">
+<li><code>p:0</code></li>
+</ol></li>
+</ol></li>
+<li>in <code>P-attributes</code> section
+<ol style="list-style-type: decimal">
+<li>check the option on the left <code>Use custom setup</code></li>
+<li>set the first row as <code>Primary</code></li>
+<li>add the following three positional attributes, each value is a field:
+<ol style="list-style-type: decimal">
+<li><em>Handle:</em> pos; <em>Description:</em> Part-Of-Speech; <em>Tagset:</em> STTS; <em>External URL:</em> <a href="http://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/TagSets/stts-table.html" class="uri">http://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/TagSets/stts-table.html</a></li>
+<li><em>Handle:</em> lemma; <em>Description:</em> lemma; <em>Tagset:</em> leave it empty; <em>External URL:</em> leave it empty.</li>
+<li><em>Handle:</em> norm; <em>Description:</em> orthographic correction by CAB, <em>Tagset:</em> leave it empty; <em>External URL:</em> <a href="http://www.deutschestextarchiv.de/doku/software#cab" class="uri">http://www.deutschestextarchiv.de/doku/software#cab</a></li>
+</ol></li>
+</ol></li>
+<li>click on <code>Install corpus with settings above</code> at the bottom of the page.</li>
+</ol>
+<p>A new page will load:</p>
+<ol style="list-style-type: decimal">
+<li>click on <code>Design and insert a text-metadata table for the corpus</code></li>
+</ol>
+<p>A new page will load:</p>
+<ol style="list-style-type: decimal">
+<li>Choose <code>sacoco.meta</code> in section <code>Choose the file containing the metadata</code></li>
+<li>Fill in the field rows in <code>Describe the contents of the file you have selected</code>, providing for <em>Handle</em> and <em>Description</em>:
+<ol style="list-style-type: decimal">
+<li>year</li>
+<li>decade</li>
+<li>period</li>
+<li>collection</li>
+<li>source</li>
+</ol></li>
+<li>Select <code>Yes please</code> in section <code>Do you want to automatically run frequency-list setup?</code></li>
+<li>Finally, click on the button <code>install metadata table using the settings above</code></li>
+</ol>
+</div>
+<div id="admin-tools" class="section level3">
+<h3>Admin tools</h3>
+<ul>
+<li>Corpus settings: probably nothing to do here; has been set during the installation process</li>
+<li>Manage access: to add user groups for your corpus (otherwise only the superuser can access the corpus!)</li>
+<li>Manage metadata: probably nothing to do here; has been set during the installation process</li>
+<li>Manage text categories: here you can add more “speaking” descriptions for your text categories</li>
+<li>Manage annotation: add descriptions / URLs of documentations for your positional attributes; specify primary/secondary/… annotations for the CQP Simple Query language; specifying annotations here makes them available for restrictions throughout CQPweb (e.g. for the collocation function)</li>
+<li>Manage priviliges: Scroll to end of page and generate default privileges for the corpus; select than “Manage group grants”, scroll to end of page and select a group and grant it privileges of that particular corpus (normally normal privileges are choosen)</li>
+</ul>
+</div>
 </div>
 </div>
 
 
 
-</div>
-</div>
 
 </div>
 

@@ -171,3 +171,91 @@ We set the access to this corpus open for everybody:
 Hurraaaaah! Corpus ready to be queried!
 
 ## "Easy"
+
+Let's assume that you have administrator access to a CQPweb installation. We will guide you in the following lines through the process of setting up the corpus.
+
+### Concatenate all texts in a single corpus VRT file
+
+We need a single XML file containing all texts. `texts2corpus.py` helps us to ease the task.
+
+`texts2corpus.py`:
+
+- finds all `.vrt` files contained in the input folders
+- gets the `<text>` nodes
+- appends the `<text>` nodes to a parent element called `<corpus>`
+- saves `<corpus>` as a single XML file
+
+Its usage is pretty simple, just provide the path to the folders containing the `.vrt` files with metadata, and the path to the output folder:
+
+```bash
+python3 texts2corpus.py -i data/contemporary/meta data/historical/meta -o data/sacoco.vrt
+```
+
+> TIP: for development/testing purposes, if you just run `python3 texts2corpus.py`, it will work on the testing dataset stored in the test folder.
+```
+
+### Log in as admin
+
+1. Type the URL to your CQPweb installation (e.g. <https://fedora.clarin-d.uni-saarland.de/cqpweb/>)
+1. log in with an administrator account, you are redirected to your user account
+1. click on `Go to admin control panel` in the lefthand menu **Account actions**.
+
+### Upload files
+
+We need to upload the corpus file (`sacoco.vrt`) and the metadata file (`sacoco.meta`). 
+
+For each file:
+
+1. click on `Upload a file` in the left menu **Uploads**.
+1. click on `Choose File`, a dialogue window will open, pick the file you want to upload.
+1. click on `Upload File`.
+
+### Installing the corpus
+
+We can now start installing the corpus:
+
+1. click on Install a new corpus in the left menu **Corpora**
+1. in install new corpus section
+    1. provide a MySQL name for the corpus: `sacoco`
+    1. provide a name for the corpus: `sacoco`
+    1. provide the full name of the corpus: `Saarbrücken Cookbook Corpus`
+1. in `Select files` section
+    1. select `sacoco.vrt`
+1. in `S-attributes` section
+    1. check the option on the left `Use custom setup`
+    1. and then add in the boxes on the right:
+        1. `p:0`
+1. in `P-attributes` section
+    1. check the option on the left `Use custom setup`
+    1. set the first row as `Primary`
+    1. add the following three positional attributes, each value is a field:
+        1. *Handle:* pos; *Description:* Part-Of-Speech; *Tagset:* STTS; *External URL:* <http://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/TagSets/stts-table.html>
+        1. *Handle:* lemma; *Description:* lemma; *Tagset:* leave it empty; *External URL:* leave it empty.
+        1. *Handle:* norm; *Description:* orthographic correction by CAB, *Tagset:* leave it empty; *External URL:* <http://www.deutschestextarchiv.de/doku/software#cab>
+1. click on `Install corpus with settings above` at the bottom of the page.
+
+A new page will load:
+
+1. click on `Design and insert a text-metadata table for the corpus`
+
+A new page will load:
+
+1. Choose `sacoco.meta` in section `Choose the file containing the metadata`
+1. Fill in the field rows in `Describe the contents of the file you have selected`, providing for *Handle* and *Description*:
+    1. year
+    1. decade
+    1. period
+    1. collection
+    1. source
+1. Select `Yes please` in section `Do you want to automatically run frequency-list setup?`
+1. Finally, click on the button `install metadata table using the settings above`
+
+### Admin tools
+
+- Corpus settings: probably nothing to do here; has been set during the installation process
+- Manage access: to add user groups for your corpus (otherwise only the superuser can access the corpus!)
+- Manage metadata: probably nothing to do here; has been set during the installation process
+- Manage text categories: here you can add more "speaking" descriptions for your text categories
+- Manage annotation: add descriptions / URLs of documentations for your positional attributes; specify primary/secondary/... annotations for the CQP Simple Query language; specifying annotations here makes them available for restrictions throughout CQPweb (e.g. for the collocation function)
+- Manage priviliges: Scroll to end of page and generate default privileges for the corpus; select than "Manage group grants", scroll to end of page and select a group and grant it privileges of that particular corpus (normally normal privileges are choosen)
+
