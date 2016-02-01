@@ -1,6 +1,5 @@
 html_document:
   highlight: kate
-  keep_md: yes
   number_sections: no
   self_contained: no
   theme: cerulean
