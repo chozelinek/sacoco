@@ -1,0 +1,40 @@
+# CQP instructions to extract features from the sacoco corpus
+# usage: cqp -c < sacoco.cqp
+# settings
+
+# define pronouns macros
+define macro < "utils/sacoco.macros";
+
+# select the corpus
+SACOCO;
+
+# 2nd person
+pers2 = /pers2[];
+tabulate pers2 match text_id, match text_id >"results/pers2.csv";
+discard pers2;
+
+# PIS
+pisp = /pisp[];
+tabulate pisp match text_id, match text_id >"results/pisp.csv";
+discard pisp;
+
+# Infinitiv
+vfinf = /vfinf[];
+tabulate vfinf match text_id, match text_id > "results/vfinf.csv";
+discard vfinf;
+
+# Imperativ
+vfimp = /vfimp[];
+tabulate vfimp match text_id, match text_id > "results/vfimp.csv";
+discard vfimp;
+
+
+# Tokens
+[];
+
+tabulate Last match text_id, match text_id > "results/tokens.csv";
+
+# Metadata
+<text>[];
+
+tabulate Last match text_id, match text_collection, match text_period, match text_decade, match text_year, match text_source > "results/meta.csv";

@@ -1,0 +1,117 @@
+# All second person pronouns
+MACRO pers2(0)
+(/pper2[]|/ppos2[]|/prf2[])
+;
+
+## Personal pronouns
+MACRO pper2(0)
+(/pers2_sing_pper[]|/pers2_sing_pper_hist[]|/pers2_plural_pper[])
+;
+
+MACRO pers2_sing_pper(0)
+(([lemma="du" & pos="PPER"]) | [word="[d|t]h?u" %c])
+;
+
+MACRO pers2_sing_pper_hist(0) # constructions where "tu" or "du" appear glued to a preceeding finite verb form.
+([word=".+[t|d]h?u" %c])
+;
+
+MACRO pers2_plural_pper(0)
+([lemma="ihr" & pos="PPER"])
+;
+
+## Possesive pronouns
+MACRO ppos2(0)
+(/pers2_sing_ppos[]|/pers2_plural_ppos[])
+;
+
+MACRO pers2_sing_ppos(0)
+([lemma="dein"])
+;
+
+MACRO pers2_plural_ppos(0)
+([(lemma="ihr"|word="[ij]hr.*") & pos="PPOS.*"])
+;
+
+## Reflexive pronouns
+MACRO prf2(0)
+(/pers2_sing_prf[]|/pers2_plural_prf[])
+;
+
+MACRO pers2_sing_prf(0)
+([lemma="du" & pos="PRF"])
+;
+
+MACRO pers2_plural_prf(0)
+([lemma="ihr" & pos="PRF"])
+;
+
+# Indefinite pronouns
+MACRO pisp(0)
+(/man[] | /jemand[] | /niemand[] | /irgendwer[] | /irgendjemand[])
+;
+
+## man
+MACRO man(0)
+([lemma="man" & pos="PIS"])
+;
+
+## jemand
+MACRO jemand(0)
+([word="[i|j]emand.*" %c])
+;
+
+## niemand
+MACRO niemand(0)
+([word="nie?man+d.*" %c])
+;
+
+## irgendwer
+MACRO irgendwer(0)
+([word="irgendwe.+" %c])
+;
+
+## irgendjemand
+MACRO irgendjemand(0)
+([word="irgendjemand.*" %c])
+;
+
+# Imperativ
+MACRO vfimp(0)
+(/vvimp[]|/vaimp[])
+;
+
+## VVIMP	Imperativ, voll	komm [!]
+MACRO vvimp(0)
+([pos="VVIMP"])
+;
+
+## VAIMP	Imperativ, aux	sei [ruhig !]
+MACRO vaimp(0)
+([pos="VAIMP"])
+;
+
+# Infinitiv
+MACRO vfinf(0)
+(/vvinf[]|/vainf[]|/vminf[]|/vvizu[]) # vvizu?
+;
+
+## VVINF	Infinitiv, voll	gehen, ankommen
+MACRO vvinf(0)
+([pos="VVINF"])
+;
+
+## VAINF	Infinitiv, aux	werden, sein
+MACRO vainf(0)
+([pos="VAINF"])
+;
+
+## VMINF	Infinitiv, modal	wollen
+MACRO vminf(0)
+([pos="VMINF"])
+;
+
+## VVIZU	Infinitiv mit ``zu'', voll	anzukommen, loszulassen
+MACRO vvizu(0)
+([pos="VVIZU"])
+;

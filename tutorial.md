@@ -332,7 +332,7 @@ We could process our texts directly through the user-friendly WebLicht GUI. Howe
 
 > WebLicht as a Service (WaaS) is a REST service that executes WebLicht chains. This allows you to run WebLicht chains from your UNIX shell, scripts, or programs.
 
-It means that we can write a script to automatize our interaction with WebLicht! (Sigh of relief!)
+It means that we can write a script to automatize our interaction with WebLicht!
 
 We need at least two things:
 
@@ -502,7 +502,6 @@ python3 addmetadata.py -i data/historical/vrt -m data/metadata/historical-metada
 ```
 
 > TIP: for development/testing purposes, if you just run `python3 addmetadata.py -t historical`, it will work on the testing dataset stored in the test folder.
-```
 
 ### Generate the metadata file for CQPweb
 
@@ -772,9 +771,11 @@ Go to this [URL](https://fedora.clarin-d.uni-saarland.de/cqpweb/usr/?thisQ=creat
 
 > Has the realisation of the conative function evolved along the time in the cooking recipe register?
 
-We think that this register has evolved. Our hypothesis is:
+Our hypothesis is:
 
 > Contemporary cooking recipes show lower linguistic means to address directly to the reader than historical ones.
+
+Wurm already discovered that historical texts showed differences in the way the author addressed the reader.
 
 ## Operationalisation
 
@@ -788,55 +789,276 @@ We know that German can use different means to convey the conative function. Amo
 - verbal
     - imperatives (direct)
     - infinitives (indirect)
+    
+Of course, there are more features that could help us to describe better this phenomenon. Can you think of them? How would you operationalise them? Contributions to extend this tutorial are welcome!!!
 
-The next step is to design how we can retreive this features in a systematic and effective way making use of the linguistic annotaton we have added with WebLicht.
+The next step is to design how we can retreive this features in a systematic and effective way making use of the linguistic annotation that we have added with WebLicht.
 
-Basically, we will quantify how many instances of these features can be found per text. Firt, we need to find the instances, then, we will count them. And, finally, we will describe the results and check if historical recipes significantly differ from their contemporary counterparts.
+Basically, we will quantify how many instances of these features can be found per text. Firt, we need to find the instances, then, we will count them. And, finally, we will describe the results and check if the historical recipes significantly differ from their contemporary counterparts.
 
 ### Personal pronouns
 
-second person pronouns
+Second person pronouns are a pronominal indicator of the overt intentions of the writer to engage directly with the reader.
 
-- irreflexives Personalpronomen
-- substituirendes Possessivpronomen
-- attribuirendes Possessivpronomen
-- reflexives Personalpronomen
+- *irreflexives Personalpronomen*
+- *substituirendes Possessivpronomen*
+- *attribuirendes Possessivpronomen*
+- *reflexives Personalpronomen*
 
 ### Indefinite pronouns
 
-- substituierendes Indefinitpronomen
+Indefinite pronous like *man*, *jemand*, etc. are a pronominal resource that writers can use to avoid addressing directly to the reader, but still use active voice forms.
+
+- *substituierendes Indefinitpronomen*
 
 ### Imperatives
 
-- imperatives
+The imperative is a verbal device that addresses directly to the reader, it is an order.
+
+- *Imperativ*
 
 ### Infinitives
 
-- infinitives: VVINF (full verb infinitives), VAINF (auxiliary verb infinitives), VMINF (modal verb infinitives)
+The usage of infinitives is a strategy to convey verbal instructions without using the imperative in a more impersonal fashion.
+
+- *Infinitiv*
 
 ## Feature extraction
 
+OK, we know what we are looking for. Let's see how.
+
+The CWB comes with a query language that enables the interrogation of large text collections using linguistic patterns to retrieve relevant information. We will use it to find the different features that we have discused above.
+
+Our next mission is to define the queries that will allow us to find in our corpus the phenomena discussed above.
+
 ### Queries
 
-<!-- queries -->
+CQP is a corpus query language which resambles to regular expressions, in the sense that one can define patterns aimed at capturing interesting information. The difference here is that we are not limited to write patterns only relying on word forms. We can combine any linguistic information like lemma and POS to construct more sophisticated patterns.
 
-<!-- macros -->
+We will illustrate here only the queries used for personal pronouns. If you want to check all of them see file `sacoco.cqp`.
+
+#### Personal pronouns
+
+This macro is aimed at finding personal pronouns, second person. We will look for:
+
+- personal pronouns, second person
+- possessive pronouns, second person
+- reflexive pronouns
+
+##### Personal pronouns second person
+
+- personal pronouns second person singular
+- personal pronouns second person sigular appended to a verbal form
+- personal pronouns second person plural
+
+This query aims at finding second person singular personal pronouns. We know that second person singular is a token whose lemma is `du`, and its PoS tag is `PPER`, or a token whose surface form can be `du`, `Du`, `tu`, `thu`, etc.
+
+```bash
+([lemma="du" & pos="PPER"] | [word="[d|t]h?u" %c])
+```
+
+You can check the results at <https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/concordance.php?qname=f0jfreteeu&uT=y>
+
+This one looks for tokens ending in du/tu/thu...
+
+```bash
+[word=".+[t|d]h?u" %c]
+```
+
+It returns 35 matches in 24 different texts <https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/concordance.php?qname=f0jfsqg6x5&uT=y>
+
+
+And, finally, this one just looks for tokens whose lemma is `ihr` and their PoS is `PPER`.
+
+```bash
+[lemma="ihr" & pos="PPER"]
+```
+
+This turns to be a quite rare phenomenon, just 3 hits in the whole corpus <https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/concordance.php?qname=f0jglv8w52&uT=y>.
+
+We have followed the same procedure with the rest of submacros and features.
 
 ### CQPweb: query, explore, export
 
 Now, let's get on with it!
 
-First, you will need access to our CQPweb installation
+First, you will need access to our CQPweb installation.
+
+Choose the corpus
+
+Run a query
+
+Number of hits in number of texts
+
+Get more context
+
+Get info about the text
+
+Get the distributions
+
+Save the results with tabulate
 
 <!-- step-by-step sequence -->
 
 ## Visualization and analysis of results
 
-<!-- putting all together with R -->
+So, in the last section we have seen how to use CQPweb to test our queries, imrpoved them, and also save the results.
 
-## Corpus description
+For reproducibility purposes, and to speed up the process, you can also interact with CQP from the command line.
+
+If you managed to encode the corpus, you can extract all four features (2n person personal pronouns, indefinite pronouns, imperatives, infinitives) with a `sacoco.cqp`.
+
+```bash
+# create a directory to save the results
+mkdir -p results/
+# run the cqp script to get all the extractions
+cqp -c < sacoco.cqp
+```
+
+In CQPweb we can see the result of a query at a time. But what if we want to get different representations?
+
+Well, then you can use R for that. Let's describe very briefly our corpus and the results.
+
+### Corpus description
+
+We will read the `results/meta.csv` which is a table where each row is a text, and the columns are from left to right: text ID, collection, period, decade, year, source.
+
+
+```r
+# import library to format output
+library(knitr)
+# read metadata
+data = read.csv('results/meta.csv', sep = '\t',  encoding = 'utf-8', header = F, strip.white = T)
+# rename columns
+names(data) = c('text_id','collection','period','decade','year','source')
+# print the first 5 rows to check
+kable(head(data,5))
+```
+
+
+
+text_id       collection      period   decade   year  source 
+------------  -------------  -------  -------  -----  -------
+wiki_111588   contemporary      2000     2000   2009  wiki   
+wiki_128114   contemporary      2000     2000   2009  wiki   
+wiki_128124   contemporary      2000     2000   2009  wiki   
+wiki_132233   contemporary      2000     2000   2009  wiki   
+wiki_137144   contemporary      2000     2000   2009  wiki   
+
+Then we read the table for the number of tokens:
+
+
+```r
+# import library to manipulate tables
+library(dplyr)
+# we write a function to read CQP output
+cqpReader = function(filename, feature, data){
+  # read file
+  df = read.csv(filename, sep = '\t', encoding = 'utf-8', header = F, strip.white = T)
+  # count the number of hits per text
+  df = group_by(df, V1) %>% summarise(feature = n())
+  # rename first column
+  names(df) = c('text_id',feature)
+  # merge with the original table
+  data = merge(data,df,'text_id',sort=T, all=T)
+}
+
+# read tokens
+data = cqpReader('results/tokens.csv', 'tokens', data)
+data[is.na(data)] = 0
+kable(head(data,5))
+```
+
+
+
+text_id        collection    period   decade   year  source       tokens
+-------------  -----------  -------  -------  -----  ----------  -------
+buchinger_1    historical      1700     1700   1700  Buchinger        33
+buchinger_10   historical      1700     1700   1700  Buchinger        65
+buchinger_11   historical      1700     1700   1700  Buchinger        34
+buchinger_12   historical      1700     1700   1700  Buchinger        37
+buchinger_13   historical      1700     1700   1700  Buchinger        43
+
 
 <!-- We can show this with CQPweb -->
+
+### Results
+
+
+```r
+# read personal pronouns
+data = cqpReader('results/pers2.csv', 'pers2', data)
+data[is.na(data)] = 0
+# print
+kable(head(data,5))
+```
+
+
+
+text_id        collection    period   decade   year  source       tokens   pers2
+-------------  -----------  -------  -------  -----  ----------  -------  ------
+buchinger_1    historical      1700     1700   1700  Buchinger        33       0
+buchinger_10   historical      1700     1700   1700  Buchinger        65       0
+buchinger_11   historical      1700     1700   1700  Buchinger        34       0
+buchinger_12   historical      1700     1700   1700  Buchinger        37       0
+buchinger_13   historical      1700     1700   1700  Buchinger        43       0
+
+
+```r
+# read indefinite pronouns
+data = cqpReader('results/pisp.csv', 'pisp', data)
+data[is.na(data)] = 0
+# print
+kable(head(data,5))
+```
+
+
+
+text_id        collection    period   decade   year  source       tokens   pers2   pisp
+-------------  -----------  -------  -------  -----  ----------  -------  ------  -----
+buchinger_1    historical      1700     1700   1700  Buchinger        33       0      0
+buchinger_10   historical      1700     1700   1700  Buchinger        65       0      3
+buchinger_11   historical      1700     1700   1700  Buchinger        34       0      1
+buchinger_12   historical      1700     1700   1700  Buchinger        37       0      2
+buchinger_13   historical      1700     1700   1700  Buchinger        43       0      2
+
+
+```r
+# read imperatives
+data = cqpReader('results/vfimp.csv', 'vfimp', data)
+data[is.na(data)] = 0
+# print
+kable(head(data,5))
+```
+
+
+
+text_id        collection    period   decade   year  source       tokens   pers2   pisp   vfimp
+-------------  -----------  -------  -------  -----  ----------  -------  ------  -----  ------
+buchinger_1    historical      1700     1700   1700  Buchinger        33       0      0       0
+buchinger_10   historical      1700     1700   1700  Buchinger        65       0      3       0
+buchinger_11   historical      1700     1700   1700  Buchinger        34       0      1       0
+buchinger_12   historical      1700     1700   1700  Buchinger        37       0      2       0
+buchinger_13   historical      1700     1700   1700  Buchinger        43       0      2       0
+
+
+```r
+# read infinitives
+data = cqpReader('results/vfinf.csv', 'vfinf', data)
+data[is.na(data)] = 0
+# print
+kable(head(data,5))
+```
+
+
+
+text_id        collection    period   decade   year  source       tokens   pers2   pisp   vfimp   vfinf
+-------------  -----------  -------  -------  -----  ----------  -------  ------  -----  ------  ------
+buchinger_1    historical      1700     1700   1700  Buchinger        33       0      0       0       1
+buchinger_10   historical      1700     1700   1700  Buchinger        65       0      3       0       1
+buchinger_11   historical      1700     1700   1700  Buchinger        34       0      1       0       0
+buchinger_12   historical      1700     1700   1700  Buchinger        37       0      2       0       0
+buchinger_13   historical      1700     1700   1700  Buchinger        43       0      2       0       1
 
 # Bibliography
 
