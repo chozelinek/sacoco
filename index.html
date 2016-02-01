@@ -255,7 +255,7 @@ div.tocify {
 <p>You also need the materials. Go to our GitHub <a href="https://github.com/chozelinek/sacoco">repo</a> and clone it.</p>
 <p>Ready? Steady! Go!</p>
 <div id="corpus-compilation" class="section level1">
-<h1><span class="header-section-number">1</span> Corpus compilation</h1>
+<h1>Corpus compilation</h1>
 <p>A corpus is a collection of texts in electronic format. We distinguish three main steps in the process of compiling an electronic corpus:</p>
 <ol style="list-style-type: decimal">
 <li>data acquisition and preprocessing</li>
@@ -269,11 +269,11 @@ div.tocify {
 </ul>
 <p>The <strong>historical</strong> recipes were transcribed and digitised manually by Andrea Wurm. We complemented this dataset with some transcriptions done by Glonning et al.<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a>. In parallel, we obtained a set of <strong>contemporary</strong> recipes from a wiki site devoted to cooking recipes <a href="http://www.kochwiki.org/wiki/Hauptseite">kochwiki.org</a>. Luckily, a XML dump of this site is available at the <a href="https://archive.org/download/wiki-rezeptewikiorg">Internet Archive</a>.</p>
 <p>Due to the different nature of our historical and contemporary datasets. The corpus compilation methodology althoug following a similar outline is slightly different.</p>
-<div id="data-acquisition-and-preprocessing" class="section level2">
-<h2><span class="header-section-number">1.1</span> Data acquisition and preprocessing</h2>
+<div id="data-acquisition-and-preprocessing" class="section level2 tabset tabset-fade tabset-pills">
+<h2>Data acquisition and preprocessing</h2>
 <p>Our goal at this stage is to obtain the data in digital form. And afterwards, preprocess the material to obtain a homogenous minimalistic TEI/XML format, that we can easily integrate in our pipeline, namely: WebLicht and CQP.</p>
-<div id="contemporary-component" class="section level3">
-<h3><span class="header-section-number">1.1.1</span> Contemporary component</h3>
+<div id="contemporary-data" class="section level3">
+<h3>Contemporary data</h3>
 <p>Download a wiki dump from <a href="https://archive.org/download/wiki-rezeptewikiorg" class="uri">https://archive.org/download/wiki-rezeptewikiorg</a>. The file to be downloaded from the archive is 19.8M and gets huge when extracted (1.21G). That’s the reason why we don’t include it. The GitHub repo you downloaded includes a smaller test file, so you don’t have to download the original file for testing, if you don’t want to.</p>
 <div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="co"># dowload the dump to the data/contemporary/source folder</span>
 <span class="kw">wget</span> -P data/contemporary/source https://archive.org/download/wiki-rezeptewikiorg/rezeptewikiorg-20140325-history.xml.7z
@@ -488,9 +488,8 @@ div.tocify {
 </blockquote>
 <div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">for</span> <span class="kw">i</span> in test/contemporary/tei/*.xml<span class="kw">;</span> <span class="kw">do</span> <span class="kw">xmllint</span> --noout --relaxng utils/tei_lite.rng <span class="ot">$i</span><span class="kw">;</span> <span class="kw">done</span></code></pre></div>
 </div>
-<div id="historical-component" class="section level3">
-<h3><span class="header-section-number">1.1.2</span> Historical component</h3>
-<!-- Reference to the sources -->
+<div id="historical-data" class="section level3">
+<h3>Historical data</h3>
 <p>We take as starting point the materials in <code>data/historical/source</code>. Our goal is to generate a TEI Lite XML for each recipe, and extract the metadata.</p>
 <p>The script <code>xmlextractor.py</code> will help us with the task of normalizing our data.</p>
 <p><code>xmlextractor.py</code>:</p>
@@ -528,7 +527,7 @@ div.tocify {
 </div>
 </div>
 <div id="data-processing-with-weblicht" class="section level2">
-<h2><span class="header-section-number">1.2</span> Data processing with WebLicht</h2>
+<h2>Data processing with WebLicht</h2>
 <p>In the previous section, we have seen how to <em>shape</em> our data. Once that we have a homogenous format for both collections, we can start to process the texts with <a href="http://weblicht.sfs.uni-tuebingen.de/weblichtwiki/index.php/Main_Page"><strong>WebLicht</strong></a>.</p>
 <p>We have to process the two collections (historical and contemporary) separatly in WebLicht as we need two slightly different pipelines. In both cases, we have to perform the following steps:</p>
 <ol style="list-style-type: decimal">
@@ -544,7 +543,7 @@ div.tocify {
 </ol></li>
 </ol>
 <div id="logging-into-weblicht" class="section level3">
-<h3><span class="header-section-number">1.2.1</span> Logging into WebLicht</h3>
+<h3>Logging into WebLicht</h3>
 <p>We use the Shibboleth Authentication service to log in WebLicht. We will need an identity from a CLARIN identity provider. If your institution is not such a provider you can request an account from the CLARIN provider.</p>
 <ol style="list-style-type: decimal">
 <li>Visit the <a href="http://weblicht.sfs.uni-tuebingen.de/weblichtwiki/index.php/Main_Page">WebLicht Wiki</a>, scroll down to the bottom of the page and click on the blue button to <code>Start WebLicht</code>.</li>
@@ -560,8 +559,10 @@ div.tocify {
 </video>
 <p>If you run into problems, read the <a href="http://weblicht.sfs.uni-tuebingen.de/weblichtwiki/index.php/FAQ#Logging_In">FAQ explaining how to loggin into WebLicht</a>.</p>
 </div>
-<div id="building-the-tool-chain-to-process-contemporary-data" class="section level3">
-<h3><span class="header-section-number">1.2.2</span> Building the tool chain to process contemporary data</h3>
+<div id="building-the-tool-chain-to-process-the-data" class="section level3 tabset tabset-fade tabset-pills">
+<h3>Building the tool chain to process the data</h3>
+<div id="contemporary-tool-chain" class="section level4">
+<h4>Contemporary tool chain</h4>
 <ol style="list-style-type: decimal">
 <li>Click on <code>New Chain</code>.</li>
 <li>A window will pop-up.</li>
@@ -576,15 +577,15 @@ div.tocify {
 <li>Download the chain by clicking on <code>Download chain</code></li>
 <li>Save the XML file as <code>chain_contemporary.xml</code> in the folder <code>utils</code> of our repo.</li>
 </ol>
-<p>For informations on how to design a tool chain you can also watch the following video.</p>
+<p>For information on how to design a tool chain you can also watch the following video.</p>
 <video width="640" height="360" autobuffer controls preload="auto">
 <source src="http://weblicht.sfs.uni-tuebingen.de/weblichtwiki/extensions/HTML5video/videos/SimpleToolChain.mp4" type="video/mp4"/>
 <source src="http://weblicht.sfs.uni-tuebingen.de/weblichtwiki/extensions/HTML5video/videos/SimpleToolChain.ogv" type="video/ogg"/>
 <source src="http://weblicht.sfs.uni-tuebingen.de/weblichtwiki/extensions/HTML5video/videos/SimpleToolChain.webm" type="video/webm"/>
 </video>
 </div>
-<div id="building-the-tool-chain-to-process-historical-data" class="section level3">
-<h3><span class="header-section-number">1.2.3</span> Building the tool chain to process historical data</h3>
+<div id="historical-tool-chain" class="section level4">
+<h4>Historical tool chain</h4>
 <p>The process is exactly the same as we used before.</p>
 <ol style="list-style-type: decimal">
 <li>Click on <code>New Chain</code>.</li>
@@ -601,8 +602,9 @@ div.tocify {
 <li>Save the XML file as <code>chain_historical.xml</code> in the folder <code>scripts</code> of our repo.</li>
 </ol>
 </div>
-<div id="using-weblicht-as-a-service" class="section level3">
-<h3><span class="header-section-number">1.2.4</span> Using WebLicht as a service</h3>
+</div>
+<div id="using-weblicht-as-a-service" class="section level3 tabset tabset-fade tabset-pills">
+<h3>Using WebLicht as a service</h3>
 <p>We could now process our texts directly through the user-friendly WebLicht GUI. However, if you have thousands of recipes to be annotated, it is more efficient to use <a href="https://weblicht.sfs.uni-tuebingen.de/WaaS/"><strong>WaaS</strong></a> (WebLicht as a Service) to execute our WebLicht chains.</p>
 <blockquote>
 <p>WebLicht as a Service (WaaS) is a REST service that executes WebLicht chains. This allows you to run WebLicht chains from your UNIX shell, scripts, or programs.</p>
@@ -615,9 +617,8 @@ div.tocify {
 </ol>
 <p>We already have our WebLicht chains. For the second, go to the <a href="https://weblicht.sfs.uni-tuebingen.de/WaaS">WaaS home page</a>, click on the rigthmost menu item at the top of the page called <code>API Key</code>. You will be redirected to the already familiar authentication page, choose your institution (<code>clarin.eu website account</code> for us), provide your credentials and a new page will load. If you hit on the button <code>Generate</code> a long string will appear where it reads <code>Your API key</code>. Copy the key in a safe place and treat it like it was a password.</p>
 <p>Time to actually process our XML files with <code>WaaS</code>!</p>
-</div>
-<div id="processing-the-contemporary-recipes" class="section level3">
-<h3><span class="header-section-number">1.2.5</span> Processing the contemporary recipes</h3>
+<div id="contemporary-recipes" class="section level4">
+<h4>Contemporary recipes</h4>
 <p>We have created a python script to process the recipes with WaaS (<code>weblichtwrapper.py</code>).</p>
 <p>The goal of the script is to process all TEI/XML files in a folder with WebLicht and save the results in VRT files for their encoding as a corpus for the Corpus WorkBench (CWB).</p>
 <p>The input is tipically a folder with the TEI/XML files we created in previous sections. But in fact we could use any XML file.</p>
@@ -683,8 +684,8 @@ servieren   VVINF   servieren
 <span class="kw">&lt;/p&gt;</span>
 <span class="kw">&lt;/text&gt;</span></code></pre></div>
 </div>
-<div id="processing-the-historical-recipes" class="section level3">
-<h3><span class="header-section-number">1.2.6</span> Processing the historical recipes</h3>
+<div id="historical-recipes" class="section level4">
+<h4>Historical recipes</h4>
 <p>The procedure is exactly the same, the only differences are: the location of the input files, and the chain to be used.</p>
 <div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">python3</span> waaswrapper.py -i data/historical/tei -c utils/chain_historical.xml -o data/historical/vrt</code></pre></div>
 <blockquote>
@@ -692,8 +693,9 @@ servieren   VVINF   servieren
 </blockquote>
 </div>
 </div>
+</div>
 <div id="corpus-encoding-for-cqpweb" class="section level2">
-<h2><span class="header-section-number">1.3</span> Corpus encoding for CQPweb</h2>
+<h2>Corpus encoding for CQPweb</h2>
 <p>We are going to encode our corpus for the <a href="http://cwb.sourceforge.net">IMS Open Corpus WorkBench</a> (a tool initially developed at IMS Stuttgart). This tool will allow us to query the corpus making the most of the annotation we have obtained with WebLicht.</p>
 <p>The CWB expects XML files where two kind of attributes can be added:</p>
 <ul>
@@ -706,8 +708,8 @@ servieren   VVINF   servieren
 <li>adding the metadata to the VRT files</li>
 <li>generate a metadata file for the CQPweb</li>
 </ol>
-<div id="add-the-metadata-to-the-vrt-files" class="section level3">
-<h3><span class="header-section-number">1.3.1</span> Add the metadata to the VRT files</h3>
+<div id="add-the-metadata-to-the-vrt-files" class="section level3 tabset tabset-fade tabset-pills">
+<h3>Add the metadata to the VRT files</h3>
 <p>To add the metadata as structural attributes we need:</p>
 <ul>
 <li>VRT files</li>
@@ -736,7 +738,7 @@ hacken  VVINF   hacken
 <span class="kw">&lt;/p&gt;</span>
 <span class="kw">&lt;/text&gt;</span></code></pre></div>
 <div id="add-metadata-to-the-contemporary-recipes" class="section level4">
-<h4><span class="header-section-number">1.3.1.1</span> Add metadata to the contemporary recipes</h4>
+<h4>Add metadata to the contemporary recipes</h4>
 <p>We use <code>addmetadata.py</code> Python script by running the following command:</p>
 <div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">python3</span> addmetadata.py -i data/contemporary/vrt -m data/metadata/contemporary-metadata.csv -o data/contemporary/meta</code></pre></div>
 <blockquote>
@@ -744,7 +746,7 @@ hacken  VVINF   hacken
 </blockquote>
 </div>
 <div id="add-metadata-to-the-historical-recipes" class="section level4">
-<h4><span class="header-section-number">1.3.1.2</span> Add metadata to the historical recipes</h4>
+<h4>Add metadata to the historical recipes</h4>
 <p>We need to run the command also on the historical recipes indicating the corresponding metadata file, the location of the input files, and the path for the output.</p>
 <div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">python3</span> addmetadata.py -i data/historical/vrt -m data/metadata/historical-metadata.csv -o data/historical/meta</code></pre></div>
 <blockquote>
@@ -753,7 +755,7 @@ hacken  VVINF   hacken
 </div>
 </div>
 <div id="generate-the-metadata-file-for-cqpweb" class="section level3">
-<h3><span class="header-section-number">1.3.2</span> Generate the metadata file for CQPweb</h3>
+<h3>Generate the metadata file for CQPweb</h3>
 <p>CQPweb helps us to calculate distributions across different subcorpora. Typically, this subcorpora are the result of splitting our corpus according to some variables contained in the metadata. To achieve this we only need to pass once a metadata file containing for each text the value of the fields we are interested in.</p>
 <p>We have already generated two metadata tables:</p>
 <ul>
@@ -786,7 +788,7 @@ hacken  VVINF   hacken
 </blockquote>
 </div>
 <div id="set-up-a-corpus-in-cqpweb" class="section level3">
-<h3><span class="header-section-number">1.3.3</span> Set up a corpus in CQPweb</h3>
+<h3>Set up a corpus in CQPweb</h3>
 <p>We have all materials needed to set up a corpus in CQPweb:</p>
 <ul>
 <li>the texts in VRT format</li>
@@ -845,7 +847,7 @@ hacken  VVINF   hacken
 <p>If you don’t fullfil all this requirements and/or you don’t have experience enough, do not worry. Just jump to the section on <a href="#integration-of-the-resource-in-the-clarin-d-infrastructure"><em>clarinifying</em></a> and leave the gory details for us.</p>
 <p>Nevertheless, we document below all the steps to get SaCoCo encoded and installed in CQPweb.</p>
 <div id="encode-the-corpus-for-the-cwb" class="section level4">
-<h4><span class="header-section-number">1.3.3.1</span> Encode the corpus for the CWB</h4>
+<h4>Encode the corpus for the CWB</h4>
 <p>The first thing we need to do is to encode the corpus. This process will create a number of files that will enable to use the CQP language to query the corpus.</p>
 <p>Once we have the texts in VRT format, encoding the corpus for the CWB is relatively easy.</p>
 <p>Check that you have the corpus work bench installed in the computer, if not, download it and follow these <a href="http://cwb.sourceforge.net/download.php">instructions</a>. We compiled from source version 3.4.8.</p>
@@ -889,7 +891,7 @@ hacken  VVINF   hacken
 <span class="kw">cwb-make</span> -r test/cqp -V SACOCO</code></pre></div>
 </div>
 <div id="upload-the-corpus-to-the-server-and-set-permissions" class="section level4">
-<h4><span class="header-section-number">1.3.3.2</span> Upload the corpus to the server and set permissions</h4>
+<h4>Upload the corpus to the server and set permissions</h4>
 <p>Once you have the data you have to upload the file to the server where CQPweb is installed. In our case is the machine <code>fedora.clarin-d.uni-saarland.de</code>.</p>
 <p>In our case, one needs to connet to the server as <code>root</code> user. There are different methods to upload the files:</p>
 <ul>
@@ -908,7 +910,7 @@ hacken  VVINF   hacken
 <p>Then, modify the registry file <code>/data2/cqpweb/registry/sacoco</code> to indicate the location of the corpus in the server <code>/data2/cqpweb/indexed/sacoco</code>.</p>
 </div>
 <div id="log-in-as-admin-in-cqpweb" class="section level4">
-<h4><span class="header-section-number">1.3.3.3</span> Log in as admin in CQPweb</h4>
+<h4>Log in as admin in CQPweb</h4>
 <ol style="list-style-type: decimal">
 <li>Type the URL to your CQPweb installation (e.g. <a href="https://fedora.clarin-d.uni-saarland.de/cqpweb/" class="uri">https://fedora.clarin-d.uni-saarland.de/cqpweb/</a>)</li>
 <li>log in with an administrator account, you are redirected to your user account</li>
@@ -916,7 +918,7 @@ hacken  VVINF   hacken
 </ol>
 </div>
 <div id="installing-the-corpus" class="section level4">
-<h4><span class="header-section-number">1.3.3.4</span> Installing the corpus</h4>
+<h4>Installing the corpus</h4>
 <p>We can now start installing the corpus:</p>
 <ol style="list-style-type: decimal">
 <li>click on <code>Install a new corpus</code> in the left menu <strong>Corpora</strong></li>
@@ -998,7 +1000,7 @@ hacken  VVINF   hacken
 </div>
 </div>
 <div id="integration-of-the-resource-in-the-clarin-d-infrastructure" class="section level2">
-<h2><span class="header-section-number">1.4</span> Integration of the resource in the CLARIN-D infrastructure</h2>
+<h2>Integration of the resource in the CLARIN-D infrastructure</h2>
 <p>We have created our resource. Now, we can <em>clarinify</em> it by:</p>
 <ul>
 <li>getting a <a href="http://www.clarin.eu/content/persistent-identifiers">PID</a> (Persistent IDentifier) for the corpus</li>
@@ -1018,7 +1020,7 @@ hacken  VVINF   hacken
 </div>
 </div>
 <div id="corpus-exploitation" class="section level1">
-<h1><span class="header-section-number">2</span> Corpus exploitation</h1>
+<h1>Corpus exploitation</h1>
 <p>Our diachronic corpus of cooking recipes in German is now ready to be used. We will proceed as follows:</p>
 <ol style="list-style-type: decimal">
 <li>We will pose our research question.</li>
@@ -1029,7 +1031,7 @@ hacken  VVINF   hacken
 <p>If you want to reproduce every step that we will show you below, you will need to get a user for our <a href="https://fedora.clarin-d.uni-saarland.de/cqpweb">CQPweb installation</a>.</p>
 <p>Go to this <a href="https://fedora.clarin-d.uni-saarland.de/cqpweb/usr/?thisQ=create&amp;uT=y">URL</a> to create a new account. Follow the instructions, and you will have access to SaCoCo in a few minutes.</p>
 <div id="research-question" class="section level2">
-<h2><span class="header-section-number">2.1</span> Research question</h2>
+<h2>Research question</h2>
 <blockquote>
 <p>Has the realisation of the conative function evolved along the time in the cooking recipe register?</p>
 </blockquote>
@@ -1040,7 +1042,7 @@ hacken  VVINF   hacken
 <p>Wurm already discovered that historical texts showed differences in the way the author addressed the reader.</p>
 </div>
 <div id="operationalisation" class="section level2">
-<h2><span class="header-section-number">2.2</span> Operationalisation</h2>
+<h2>Operationalisation</h2>
 <blockquote>
 <p>In research design, […] operationalization is a process of defining the measurement of a phenomenon that is not directly measurable, though its existence is indicated by other phenomena.</p>
 </blockquote>
@@ -1061,7 +1063,7 @@ hacken  VVINF   hacken
 <p>The next step is to design how we can retreive this features in a systematic and effective way making use of the linguistic annotation that we have added with WebLicht.</p>
 <p>Basically, we will quantify how many instances of these features can be found per text. Firt, we need to find the instances, then, we will count them. And, finally, we will describe the results and check if the historical recipes significantly differ from their contemporary counterparts.</p>
 <div id="personal-pronouns" class="section level3">
-<h3><span class="header-section-number">2.2.1</span> Personal pronouns</h3>
+<h3>Personal pronouns</h3>
 <p>Second person pronouns are a pronominal indicator of the overt intentions of the writer to engage directly with the reader.</p>
 <ul>
 <li><em>irreflexives Personalpronomen</em></li>
@@ -1071,21 +1073,21 @@ hacken  VVINF   hacken
 </ul>
 </div>
 <div id="indefinite-pronouns" class="section level3">
-<h3><span class="header-section-number">2.2.2</span> Indefinite pronouns</h3>
+<h3>Indefinite pronouns</h3>
 <p>Indefinite pronous like <em>man</em>, <em>jemand</em>, etc. are a pronominal resource that writers can use to avoid addressing directly to the reader, but still use active voice forms.</p>
 <ul>
 <li><em>substituierendes Indefinitpronomen</em></li>
 </ul>
 </div>
 <div id="imperatives" class="section level3">
-<h3><span class="header-section-number">2.2.3</span> Imperatives</h3>
+<h3>Imperatives</h3>
 <p>The imperative is a verbal device that addresses directly to the reader, it is an order.</p>
 <ul>
 <li><em>Imperativ</em></li>
 </ul>
 </div>
 <div id="infinitives" class="section level3">
-<h3><span class="header-section-number">2.2.4</span> Infinitives</h3>
+<h3>Infinitives</h3>
 <p>The usage of infinitives is a strategy to convey verbal instructions without using the imperative in a more impersonal fashion.</p>
 <ul>
 <li><em>Infinitiv</em></li>
@@ -1093,16 +1095,16 @@ hacken  VVINF   hacken
 </div>
 </div>
 <div id="feature-extraction" class="section level2">
-<h2><span class="header-section-number">2.3</span> Feature extraction</h2>
+<h2>Feature extraction</h2>
 <p>OK, we know what we are looking for. Let’s see how.</p>
 <p>The CWB comes with a query language that enables the interrogation of large text collections using linguistic patterns to retrieve relevant information. We will use it to find the different features that we have discused above.</p>
 <p>Our next mission is to define the queries that will allow us to find in our corpus the phenomena discussed above.</p>
 <div id="queries" class="section level3">
-<h3><span class="header-section-number">2.3.1</span> Queries</h3>
+<h3>Queries</h3>
 <p>CQP is a corpus query language which resambles to regular expressions, in the sense that one can define patterns aimed at capturing interesting information. The difference here is that we are not limited to write patterns only relying on word forms. We can combine any linguistic information like lemma and POS to construct more sophisticated patterns.</p>
 <p>We will illustrate here only the queries used for personal pronouns. If you want to check all of them see file <code>sacoco.cqp</code>.</p>
 <div id="personal-pronouns-1" class="section level4">
-<h4><span class="header-section-number">2.3.1.1</span> Personal pronouns</h4>
+<h4>Personal pronouns</h4>
 <p>This macro is aimed at finding personal pronouns, second person. We will look for:</p>
 <ul>
 <li>personal pronouns, second person</li>
@@ -1110,7 +1112,7 @@ hacken  VVINF   hacken
 <li>reflexive pronouns</li>
 </ul>
 <div id="personal-pronouns-second-person" class="section level5">
-<h5><span class="header-section-number">2.3.1.1.1</span> Personal pronouns second person</h5>
+<h5>Personal pronouns second person</h5>
 <ul>
 <li>personal pronouns second person singular</li>
 <li>personal pronouns second person sigular appended to a verbal form</li>
@@ -1125,28 +1127,38 @@ hacken  VVINF   hacken
 <p>And, finally, this one just looks for tokens whose lemma is <code>ihr</code> and their PoS is <code>PPER</code>.</p>
 <div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash">[<span class="ot">lemma=</span><span class="st">&quot;ihr&quot;</span> <span class="kw">&amp;</span> <span class="ot">pos=</span><span class="st">&quot;PPER&quot;</span>]</code></pre></div>
 <p>This turns to be a quite rare phenomenon, just 3 hits in the whole corpus <a href="https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/concordance.php?qname=f0jglv8w52&amp;uT=y" class="uri">https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/concordance.php?qname=f0jglv8w52&amp;uT=y</a>.</p>
-<p>We have followed the same procedure with the rest of submacros and features.</p>
+<p>In order to see the development of the different features, you have to repeat the steps for all features. Below you can see how to explore a combination of the three queries above in CQPweb and how to visualize the results in CQPweb and/or R.</p>
 </div>
 </div>
 </div>
 </div>
 <div id="exploration-and-visualization" class="section level2 tabset tabset-fade tabset-pills">
-<h2><span class="header-section-number">2.4</span> Exploration and visualization</h2>
+<h2>Exploration and visualization</h2>
 <div id="cqpweb" class="section level3">
-<h3><span class="header-section-number">2.4.1</span> CQPweb</h3>
+<h3>CQPweb</h3>
 <p>Now, let’s get on with it!</p>
-<p>First, you will need access to our CQPweb installation.</p>
-<p>Choose the corpus</p>
-<p>Run a query</p>
-<p>Number of hits in number of texts</p>
-<p>Get more context</p>
-<p>Get info about the text</p>
-<p>Get the distributions</p>
-<p>Save the results with tabulate</p>
+<p>First, you will need access to our <a href="https://fedora.clarin-d.uni-saarland.de/cqpweb/">CQPweb installation</a>.</p>
+<p>Choose the corpus: in our case <a href="https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/">SaCoCo</a></p>
+<p>Run a query, e.g. combining the queries for personal pronouns second person</p>
+<div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">(</span>[<span class="ot">lemma=</span><span class="st">&quot;du&quot;</span> <span class="kw">&amp;</span> <span class="ot">pos=</span><span class="st">&quot;PPER&quot;</span>] <span class="kw">|</span> [<span class="ot">word=</span><span class="st">&quot;[d|t]h?u&quot;</span> <span class="kw">%c</span>]<span class="kw">)</span>
+<span class="kw">|</span>
+[<span class="ot">word=</span><span class="st">&quot;.+[t|d]h?u&quot;</span> <span class="kw">%c</span>]
+<span class="kw">|</span>
+[<span class="ot">lemma=</span><span class="st">&quot;ihr&quot;</span> <span class="kw">&amp;</span> <span class="ot">pos=</span><span class="st">&quot;PPER&quot;</span>]</code></pre></div>
+<p><a href="https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/concordance.php?theData=%28%28%5Blemma%3D%22du%22+%26+pos%3D%22PPER%22%5D%29+%7C+%5Bword%3D%22%5Bd%7Ct%5Dh%3Fu%22+%25c%5D%29+%7C+%28%5Bword%3D%22.%2B%5Bt%7Cd%5Dh%3Fu%22+%25c%5D%29+%7C+%28%5Blemma%3D%22ihr%22+%26+pos%3D%22PPER%22%5D%29&amp;qmode=cqp&amp;pp=50&amp;del=begin&amp;t=&amp;del=end&amp;uT=y">https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/concordance.php?theData=%28%28[lemma%3D%22du%22+%26+pos%3D%22PPER%22]%29+|+[word%3D%22[d|t]h%3Fu%22+%25c]%29+|+%28[word%3D%22.%2B[t|d]h%3Fu%22+%25c]%29+|+%28[lemma%3D%22ihr%22+%26+pos%3D%22PPER%22]%29&amp;qmode=cqp&amp;pp=50&amp;del=begin&amp;t=&amp;del=end&amp;uT=y</a></p>
+<p>The headline above the concordance gives you information on your query, the number of hits, in how many different texts, etc.</p>
+<p><strong>You can now explore the results more closely:</strong></p>
+<p>Click on one of the instances to get more context: <a href="https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/context.php?batch=0&amp;qname=f0k6o1vuih&amp;uT=y" class="uri">https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/context.php?batch=0&amp;qname=f0k6o1vuih&amp;uT=y</a></p>
+<p>Click on the text ID at the beginning of each concordance line to get information about the text: <a href="https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/textmeta.php?text=wiki_270173&amp;uT=y" class="uri">https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/textmeta.php?text=wiki_270173&amp;uT=y</a></p>
+<p><strong>Use the powerful post-processing of CQPweb</strong>, which is available as a drop-down-menu in the upper right corner:</p>
+<p>Choose “Frequency breakdown” and click “Go” to get a frequency list of your query: <a href="https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/redirect.php?redirect=breakdown&amp;pp=50&amp;qname=f0k6o1vuih&amp;uT=y" class="uri">https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/redirect.php?redirect=breakdown&amp;pp=50&amp;qname=f0k6o1vuih&amp;uT=y</a></p>
+<p>or Choose “Distribution” and click “Go” to get a distribution of the query results across the subcorpora, in our case, the development over time.</p>
+<p>either as “distribution table”: <a href="https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/redirect.php?redirect=distribution&amp;pp=50&amp;qname=f0k6o1vuih&amp;uT=y" class="uri">https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/redirect.php?redirect=distribution&amp;pp=50&amp;qname=f0k6o1vuih&amp;uT=y</a></p>
+<p>or as “bar chart”: <a href="https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/redirect.php?classification=__all&amp;showDistAs=graph&amp;crosstabsClass=__none&amp;redirect=refreshDistribution&amp;qname=f0k6o1vuih&amp;pp=50&amp;uT=y" class="uri">https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/redirect.php?classification=__all&amp;showDistAs=graph&amp;crosstabsClass=__none&amp;redirect=refreshDistribution&amp;qname=f0k6o1vuih&amp;pp=50&amp;uT=y</a></p>
 <!-- step-by-step sequence -->
 </div>
 <div id="r" class="section level3">
-<h3><span class="header-section-number">2.4.2</span> R</h3>
+<h3>R</h3>
 <p>So, in the last section we have seen how to use CQPweb to test our queries, improved them, and also save the results.</p>
 <p>For reproducibility purposes, and to speed up the process, you can also interact with CQP from the command line.</p>
 <p>If you managed to encode the corpus, you can extract all four features (2n person personal pronouns, indefinite pronouns, imperatives, infinitives) with a <code>sacoco.cqp</code>.</p>
@@ -1157,7 +1169,7 @@ hacken  VVINF   hacken
 <p>In CQPweb we can see the result of a query at a time. But what if we want to get different representations?</p>
 <p>Well, then you can use R for that. Let’s describe very briefly our corpus and the results.</p>
 <div id="corpus-description" class="section level4">
-<h4><span class="header-section-number">2.4.2.1</span> Corpus description</h4>
+<h4>Corpus description</h4>
 <p>We will read the <code>results/meta.csv</code> which is a table where each row is a text, and the columns are from left to right: text ID, collection, period, decade, year, source.</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># import library to format output</span>
 <span class="kw">library</span>(knitr)
@@ -1372,7 +1384,7 @@ data[<span class="kw">is.na</span>(data)] =<span class="st"> </span><span class=
 <!-- We can show this with CQPweb -->
 </div>
 <div id="results" class="section level4">
-<h4><span class="header-section-number">2.4.2.2</span> Results</h4>
+<h4>Results</h4>
 <p>We read the file for the personal pronouns:</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># read personal pronouns</span>
 data =<span class="st"> </span><span class="kw">cqpReader</span>(<span class="st">&#39;results/pers2.csv&#39;</span>, <span class="st">&#39;pers2&#39;</span>, data)
