@@ -738,6 +738,7 @@ First, you will need access to our [CQPweb installation](https://fedora.clarin-d
 Choose the corpus: in our case [SaCoCo](https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/)
 
 Run a query, e.g. [combining the queries for personal pronouns second person](https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/concordance.php?theData=%28%28[lemma%3D%22du%22+%26+pos%3D%22PPER%22]%29+|+[word%3D%22[d|t]h%3Fu%22+%25c]%29+|+%28[word%3D%22.%2B[t|d]h%3Fu%22+%25c]%29+|+%28[lemma%3D%22ihr%22+%26+pos%3D%22PPER%22]%29&qmode=cqp&pp=50&del=begin&t=&del=end&uT=y)
+
 ```bash
 ([lemma="du" & pos="PPER"] | [word="[d|t]h?u" %c])
 |
@@ -764,9 +765,6 @@ either as ["distribution table"](https://fedora.clarin-d.uni-saarland.de/cqpweb/
 
 or as ["bar chart"](https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/redirect.php?classification=__all&showDistAs=graph&crosstabsClass=__none&redirect=refreshDistribution&qname=f0k6o1vuih&pp=50&uT=y)
 
-
-
-<!-- step-by-step sequence -->
 
 ### R 
 
