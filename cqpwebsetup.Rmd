@@ -11,7 +11,7 @@ output:
 
 # Introduction {.tabset .tabset-fade .tabset-pills}
 
-If you are reading this, you probably come from the [SaCoCo tutorial](index.html), you have access to a CQPweb installation as administrator, and you want to encode the corpus. We document below two approaches:
+If you are reading this, you probably come from the [SaCoCo tutorial](index.html#set_up_a_corpus_in_cqpweb), you have access to a CQPweb installation as administrator, and you want to encode the corpus. We document below two approaches:
 
 1. advanced
 1. "easy"
