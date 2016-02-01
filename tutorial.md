@@ -877,7 +877,8 @@ And, finally, this one just looks for tokens whose lemma is `ihr` and their PoS 
 
 This turns to be a quite rare phenomenon, just 3 hits in the whole corpus <https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/concordance.php?qname=f0jglv8w52&uT=y>.
 
-We have followed the same procedure with the rest of submacros and features.
+In order to see the development of the different features, you have to repeat the steps for all features. 
+Below you can see how to explore a combination of the three queries above in CQPweb and how to visualize the results in CQPweb and/or R. 
 
 ## Exploration and visualization {.tabset .tabset-fade .tabset-pills}
 
@@ -885,21 +886,44 @@ We have followed the same procedure with the rest of submacros and features.
 
 Now, let's get on with it!
 
-First, you will need access to our CQPweb installation.
+First, you will need access to our [CQPweb installation](https://fedora.clarin-d.uni-saarland.de/cqpweb/).
 
-Choose the corpus
+Choose the corpus: in our case [SaCoCo](https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/)
 
-Run a query
+Run a query, e.g. combining the queries for personal pronouns second person
+```bash
+([lemma="du" & pos="PPER"] | [word="[d|t]h?u" %c])
+|
+[word=".+[t|d]h?u" %c]
+|
+[lemma="ihr" & pos="PPER"]
+```
+<https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/concordance.php?theData=%28%28[lemma%3D%22du%22+%26+pos%3D%22PPER%22]%29+|+[word%3D%22[d|t]h%3Fu%22+%25c]%29+|+%28[word%3D%22.%2B[t|d]h%3Fu%22+%25c]%29+|+%28[lemma%3D%22ihr%22+%26+pos%3D%22PPER%22]%29&qmode=cqp&pp=50&del=begin&t=&del=end&uT=y>
 
-Number of hits in number of texts
+The headline above the concordance gives you information on your query, the number of hits, in how many different texts, etc.
 
-Get more context
+**You can now explore the results more closely:**
 
-Get info about the text
+Click on one of the instances to get more context:
+<https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/context.php?batch=0&qname=f0k6o1vuih&uT=y>
 
-Get the distributions
+Click on the text ID at the beginning of each concordance line to get information about the text:
+<https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/textmeta.php?text=wiki_270173&uT=y>
 
-Save the results with tabulate
+**Use the powerful post-processing of CQPweb**, which is available as a drop-down-menu in the upper right corner:
+
+Choose "Frequency breakdown" and click "Go" to get a frequency list of your query:
+<https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/redirect.php?redirect=breakdown&pp=50&qname=f0k6o1vuih&uT=y>
+
+or Choose "Distribution" and click "Go" to get a distribution of the query results across the subcorpora, in our case, the development over time.
+
+either as "distribution table":
+<https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/redirect.php?redirect=distribution&pp=50&qname=f0k6o1vuih&uT=y>
+
+or as "bar chart":
+<https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/redirect.php?classification=__all&showDistAs=graph&crosstabsClass=__none&redirect=refreshDistribution&qname=f0k6o1vuih&pp=50&uT=y>
+
+
 
 <!-- step-by-step sequence -->
 

@@ -1127,7 +1127,7 @@ hacken  VVINF   hacken
 <p>And, finally, this one just looks for tokens whose lemma is <code>ihr</code> and their PoS is <code>PPER</code>.</p>
 <div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash">[<span class="ot">lemma=</span><span class="st">&quot;ihr&quot;</span> <span class="kw">&amp;</span> <span class="ot">pos=</span><span class="st">&quot;PPER&quot;</span>]</code></pre></div>
 <p>This turns to be a quite rare phenomenon, just 3 hits in the whole corpus <a href="https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/concordance.php?qname=f0jglv8w52&amp;uT=y" class="uri">https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/concordance.php?qname=f0jglv8w52&amp;uT=y</a>.</p>
-<p>We have followed the same procedure with the rest of submacros and features.</p>
+<p>In order to see the development of the different features, you have to repeat the steps for all features. Below you can see how to explore a combination of the three queries above in CQPweb and how to visualize the results in CQPweb and/or R.</p>
 </div>
 </div>
 </div>
@@ -1137,14 +1137,24 @@ hacken  VVINF   hacken
 <div id="cqpweb" class="section level3">
 <h3>CQPweb</h3>
 <p>Now, let’s get on with it!</p>
-<p>First, you will need access to our CQPweb installation.</p>
-<p>Choose the corpus</p>
-<p>Run a query</p>
-<p>Number of hits in number of texts</p>
-<p>Get more context</p>
-<p>Get info about the text</p>
-<p>Get the distributions</p>
-<p>Save the results with tabulate</p>
+<p>First, you will need access to our <a href="https://fedora.clarin-d.uni-saarland.de/cqpweb/">CQPweb installation</a>.</p>
+<p>Choose the corpus: in our case <a href="https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/">SaCoCo</a></p>
+<p>Run a query, e.g. combining the queries for personal pronouns second person</p>
+<div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">(</span>[<span class="ot">lemma=</span><span class="st">&quot;du&quot;</span> <span class="kw">&amp;</span> <span class="ot">pos=</span><span class="st">&quot;PPER&quot;</span>] <span class="kw">|</span> [<span class="ot">word=</span><span class="st">&quot;[d|t]h?u&quot;</span> <span class="kw">%c</span>]<span class="kw">)</span>
+<span class="kw">|</span>
+[<span class="ot">word=</span><span class="st">&quot;.+[t|d]h?u&quot;</span> <span class="kw">%c</span>]
+<span class="kw">|</span>
+[<span class="ot">lemma=</span><span class="st">&quot;ihr&quot;</span> <span class="kw">&amp;</span> <span class="ot">pos=</span><span class="st">&quot;PPER&quot;</span>]</code></pre></div>
+<p><a href="https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/concordance.php?theData=%28%28%5Blemma%3D%22du%22+%26+pos%3D%22PPER%22%5D%29+%7C+%5Bword%3D%22%5Bd%7Ct%5Dh%3Fu%22+%25c%5D%29+%7C+%28%5Bword%3D%22.%2B%5Bt%7Cd%5Dh%3Fu%22+%25c%5D%29+%7C+%28%5Blemma%3D%22ihr%22+%26+pos%3D%22PPER%22%5D%29&amp;qmode=cqp&amp;pp=50&amp;del=begin&amp;t=&amp;del=end&amp;uT=y">https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/concordance.php?theData=%28%28[lemma%3D%22du%22+%26+pos%3D%22PPER%22]%29+|+[word%3D%22[d|t]h%3Fu%22+%25c]%29+|+%28[word%3D%22.%2B[t|d]h%3Fu%22+%25c]%29+|+%28[lemma%3D%22ihr%22+%26+pos%3D%22PPER%22]%29&amp;qmode=cqp&amp;pp=50&amp;del=begin&amp;t=&amp;del=end&amp;uT=y</a></p>
+<p>The headline above the concordance gives you information on your query, the number of hits, in how many different texts, etc.</p>
+<p><strong>You can now explore the results more closely:</strong></p>
+<p>Click on one of the instances to get more context: <a href="https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/context.php?batch=0&amp;qname=f0k6o1vuih&amp;uT=y" class="uri">https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/context.php?batch=0&amp;qname=f0k6o1vuih&amp;uT=y</a></p>
+<p>Click on the text ID at the beginning of each concordance line to get information about the text: <a href="https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/textmeta.php?text=wiki_270173&amp;uT=y" class="uri">https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/textmeta.php?text=wiki_270173&amp;uT=y</a></p>
+<p><strong>Use the powerful post-processing of CQPweb</strong>, which is available as a drop-down-menu in the upper right corner:</p>
+<p>Choose “Frequency breakdown” and click “Go” to get a frequency list of your query: <a href="https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/redirect.php?redirect=breakdown&amp;pp=50&amp;qname=f0k6o1vuih&amp;uT=y" class="uri">https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/redirect.php?redirect=breakdown&amp;pp=50&amp;qname=f0k6o1vuih&amp;uT=y</a></p>
+<p>or Choose “Distribution” and click “Go” to get a distribution of the query results across the subcorpora, in our case, the development over time.</p>
+<p>either as “distribution table”: <a href="https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/redirect.php?redirect=distribution&amp;pp=50&amp;qname=f0k6o1vuih&amp;uT=y" class="uri">https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/redirect.php?redirect=distribution&amp;pp=50&amp;qname=f0k6o1vuih&amp;uT=y</a></p>
+<p>or as “bar chart”: <a href="https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/redirect.php?classification=__all&amp;showDistAs=graph&amp;crosstabsClass=__none&amp;redirect=refreshDistribution&amp;qname=f0k6o1vuih&amp;pp=50&amp;uT=y" class="uri">https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/redirect.php?classification=__all&amp;showDistAs=graph&amp;crosstabsClass=__none&amp;redirect=refreshDistribution&amp;qname=f0k6o1vuih&amp;pp=50&amp;uT=y</a></p>
 <!-- step-by-step sequence -->
 </div>
 <div id="r" class="section level3">
