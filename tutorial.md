@@ -45,11 +45,11 @@ The **historical** recipes were transcribed and digitised manually by Andrea Wur
 
 Due to the different nature of our historical and contemporary datasets. The corpus compilation methodology althoug following a similar outline is slightly different.
 
-## Data acquisition and preprocessing
+## Data acquisition and preprocessing {.tabset .tabset-fade .tabset-pills}
 
 Our goal at this stage is to obtain the data in digital form. And afterwards, preprocess the material to obtain a homogenous minimalistic TEI/XML format, that we can easily integrate in our pipeline, namely: WebLicht and CQP.
 
-### Contemporary component
+### Contemporary data
 
 Download a wiki dump from <https://archive.org/download/wiki-rezeptewikiorg>. The file to be downloaded from the archive is 19.8M and gets huge when extracted (1.21G). That's the reason why we don't include it. The GitHub repo you downloaded includes a smaller test file, so you don't have to download the original file for testing, if you don't want to.
 
@@ -224,9 +224,7 @@ for i in data/contemporary/tei/*.xml; do xmllint --noout --relaxng utils/tei_lit
 for i in test/contemporary/tei/*.xml; do xmllint --noout --relaxng utils/tei_lite.rng $i; done
 ```
 
-### Historical component
-
-<!-- Reference to the sources -->
+### Historical data
 
 We take as starting point the materials in `data/historical/source`. Our goal is to generate a TEI Lite XML for each recipe, and extract the metadata.
 
@@ -297,7 +295,9 @@ This video prepared by our colleagues at Tübingen precisely illustrate the logg
 
 If you run into problems, read the [FAQ explaining how to loggin into WebLicht](http://weblicht.sfs.uni-tuebingen.de/weblichtwiki/index.php/FAQ#Logging_In).
 
-### Building the tool chain to process contemporary data
+### Building the tool chain to process the data {.tabset .tabset-fade .tabset-pills}
+
+#### Contemporary tool chain
 
 1. Click on `New Chain`.
 1. A window will pop-up.
@@ -310,11 +310,11 @@ If you run into problems, read the [FAQ explaining how to loggin into WebLicht](
 1. Download the chain by clicking on `Download chain`
 1. Save the XML file as `chain_contemporary.xml` in the folder `utils` of our repo.
 
-For informations on how to design a tool chain you can also watch the following video.
+For information on how to design a tool chain you can also watch the following video.
 
 <video width="640" height="360" autobuffer controls preload="auto"><source src="http://weblicht.sfs.uni-tuebingen.de/weblichtwiki/extensions/HTML5video/videos/SimpleToolChain.mp4" type="video/mp4"/><source src="http://weblicht.sfs.uni-tuebingen.de/weblichtwiki/extensions/HTML5video/videos/SimpleToolChain.ogv" type="video/ogg"/><source src="http://weblicht.sfs.uni-tuebingen.de/weblichtwiki/extensions/HTML5video/videos/SimpleToolChain.webm" type="video/webm"/></video>
 
-### Building the tool chain to process historical data
+#### Historical tool chain
 
 The process is exactly the same as we used before.
 
@@ -329,7 +329,7 @@ The process is exactly the same as we used before.
 1. Download the chain by clicking on `Download chain`
 1. Save the XML file as `chain_historical.xml` in the folder `scripts` of our repo.
 
-### Using WebLicht as a service
+### Using WebLicht as a service {.tabset .tabset-fade .tabset-pills}
 
 We could now process our texts directly through the user-friendly WebLicht GUI. However, if you have thousands of recipes to be annotated, it is more efficient to use [**WaaS**](https://weblicht.sfs.uni-tuebingen.de/WaaS/) (WebLicht as a Service) to execute our WebLicht chains.
 
@@ -346,7 +346,7 @@ We already have our WebLicht chains. For the second, go to the [WaaS home page](
 
 Time to actually process our XML files with `WaaS`!
 
-### Processing the contemporary recipes
+#### Contemporary recipes
 
 We have created a python script to process the recipes with WaaS (`weblichtwrapper.py`).
 
@@ -427,7 +427,7 @@ servieren	VVINF	servieren
 </text>
 ```
 
-### Processing the historical recipes
+#### Historical recipes
 
 The procedure is exactly the same, the only differences are: the location of the input files, and the chain to be used.
 
@@ -453,7 +453,7 @@ We will have to prepare our data for the CQPweb through a series of very simple 
 1. adding the metadata to the VRT files
 1. generate a metadata file for the CQPweb
 
-### Add the metadata to the VRT files
+### Add the metadata to the VRT files {.tabset .tabset-fade .tabset-pills}
 
 To add the metadata as structural attributes we need:
 
