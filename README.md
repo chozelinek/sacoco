@@ -1,7 +1,7 @@
 # Saarbrücken Cookbook Corpus: a recipe for a diachronic study *à la CLARIN-D*
 
 
-![sacoco logo](tutorial_files/img/sacoco-logo.png "Saarbrücken Cookbook Corpus' logo")
+![sacoco logo](index_files/img/sacoco-logo.png "Saarbrücken Cookbook Corpus' logo")
 
 This is the repository for the tutorial [Saarbrücken Cookbook Corpus: a recipe for a diachronic study *à la CLARIN-D*](http://chozelinek.github.io/sacoco).
 
@@ -27,9 +27,9 @@ This **tutorial** will show you step-by-step how to use the **CLARIN-D infrastru
     - `metadata/`
 - `utils/`, files used by the scripts such as tool chains in XML format, XML templates, Relax NG schemas for validation...
 - `README.md`, a file describing the contents of the repo.
-- `tutorial.html`, HTML version of the tutorial.
-- `tutorial.md`, markdown version to be better read in GitHub.
-- `tutorial.Rmd`, step-by-step guide on how to compile and exploit the SaCoCo corpus to to answer a research question. This is the source code used to generate `.md` and `.html` versions.
+- `index.html`, HTML version of the tutorial.
+- `index.md`, markdown version to be better read in GitHub.
+- `index.Rmd`, step-by-step guide on how to compile and exploit the SaCoCo corpus to to answer a research question. This is the source code used to generate `.md` and `.html` versions.
 - `weblichtwrapper.py`, a script wrapping WebLicht as a Service to process big amounts of data.
 - `wikiextractor.py`, a script to extract German recipes from a wiki dump.
 
