@@ -10,9 +10,9 @@ bibliography: SaCoCo.bib
 
 This tutorial will show you step-by-step how to use the CLARIN-D infrastructure to compile a diachronic corpus of German cooking recipes. Afterwards, you will learn how to exploit this resource to discover how the conative function has evolved in this register during the last centuries.
 
-In order to reproduce successfully this showcase, you will need to satisfy the following requirements:
+In order to reproduce this showcase successfully, you will need to satisfy the following requirements:
 
-- a Mac, Linux, Windows operative system (tested on Mac OS X, Linux Ubuntu)
+- a Mac, Linux or Windows operating system (tested on Mac OS X, Linux Ubuntu)
 - [libxml2 and libxslt](<http://www.xmlsoft.org/downloads.html>)
 - 7z
 - Python 3, and some packages (`pip3 install -r requirements.txt`)
@@ -47,7 +47,7 @@ The **historical** recipes were transcribed and digitised manually by Andrea Wur
 
 [^glonning]: <http://www.staff.uni-giessen.de/gloning/kobu.htm>
 
-Due to the different nature of our historical and contemporary datasets. The corpus compilation methodology although following a similar outline is slightly different.
+Due to the different nature of our historical and contemporary datasets, the corpus compilation methodology, although following a similar outline, is slightly different.
 
 ## Data acquisition and preprocessing {.tabset .tabset-fade .tabset-pills}
 
@@ -58,7 +58,7 @@ Our goal at this stage is to obtain the data in digital form. And afterwards, pr
 Download a wiki dump from <https://archive.org/download/wiki-rezeptewikiorg>. The file to be downloaded from the archive is 19.8M and gets huge when extracted (1.21G). That's the reason why we don't include it. The GitHub repository you downloaded includes a smaller test file, so you don't have to download the original file for testing, if you don't want to.
 
 ```bash
-# dowload the dump to the data/contemporary/source folder
+# download the dump to the data/contemporary/source folder
 wget -P data/contemporary/source https://archive.org/download/wiki-rezeptewikiorg/rezeptewikiorg-20140325-history.xml.7z
 # unzip the file
 7z x -odata/contemporary/source data/contemporary/source/rezeptewikiorg-20140325-history.xml.7z rezeptewikiorg-20140325-history.xml
@@ -230,7 +230,7 @@ for i in test/contemporary/tei/*.xml; do xmllint --noout --relaxng utils/tei_lit
 
 ### Historical data
 
-We take as starting point the materials in `data/historical/source`. Our goal is to generate a TEI Lite XML for each recipe, and extract the metadata.
+As a starting point we take the materials in `data/historical/source`. Our goal is to generate a TEI Lite XML for each recipe, and extract the metadata.
 
 The script `xmlextractor.py` will help us with the task of normalizing our data.
 
@@ -245,7 +245,7 @@ The script `xmlextractor.py` will help us with the task of normalizing our data.
         1. source
         1. title
         1. text with the instructions
-    1. clean the text from previous annotation
+    1. cleans the text from previous annotations
     1. adds source and appropriate license to the text
     1. title and text are saved as a TEI XML file (`data/historical/tei`)
     1. metadata are saved in a CSV file (`data/metadata/historical-metadata.csv`)
@@ -297,7 +297,7 @@ This video prepared by our colleagues at Tübingen precisely illustrate the logg
 
 <video width="640" height="360" autobuffer controls preload="auto"><source src="http://weblicht.sfs.uni-tuebingen.de/weblichtwiki/extensions/HTML5video/videos/WebLichtLogin.mp4" type="video/mp4"/><source src="http://weblicht.sfs.uni-tuebingen.de/weblichtwiki/extensions/HTML5video/videos/WebLichtLogin.ogv" type="video/ogg"/><source src="http://weblicht.sfs.uni-tuebingen.de/weblichtwiki/extensions/HTML5video/videos/WebLichtLogin.webm" type="video/webm"/></video>
 
-If you run into problems, read the [FAQ explaining how to loggin into WebLicht](http://weblicht.sfs.uni-tuebingen.de/weblichtwiki/index.php/FAQ#Logging_In).
+If you run into problems, read the [FAQ explaining how to log in to WebLicht](http://weblicht.sfs.uni-tuebingen.de/weblichtwiki/index.php/FAQ#Logging_In).
 
 ### Building the tool chain to process the data {.tabset .tabset-fade .tabset-pills}
 
@@ -346,7 +346,7 @@ We need at least two things:
 1. a WebLicht chain
 1. an API key (a kind of "password" to be passed to WaaS)
 
-We already have our WebLicht chains. For the second, go to the [WaaS home page](https://weblicht.sfs.uni-tuebingen.de/WaaS), click on the rightmost menu item at the top of the page called `API Key`. You will be redirected to the already familiar authentication page, choose your institution (`clarin.eu website account` for us), provide your credentials and a new page will load. If you hit on the button `Generate` a long string will appear where it reads `Your API key`. Copy the key in a safe place and treat it like it was a password.
+We already have our WebLicht chains. For the second, go to the [WaaS home page](https://weblicht.sfs.uni-tuebingen.de/WaaS), click on the rightmost menu item at the top of the page called `API Key`. You will be redirected to the already familiar authentication page, choose your institution (`clarin.eu website account` for us), provide your credentials and a new page will load. If you click on the button `Generate` a long string will appear where it reads `Your API key`. Copy the key in a safe place and treat it like it was a password.
 
 Time to actually process our XML files with `WaaS`!
 
@@ -354,7 +354,7 @@ Time to actually process our XML files with `WaaS`!
 
 We have created a python script to process the recipes with WaaS (`weblichtwrapper.py`).
 
-The goal of the script is to process all TEI/XML files in a folder with WebLicht and save the results in VRT files for their encoding as a corpus for the Corpus WorkBench (CWB).
+The goal of the script is to process all TEI/XML files in a folder with WebLicht and save the results in VRT files for their encoding as a corpus for the Corpus Workbench (CWB).
 
 The input is typically a folder with the TEI/XML files we created in previous sections. But in fact we could use any XML file.
 
@@ -362,7 +362,7 @@ The script does the following:
 
 1. gets a list of all files to be transformed
 1. finds all nodes containing text to be processed
-1. sends to WaaS a request to process the text of a node with the provided chain
+1. sends a request to WaaS to process the text of a node with the provided chain
 1. converts the WaaS response in TCF format to VRT
 1. saves the VRT files in the target directory
 
@@ -382,7 +382,7 @@ You can get more information on the parameters this script takes by running:
 python3 waaswrapper.py -h
 ```
 
-The output is a VRT file (one token per line and positional attributes separated by a tabulation).
+The output is a VRT file (one token per line and positional attributes separated by tabs).
 
 ```xml
 <?xml version='1.0' encoding='UTF-8'?>
@@ -443,7 +443,7 @@ python3 waaswrapper.py -i data/historical/tei -c utils/chain_historical.xml -o d
 
 ## Corpus encoding for CQPweb
 
-We are going to encode our corpus for the [IMS Open Corpus WorkBench](http://cwb.sourceforge.net) (a tool initially developed at IMS Stuttgart). This tool will allow us to query the corpus making the most of the annotation we have obtained with WebLicht.
+We are going to encode our corpus for the [IMS Open Corpus Workbench](http://cwb.sourceforge.net) (a tool initially developed at IMS Stuttgart). This tool will allow us to query the corpus, making the most of the annotation we have obtained with WebLicht.
 
 The CWB expects XML files where two kind of attributes can be added:
 
@@ -452,14 +452,14 @@ The CWB expects XML files where two kind of attributes can be added:
 
 In the previous section we created the VRT files with the required positional information. Now, we will complete the annotation by adding structural attributes to the text element from the metadata we stored in a CSV file.
 
-We will have to prepare our data for the CQPweb through a series of very simple steps:
+We will have to prepare our data for CQPweb through a series of very simple steps:
 
-1. adding the metadata to the VRT files
-1. generate a metadata file for the CQPweb
+1. adding metadata to the VRT files
+1. generate a metadata file for CQPweb
 
-### Add the metadata to the VRT files {.tabset .tabset-fade .tabset-pills}
+### Add metadata to the VRT files {.tabset .tabset-fade .tabset-pills}
 
-To add the metadata as structural attributes we need:
+To add the metadata as structural attributes, we need:
 
 - VRT files
 - metadata as CSV
@@ -470,7 +470,7 @@ To add the metadata as structural attributes we need:
 1. obtains of a list of all files to be transformed
 1. parses the metadata
 1. finds all nodes where the metadata fields will be added as attributes
-1. adds to each node its corresponding metadata using the `text ID` as key
+1. adds corresponding metadata to each node using the `text ID` as key
 1. saves the VRT files in the target directory
 
 The output should look like this:
@@ -512,7 +512,7 @@ python3 addmetadata.py -i data/historical/vrt -m data/metadata/historical-metada
 
 ### Generate the metadata file for CQPweb
 
-CQPweb helps us to calculate distributions across different subcorpora. Typically, this subcorpora are the result of splitting our corpus according to some variables contained in the metadata. To achieve this we only need to pass once a metadata file containing for each text the value of the fields we are interested in.
+CQPweb helps us to calculate distributions across different subcorpora. Typically, these subcorpora are the result of splitting our corpus according to some variables contained in the metadata. To achieve this we only need to pass a metadata file once, containing the value of the fields we are interested in for each text.
 
 We have already generated two metadata tables:
 
@@ -535,7 +535,7 @@ To get this file we use the script `meta2cqpweb.py`.
 - gets all input files
 - for each file:
     - extracts relevant columns
-- concatenate info from all files
+- concatenates info from all files
 - saves the output as tab-separated plain text file
 
 We use the following command:
@@ -553,14 +553,14 @@ We have all materials needed to set up a corpus in CQPweb:
 - the texts in VRT format
 - a metadata file
 
-You need now to have access to a CQPweb installation as administrator. There are different options to get CQPweb running listed in decreasing order of difficulty:
+Now, you need to have access to a CQPweb installation as administrator. There are different options to get CQPweb running, listed in decreasing order of difficulty:
 
 - [install your own CQPweb](http://cwb.sourceforge.net/cqpweb.php#cqpweb):
-    - in your computer, only you have access to the corpus
-    - in a server, you can share it with other people
+    - on your computer, only you have access to the corpus
+    - on a server, you can share it with other people
     - PROS:
         - you have maximum control
-        - you can share with other people if it is installed in a server
+        - you can share with other people if it is installed on a server
     - CONS:
         - difficult to install, you need expert knowledge to admin a LAMP stack (Apache, MySQL, PHP), check the [administrator's manual](http://cwb.sourceforge.net/files/CQPwebAdminManual.pdf)
 - use [CQPwebInABox](http://cwb.sourceforge.net/cqpweb.php#inabox):
@@ -581,7 +581,7 @@ You need now to have access to a CQPweb installation as administrator. There are
 
 If you don't fulfill all this requirements and/or you don't have experience enough, do not worry. Just jump to the section on [*clarinifying*](#integration-of-the-resource-in-the-clarin-d-infrastructure) and leave the gory details for us.
 
-Nevertheless, we document under a separate cover all the steps to get SaCoCo encoded and installed in CQPweb. Check [CQPweb setup tutorial](cqpwebsetup.html).
+Nevertheless, we document all the steps to get SaCoCo encoded and installed in CQPweb under a separate cover. Check [CQPweb setup tutorial](cqpwebsetup.html).
 
 ## Integration in the CLARIN-D infrastructure
 
@@ -611,17 +611,17 @@ Our diachronic corpus of cooking recipes in German is now ready to be used. We w
 1. We will actually extract the features with CQPweb.
 1. We will visualize and analyse the data with CQPweb/R.
 
-If you want to reproduce every step that we will show you below, you will need to get a user for our [CQPweb installation](https://fedora.clarin-d.uni-saarland.de/cqpweb).
+If you want to reproduce every step that we will show you below, you will need to become a user for our [CQPweb installation](https://fedora.clarin-d.uni-saarland.de/cqpweb).
 
 Go to this [URL](https://fedora.clarin-d.uni-saarland.de/cqpweb/usr/?thisQ=create&uT=y) to create a new account. Follow the instructions, and you will have access to SaCoCo in a few minutes.
 
 ## Research question
 
-> Has the realisation of the conative function evolved along the time in the cooking recipe register?
+> Has the realisation of the conative function evolved over time in the cooking recipe register?
 
 Our hypothesis is:
 
-> Contemporary cooking recipes show lower linguistic means to address directly to the reader than historical ones.
+> Contemporary cooking recipes show lower linguistic means to address the reader directly than historical ones.
 
 Wurm already discovered that historical texts showed differences in the way the author addressed the reader.
 
@@ -638,15 +638,15 @@ We know that German can use different means to convey the conative function. Amo
     - imperatives (direct)
     - infinitives (indirect)
     
-Of course, there are more features that could help us to describe better this phenomenon. Can you think of them? How would you operationalise them? Contributions to extend this tutorial are welcome!!!
+Of course, there are more features that could help us to describe this phenomenon better. Can you think of them? How would you operationalise them? Contributions to extend this tutorial are welcome!!!
 
-The next step is to design how we can retrieve this features in a systematic and effective way making use of the linguistic annotation that we have added with WebLicht.
+The next step is to design how we can retrieve these features in a systematic and effective way making use of the linguistic annotation that we have added with WebLicht.
 
 Basically, we will quantify how many instances of these features can be found per text. First, we need to find the instances, then, we will count them. And, finally, we will describe the results and check if the historical recipes significantly differ from their contemporary counterparts.
 
 ### Personal pronouns
 
-Second person pronouns are a pronominal indicator of the overt intentions of the writer to engage directly with the reader.
+Second person pronouns are a pronominal indicator of the writer's overt intentions to engage directly with the reader.
 
 - *irreflexives Personalpronomen*
 - *substituirendes Possessivpronomen*
@@ -655,13 +655,13 @@ Second person pronouns are a pronominal indicator of the overt intentions of the
 
 ### Indefinite pronouns
 
-Indefinite pronouns like *man*, *jemand*, etc. are a pronominal resource that writers can use to avoid addressing directly to the reader, but still use active voice forms.
+Indefinite pronouns like *man*, *jemand*, etc. are a pronominal resource that writers can use to avoid addressing the reader directly, but still use active voice forms.
 
 - *substituierendes Indefinitpronomen*
 
 ### Imperatives
 
-The imperative is a verbal device that addresses directly to the reader, it is an order.
+The imperative is a verbal device that addresses the reader directly; it is an order.
 
 - *Imperativ*
 
@@ -677,13 +677,13 @@ OK, we know what we are looking for. Let's see how.
 
 The CWB comes with a query language that enables the interrogation of large text collections using linguistic patterns to retrieve relevant information. We will use it to find the different features that we have discussed above.
 
-Our next mission is to define the queries that will allow us to find in our corpus the phenomena discussed above.
+Our next mission is to define the queries that will allow us to find the phenomena discussed above in our corpus.
 
 ### Queries
 
-CQP is a corpus query language which resembles to regular expressions, in the sense that one can define patterns aimed at capturing interesting information. The difference here is that we are not limited to write patterns only relying on word forms. We can combine any linguistic information like lemma and POS to construct more sophisticated patterns.
+CQP is a corpus query language which resembles regular expressions, in the sense that one can define patterns aimed at capturing interesting information. The difference here is that we are not limited to write patterns only relying on word forms. We can combine any linguistic information like lemma and POS to construct more sophisticated patterns.
 
-We will illustrate here only the queries used for personal pronouns. If you want to check all of them see file `sacoco.cqp`.
+Here, we will only illustrate the queries used for personal pronouns. If you want to check all of them see file `sacoco.cqp`.
 
 #### Personal pronouns
 
@@ -722,7 +722,7 @@ And, finally, this one just looks for tokens whose lemma is `ihr` and their PoS 
 [lemma="ihr" & pos="PPER"]
 ```
 
-This turns to be a quite rare phenomenon, just 3 hits in the whole corpus <https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/concordance.php?qname=f0jglv8w52&uT=y>.
+This turns out to be a quite rare phenomenon, just 3 hits in the whole corpus <https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/concordance.php?qname=f0jglv8w52&uT=y>.
 
 In order to see the development of the different features, you have to repeat the steps for all features. 
 Below you can see how to explore a combination of the three queries above in CQPweb and how to visualize the results in CQPweb and/or R. 
@@ -747,23 +747,23 @@ Run a query, e.g. [combining the queries for personal pronouns second person](ht
 [lemma="ihr" & pos="PPER"]
 ```
 
-The headline above the concordance gives you information on your query, the number of hits, in how many different texts, etc.
+The headline above the concordance gives you information on your query, the number of hits, in how many different texts the hits occur, etc.
 
 **You can now explore the results more closely:**
 
-Click on one of the instances to [get more context](https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/context.php?batch=0&qname=f0k6o1vuih&uT=y)
+Click on one of the instances to [get more context.](https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/context.php?batch=0&qname=f0k6o1vuih&uT=y)
 
-Click on the text ID at the beginning of each concordance line to [get information about the text](https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/textmeta.php?text=wiki_270173&uT=y)
+Click on the text ID at the beginning of each concordance line to [get information about the text.](https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/textmeta.php?text=wiki_270173&uT=y)
 
 **Use the powerful post-processing of CQPweb**, which is available as a drop-down-menu in the upper right corner:
 
-Choose "Frequency breakdown" and click "Go" to get a [frequency list of your query](https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/redirect.php?redirect=breakdown&pp=50&qname=f0k6o1vuih&uT=y)
+Choose "Frequency breakdown" and click "Go" to get a [frequency list of your query.](https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/redirect.php?redirect=breakdown&pp=50&qname=f0k6o1vuih&uT=y)
 
-or Choose "Distribution" and click "Go" to get a distribution of the query results across the subcorpora, in our case, the development over time.
+or Choose "Distribution" and click "Go" to get a distribution of the query results across the subcorpora, in our case, the development over time,
 
 either as ["distribution table"](https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/redirect.php?redirect=distribution&pp=50&qname=f0k6o1vuih&uT=y)
 
-or as ["bar chart"](https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/redirect.php?classification=__all&showDistAs=graph&crosstabsClass=__none&redirect=refreshDistribution&qname=f0k6o1vuih&pp=50&uT=y)
+or as ["bar chart"](https://fedora.clarin-d.uni-saarland.de/cqpweb/sacoco/redirect.php?classification=__all&showDistAs=graph&crosstabsClass=__none&redirect=refreshDistribution&qname=f0k6o1vuih&pp=50&uT=y).
 
 
 ### R 
