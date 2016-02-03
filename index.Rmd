@@ -43,9 +43,9 @@ We have two different sources of data:
 - contemporary
 - historical
 
-The **historical** recipes were transcribed and digitised manually by Andrea Wurm. We complemented this data set with some transcriptions done by Glonning et al.[^glonning]. In parallel, we obtained a set of **contemporary** recipes from a wiki site devoted to cooking recipes [kochwiki.org](http://www.kochwiki.org/wiki/Hauptseite). Luckily, a XML dump of this site is available at the [Internet Archive](https://archive.org/download/wiki-rezeptewikiorg).
+The **historical** recipes were transcribed and digitised manually by Andrea Wurm. We complemented this data set with some transcriptions done by Gloning et al.[^gloning]. In parallel, we obtained a set of **contemporary** recipes from a wiki site devoted to cooking recipes [kochwiki.org](http://www.kochwiki.org/wiki/Hauptseite). Luckily, a XML dump of this site is available at the [Internet Archive](https://archive.org/download/wiki-rezeptewikiorg).
 
-[^glonning]: <http://www.staff.uni-giessen.de/gloning/kobu.htm>
+[^gloning]: <http://www.staff.uni-giessen.de/gloning/kobu.htm>
 
 Due to the different nature of our historical and contemporary datasets, the corpus compilation methodology, although following a similar outline, is slightly different.
 
